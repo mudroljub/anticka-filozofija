@@ -27,7 +27,6 @@
 - [ ] izvršiti završnu ciljanu proveru oba dela i uskladiti dokumentaciju sa stvarnim stanjem
 
 - dopuniti život Epikteta - kako je prestao da bude rob, kako je pokrenuo svoju filozofsku školu, itd.
-- popraviti prevode Epikteta, izreke su loše prevedene, ne poštuju terminologiju, nerazumljive
 
 ## Terminologija i UI
 

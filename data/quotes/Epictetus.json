@@ -7,7 +7,12 @@
     "stsl": "Епиктетъ около лѣта 50 въ Иераполи Фрѵгиискѣи роди сѧ ·",
     "originalText": "Ἐπίκτητος, Ἱεραπόλεως τῆς Φρυγίας, φιλόσοφος.",
     "author": "Epictetus",
-    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "ε 2424 / 2.E.2424"
+      }
+    ]
   },
   {
     "id": "mm-900325",
@@ -17,7 +22,12 @@
     "stsl": "Епиктетъ рабъ Епафродита · єдинаго отъ тѣлохранитель Нерона цѣсарꙗ · бѣ ·",
     "originalText": "δοῦλος Ἐπαφροδίτου, τῶν σωματοφυλάκων τοῦ βασιλέως Νέρωνος.",
     "author": "Epictetus",
-    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "ε 2424 / 2.E.2424"
+      }
+    ]
   },
   {
     "id": "mm-900326",
@@ -27,7 +37,12 @@
     "stsl": "Епиктетъ недѫгомь на єдинѫ ногѫ охромѣ ·",
     "originalText": "πηρωθεὶς δὲ τὸ σκέλος ὑπὸ ῥεύματος.",
     "author": "Epictetus",
-    "sources": [{ "name": "suda", "reference": "ε 2424 / 2.E.2424" }]
+    "sources": [
+      {
+        "name": "suda",
+        "reference": "ε 2424 / 2.E.2424"
+      }
+    ]
   },
   {
     "id": "mm-900327",
@@ -37,7 +52,12 @@
     "stsl": "Епиктетѹ ѥште рабѹ сѫштѹ · Мѹсонии Рѹфъ искѹшаѧ и глаголааше · Отъ господина ти се и се прилѹчить сѧ ·",
     "originalText": "οὕτως καὶ Ῥοῦφος πειράζων μʼ εἰώθει λέγειν· συμβήσεταί σοι τοῦτο καὶ τοῦτο ὑπὸ τοῦ δεσπότου.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-discourses", "reference": "I.9.29" }]
+    "sources": [
+      {
+        "name": "epictetus-discourses",
+        "reference": "I.9.29"
+      }
+    ]
   },
   {
     "id": "mm-900328",
@@ -47,7 +67,12 @@
     "stsl": "По Келсовѹ преданию · господинѹ ногѫ єго кривѧштѹ · Епиктетъ тихо ѹсмѣхнѫ сѧ и безъ страха рече · Съломиши ѭ · Єгда же господинъ ѭ съломи · Епиктетъ приложи · Не рѣхъ ли ꙗко съломиши ѭ ·",
     "originalText": "Οὐκοῦν Ἐπίκτητον; ὃς τοῦ δεσπότου στρεβλοῦντος αὐτοῦ τὸ σκέλος ὑπομειδιῶν ἀνεκπλήκτως ἔλεγε· ‘Κατάξεις’, καὶ κατάξαντος ‘Οὐκ ἔλεγον’, εἶπεν, ‘ὅτι κατάξεις;’",
     "author": "Epictetus",
-    "sources": [{ "name": "origen-contra-celsum", "reference": "VII.53" }]
+    "sources": [
+      {
+        "name": "origen-contra-celsum",
+        "reference": "VII.53"
+      }
+    ]
   },
   {
     "id": "mm-900329",
@@ -57,7 +82,12 @@
     "stsl": "Епиктетъ въ Римѣ въ краинеи ништети живѧаше · Домъ єго ни затвора имѣаше · ничтоже бо въ немь бѣ развѣ постелѧ и рогозинꙑ · на нихъже съпааше ·",
     "originalText": "καὶ πενίαν ἀκροτάτην ἐπετήδευσεν, ὡς τὸ ἐν Ῥώμῃ οἴκημα αὐτοῦ μηδέποτε κλείθρου δεηθῆναι, ἅτε μηδὲν ἔνδον ἔχον, εἰ μὴ τὴν στιβάδα καὶ τὴν ψίαθον, ἐφ’ ὧν ἐκάθευδε.",
     "author": "Epictetus",
-    "sources": [{ "name": "simplicius-in-enchiridion", "reference": "uz Enhiridion 1" }]
+    "sources": [
+      {
+        "name": "simplicius-in-enchiridion",
+        "reference": "uz Enhiridion 1"
+      }
+    ]
   },
   {
     "id": "mm-900009",
@@ -82,7 +112,12 @@
     "stsl": "Епиктетъ Демонакта ѹкори и женити сѧ и чѧда родити съвѣшта · любомѫдрьцѹ бо природѣ наслѣдьника оставити подобаѥть · Демонактъ же отъвѣшта · Даждь ми ѹбо · Епиктете · єдинѫ отъ дъштерии твоихъ ·",
     "originalText": "Ἐπεὶ δέ ποτε ὁ Ἐπίκτητος ἐπιτιμῶν ἅμα συνεβούλευεν αὐτῷ ἀγαγέσθαι γυναῖκα καὶ παιδοποιήσασθαι — ἔδειν γὰρ καὶ τοῦτο φιλοσόφῳ, διάδοχόν τινα ἀντ᾽ αὑτοῦ καταλιπεῖν τῇ φύσει — ἐλεγκτικώτατα πρὸς αὐτὸν ἀπεκρίνατο· ‘Οὐκοῦν, ὦ Ἐπίκτητε, δός μοι μίαν τῶν σαυτοῦ θυγατέρων.’",
     "author": "Epictetus",
-    "sources": [{ "name": "lucian-demonax", "reference": "55" }]
+    "sources": [
+      {
+        "name": "lucian-demonax",
+        "reference": "55"
+      }
+    ]
   },
   {
     "id": "mm-900331",
@@ -92,12 +127,17 @@
     "stsl": "Мъного лѣтъ єдинъ поживъ · Епиктетъ въ старости чѧдо приѧтъ · єже дрѹгъ єго ништетꙑ ради оставити хотѣаше · Потомь женѫ въ домъ на питаниѥ чѧдети приѧтъ · чѧдо же самъ възрасти ·",
     "originalText": "ὥσπερ καὶ ὁ θαυμαστὸς οὗτος Ἐπίκτητος, μόνος τὸν πολὺν χρόνον διατελέσας, ὀψέ ποτε γυναῖκα προσελάβετο, παιδίου τροφὸν, ὅπερ ἐκτίθεσθαι μέλλον ὑπό τινος τῶν αὐτοῦ φίλων διὰ πενίαν, αὐτὸς λαβὼν ἀνεθρέψατο.",
     "author": "Epictetus",
-    "sources": [{ "name": "simplicius-in-enchiridion", "reference": "uz Enhiridion 33.7" }]
+    "sources": [
+      {
+        "name": "simplicius-in-enchiridion",
+        "reference": "uz Enhiridion 33.7"
+      }
+    ]
   },
   {
     "id": "mm-009030",
     "type": "reported",
-    "sr": "Zašto da me briga od čega su sastavljena bića? Nije li dovoljno znati šta je dobro a šta zlo, i tim merilima upravljati životom? Delfska zapovest 'Upoznaj sebe' nije suvišna — jer čovek je stvoren za zajednicu.",
+    "sr": "Kakve veze ima za mene od čega su bića sastavljena — od atoma, nedeljivih delova, vatre ili zemlje? Nije li dovoljno spoznati suštinu dobra i zla, kao i meru žudnji, odbojnosti, poriva i uzdržavanja, pa po tome, kao po pravilima, urediti život? Zar je onda i delfska zapovest „Upoznaj sebe“ suvišna? — Nipošto. — Da li je, dakle, čovek po svojoj prirodi stvoren da živi sam za sebe ili za zajednicu? — Za zajednicu.",
     "stsl": "Что мнѣ єстъ пещи сѧ отъ чего сѫтъ сложена сѫщаꙗ? Не довьлѣєтъ ли ꙗко наѹчити сѧ что єстъ добро и зъло и тѣми кꙑи мѣрами жизнь строити? Дельфьское же повелѣниє «Поꙁнаи самъ себе» нѣстъ излишьно — бо чловѣкъ съꙁданъ єстъ ко общению.",
     "originalText": "τί μοι μέλει, φησί, πότερον ἐξ ἀτόμων ἢ ἐξ ἀμερῶν ἢ ἐκ πυρὸς καὶ γῆς συνέστηκε τὰ ὄντα; οὐ γὰρ ἀρκεῖ μαθεῖν τὴν οὐσίαν τοῦ ἀγαθοῦ καὶ κακοῦ καὶ τὰ μέτρα τῶν ὀρέξεων καὶ ἐκκλίσεων καὶ ἔτι ὁρμῶν καὶ ἀφορμῶν καὶ τούτοις ὥσπερ κανόσι χρώμενον διοικεῖν τὰ τοῦ βίου; — μή τι οὖν καὶ τὸ ἐν Δελφοῖς παράγγελμα παρέλκον ἐστί, τὸ Γνῶθι σαυτόν; — τοῦτο δὲ μὲν οὔ. — πότερον οὖν ὁ ἄνθρωπος αὐτὸς ἐφʼ αὑτοῦ πεποιῆσθαί σοι δοκεῖ ζῷον ἢ πρὸς κοινωνίαν; — πρὸς κοινωνίαν.",
     "author": "Epictetus",
@@ -111,8 +151,8 @@
   {
     "id": "mm-009031",
     "type": "quote",
-    "sr": "Ko mrzi na sudbu i ono što mu je dano — neuk je u životu; ko to podnosi plemenito i razumno — zaslužuje ime dobra čoveka.",
-    "stsl": "Иже на сѫдьбѫ и єже дасть сѧ ємѹ ропьщетъ — простьць єстъ въ животѣ; иже же сиꙗ племеньно и бꙑстрьно носитъ — добрааго мѫжа имє заслѹживаєтъ.",
+    "sr": "Ko se uzrujava zbog onoga što mu je sada dato i što mu je sudbina dodelila, ne razume život; a ko to podnosi plemenito i razumno, dostojan je da se smatra dobrim čovekom.",
+    "stsl": "Иже о сущихъ и данныхъ отъ сѫдьбꙑ скорбитъ — простьць єстъ въ житии; иже же сѧ сиѧ благородьно и разоумьно носитъ — добрааго мѫжа достоить сѧ мьнити.",
     "originalText": "ὁ τοῖς παροῦσι καὶ δεδομένοις ὑπὸ τῆς τύχης δυσχεραίνων ἰδιώτης ἐν βίῳ, ὁ δὲ ταῦτα γενναίως φέρων καὶ εὐλογίστω ἀνὴρ ἀγαθὸς ἄξιος νομίζεσθαι.",
     "author": "Epictetus",
     "sources": [
@@ -125,8 +165,8 @@
   {
     "id": "mm-009032",
     "type": "quote",
-    "sr": "Sve sluša stroj — zemlja, more, sunce, zvezde, biljke, životinje, pa i naše telo. Razumno je da jedino naša odluka ne pruži otpor — kosmos je moćniji i bolje je zamislio za nas.",
-    "stsl": "Вьсѧ послѹшаютъ Вьселѣннѣи — и землꙗ и море и слъньце и ꙁвѣздꙑ и ꙁемьнаꙗ растениꙗ и животинꙑ и тѣло наше. Сьмꙑсльно єстъ да тъкьмо наше лѫченіє не противитъ сѧ томоу — бо Вьселенаꙗ крѣпьча єстъ и лꙑпьше о нась помꙑслила єстъ.",
+    "sr": "Sve služi kosmosu i pokorava mu se: zemlja, more, sunce, zvezde, biljke i životinje, pa i naše telo. Razumno je, dakle, da jedino ono što zavisi od nas — naime, naš sud — ne pruža otpor kosmosu.",
+    "stsl": "Вьсѧ послѹшаѭтъ космосоу и слоужатъ ємоу — и землꙗ, и море, и слъньце, и ꙁвѣздꙑ, и растениꙗ земьнаꙗ, и животнꙑ, и тѣло наше. Сьмꙑсльно ѹбо єстъ да єдино єже єстъ въ нашеи власти, рекше сѫдъ, не противитъ сѧ ємоу.",
     "originalText": "πάντα ὑπακούει τῷ κόσμῳ καὶ ὑπηρετεῖ καὶ γῆ καὶ θάλασσα καὶ ἥλιος καὶ τὰ λοιπὰ ἄστρα καὶ τὰ γῆς φυτὰ καὶ ζῷα· ὑπακούει δὲ αὐτῷ καὶ τὸ ἡμέτερον σῶμα. οὐκοῦν εὔλογον καί, ὃ ἐφʼ ἡμῖν ἐστι, τουτέστι τὴν κρίσιν, μὴ ἀντιτείνειν μόνην πρὸς αὐτόν.",
     "author": "Epictetus",
     "sources": [
@@ -139,8 +179,8 @@
   {
     "id": "mm-009033",
     "type": "quote",
-    "sr": "Bog je jedne stvari stavio u našu moć, druge ne. U našoj moći je upotreba predstava — to je sloboda, blagodušje, vrlina. Treba biti saglasan s bogom i, što nije u našoj moći, prepustiti kosmosu.",
-    "stsl": "Богъ єдина вьложи въ нашѫ власть, иная же не. Въ нашеи власти єстъ ꙋпотрѣблениѥ прѣдставлєнїи — се єстъ свобода, благодѹшіє, добродѣтель. Подобаєтъ же бꙑти съгласьнꙑмъ Богоу и єже не въ нашеи власти прѣдати Вьселеннѣи.",
+    "sr": "Od svega što postoji bog je jedno stavio u našu moć, a drugo nije. U našoj moći je ono najlepše i najvažnije: način na koji se služimo predstavama. Kada je to ispravno, to je sloboda, spokoj, vedrina, postojanost, pravda, zakon, razboritost i sva vrlina. Zato i mi treba da budemo saglasni s bogom.",
+    "stsl": "Отъ сущихъ Богъ єдино въ нашѫ власть положи, инаꙗ же не. Въ нашеи власти бо єстъ єже наилѣпьше и наиболѣѥ — ꙋпотреблениѥ прѣдставлень. Се бо право творимо єстъ свобода, миръ, веселиѥ, твьрьдость, и сѹдъ, и законъ, и цѣломѫдриѥ, и всѧка добродѣтель. Тѣмь и намъ подобаєтъ Богоу съгласни бꙑти.",
     "originalText": "τῶν ὄντων τὰ μὲν ἐφʼ ἡμῖν ἔθετο ὁ θεός, τὰ δʼ οὐκ ἐφʼ ἡμῖν. ἐφʼ ἡμῖν μὲν τὸ κάλλιστον καὶ σπουδαιότατον, τὴν χρῆσιν τῶν φαντασιῶν. τοῦτο γὰρ ὀρθῶς γιγνόμενον ἐλευθερία ἐστίν, εὔροια, εὐθυμία, εὐστάθεια, τοῦτο δὲ καὶ δίκη ἐστὶ καὶ νόμος καὶ σωφροσύνη καὶ ξύμπασα ἀρετή. οὐκοῦν καὶ ἡμᾶς συμψήφους χρὴ τῷ θεῷ γενέσθαι.",
     "author": "Epictetus",
     "sources": [
@@ -153,8 +193,8 @@
   {
     "id": "mm-009034",
     "type": "reported",
-    "sr": "Ko se ne divi Likurgu Lakedemonjaninu? Kad mu je jedan građanin iskopao oko, dobio je tog mladića od naroda da ga kazni kako hoće — a on se uzdržao, odgoji ga i predstavi kao dobrog čoveka: 'Primih ga od vas nasilnika, vraćam vam ga blagog i čovekoljubivog.'",
-    "stsl": "Кто отъ насъ не дивитъ сѧ Лꙑкоургоу Лакедемоньскоумоу? Єгда єдинъ гражданинъ єму єдино очи иꙁбодє, приꙗтъ юношѫ тꙋ отъ людьи да накажетъ єго ꙗко хощетъ — онъ же оудрьжа сѧ, въспита єго и прѣдьставиши и ꙗко добра мѫжа: «Приꙗхъ єго отъ вась хвальника и насильника, вьꙁвращаю вамь єго кроткого и людьскаго».",
+    "sr": "Ko se od nas ne divi Likurgu Lakedemonjaninu? Kada mu je jedan građanin povredio jedno oko, narod mu je predao tog mladića da ga kazni kako želi. Ali on se uzdržao od kazne, vaspitao ga i izveo pred pozorište kao dobrog čoveka. A kada su se Lakedemonjani divili, rekao je: „Ovoga sam od vas primio kao nasilnog i drskog čoveka, a vraćam vam ga blagim i privrženim zajednici.“",
+    "stsl": "А Лꙑкоурга Лакедемоньскаго кто отъ насъ не дивитъ сѧ? Єгда єдинъ отъ гражданъ єго єдиного ока лиши, приѧтъ юношѫ отъ народа, да накажетъ єго ꙗкоже хощетъ. Онъ же наказаниꙗ сѧ оудрьжа, въспита єго и ꙗви єго ꙗко добра мѫжа, и на позорѣ постави. И дивлѧщимъ сѧ Лакедемонѧномъ рече: «Сего приѧхъ отъ васъ ꙗко нагла и насильна, а вьзвращаѭ вамъ кротка и общьнаго.»",
     "originalText": "τὸ δὲ Λυκούργου τοῦ Λακεδαιμονίου τίς ἡμῶν οὐ θαυμάζει; πηρωθεὶς γὰρ ὑπό τινος τῶν πολιτῶν τῶν ὀφθαλμῶν τὸν ἕτερον καὶ παραλαβὼν τὸν νεανίσκον παρὰ τοῦ δήμου, ἵνα τιμωρήσαιτο, ὅπως ἂν αὐτὸς βούληται, τούτου μὲν ἀπέσχετο, παιδεύσας δὲ αὐτὸν καὶ ἀποφήνας ἄνδρα ἀγαθὸν παρήγαγεν εἰς τὸ θέατρον. θαυμαζόντων δὲ τῶν Λακεδαιμονίων «τοῦτον μέντοι λαβών,» ἔφη, «παρʼ ὑμῶν ὑβριστὴν καὶ βίαιον ἀποδίδωμι ὑμῖν ἐπιεικῆ καὶ δημοτικόν.»",
     "author": "Epictetus",
     "sources": [
@@ -167,7 +207,7 @@
   {
     "id": "mm-009035",
     "type": "quote",
-    "sr": "Više nego išta, posao je prirode da poveže i uskladi poriv s predstavom o prikladnom i korisnom.",
+    "sr": "Pre svega, priroda treba da poveže i uskladi poriv s predstavom o onome što je prikladno i korisno.",
     "stsl": "Паче вьсего дѣло єстъ прироудꙑ съвѧꙁати и съгласити порꙑвъ сь мꙑслиѭ о прикладьнѣмь и полезьнѣмь.",
     "originalText": "ἀλλὰ παντὸς μᾶλλον τῆς μὲν φύσεως ἐκεῖνο τὸ ἔργον συνδῆσαι καὶ συναρμόσαι τὴν ὁρμὴν τῇ τοῦ προσήκοντος καὶ ὠφελίμου φαντασίᾳ.",
     "author": "Epictetus",
@@ -181,7 +221,7 @@
   {
     "id": "mm-009036",
     "type": "quote",
-    "sr": "Misliti da ćeš biti prezren ako svim sredstvima ne naneseš štetu prvim neprijateljima — to je nizkost i ludost. Kažemo da se prezrenima smatra onaj ko nije kadar štetiti; ali još više se prezire onaj ko nije kadar pomagati.",
+    "sr": "Smatrati da ćeš biti prezren ako na svaki način ne naneseš štetu svojim najvećim neprijateljima — to je krajnja nedostojnost i nerazumnost. Kažemo da je prezren i onaj ko nije sposoban da naškodi; ali se još mnogo više prezire onaj ko nije sposoban da koristi.",
     "stsl": "Мꙑслити же ꙗко поꙁрьчьнь бѫдеши аще не вьсѣми ꙋчинꙑ вьрьвꙑимь врагомъ пакости не нанесеши — сие єстъ съвьсѣмь малодѹшьно и бездѹмьно. Бо глаголемъ ꙗко поꙁрьченъ мнитъ сѧ иже не можетъ навредити; нъ много болѣ поꙁрьченъ иже не може помощи.",
     "originalText": "τὸ δὲ οἴεσθαι εὐκαταφρονήτους τοῖς ἄλλοις ἔσεσθαι, ἐὰν μὴ τοὺς πρώτους ἐχθροὺς παντὶ τρόπῳ βλάψωμεν, σφόδρα ἀγεννῶν καὶ ἀνοήτων ἀνθρώπων. φαμὲν γὰρ τὸν εὐκαταφρόνητον νοεῖσθαι μὲν καὶ κατὰ τὸ ἀδύνατον εἶναι βλάψαι· ἀλλὰ πολὺ μᾶλλον νοεῖται κατὰ τὸ ἀδύνατον εἶναι ὠφελεῖν.",
     "author": "Epictetus",
@@ -195,8 +235,8 @@
   {
     "id": "mm-009037",
     "type": "quote",
-    "sr": "Takva je priroda sveta — bila je i jeste i biće, i ne mogu se drugačije zbivati stvari. Ko nastoji da svojom mišlju prihvati nužno i dragovoljno ga prima — sasvim umereno i skladno provešće život.",
-    "stsl": "Такова єстъ природа вьселенꙑє — бѣ и єстъ и бѫдетъ, и не можетъ иначе бꙑти єже бꙑваєтъ. Иже же потщитъ сѧ ꙋмомъ привратити сѧ кь нѫжьнꙋємоу и вольно є прѣприꙗти — съвьсѣмь мѣрно и съгласьно жити бѫдетъ.",
+    "sr": "Takva je priroda kosmosa: takva je bila, takva jeste i takva će biti, i ono što se događa ne može se događati drugačije nego što se sada događa. Ako čovek usmeri um prema tome i ubedi sebe da dragovoljno prihvata ono što je nužno, proživeće život veoma umereno i skladno.",
+    "stsl": "Такова природа космоса: бѣ, и єстъ, и бѫдетъ, и не може инако бꙑти єже бꙑваєтъ, развѣ ꙗкоже нынѣ єстъ. Аще кто къ симъ прѣклонимъ ѹмъ свои и ѹбѣдитъ сѧ вольно приимати нѹжднаꙗ, велми мѣрно и съгласьно поживетъ животъ свои.",
     "originalText": "ὅτι τοιαύτη ἡ τοῦ κόσμου φύσις καὶ ἦν καὶ ἔστι καὶ ἔσται καὶ οὐχ οἷόν τε ἄλλως γίγνεσθαι τὰ γιγνόμενα ἢ ὡς νῦν ἔχει. ἐὰν πρὸς ταῦτά τις ἐπιχειρῇ ῥέπειν τὸν νοῦν καὶ πείθειν ἑαυτὸν ἑκόντα δέχεσθαι τὰ ἀναγκαῖα, πάνυ μετρίως καὶ μουσικῶς διαβιώσεται τὸν βίον.",
     "author": "Epictetus",
     "sources": [
@@ -209,8 +249,8 @@
   {
     "id": "mm-009038",
     "type": "quote",
-    "sr": "'Bez delanja, samo do reči' — gde to stavljaš? Gledaj je li posuda čista. Ako baciš u oholost — propalo je. 'Trpi i uzdržavaj se.'",
-    "stsl": "«Безъ дѣꙗниꙗ, тъкьмо до словесе» — камо то мечеши? Смотри аще съсѫдъ очищенъ єстъ. Аще вь тьщеславиє мечеши — погибе. «Тьрпи и въꙁдрьжи сѧ».",
+    "sr": "„Bez delanja, samo do reči“ — čoveče, gde to stavljaš? Pogledaj da li je posuda čista. Ako to uliješ u uobraženost, sve je propalo. Ako se pokvari, postaće mokraća ili sirće, ili nešto gore od toga. „Trpi“ i „uzdržavaj se“.",
+    "stsl": "«Безъ дѣланїꙗ, тъкьмо до словесъ» — человѣче, камо то мечеши? Вьзри, аще съсѫдъ очищенъ єстъ. Аще бо въ мьнѣниѥ сѧ вьльєши, погибе. Аще сѧ истрѣбить, мочъ бѫдетъ или оцетъ, или что горѣѥ сего. «Тьрпи» и «оудрьжи сѧ».",
     "originalText": "«ἄνευ τοῦ πράττειν, μέχρι τοῦ λέγειν» ἄνθρωπε, ποῦ βάλλεις; σκέψαι, εἰ κεκάθαρται τὸ ἀγγεῖον. ἂν γὰρ εἰς τὴν οἴησιν αὐτὰ βάλῃς, ἀπώλετο· ἢν σαπῇ, οὖρον ἢ ὄξος ἐγένετο ἢ εἴ τι τούτων χεῖρον. «ἀνέχου» καὶ «ἀπέχου».",
     "author": "Epictetus",
     "sources": [
@@ -223,8 +263,8 @@
   {
     "id": "mm-009039",
     "type": "quote",
-    "sr": "Kad ga je Arhелaj pozivao da ga obogati, Sokrat mu poruči: 'U Atini četiri holnika brašna košta obol, a tekuće su česme.' Ako mi ono što imam nije dovoljno — ja sam dovoljan onome što imam.",
-    "stsl": "Єгда же Архелаи позꙑваше єго да єго обогатитъ, Сократъ ємоу отьвѣщаниѥ посла: «Въ Аѳинахъ четꙑри хоиники брашьна єдинъ оболъ стоютъ и источьници водꙑ текѫтъ». Аще же мнѣ сѫщаꙗ не довьлѣютъ — аꙁъ сꙑи довьлѣю томоу єже имамъ.",
+    "sr": "Kada je Arhelaj pozivao Sokrata da ga učini bogatim, Sokrat mu je poručio: „U Atini se četiri hoinika brašna kupuju za jedan obol, a izvori vode teku.“ Ako mi ono što imam nije dovoljno, ja sam ipak dovoljan onome što imam — i ono meni.",
+    "stsl": "Єгда Архелаи Сократа посылаше, ꙗко да его богатъ сътворитъ, повелѣ Сократъ рещи ємоу: «Въ Аѳинахъ четыри хоиники алфитовъ за оболъ сѧ продаѭтъ, и источници водꙑ текѫтъ.» Аще бо не довьлѣютъ мнѣ сущаа, азъ сѧмъ имъ довьлѣнъ єсмь, и тѣмъ они мнѣ довьлѣютъ.",
     "originalText": "ἀλλὰ δὴ Σωκράτης Ἀρχελάου μεταπεμπομένου αὐτὸν ὡς ποιήσοντος πλούσιον ἐκέλευσεν ἀπαγγεῖλαι αὐτῷ διότι «Ἀθήνησι τέσσαρές εἰσι χοίνικες τῶν ἀλφίτων ὀβολοῦ ὤνιοι καὶ κρῆναι ὕδατος ῥέουσιν.» εἰ γάρ τοι μὴ ἱκανὰ τὰ ὄντα ἐμοί, ἀλλʼ ἐγὼ τούτοις ἱκανὸς καὶ οὕτω κἀκεῖνα ἐμοί.",
     "author": "Epictetus",
     "sources": [
@@ -237,8 +277,8 @@
   {
     "id": "mm-009040",
     "type": "quote",
-    "sr": "Veledušni su tihi i kao bezbesni čineći isto što i oni koje bes nosi. Treba čuvati se te greške u njima: jer besni se brzo zasiti osvete, a ovi je razvlače kao sporotekuća groznica.",
-    "stsl": "Великодоушьни тихо и ꙗко безъ ꙗрости чинѧтъ єже и велми ꙗростьни чинѧтъ. Вьнимати же подобаєтъ и ихъ прѣгрѣшениꙗ ꙗко много горьше єстъ жарьно сѧ гнѣвати. Бо тии скоро насꙑщаютъ сѧ наказаниꙗ, они же на дольго простираютъ ꙗко тихо горѧщіи въ лихорадицꙑ.",
+    "sr": "Veledušni ljudi ponekad deluju tiho i gotovo bez gneva, a čine isto što i oni koje bes silovito nosi. Treba se, dakle, čuvati i njihove greške, jer je ona mnogo gora od otvorenog gneva. Oni koji besne brzo se zasite osvete, a ovi je razvlače dugo, kao ljudi koji imaju blagu, dugotrajnu groznicu.",
+    "stsl": "Великодѹшьни нѣци сѫтъ кротъци и ꙗко безъ гнѣва тихо творѧтъ єже и иже велми гнѣвомъ движими творѧтъ. Подобаєтъ ѹбо и сихъ прѣгрѣшениꙗ блюсти, ꙗко много горѣѥ єстъ нежели протѧжно гнѣвати сѧ. Тии бо скоро насыщаѭтъ сѧ мьщениꙗ, а сии на дъльго простираѭтъ, ꙗко иже тънко трѣплющии.",
     "originalText": "Μεγαλόθυμοι πρᾴως εἰσί τινες ἡσυχῇ καὶ οἷον ἀοργήτως πράττοντες ὅσα καὶ οἱ σφόδρα τῷ θυμῷ φερόμενοι. φυλακτέον οὖν καὶ τὸ τούτων ἀβλέπτημα ὡς πολὺ χεῖρον ὂν τοῦ διατεινόμενον ὀργίζεσθαι. οὗτοι μὲν γὰρ ταχὺ κόρον τῆς τιμωρίας λαμβάνουσιν, οἱ δὲ εἰς μακρὸν παρατείνουσιν ὡς οἱ λεπτῶς πυρέττοντες.",
     "author": "Epictetus",
     "sources": [
@@ -251,8 +291,8 @@
   {
     "id": "mm-009041",
     "type": "quote",
-    "sr": "Vidiš dobre i poštene kako umiru od gladi i hladnoće. Ali ne vidiš zle kako propadaju od raskoši i hvalisanja. Ko kori Proviđenje zbog toga — čini kao kad bi rekao da zli nisu kažnjeni jer imaju zdrave nokte dok su im oči propale.",
-    "stsl": "Видиши добрꙑихъ и честьнꙑихъ отъ гладꙋ и мраꙁа погꙑбаѭщихъ. Нъ злꙑихъ не видиши отъ роскоши и хвальбꙑ погꙑбаѭщихъ. Иже же Провидѣниꙗ ради сего прѣкоряетъ — подобьно чинитъ ꙗко аще рекль бꙑ ꙗко ꙁлии не вьꙁдаютъ правьдꙑ понеже ноктии имъ съдравии сѫтъ аче очи имъ изгнила сѫтъ.",
+    "sr": "„Ali vidim“, kaže neko, „dobre i valjane kako propadaju od gladi i hladnoće.“ A zar ne vidiš i one koji nisu dobri kako propadaju od raskoši, hvalisanja i neukusa? Ko zbog toga optužuje Proviđenje, čini kao kad bi, videći čoveka kome su oči propale, rekao da nije kažnjen zato što su mu nokti zdravi.",
+    "stsl": "«Но видѧхъ», рече кто, «добрꙑхъ и благꙑхъ гладомъ и студениѥмъ погꙑбаѭщихъ.» — А злꙑхъ, не видиши ли, роскошью и хвальбою и безвкусиѥмъ погꙑбаѭщихъ? Иже убо на Промꙑслъ вину возлагаетъ, подобьно творитъ, ꙗкоже аще рекъ бꙑ, ꙗко они, имѣѭще око погꙑбшее, не наказани сѫтъ, понеже ногти имъ здрави сѫтъ.",
     "originalText": "ἀλλʼ ὁρῶ, φησί τις, τοὺς καλοὺς καὶ ἀγαθοὺς καὶ λιμῷ καὶ ῥίγει ἀπολλυμένους. — τοὺς δὲ μὴ καλοὺς καὶ μὴ ἀγαθοὺς οὐχ ὁρᾷς τρυφῇ καὶ ἀλαζονείᾳ καὶ ἀπειροκαλίᾳ ἀπολλυμένους; ὅστις γοῦν ἐγκαλεῖ τῇ προνοίᾳ, ὅμοιόν τι δρᾷ ὥσπερ εἰ τοὺς ὀφθαλμοὺς ἀπολωλεκότων αὐτῶν ἔλεγε μὴ δεδωκέναι δίκην αὐτούς, ὅτι οἱ ὄνυχες ὑγιεῖς εἶεν.",
     "author": "Epictetus",
     "sources": [
@@ -265,8 +305,8 @@
   {
     "id": "mm-009042",
     "type": "quote",
-    "sr": "Zašto se duša raduje manjim dobrima tela, a ne raduje se sopstvenim većim dobrima? Priroda mi je dala stid, i ja se crvenem kad pomislim da kažem nešto sramno. Taj osećaj mi ne daje da postavim zadovoljstvo kao dobro i cilj života.",
-    "stsl": "Чьто ради дѹша радоуєтъ сѧ меньшими тѣлесьнꙑими добрꙑ, а не радоуєтъ сѧ своиими вящшими добрꙑ? Природа же дасть ми срамъ, и аꙁъ чрьвенѣю сѧ єгда помꙑшлю рещи нѣчто срамьно. Сие движениѥ не оставлꙗєтъ мѧ наслаждениѥ положити ꙗко добро и коньць живота.",
+    "sr": "Zašto se duša raduje manjim dobrima tela i u njima nalazi spokoj, a ne raduje se svojim najvećim dobrima? Pa ipak, priroda mi je dala stid, i mnogo puta pocrvenim kada pomislim da kažem nešto sramotno. Taj osećaj mi ne dopušta da zadovoljstvo postavim kao dobro i cilj života.",
+    "stsl": "Чьто ѹбо дѹша на тѣлесьнꙑхъ добрѣхъ, меншихъ сѫщихъ, радѹетъ сѧ и мирна єстъ, а на своихъ добрѣхъ, вьсѣхъ наибольшихъ, не весели сѧ? И природою дасть ми срамъ, и много чьрвенѣю сѧ, єгда что срамьно рещи помꙑшлѭ. Се движениѥ не оставлꙗетъ мѧ наслаждениѥ положити ꙗко добро и коньць житїꙗ.",
     "originalText": "τί ποτʼ οὖν ἡ ψυχὴ ἐπὶ μὲν τοῖς τοῦ σώματος ἀγαθοῖς μικροτέροις οὖσι χαίρει καὶ γαληνιᾷ, ἐπὶ δὲ τοῖς αὑτῆς ἀγαθοῖς μεγίστοις οὖσιν οὐχ ἥδεται; καίτοι καὶ δέδωκέ μοι ἡ φύσις αἰδῶ καὶ πολλὰ ὑπερυθριῶ, ὅταν τι ὑπολάβω αἰσχρὸν λέγειν. τοῦτό με τὸ κίνημα οὐκ ἐᾷ τὴν ἡδονὴν θέσθαι ἀγαθὸν καὶ τέλος τοῦ βίου.",
     "author": "Epictetus",
     "sources": [
@@ -279,7 +319,7 @@
   {
     "id": "mm-009043",
     "type": "quote",
-    "sr": "Žene u Rimu drže u rukama Platonovu Državu jer on smatra da žene treba da budu zajedničke. Paze na reči, a ne na misao čoveka: on ne naređuje zajednički brak, nego ukida takav brak i uvodi drugi oblik.",
+    "sr": "U Rimu žene drže Platonovu Državu u rukama, jer on, kako misle, zahteva da žene budu zajedničke. One obraćaju pažnju na reči, a ne na misao tog čoveka: on ne nalaže da jedan muškarac uzme jednu ženu pa da ih potom sve učini zajedničkima, nego ukida takav brak i uvodi drugi oblik braka. Uopšte, ljudi rado pronalaze opravdanja za svoje greške.",
     "stsl": "Женꙑ въ Римѣ въ рѫкахъ имѣютъ Платоновѫ Дьржавѫ, понеже мнитъ ꙗко женꙑ общиꙗ подобаютъ бꙑти. Бо словесемъ вьнимаютъ а не дѹши мѫжа: онъ не повелѣваєтъ общꙑ бракъ, нъ отьємлетъ такꙑ бракъ и иного вида бракъ вьводитъ. Вьсеобьщо же людьє любѧтъ своимь прѣгрѣшениꙗмъ оправданиꙗ находити.",
     "originalText": "ἐν Ῥώμῃ αἱ γυναῖκες μετὰ χεῖρας ἔχουσι τὴν Πλάτωνος Πολιτείαν, ὅτι κοινὰς ἀξιοῖ εἶναι τὰς γυναῖκας. τοῖς γὰρ ῥήμασι προσέχουσι τὸν νοῦν, οὐ τῇ διανοίᾳ τἀνδρός, ὅτι οὐ γαμεῖν κελεύων καὶ συνοικεῖν ἕνα μιᾷ εἶτα κοινὰς εἶναι βούλεται τὰς γυναῖκας, ἀλλʼ ἐξαιρῶν τὸν τοιοῦτον γάμον καὶ ἄλλο τι εἶδος γάμου εἰσφέρων. καὶ τὸ ὅλον οἱ ἄνθρωποι χαίρουσιν ἀπολογίας τοῖς ἑαυτῶν ἁμαρτήμασι πορίζοντες.",
     "author": "Epictetus",
@@ -293,8 +333,8 @@
   {
     "id": "mm-009044",
     "type": "quote",
-    "sr": "Treba znati da čoveku nije lako stvoriti uverenje ako svaki dan ne govori i ne sluša iste stvari i ujedno ih ne primenjuje u životu.",
-    "stsl": "Вѣдати подобаєтъ ꙗко не єстъ лѣгко мьнѣниꙗ чловѣкоу приити аще по вьсꙗ дни тꙑхьжде не глаголетъ и слꙑшитъ и вькоупе ими жити прилагаєтъ.",
+    "sr": "Treba znati da čoveku nije lako usvojiti neko načelo ako svakoga dana ne govori i ne sluša isto, i ako to ujedno ne primenjuje u životu.",
+    "stsl": "Вѣдати подобаєтъ, ꙗко не лѣгко догматъ въ человѣцѣ бꙑти, аще не по всѧ дни тъ же глаголетъ и слꙑшитъ, и вькоупѣ єго къ житїю употреблꙗєтъ.",
     "originalText": "εἰδέναι χρή, ὅτι οὐ ῥᾴδιον δόγμα παραγενέσθαι ἀνθρώπῳ, εἰ μὴ καθʼ ἑκάστην ἡμέραν τὰ αὐτὰ καὶ λέγοι τις καὶ ἀκούοι καὶ ἅμα χρῷτο πρὸς τὸν βίον.",
     "author": "Epictetus",
     "sources": [
@@ -307,8 +347,8 @@
   {
     "id": "mm-009045",
     "type": "quote",
-    "sr": "Kad smo pozvani na gozbu, služimo se onim što je na stolu. A u svetu molimo bogove za ono što nam ne daju — a ipak su nam mnogo toga dali.",
-    "stsl": "Єгда позвани бꙑваємъ на гозбѫ тꙑмъ єже єстъ пользоуємъ сѧ. Въ вьселеннѣи же молимъ богꙑ єже не даютъ намъ — а дали сѫтъ намъ мьного чьсоже.",
+    "sr": "Kada smo pozvani na gozbu, služimo se onim što je pred nama. A u svetu molimo bogove za ono što nam ne daju, iako su nam dali toliko toga.",
+    "stsl": "На пиръ позвани бꙑваѭще, тѣмъже єже прѣдъ нами єстъ пользѹємъ сѧ; въ космосѣ же боговъ просимъ о томъ, єже намъ не даѭтъ, а мьного намъ дадошѧ.",
     "originalText": "εἰς συμπόσιον μὲν οὖν παρακληθέντες τῷ παρόντι χρώμεθα· ἐν δὲ τῷ κόσμῳ αἰτοῦμεν τοὺς θεούς, ἃ μὴ διδόασι, καὶ ταῦτα πολλῶν ὄντων, ἅ γε ἡμῖν δεδώκασι.",
     "author": "Epictetus",
     "sources": [
@@ -321,8 +361,8 @@
   {
     "id": "mm-009046",
     "type": "reported",
-    "sr": "Smiješni su oni koji se ponose onim što nije u njihovoj moći. Jedan kaže: 'Bolji sam od tebe, imam polja.' Drugi: 'Ja sam konzul.' Treći: 'Imam kovrdžavu kosu.' Konj konju ne kaže: 'Bolji sam jer imam zlatnu uzdu' — nego: 'Brži sam.' Svako biće je bolje ili gore po svojoj vrlini. Zar samo za čoveka ne postoji vrlina?",
-    "stsl": "Смѣшьни сѫтъ иже хвалѧтъ сѧ тѣмь єже не въ ихъ власти єстъ. Единъ глаголетъ: «Лꙑпьши єсмь тебе, поља бо имамь». Дроугꙑи: «Аꙁъ консоулъ єсмь». Трети: «Кодрꙑ власꙑ имамь». Конь конꙗ не глаголетъ: «Лꙑпьши єсмь понеже ꙙꙁдꙑ ꙁлатꙑ имамь» — нъ: «Бꙑстрѣи єсмь». Всако животно є болѣ или горе по своеи добродѣтели. Да токьмо за чловѣка нѣстъ добродѣтели?",
+    "sr": "Smešni su oni koji se razmeću onim što nije u njihovoj moći. „Ja sam bolji od tebe, jer imam mnogo njiva.“ Drugi kaže: „Ja sam konzul.“ Treći: „Imam kovrdžavu kosu.“ Konj ne kaže drugom konju: „Bolji sam od tebe“, nego: „Brži sam od tebe.“ Svako biće je bolje ili gore po svojoj vrlini i poroku. Zar onda samo čovek nema svoju vrlinu?",
+    "stsl": "Смѣшни сѫтъ иже велико мьнѧтъ сѧ о томъ, єже не въ ихъ власти єстъ. «Азъ лѣпьшии єсмь тебе, поља бо мьного имамъ.» Дроугъ: «Азъ консулъ єсмь.» Дроугъ: «Азъ кѹдрѧвꙑ власꙑ имамъ.» Конь бо коню не глаголетъ: «Лѣпьшии єсмь тебе», нъ: «Бръзѣи єсмь тебе.» И всѧко животно лѣпьше и горѣѥ єстъ по своеи добродѣтели и ꙁлобѣ. Аще ѹбо чловѣка єдиного добродѣтель нѣстъ?",
     "originalText": "χαρίεντες, ἔφη, εἰσὶν οἱ μέγα φρονοῦντες ἐπὶ τοῖς οὐκ ἐφʼ ἡμῖν. «ἐγώ,» φησί, «κρείττων εἰμί σου· ἀγροὺς γὰρ ἔχω πολλούς, σὺ δὲ λιμῷ παρατείνῃ.» ἄλλος λέγει «ἐγὼ ὑπατικός εἰμι.» ἄλλος «ἐγὼ ἐπίτροπος·» ἄλλος «ἐγὼ οὔλας τρίχας ἔχω.» ἵππος δʼ ἵππῳ οὐ λέγει ὅτι «κρείττων εἰμί σου» ἀλλʼ ὅτι «ὠκύτερός σου εἰμί.» καὶ πᾶν ζῷον κρεῖττον καὶ χεῖρόν ἐστιν ἐκ τῆς ἑαυτοῦ ἀρετῆς καὶ κακίας. ἆρʼ οὖν ἀνθρώπου μόνου ἀρετὴ οὐκ ἔστιν;",
     "author": "Epictetus",
     "sources": [
@@ -335,8 +375,8 @@
   {
     "id": "mm-009047",
     "type": "quote",
-    "sr": "Bolesni se ljute na lekara koji im ništa ne savetuje i misle da ih je odrekao. Zašto neko prema filozofu ne bi tako mislio — da ga je odrekao razumu ako mu ništa korisno ne govori?",
-    "stsl": "Болꙗщии гнѣваютъ сѧ на врача иже ничесоже имъ не съвѣтꙋєтъ и мнѧтъ ꙗко отрекоша ихъ. Чьто ради кто тако кь любомѫдрьцоу не бꙑлъ бꙑ расположенъ — да помꙑслитъ ꙗко отрекоша єго бꙑти разоумьноу аще ємоу ничьсоже полезьнаго не глаголетъ?",
+    "sr": "Bolesnici se ljute na lekara koji im ništa ne savetuje i misle da ih je otpisao. Zašto onda neko ne bi prema filozofu zauzeo isti stav i pomislio da ga je otpisao kao čoveka sposobnog za razboritost, ako mu ne govori ništa korisno?",
+    "stsl": "Болꙗщии на врача гнѣваѭтъ сѧ, иже ничьсоже имъ не съвѣтѹетъ, и мьнѧтъ, ꙗко отрече сѧ о нихъ. Чьто ѹбо не бꙑ кто и къ любомѹдрьцѹ тако расположенъ, да мьнитъ, ꙗко отрече сѧ єго оразумити, аще ємоу ничьсоже полезьнаго не глаголетъ?",
     "originalText": "τῷ μὲν ἰατρῷ μηδὲν συμβουλεύοντι ἄχθονται οἱ κάμνοντες καὶ ἡγοῦνται ἀπεγνῶσθαι ὑπʼ αὐτοῦ· πρὸς δὲ τὸν φιλόσοφον διὰ τί οὐκ ἄν τις οὕτω διατεθείη, ὥστε οἰηθῆναι ἀπεγνῶσθαι ὑπʼ αὐτοῦ σωφρονήσειν, εἰ μηδὲν λέγοι πρὸς αὐτὸν τῶν χρησίμων;",
     "author": "Epictetus",
     "sources": [
@@ -349,8 +389,8 @@
   {
     "id": "mm-009048",
     "type": "quote",
-    "sr": "Oni koji su dobro telesno raspoloženi podnose i žegu i hladnoću; tako i oni koji su dobro duševno raspoloženi podnose i bes i tugu i radost i ostale strasti.",
-    "stsl": "Иже тѣломь добрѣ расположени сѫтъ и ꙁной и ꙁимѫ трьпѧтъ; тако же и иже дѹшеѭ добрѣ расположени сѫтъ и ꙗрость и скрьбь и веселиѥ и ина страстиꙗ носѧтъ.",
+    "sr": "Oni koji su telesno u dobrom stanju podnose i žegu i hladnoću; tako i oni koji su duševno u dobrom stanju podnose gnev, tugu, preteranu radost i ostale strasti.",
+    "stsl": "Иже тѣломъ добрѣ сѫтъ расположени, и жаръ и студень трьпѧтъ; тако же и иже дѹшею добрѣ сѫтъ расположени, и гнѣвъ, и печаль, и прѣмѣрьноѥ веселиѥ, и прочаꙗ страсти носѧтъ.",
     "originalText": "οἱ τὸ σῶμα εὖ διακείμενοι καὶ καύματα καὶ ψύχη ὑπομένουσιν· οὕτω δὲ καὶ οἱ τὴν ψυχὴν καλῶς διακείμενοι καὶ ὀργὴν καὶ λύπην καὶ περιχάρειαν καὶ τὰ ἄλλα πάθη φέρουσιν.",
     "author": "Epictetus",
     "sources": [
@@ -363,7 +403,7 @@
   {
     "id": "mm-009049",
     "type": "reported",
-    "sr": "Pravično je hvaliti Agripina — premda vredan muž, nikad se nije pohvalio, a čak bi pocrvene kad bi ga drugi hvalili. Šta god mu se loše desilo, pisao bi pohvalu tome: groznici, sramoti, progonstvu. Kad mu je dojavljeno da ga Neron šalje u progonstvo, rekao je: 'Dobro, doručkovaću u Ariciji.'",
+    "sr": "Zato s pravom treba hvaliti Agripina: iako je bio čovek velike vrednosti, nikada nije hvalio samoga sebe, a čak bi pocrveneo kada bi ga neko drugi hvalio. Šta god bi mu se teško dogodilo, on bi o tome napisao pohvalu: o groznici, o gubitku ugleda, o progonstvu. Jednom, baš kada je trebalo da doručkuje, prišao mu je čovek i rekao da mu Neron naređuje da ode u progonstvo. A on reče: „Onda ćemo doručkovati u Ariciji.“",
     "stsl": "Правьдьно єстъ хвалити Агрипина — аче велможа мѫжь, никогдаже сѧ самъ похвали, нъ аще и дроугꙑи хвалꙗше єго, чрьвенѣше сѧ. Єже ꙁло єго постигоше написоваше похвалоу томоу: горѧчицꙑ, бесчестиꙗ, изганꙗниꙗ. Єгда же рекоша ємоу ꙗко Неронъ посꙑлаєтъ єго въ изганꙗниє, рече: «Добро, въ Арикии оубо ꙗстисꙗ».",
     "originalText": "διὰ τοῦτο ἐπαινεῖν Ἀγριππῖνον δίκαιον, ὅτι πλείστου ἄξιος ἀνὴρ γενόμενος οὐδεπώποτε ἐπῄνεσεν ἑαυτόν, ἀλλʼ εἰ καὶ ἄλλος τις αὐτὸν ἐπῄνει, ἠρυθρία. οὗτος δʼ, ἔφη, ὁ ἀνὴρ τοιοῦτος ἦν, ὥστε τοῦ συμβαίνοντος ἀεὶ ἑαυτῷ δυσκόλου ἔπαινον γράφειν· εἰ μὲν πυρέττοι, πυρετοῦ· εἰ δὲ ἀδοξοῖ, ἀδοξίας· εἰ δὲ φεύγοι, φυγῆς. καί ποτε μέλλοντι αὐτῷ ἀριστήσειν ἐπέστη ὁ λέγων ὅτι φεύγειν αὐτὸν κελεύει Νέρων, καὶ ὃς «οὐκοῦν,» εἶπεν, «ἐν Ἀρικίᾳ ἀριστήσομεν.»",
     "author": "Epictetus",
@@ -377,7 +417,7 @@
   {
     "id": "mm-009050",
     "type": "reported",
-    "sr": "Agripa je kao upravnik nastojao da ubedi osuđene da im je prikladna osuđenost. Govoraše: 'Nisam doneo presudu kao neprijatelj ni razbojnik, nego kao staratelj i skrbnik — kao što i lekar teši onoga kome reže i ubedi ga da se prepusti.'",
+    "sr": "Kada je Agripin bio upravnik, nastojao je da ubedi one koje je osudio da je njihova osuda za njih prikladna. „Ne izričem vam presudu kao neprijatelj“, govorio je, „ni kao razbojnik, nego kao staratelj i skrbnik, kao što lekar teši onoga koga operiše i ubeđuje ga da se prepusti njegovim rukama.“",
     "stsl": "Агрипа владꙑчьствоуѧ трѹждаше сѧ ꙋсоужденꙑихъ оубѣдити ꙗко подобаєтъ имъ бꙑти ꙋсоужденꙑимъ. Глаголаше бо: «Не ꙗко врагъ ни ꙗко рꙑꙁарь сѫдъ ихъ, нъ ꙗко промꙑсьльникъ и попечитель — ꙗко же и врачь тѣшитъ ꙋрѣꙁаємаго и оубѣждаєтъ є прѣдати сѧ».",
     "originalText": "ὁ Ἀγριππῖνος ἡγεμονεύων ἐπειρᾶτο τοὺς καταδικαζομένους ὑπʼ αὐτοῦ πείθειν, ὅτι προσήκει αὐτοῖς καταδικασθῆναι. οὐ γὰρ ὡς πολέμιος αὐτοῖς, ἔφη, οὐδʼ ὡς λῃστὴς καταφέρω τὴν ψῆφον αὐτῶν, ἀλλʼ ὡς ἐπιμελητὴς καὶ κηδεμών, ὥσπερ καὶ ὁ ἰατρὸς τὸν τεμνόμενον παραμυθεῖται καὶ πείθει παρέχειν ἑαυτόν.",
     "author": "Epictetus",
@@ -391,7 +431,7 @@
   {
     "id": "mm-009051",
     "type": "quote",
-    "sr": "Divna je priroda i, kako kaže Ksenofont, voli živa bića. Telo, najneugodnije i najprljavije od svega, volimo i negujemo. Treba mu služiti jer bog tako hoće — ali kad priroda koja nam je dala telo zatraži da ga predamo, zašto se ne bismo pokorili?",
+    "sr": "Čudesna je priroda i, kako kaže Ksenofont, voli život. Telo, najneprijatnije i najprljavije od svega, ipak volimo i negujemo. „Evo, punim ovu vreću; zatim je praznim — šta je od toga teže?“ Ali bogu moram služiti. Zašto se onda ne mirite s tim kada priroda koja nam je dala telo traži da ga uzme nazad?",
     "stsl": "Дивьна єстъ природа и, ꙗко рече Ѯенофонтъ, любитъ живаꙗ. Тѣло, нєприꙗтьнѣиши и скврьньнѣиши отъ вьсего, любимъ и пестоуємъ. Слоужити ємоу подобаєтъ бо Богъ тако хощетъ — нъ єгда природа иже дасть намъ тѣло иꙁьискоуєтъ да єго прѣдасть, чьто ради не покорили бꙑхомъ сѧ?",
     "originalText": "θαυμαστὴ ἡ φύσις καί, ὥς φησιν ὁ Ξενοφῶν, φιλόζῳος. τὸ γοῦν σῶμα, τὸ πάντων ἀηδέστατον καὶ ῥυπαρώτατον, στέργομεν καὶ θεραπεύομεν. νάττω τουτονὶ τὸν θύλακον· εἶτα κενῶ· τί τούτου βαρύτερον; ἀλλὰ θεῷ δεῖ με ὑπηρετεῖν. διὰ τί οὖν οὐκ ἀνέχεσθε, ὅταν ἡ δοῦσα ἡμῖν φύσις τὸ σῶμα ἀφαιρῆται;",
     "author": "Epictetus",
@@ -405,8 +445,8 @@
   {
     "id": "mm-009052",
     "type": "reported",
-    "sr": "Kad neko mlad umire, kori bogove što mora da se smiri. A ipak, kad smrt priđe, hoće da živi i šalje po lekara. Čudni su ljudi — ni živeti ne žele ni umirati.",
-    "stsl": "Єгда младъ нѣкто съврьшаєтъ животъ, прѣкорꙗєтъ богꙑ ꙗко нꙋждꙗно єсть ємоу ꙋспоити. А єгда пристоупитъ съмрьть, жити хощетъ и посꙑлаєтъ кь врачоу. Дивьни сѫтъ людьє ни жити хотѧщи ни ꙋмирати.",
+    "sr": "Ako mlad čovek umre, čovek optužuje bogove što je morao tako rano da se odmori od života; a ipak, kada se smrt približi, želi da živi i šalje po lekara. Čudni su ljudi: ne žele ni da žive ni da umru.",
+    "stsl": "Аще юношъ сконьчаєтъ животъ, вину возлагаетъ на богꙑ, ꙗко подобаше ємоу ѹже почити; а єгда смьрть приближи сѧ, жити хощетъ и посылаетъ по врача. Дивни сѫтъ, рече, человѣци, ни жити хотѧще ни оумьрѣти.",
     "originalText": "ἐὰν νέος τελευτᾷ τὸν βίον, ἐγκαλεῖ τοῖς θεοῖς, ὅτι δέον αὐτὸν ἤδη ἀναπεπαῦσθαι πρᾶγμα ἔχει, καὶ οὐδὲν ἧττον, ὅταν προσίῃ ὁ θάνατος, ζῆν βούλεται καὶ πέμπει παρὰ τὸν ἰατρόν. θαυμαστοί, ἔφη, ἄνθρωποι μήτε ζῆν θέλοντες μήτε ἀποθνῄσκειν.",
     "author": "Epictetus",
     "sources": [
@@ -419,7 +459,7 @@
   {
     "id": "mm-009053",
     "type": "quote",
-    "sr": "Kad se prihvataš nečega s pretnjom i zastrašivanjem, seti se da unapred kažeš da si pitom — i nećeš počiniti ništa divlje, pa ćeš biti bez kajanja i odgovornosti.",
+    "sr": "Kada nečemu pristupaš s prenaglašenošću i pretnjom, seti se da unapred kažeš: „Ja sam pitom.“ Tako nećeš učiniti ništa divlje i proći ćeš bez kajanja i bez odgovornosti.",
     "stsl": "Єгда съ ꙋꙁносомъ и прѣтьбоѭ нѣчто ꙁачинаши, помѧни прѣдрещи ꙗко кротъкъ єси — и ничьсоже дивьꙗго не сьтворивъ безъ каꙗниꙗ и безъ вины пребѫдеши.",
     "originalText": "ὅτῳ μετὰ ἀνατάσεως καὶ ἀπειλῆς ἐπιχειρεῖς, μέμνησο προλέγειν, ὅτι ἥμερος εἶ· καὶ οὐδὲν ἄγριον δράσας ἀμετανόητος καὶ ἀνεύθυνος διαγενήσῃ.",
     "author": "Epictetus",
@@ -433,8 +473,8 @@
   {
     "id": "mm-009054",
     "type": "reported",
-    "sr": "Ti si dušica koja nosi mrtvaca, kako govoraše Epiktet.",
-    "stsl": "Дѹшица єси носѧщи мрьтвьца, ꙗко Єпиктетъ глаголаше.",
+    "sr": "„Ti si dušica koja nosi mrtvaca“, kako je govorio Epiktet.",
+    "stsl": "«Дѹшица єси, мьртъвьца носѧщи», ꙗкоже Єпиктетъ глаголаше.",
     "originalText": "ψυχάριον εἶ βαστάζον νεκρόν, ὡς Ἐπίκτητος ἔλεγεν.",
     "author": "Epictetus",
     "sources": [
@@ -447,7 +487,7 @@
   {
     "id": "mm-009055",
     "type": "reported",
-    "sr": "Govoraše da treba naći veštinu u pristajanju i u oblasti poriva čuvati pažnju — da bude s izuzetkom, da bude zajednička, da bude prema dostojanstvu; od žudnje se treba potpuno uzdržati, a odbojnost ne upućivati ni ka čemu što nije u našoj moći.",
+    "sr": "Govorio je da treba pronaći veštinu u davanju pristanka i na području poriva čuvati pažnju: da bude s rezervom, društvena i primerena dostojanstvu; od žudnje se treba potpuno uzdržavati, a odbojnost ne usmeravati ni prema čemu što nije u našoj moći.",
     "stsl": "Глаголаше же ꙗко ꙋмѣниє наити подобаєтъ въ съгласованиꙗ и въ области поривовъ вьнимательство соблюдати — да съ изꙗтиємъ, да общьно, да по дьстоиньстоу; отъ желаниꙗ же вьсꙗко оудрьжати сѧ, а отврьжениє ни прѣма чьсомоуже иже не въ нашеи власти єстъ оупотрѣблꙗти.",
     "originalText": "τέχνην ἔφη δὲ περὶ τὸ συγκατατίθεσθαι εὑρεῖν καὶ ἐν τῷ περὶ τὰς ὁρμὰς τόπῳ τὸ προσεκτικὸν φυλάσσειν, ἵνα μεθʼ ὑπεξαιρέσεως, ἵνα κοινωνικαί, ἵνα κατʼ ἀξίαν, καὶ ὀρέξεως μὲν παντάπασιν ἀπέχεσθαι, ἐκκλίσει δὲ πρὸς μηδὲν τῶν οὐκ ἐφʼ ἡμῖν χρῆσθαι.",
     "author": "Epictetus",
@@ -461,8 +501,8 @@
   {
     "id": "mm-009056",
     "type": "reported",
-    "sr": "Nije, reče, borba za nešto slučajno — nego za to da li ćeš biti lud ili ne.",
-    "stsl": "Нѣстъ, рече, подвигъ о нѣчьмь случаинѣмь — нъ о томъ да ли лоудъ бѫдеши или не.",
+    "sr": "„Nije, dakle“, reče, „ovo borba oko nečega slučajnog, nego oko toga hoćeš li poludeti ili ne.“",
+    "stsl": "«Не о случившемъ сѧ ѹбо єстъ подвигъ, рече, нъ о томъ, бꙑти ли безѹмьнѹ или нѣ.»",
     "originalText": "οὐ περὶ τοῦ τυχόντος οὖν, ἔφη, ἐστὶν ὁ ἀγών, ἀλλὰ περὶ τοῦ μαίνεσθαι ἢ μή.",
     "author": "Epictetus",
     "sources": [
@@ -475,8 +515,8 @@
   {
     "id": "mm-009057",
     "type": "reported",
-    "sr": "Sokrat govoraše: 'Šta hoćete — da imate duše razumnih ili nerazumnih bića?' 'Razumnih.' 'Kojih razumnih — zdravih ili loših?' 'Zdravih.' 'Zašto onda ne tražite?' 'Jer ih imamo.' 'Zašto onda se borite i prepirete?'",
-    "stsl": "Сократъ глаголаше: «Чьто хощете — словесьнꙑхъ ли или беꙁсловесьнꙑхъ дѹшѧ имѣти?» «Словесьнꙑхъ». «Коихъ словесьнꙑхъ — ꙁдравꙑихъ ли или порочьнꙑихъ?» «Ꙁдравꙑихъ». «Чьто оубо не иꙁищете?» «Бо имамꙑ ꙗ». «Чьто оубо бьете сѧ и ꙁаꙁоритесѧ?»",
+    "sr": "Sokrat je govorio: „Šta želite — da imate duše razumnih ili nerazumnih bića?“ „Razumnih.“ „Kakvih razumnih — zdravih ili rđavih?“ „Zdravih.“ „Zašto ih onda ne tražite?“ „Zato što ih imamo.“ „Zašto se onda borite i prepirete?“",
+    "stsl": "Сократъ глаголаше: «Что хощете — разумьнꙑхъ ли дѹшѧ имѣти или безразумьнꙑхъ?» «Разумьнꙑхъ.» «Коихъ разумьнꙑхъ — здравꙑхъ ли или худꙑхъ?» «Здравꙑхъ.» «Чьто ѹбо не ищете?» «Понеже имамꙑ.» «Чьто ѹбо бьете сѧ и раздорѹете сѧ?»",
     "originalText": "ὁ Σωκράτης ἔλεγεν «τί θέλετε; λογικῶν ψυχὰς ἔχειν ἢ ἀλόγων;» «λογικῶν.» «τίνων λογικῶν; ὑγιῶν ἢ φαύλων;» «ὑγιῶν.» «τί οὖν οὐ ζητεῖτε;» «ὅτι ἔχομεν.» «τί οὖν μάχεσθε καὶ διαφέρεσθε;»",
     "author": "Epictetus",
     "sources": [
@@ -489,8 +529,8 @@
   {
     "id": "mm-009058",
     "type": "quote",
-    "sr": "Ni za čim se toliko ne brini u svemu kao za sigurnost — jer sigurnije je ćutati nego govoriti; a govoriti, koliko bude bez ludosti i ukora.",
-    "stsl": "Ни о чьмьже тако въ вьсемь не пецꙑ сѧ ꙗко о беꙁопасьнѣмь — бо беꙁопасьнѣє єстъ молчати нежели глаголати; глаголати же єлико єстъ беꙁъ бесꙋмиꙗ и поꙁора.",
+    "sr": "Ni o čemu se u svemu ne brini toliko koliko o sigurnosti; sigurnije je ćutati nego govoriti, a govoriti treba samo ono što može biti bez ludosti i ukora.",
+    "stsl": "Ни о чьмь такъ въ всѣмъ не пеки сѧ, ꙗко о безопасьнѣмъ; безопасьнѣѥ бо єстъ молчати нежели глаголати; глаголати же остави єже безъ ѹма и поꙁора бѫдетъ.",
     "originalText": "μηδενὸς οὕτως ἐν παντὶ προνόει, ὡς τοῦ ἀσφαλοῦς· ἀσφαλέστερον γὰρ τοῦ λέγειν τὸ σιγᾶν· ἐᾶν δὲ τὸ λέγειν, ὅσα δίχα ἔσται νοῦ καὶ ψόγου.",
     "author": "Epictetus",
     "sources": [
@@ -503,8 +543,8 @@
   {
     "id": "mm-009059",
     "type": "quote",
-    "sr": "Ni brod ne treba vezati za jednu jedno sidro, ni život na jednu jedinu nadu.",
-    "stsl": "Ни корабль не подобаєтъ отъ єдинаго єдиньца котвꙑ оустроꙗти, ни животъ отъ єдинꙑꙗ надеждꙑ.",
+    "sr": "Kao što brod ne treba vezivati samo za jedno sidro, tako ni život ne treba vezivati samo za jednu nadu.",
+    "stsl": "Ни корабль отъ єдиноѥ котвꙑ не подобаєтъ устроꙗти, ни животъ отъ єдиноѥ надеждꙑ.",
     "originalText": "οὔτε ναῦν ἐξ ἑνὸς ἀγκυρίου οὔτε βίον ἐκ μιᾶς ἐλπίδος ἁρμοστέον.",
     "author": "Epictetus",
     "sources": [
@@ -517,8 +557,8 @@
   {
     "id": "mm-009060",
     "type": "quote",
-    "sr": "I koracima i nadama treba prelaziti ono što je moguće.",
-    "stsl": "И ногама и надеждами подобаєтъ прѣходити єже єстъ вьꙁможьно.",
+    "sr": "I nogama i nadama treba prelaziti ono što je moguće.",
+    "stsl": "И ногами и надеждами подобаєтъ прѣходити єже вьꙁможьно єстъ.",
     "originalText": "καὶ τοῖς σκέλεσι καὶ ταῖς ἐλπίσι τὰ δυνατὰ δεῖ διαβαίνειν.",
     "author": "Epictetus",
     "sources": [
@@ -531,8 +571,8 @@
   {
     "id": "mm-009061",
     "type": "quote",
-    "sr": "Dušu je nužnije lečiti nego telo — jer smrt je bolja od lošeg življenja.",
-    "stsl": "Дѹшѫ нѹждьнѣє єстъ ицѣлити нежели тѣло — бо лѹче єстъ ꙋмрѣти нежели зьло жити.",
+    "sr": "Dušu treba lečiti više nego telo, jer je bolje umreti nego živeti loše.",
+    "stsl": "Дѹшѫ паче тѣла подобаєтъ цѣлити, бо лѹчьше єстъ оумрѣти, нежели зьло жити.",
     "originalText": "ψυχὴν σώματος ἀναγκαιότερον ἰᾶσθαι· τοῦ γὰρ κακῶς ζῆν τὸ τεθνάναι κρεῖσσον.",
     "author": "Epictetus",
     "sources": [
@@ -545,8 +585,8 @@
   {
     "id": "mm-009062",
     "type": "quote",
-    "sr": "Od ugodnih stvari one koje se najređe dešavaju najviše raduju.",
-    "stsl": "Отъ насладьнꙑихъ вещии тꙑꙗ иже рѣдьчаиши сѫтъ наипаче веселѧтъ.",
+    "sr": "Od prijatnih stvari najviše raduju one koje se najređe događaju.",
+    "stsl": "Отъ сладъкихъ вещии тꙑꙗ, иже рѣдьчаише бꙑваѭтъ, наипаче веселеѧтъ.",
     "originalText": "τῶν ἡδέων τὰ σπανιώτατα γινόμενα μάλιστα τέρπει.",
     "author": "Epictetus",
     "sources": [
@@ -559,8 +599,8 @@
   {
     "id": "mm-009063",
     "type": "quote",
-    "sr": "Ako neko prekorači meru, najugodnije bi postalo najneugodnije.",
-    "stsl": "Аще кто прѣꙁиждетъ мѣрꙋ, наиприꙗтьнѣиши нєприꙗтьнѣиши бꙑваютъ.",
+    "sr": "Ako neko prekorači meru, ono što je najprijatnije postalo bi najneprijatnije.",
+    "stsl": "Аще кто мѣрѹ прѣступитъ, наиприꙗтьнѣишаꙗ бꙑхѫтъ наипротивнѣишаꙗ.",
     "originalText": "εἴ τις ὑπερβάλλοι τὸ μέτριον, τὰ ἐπιτερπέστατα ἀτερπέστατα ἂν γίνοιτο.",
     "author": "Epictetus",
     "sources": [
@@ -574,7 +614,7 @@
     "id": "mm-009064",
     "type": "quote",
     "sr": "Niko nije slobodan ko ne vlada sobom.",
-    "stsl": "Никто же свободьнъ єстъ иже самъ себе не владѣєтъ.",
+    "stsl": "Никто свободьнъ нѣстъ, иже собою не владѣєтъ.",
     "originalText": "οὐδεὶς ἐλεύθερος ἑαυτοῦ μὴ κρατῶν.",
     "author": "Epictetus",
     "sources": [
@@ -587,8 +627,8 @@
   {
     "id": "mm-009065",
     "type": "quote",
-    "sr": "Istina je besmrtna i večna stvar; ona nam ne daje lepotu koja vene s vremenom, ni slobodu govora koja se oduzima sudom — nego razlučuje pravedno i zakonito od nepravednog i pobija ga.",
-    "stsl": "Безьсмрьтна вещь єстъ истина и вѣчьна; дасть намъ не красотѫ врѣменемь вядѫщѫ ни дрьзновениє слова иже сѫдомъ отьємлетъ сѧ — нъ правьдьно и законьно раꙁлѹчаѭщи отъ неправьднаго и обличаѭщи є.",
+    "sr": "Istina je besmrtna i večna: ona nam ne daje lepotu koja vene s vremenom, niti slobodu govora koju presuda može oduzeti; ona razlučuje pravedno i zakonito od nepravednog i raskrinkava ovo drugo.",
+    "stsl": "Безьсмрьтна єстъ истина и вѣчна: не красотѹ намъ даѥтъ, врѣменемъ вѧнѫщѫѭ, ни свободѹ слова, сѫдомъ отъѧтѹѭ, нъ разлѹчаѥтъ правьдьнаꙗ и законьнаꙗ отъ неправьдьнꙑхъ и обличаѥтъ сихъ.",
     "originalText": "ἀθάνατον χρῆμα ἡ ἀλήθεια καὶ ἀίδιον, παρέχει δὲ ἡμῖν οὐ κάλλος χρόνῳ μαραινόμενον οὔτε παρρησίαν τὴν ὑπὸ δίκης ἀφαιρουμένην, ἀλλὰ τὰ δίκαια καὶ τὰ νόμιμα διακρίνουσα ἀπʼ αὐτῶν τὰ ἄδικα καὶ ἀπελέγχουσα.",
     "author": "Epictetus",
     "sources": [
@@ -601,242 +641,407 @@
   {
     "id": "mm-900213",
     "type": "quote",
-    "sr": "Bogove poštuj pravednim i odmerenim nastrojenjem; ne laskaj im neumerenim darovima. Niti se bog raduje laskanju, niti laskavac poštuje božansko.",
+    "sr": "Bogove poštuj pravednim i odmerenim držanjem, a ne laskaj im neumerenim darovima; ni bogu nije drago laskanje, niti laskavac poštuje božansko.",
     "stsl": "Богꙑ правьдьнꙑимь и мѣрьнꙑимь расположениѥмь чьсти · не безмѣрьнꙑими дарꙑ ласкаи · ни бо богъ ласканию радѹѥтъ сѧ · ни ласкатель божьство чьстить ·",
     "originalText": "θεοὺς δικαίᾳ καὶ μεμετρημένῃ διαθέσει τίμα, ἀλλὰ μὴ ἀμέτροις δωρεαῖς κολάκευε· οὔτε γὰρ κολακείᾳ χαίρει θεὸς οὔτε ὁ κολακεύων τιμᾷ τὸ θεῖον.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "1a" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "1a"
+      }
+    ]
   },
   {
     "id": "mm-900214",
     "type": "quote",
-    "sr": "Bogovima žrtvuj ne kada se obogatiš, nego kada razbiraš: bogatiti se mogu i zločestni, a razbirati samo blagočestni.",
+    "sr": "Bogovima prinosi žrtvu ne kada se obogatiš, nego kada stekneš razboritost: bogatstvo mogu imati i nesrećni, a razboritost pripada samo srećnima.",
     "stsl": "Богомъ жрьтвѹи не єгда обогатѣѥши · нъ єгда разбереши · богатѣти бо и злочѧстьнꙑимъ бываѥтъ · разбирати же тъкъмо благочѧстьнꙑимъ своиствьно ·",
     "originalText": "θεοῖς θῦε μὴ ἡνίκα ἂν πλουτήσῃς, ἀλλʼ ἡνίκα ἂν φρονήσῃς, τὸ μὲν γὰρ πλουτεῖν καὶ τῶν κακοδαιμόνων, τὸ δὲ φρονεῖν μόνον ἴδιον εὐδαιμόνων.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "1b" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "1b"
+      }
+    ]
   },
   {
     "id": "mm-900215",
     "type": "quote",
-    "sr": "Ne išti od bogova večno zdravlje tela, nego vazda primaj celomudrenost duše: niti ćeš se lako razboleti, niti ćeš bolestan negodovati.",
-    "stsl": "Отъ богъ не присно здравиѥ тѣла проси · нъ вынѫ цѣломѫдриѥ дѹшѧ приимаи · ни бо легко разболиши сѧ · ни болѧ негодѹѥши ·",
+    "sr": "Od bogova ne traži stalno zdravlje tela, nego neprestano primaj celomudrenost duše: tako se nećeš lako razboleti, a ni bolestan nećeš biti nezadovoljan.",
+    "stsl": "Отъ богъ не непрѣстанно здравиѥ тѣла проси, нъ непрѣстанно приимаи цѣломѫдриѥ дѹшѧ; и ни лѣгко разболиши сѧ, ни болѧ негодовати бѫдеши.",
     "originalText": "παρὰ θεῶν μὴ συνεχῆ αἴτει ὑγίειαν σώματος, ἀλλὰ διηνεκῶς λάμβανε σωφροσύνην ψυχῆς· καὶ οὔτε ῥᾳδίως νοσήσεις οὔτε νοσῶν δυσαρεστήσεις.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "2" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "2"
+      }
+    ]
   },
   {
     "id": "mm-900216",
     "type": "quote",
-    "sr": "Ne išti od bogova ono što želiš, nego izbavljenje od želje. Bogovi te uslišavaju kada se moliš za lepo, a ne za ugodno; lepo će ti dati kada se raduješ vrlini, a ne nasladi.",
-    "stsl": "Не ихъже желаѥши отъ богъ проси · нъ отъ желаниꙗ избавлениꙗ · Богꙑ тебѣ послѹшаѭтъ · єгда о краснꙑихъ · не о ѹгодьнꙑихъ молиши сѧ · Краснаꙗ же ти дадѫтъ · єгда добродѣтели · не сласти радѹѥши сѧ ·",
+    "sr": "Ne traži od bogova ono za čim žudiš, nego traži da se oslobodiš same žudnje. Bogovi te uslišavaju kada se moliš za ono što je lepo, a ne za ono što je prijatno; i lepo će ti dati kada se raduješ vrlini, a ne užitku.",
+    "stsl": "Не ихъже желаѥши проси отъ богъ, нъ избавлениꙗ отъ желаниꙗ проси. Тъгда бо богꙑ тебѣ послѹшаѭтъ, єгда не о сладъкихъ, нъ о добрꙑхъ молиши сѧ. И тъгда ти дадѧтъ добрꙑꙗ, єгда не сластию, нъ добродѣтели радѹєши сѧ.",
     "originalText": "μὴ ὧν ἐπιθυμεῖς ταῦτα παρὰ θεῶν αἴτει, ἀλλʼ ὅπως αὐτῆς ἀπαλλαγῇς τῆς ἐπιθυμίας, τοῦτο ζήτει παρὰ θεῶν. τότε σου εἰσακούουσιν οἱ θεοί, ἡνίκα ἂν μὴ περὶ τῶν ἡδέων, ἀλλὰ περὶ τῶν καλῶν εὔχῃ. καὶ τότε σοι δώσουσι τὰ καλά, ἡνίκα μὴ ἡδονῇ, ἀλλʼ ἀρετῇ χαίρεις.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "3" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "3"
+      }
+    ]
   },
   {
     "id": "mm-900217",
     "type": "quote",
-    "sr": "Od velikih išti velike darove — male ti ne bi ni dali. Ništa nije veće ni više od boga; zato od bogova išti božansko, čega se ne dotiče nijedna telesna ni zemaljska strast.",
+    "sr": "Od velikih traži velike darove, jer male ti ne bi ni dali. Ništa nije veće ni uzvišenije od boga; zato, moleći se bogovima, traži ono božansko, ono što nijedna telesna ni zemaljska strast ne može dotaći.",
     "stsl": "Помьни отъ великихъ великаꙗ просити · мала бо не дадѧтъ · Ничто же Бога вѧште ни выше · тѣмь богомъ молѧ сѧ божьствьнаꙗ проси · ихъже тѣлесьна и земьна страсть не касаѥтъ сѧ ·",
     "originalText": "μέμνησο παρὰ τῶν μεγάλων αἰτεῖν τὰ μεγάλα· μικρὰ γὰρ οὐκ ἂν δοῖεν. οὐδὲν θεοῦ μεῖζον καὶ ὑψηλότερον· εὐχόμενος τοιγαροῦν θεοῖς αἴτει τὰ θεῖα, ὧν οὐδὲν σάρκινον καὶ γήινον ψαύει πάθος.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "4" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "4"
+      }
+    ]
   },
   {
     "id": "mm-900218",
     "type": "quote",
-    "sr": "Kao što pčelu ne mrziš zbog žaoke, nego je ceniš zbog ploda, tako se ni od prijatelja ne odvraćaj zbog ukora, nego ga voli zbog blagonaklonosti.",
-    "stsl": "Ꙗкоже пъчелѫ жала ради не ненавидиши · нъ плода ради ѭ чьтеши · тако и дрѹга обличениꙗ ради не отъвраштаи сѧ · нъ благоволениꙗ ради люби ·",
+    "sr": "Kao što pčelu ne mrziš zbog žaoke, nego je ceniš zbog njenog ploda, tako se ni od prijatelja ne odvraćaj zbog ukora, nego ga voli zbog njegove blagonaklonosti.",
+    "stsl": "Ꙗкоже пъчелѫ жала ради не ненавидиши, нъ плода ради єѭ чтеши, тако и дрѹга не отвращаи сѧ ради обличениꙗ, нъ ради благоволениꙗ люби.",
     "originalText": "ὥσπερ μέλιτταν οὐ διὰ τὸ κέντρον μισεῖς, ἀλλὰ διὰ τὸν καρπὸν τημελεῖς, οὕτω καὶ φίλον μὴ διʼ ἐπίπληξιν ἀποστραφῇς, ἀλλὰ διὰ τὴν εὔνοιαν ἀγάπα.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "5" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "5"
+      }
+    ]
   },
   {
     "id": "mm-900219",
     "type": "quote",
-    "sr": "Laskavci liče na trutove: lenji su, bez žaoke i troše tuđ trud. Zavidljivci liče na ose: bodu, oskudevaju, ništa ne dele i beskorisni su. Valjani ljudi liče na pčele: trudoljubivi su, samostalni, domaćinski, imućni, blagi, spremni da ukore i okrenuti zajednici. Hoćeš li prijateljski živeti među mnogim prijateljima, podražavaj pčelu i čuvaj svoj roj od trutova i osa.",
+    "sr": "Laskavci liče na trutove: lenji su, bez žaoke i troše tuđi trud. Zavidljivci liče na ose: bodu, siromašni su, ne dele ništa i beskorisni su. Valjani ljudi liče na pčele: vredni su, samostalni, umešni u vođenju doma, imućni, blagi, spremni da ukore i okrenuti zajednici. Ako želiš da kao prijatelj živiš među mnogim prijateljima, podražavaj pčelu i čuvaj svoj roj čistim od trutova i osa.",
     "stsl": "Ласкатели трѫтомъ подобьни сѫтъ · лѣниви бо и безъ жала и чюжди трѹдъ иждиваѭтъ · Завистьници осамъ подобьни · ꙗзвѧтъ бо и нищи и не подаѭтъ и непотрѣбьни сѫтъ · Добри же пъчеламъ подобьни · трѹдолюбьни · самодѣлни · домовити · имовити · кротъци · обличьници и обьштьници · Аште хоштеши дрѹгъ съ многꙑими дрѹгꙑ жити · пъчелѣ подоби сѧ · и рои свои отъ трѫтъ и осъ чистъ съхрани ·",
     "originalText": "ἐοίκασιν οἱ κόλακες κηφῆσι· καὶ γὰρ ἀργοὶ καὶ ἄκεντροι καὶ τοὺς ἀλλοτρίους ἀναλίσκοντες καμάτους. οἱ φθονεροὶ σφηξί· καὶ γὰρ πληκτικοὶ καὶ ἄποροι καὶ ἀμετάδοτοι καὶ ἄχρειοι. οἱ χρηστοὶ μελίτταις· καὶ γὰρ φιλόπονοι καὶ αὐτουργοὶ καὶ οἰκονομικοὶ καὶ εὔποροι καὶ πρᾷοι καὶ ἐπιπληκτικοὶ καὶ κοινωνικοί. ὥστʼ, εἰ βούλει φίλος ὑπάρχων μετὰ πολλῶν διάγειν φίλων, μιμοῦ τὴν μέλιτταν· καθαρὸν ἔστω σοι τὸ σμῆνος κηφήνων καὶ σφηκῶν.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "6" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "6"
+      }
+    ]
   },
   {
     "id": "mm-900220",
     "type": "quote",
-    "sr": "One koji ti prilaze radi prijateljstva iskušavaj ne po onome što daruju tebi, nego po onome čemu sami teže, što sebi daju, obećavaju i određuju.",
-    "stsl": "Иже къ тебѣ на дрѹжьство приходѧтъ · не ихъже тебѣ дарѹѭтъ искѹшаваи · нъ ихъже себѣ желаѭтъ · творѧтъ · обѣштаваѭтъ и ѹставлꙗѭтъ ·",
+    "sr": "One koji ti prilaze radi prijateljstva iskušavaj ne po onome što ti daju, nego po onome što sami sebi žele, pružaju, obećavaju i određuju.",
+    "stsl": "Иже къ тебѣ на дрѹжьство приходѧтъ, не по томъ ихъ искѹшаи, єже тебѣ дарѹѭтъ, нъ по томъ, єже сами себѣ желаѭтъ, даѭтъ, обѣщаваѭтъ и ѹстроꙗѭтъ.",
     "originalText": "τοὺς εἰς φιλίαν σοι καθιέντας δοκίμαζε μὴ ἐξ ὧν σοι δωροῦνται, ἀλλʼ ἐξ ὧν ἑαυτοῖς μνῶνται καὶ χαρίζονται καὶ κατεπηγγείλαντο καὶ διέθεσαν.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "7" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "7"
+      }
+    ]
   },
   {
     "id": "mm-900221",
     "type": "quote",
-    "sr": "Nije imetak prijatelj, nego je prijatelj imetak. Kao što zemlja ne može stvoriti boga, tako ni imetak ne može stvoriti prijateljstvo; prijateljstvo pak može steći imetak, kao što bog može zemlju.",
+    "sr": "Nisu novci prijatelji, nego prijatelj donosi novac. Novac nikada ne bi stvorio prijateljstvo, kao što ni zemlja ne bi stvorila boga; a prijateljstvo može steći novac, kao što bog može steći zemlju.",
     "stsl": "Не имѣниѥ дрѹгъ · нъ дрѹгъ имѣниѥ · Имѣниѥ бо николиже дрѹжьства сътворитъ · ꙗкоже ни землꙗ бога · дрѹжьство же имѣниѥ стѧжати можетъ · ꙗкоже богъ землѭ ·",
     "originalText": "οὐ τὰ χρήματα φίλοι, ἀλλʼ ὁ φίλος χρήματα. καὶ χρήματα μὲν φιλίαν οὐδέποτʼ ἂν ἐργάσαιντο, ὥσπερ οὐδὲ γῆ θεόν· φιλία δὲ χρήματα καὶ ἄλλως ἂν κτήσαιτο, καθάπερ θεὸς γῆν.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-1-2", "reference": "8" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-1-2",
+        "reference": "8"
+      }
+    ]
   },
   {
     "id": "mm-900222",
     "type": "quote",
-    "sr": "Život spleten sa slučajem liči na bujičnu reku: nemiran je, pun mulja, teško prohodan, samovoljan, bučan i kratkotrajan.",
-    "stsl": "Животъ съ приклѹчаѥмь съплетенъ бѹичьнѣи рѣцѣ подобьнъ єсть · мѫтьнъ бо и тины исплъненъ · непроходьнъ · насильнъ · многогласенъ и маловрѣменьнъ ·",
+    "sr": "Život isprepleten sa slučajem liči na bujičnu reku: nemiran je, pun mulja, teško prohodan, samovoljan, bučan i kratkotrajan.",
+    "stsl": "Животъ съ тѹхою сплетенъ рѣцѣ бѹичьнѣи подобьнъ єстъ: мѫтенъ бо, и тины исплъненъ, и тѫжекъ къ прѣходѹ, и самовластенъ, и многогласенъ, и маловрѣменьнъ.",
     "originalText": "ὁ τύχῃ βίος συμπεπλεγμένος ἔοικε χειμάρρῳ ποταμῷ· καὶ γὰρ ταραχώδης καὶ ἰλύος ἀνάμεστος καὶ δυσέμβατος καὶ τυραννικὸς καὶ πολύηχος καὶ ὀλιγοχρόνιος.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "1" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "1"
+      }
+    ]
   },
   {
     "id": "mm-900223",
     "type": "quote",
-    "sr": "Duša koja druguje s vrlinom liči na nepresušni izvor: čista je, nepomućena, pitka, prijatna, svima dostupna, obilna, neškodljiva i nepropadljiva.",
-    "stsl": "Дѹша съ добродѣтелиѭ дрѹжѧшти вѣчьномѹ источникѹ подобьна єсть · чиста бо и несъмѫтьна · питома · ѹгодьна · вьсѣмъ обьшта · обильна · неврѣдьна и нетлѣньна ·",
+    "sr": "Duša koja druguje s vrlinom liči na nepresušni izvor: čista je, mirna, pitka, prijatna, zajednička svima, obilna, neškodljiva i nepropadljiva.",
+    "stsl": "Дѹша, съ добродѣтелиѭ общаѭщи сѧ, источнику невъсѣкаемомѹ подобьна єстъ: чиста бо, и несъмѫтна, и питома, и ѹгодна, и всѣмъ обща, и обильна, и неврѣдьна, и нетлѣнна.",
     "originalText": "ψυχὴ ὁμιλοῦσα ἀρετῇ ἔοικεν ἀεννάῳ πηγῇ· καὶ γὰρ καθαρὸν καὶ ἀτάραχον καὶ πότιμον καὶ νόστιμον καὶ κοινωνικὸν καὶ πλούσιον καὶ ἀβλαβὲς καὶ ἀνώλεθρον.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "2" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "2"
+      }
+    ]
   },
   {
     "id": "mm-900224",
     "type": "quote",
-    "sr": "Hoćeš li biti dobar, najpre poveruj da si rđav.",
-    "stsl": "Аште хоштеши добръ быти · прѣжде вѣрѹи ꙗко ꙁълъ єси ·",
+    "sr": "Ako hoćeš da budeš dobar, najpre poveruj da si rđav.",
+    "stsl": "Аще хощеши добръ бꙑти, прѣжде вѣрѹи, ꙗко ꙁълъ єси.",
     "originalText": "εἰ βούλει ἀγαθὸς εἶναι, πρῶτον πίστευσον, ὅτι κακὸς εἶ.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "3" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "3"
+      }
+    ]
   },
   {
     "id": "mm-900225",
     "type": "quote",
-    "sr": "Bolje je priznati da si ponegde prestupio i češće postupati celomudreno nego tvrditi da retko grešiš, a često prestupati.",
-    "stsl": "Оѹнѥ єсть мало съгрѣшаѭштѹ исповѣдати и много цѣломѫдрьствовати · нежели мало грѣшити глаголѭштѹ много съгрѣшати ·",
+    "sr": "Bolje je priznati da ponekad grešiš, a češće postupati razborito, nego tvrditi da retko grešiš, a često postupati pogrešno.",
+    "stsl": "Лѹчьше єстъ мало грѣшити и исповѣдати сѧ, а много цѣломѫдрьствовати, нежели мало грѣшити глаголати, а много прѣступати.",
     "originalText": "βέλτιον ὀλιγάκις πλημμελεῖν ὁμολογοῦντα σωφρονεῖν πλεονάκις ἢ ὀλιγάκις ἁμαρτάνειν λέγοντα πλημμελεῖν πολλάκις.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "4" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "4"
+      }
+    ]
   },
   {
     "id": "mm-900226",
     "type": "quote",
-    "sr": "Kazni svoje strasti, da one ne kazne tebe.",
-    "stsl": "Страсти своѩ каꙁни · да не отъ нихъ каꙁнь приимеши ·",
+    "sr": "Kažnjavaj svoje strasti da one ne bi kaznile tebe.",
+    "stsl": "Страсти своꙗ каꙁни, да не отъ нихъ каꙁни приимеши.",
     "originalText": "κόλαζε τὰ πάθη, ἵνα μὴ ὑπʼ αὐτῶν τιμωρῇ.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "5" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "5"
+      }
+    ]
   },
   {
     "id": "mm-900227",
     "type": "quote",
-    "sr": "Ne stidi se toliko onoga što je sramotno po mnenju koliko izbegavaj ono što je sramotno po istini.",
-    "stsl": "Не срамлꙗи сѧ толико єже по мьнѣнию срамьно · єлико бѣгаи єже по истинѣ срамьно ·",
+    "sr": "Ne stidi se toliko onoga što je sramotno po mišljenju ljudi koliko izbegavaj ono što je sramotno po istini.",
+    "stsl": "Не тълико сѧ срамлꙗи єже по мьнѣнию срамьно, колико бѣгаи єже по истинѣ срамьно.",
     "originalText": "μὴ οὕτως τὸ ἐκ τῆς δόξης αἰσχύνου, ὡς τὸ ἐκ τῆς ἀληθείας ἀπόφευγε.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "6" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "6"
+      }
+    ]
   },
   {
     "id": "mm-900228",
     "type": "quote",
-    "sr": "Hoćeš li biti na dobru glasu, nauči dobro govoriti; naučivši dobro govoriti, nastoj dobro činiti — i tako ćeš ubrati dobar glas.",
-    "stsl": "Аште хоштеши добро слꙑшати сѧ · навꙑкни добро глаголати · добро же глаголати навꙑкъ · тъшти сѧ добро творити · и тако добръ гласъ пожьнеши ·",
+    "sr": "Ako želiš da se o tebi lepo govori, nauči lepo da govoriš; naučivši lepo da govoriš, trudi se da lepo činiš, i tako ćeš steći dobar glas.",
+    "stsl": "Аще хощеши добро слꙑшати сѧ, навꙑкни добро глаголати; навꙑкъ добро глаголати, тъщи сѧ добро творити, и тако пожьнеши добро слꙑшаниѥ.",
     "originalText": "εἰ θέλεις καλῶς ἀκούειν, μάθε καλῶς λέγειν· μαθὼν δὲ καλῶς λέγειν πειρῶ καλῶς πράττειν καὶ οὕτω καρπώσῃ τὸ καλῶς ἀκούειν.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "7" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "7"
+      }
+    ]
   },
   {
     "id": "mm-900229",
     "type": "quote",
-    "sr": "Ispitaj sebe: želiš li bogatstvo ili blagočest? Bogatstvo niti je dobro niti je sasvim u tvojoj moći; blagočest je i dobro i u tvojoj moći. Bogatstvo je privremena pozajmica slučaja, a blagočest pripada odluci.",
+    "sr": "Ispitaj sebe: želiš li da se obogatiš ili da budeš srećan? Ako želiš bogatstvo, znaj da ono nije ni dobro ni sasvim u tvojoj moći; ako želiš sreću, ona je i dobro i u tvojoj moći. Bogatstvo je privremeni zajam slučaja, a sreća pripada odluci.",
     "stsl": "Искѹшаи себе · богатѣти ли хоштеши или благочѧстити · Аште богатѣти · вѣжь ꙗко ни добро ни вьсе въ твоѥи власти · аште ли благочѧстити · и добро и въ твоѥи власти · Богатство бо приврѣменьнъ ꙁаимъ приклѹчаꙗ · благочѧстъ же иꙁволѥнию своиствьнъ ·",
     "originalText": "ἐξέταζε σαυτόν, πότερα πλουτεῖν θέλεις ἢ εὐδαιμονεῖν. καὶ εἰ μὲν πλουτεῖν, ἴσθι, ὅτι οὔτε ἀγαθὸν οὔτε ἐπὶ σοὶ πάντῃ· εἰ δὲ εὐδαιμονεῖν, ὅτι καὶ ἀγαθὸν καὶ ἐπὶ σοί· ἐπεὶ τὸ μὲν τύχης ἐπίκαιρον δάνειον, τὸ δὲ † τῆς εὐδαιμονίας προαιρέσεως.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "8" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "8"
+      }
+    ]
   },
   {
     "id": "mm-900230",
     "type": "quote",
-    "sr": "Ugledaš li otrovnicu, guju ili škorpiju u kutiji od slonovače ili zlata, nećeš ih voleti ni hvaliti zbog skupocene tvari, nego ćeš se zbog njihove pogubne prirode odvratiti s gađenjem. Tako i kada vidiš porok okružen bogatstvom i pompom slučaja, ne divi se spoljašnjem sjaju, nego prezri patvorenost naravi.",
+    "sr": "Kada vidiš zmiju, aspidu ili škorpiju u kutiji od slonovače ili zlata, nećeš ih voleti ni smatrati srećnima zbog skupocene materije, nego ćeš se, zbog njihove pogubne prirode, okrenuti od njih s gađenjem. Tako, kada vidiš porok smešten u bogatstvu i sjaju koji mu je dala sreća, ne daj da te zaslepi spoljašnji sjaj materije, nego prezri pokvarenost karaktera.",
     "stsl": "Аште аспидѹ или ꙁмиѭ или скорпию въ слоновѣ или ꙁлатѣ скрꙑни видиши · не любиши ни блажиши драгыѧ ради твари · нъ пагѹбьнаго єстества отъвраштаѥши сѧ и мръꙁиши · Тако и ꙁълобѫ въ богатствѣ и величии приклѹчаꙗ видѧ · не диви сѧ свѣтлости твари · нъ льсть нрава прѣꙁьри ·",
     "originalText": "καθάπερ ἔχιν ἢ ἀσπίδα ἢ σκορπίον ἐν ἐλεφαντίνῃ ἢ χρυσῇ θεώμενος κίστῃ οὐ διὰ τὸ πολυτελὲς τῆς ὕλης ἀγαπᾷς καὶ εὐδαιμονίζεις, ἀλλʼ ὅτι λυμαντικὴ ἡ φύσις, ἐκτρέπῃ καὶ μυσάττῃ, οὕτω καὶ ἐπειδὰν ἐν πλούτῳ καὶ ὄγκῳ τύχης θεάσῃ κακίαν ἐνοῦσαν, μὴ καταπλαγῇς τὸ περιλαμπὲς τῆς ὕλης, ἀλλὰ καταφρόνει τῆς ἐν τῷ τρόπῳ κιβδηλίας.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "9" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "9"
+      }
+    ]
   },
   {
     "id": "mm-900231",
     "type": "quote",
-    "sr": "Bogatstvo nije među dobrima, raskoš je među zlima, a celomudrenost među dobrima. Celomudrenost vodi skromnosti i sticanju dobara; bogatstvo vodi raskoši i odvlači od celomudrenosti. Zato je teško biti i bogat i celomudren.",
+    "sr": "Bogatstvo nije među dobrima, raskoš je među zlima, a celomudrenost među dobrima. Celomudrenost vodi jednostavnom životu i sticanju dobara; bogatstvo vodi raskoši i odvlači od celomudrenosti. Zato je teško biti bogat i istovremeno celomudren, ili biti celomudren i istovremeno bogat.",
     "stsl": "Богатство не къ добрꙑимъ · роскошь къ ꙁълꙑимъ · цѣломѫдриѥ же къ добрꙑимъ · Цѣломѫдриѥ къ маліи потрѣбѣ и стѧжанию добрꙑихъ ꙁоветъ · богатство же къ роскоши ꙁоветъ и отъ цѣломѫдриꙗ отъвлачитъ · Тѣмь трѹдьно богатѹ цѣломѫдръ быти или цѣломѫдрѹ богатѣти ·",
     "originalText": "ὁ πλοῦτος οὐ τῶν ἀγαθῶν, ἡ πολυτέλεια τῶν κακῶν, ἡ σωφροσύνη τῶν ἀγαθῶν. καλεῖ δὲ ἡ μὲν σωφροσύνη ἐπὶ τὴν εὐτέλειαν καὶ τὴν κτῆσιν τῶν ἀγαθῶν, ὁ δὲ πλοῦτος ἐπὶ τὴν πολυτέλειαν καὶ ἀφέλκει τῆς σωφροσύνης. δυσχερὲς ἄρα πλουτοῦντα σωφρονεῖν ἢ σωφρονοῦντα πλουτεῖν.",
     "author": "Epictetus",
-    "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "10" }]
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "10"
+      }
+    ]
   },
   {
-    "id": "mm-900232", "type": "quote",
-    "sr": "Da si rođen na brodu, ne bi zato hitao da mu budeš kormilar. Ni brod ni bogatstvo nisu ti po prirodi srodni, nego slovesnost. Nju smatraj svojom i o njoj se staraj.",
+    "id": "mm-900232",
+    "type": "quote",
+    "sr": "Kao što, da si rođen na brodu, ne bi zato žurio da budeš njegov kormilar, tako ni brod ni bogatstvo nisu ti po prirodi srodni; srodan ti je logos. Ono što ti je po prirodi i srodstvu vlastito — logos — smatraj svojim i o njemu se staraj.",
     "stsl": "Аште на корабли родилъ сѧ бы · не бы того ради кърмьчии быти тъшталъ сѧ · Ни корабль ни богатство тебѣ по єстествѹ своиствьно · нъ слово · Слово тебѣ прирождьно и сродьно · то своиствьно мьни и о немь пещи сѧ ·",
     "originalText": "ὥσπερ, εἰ ἐν νηὶ ἐσπάρης ἢ ἐτέχθης, οὐκ ἂν ἔσπευδες αὐτῆς κυβερνήτης ὑπάρχειν, οὔτε γὰρ ἐκεῖ σοι φύσει ἡ ναῦς συνέσται οὔτε ἐνταῦθα ὁ πλοῦτος, ἀλλὰ πάντῃ ὁ λόγος. ὅπερ οὖν σοι φυσικὸν καὶ συγγενές, ὁ λόγος, τοῦτο καὶ οἰκεῖον ἡγησάμενος τούτου ἐπιμελοῦ.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "11" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "11"
+      }
+    ]
   },
   {
-    "id": "mm-900233", "type": "quote",
-    "sr": "Da si rođen među Persijancima, ne bi hitao da živiš u Heladi, nego da srećno živiš onde. Rođen u siromaštvu, zašto hitaš da se obogatiš, a ne da srećno živiš u njemu?",
+    "id": "mm-900233",
+    "type": "quote",
+    "sr": "Da si rođen među Persijancima, ne bi zato žurio da živiš u Heladi, nego da tamo živiš srećno. Ako si rođen u siromaštvu, zašto žuriš da se obogatiš, a ne da u njemu živiš srećno?",
     "stsl": "Аште въ Персѣхъ родилъ сѧ бы · не бы въ Єлладѣ жити тъшталъ сѧ · нъ тамо блаженъ быти · Въ ништети же рожденъ · чьсо ради богатѣти тъштиши сѧ · а не въ неи прѣбываѧ блаженъ быти ·",
     "originalText": "ἐν Πέρσαις μὲν γεννηθεὶς οὐκ ἂν ἔσπευδες οἰκεῖν τὴν Ἑλλάδα, ἀλλʼ αὐτόθι διάγων εὐτυχεῖν· ἐν πενίᾳ δὲ γεννηθείς, τί σπεύδεις πλουτεῖν, ἀλλʼ οὐκ αὐτόθι μένων εὐτυχεῖν;",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "12" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "12"
+      }
+    ]
   },
   {
-    "id": "mm-900234", "type": "quote",
-    "sr": "Bolje je zdrav se tiskati na maloj postelji nego bolestan valjati se po širokoj; tako je bolje s malo živeti blagodušno nego s mnogo malodušno.",
-    "stsl": "Оѹнѥ єсть здравѹ на малѣ одринѣ тѣснити сѧ · нежели болънѹ на широкѣ ложи валꙗти сѧ · Тако оѹнѥ въ малѣ имѣнии благодѹшьствовати · нежели много имѫштѹ малодѹшьствовати ·",
+    "id": "mm-900234",
+    "type": "quote",
+    "sr": "Kao što je bolje biti zdrav i tiskati se na maloj postelji nego bolestan valjati se po širokoj, tako je bolje s malim imetkom živeti vedro nego s velikim živeti potišteno.",
+    "stsl": "Ꙗкоже лѹчьше єстъ здравѹ на малѣ одринѣ тѣснити сѧ, нежели болънѹ на широкѣ ложи валꙗти сѧ, тако и въ малѣ имѣнии лѹчьше єстъ съвьсѣмъ весело жити, нежели въ великомъ имѣнии печальнѹ бꙑти.",
     "originalText": "ὥσπερ ἐπὶ σμικροῦ σκίμποδος θλιβόμενον ὑγιαίνειν ἄμεινον ἢ ἐπὶ πλατείας κλίνης κυλινδούμενον νοσεῖν, οὕτω καὶ ἐν μικρᾷ περιουσίᾳ βέλτιον συστελλόμενον εὐθυμεῖν ἢ ἐν μεγάλῃ τυγχάνοντα δυσθυμεῖν.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "13" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "13"
+      }
+    ]
   },
   {
-    "id": "mm-900235", "type": "quote",
-    "sr": "Ne stvara siromaštvo tugu, nego želja; niti bogatstvo izbavlja od straha, nego slovenje. Stekneš li slovenje, nećeš želeti bogatstvo niti ćeš koriti siromaštvo.",
-    "stsl": "Не ништета печаль творитъ · нъ желаниѥ · ни богатство отъ страха избавлꙗѥтъ · нъ словеніє · Словеніє ѹбо стѧжавъ · ни богатства въжделѣѥши ни ништетѣ поречеши ·",
+    "id": "mm-900235",
+    "type": "quote",
+    "sr": "Ne siromaštvo stvara tugu, nego žudnja; niti bogatstvo oslobađa od straha, nego razboritost. Stekneš li razboritost, nećeš žudeti za bogatstvom niti ćeš koriti siromaštvo.",
+    "stsl": "Не ништета печаль творитъ, нъ желаниѥ; ни богатство отъ страха избавлꙗєтъ, нъ разоумъ. Стѧжавъ ѹбо разоумъ, ни богатства желаѥши, ни ништетѣ поречеши.",
     "originalText": "οὐ πενία λύπην ἐργάζεται, ἀλλὰ ἐπιθυμία· οὐδὲ πλοῦτος φόβου ἀπαλλάττει, ἀλλὰ λογισμός. κτησάμενος τοιγαροῦν τὸν λογισμὸν οὔτε πλούτου ἐπιθυμήσεις οὔτε πενίαν μέμψῃ.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "14" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "14"
+      }
+    ]
   },
   {
-    "id": "mm-900236", "type": "quote",
-    "sr": "Ni konj se ne ponosi jaslama, nakitom i pokrivačima, niti ptica hranom i gnezdom, nego oboje svojom brzinom — konj nogu, ptica krila. Ni ti se ne uznosi hranom, krovom i spoljnim imetkom, nego valjanošću i dobročinstvom.",
+    "id": "mm-900236",
+    "type": "quote",
+    "sr": "Ni konj se ne razmeće jaslama, ukrasima i pokrivačima, ni ptica hranom i gnezdom, nego se oboje ponose brzinom — konj brzinom nogu, ptica brzinom krila. Tako ni ti nemoj da se uznosiš hranom, krovom i spoljašnjim imetkom, nego dobrotom i dobročinstvom.",
     "stsl": "Ни конь ꙗсльми и ѹкрасꙑ и покровꙑ величаѥтъ сѧ · ни птица пиштеѭ и гнѣꙁдомь · нъ оба бръзостиѭ · конь ногъ · птица крилъ · И ты не пиштеѭ и кровомь и вьнѣшьнимь имѣниѥмь величаи сѧ · нъ добротоѭ и благодѣꙗниѥмь ·",
     "originalText": "οὔτε ἵππος ἐπὶ φάτνῃ καὶ φαλάροις καὶ τάπησιν οὔτε ὄρνις ἐπὶ βρώμῃ καὶ καλιᾷ ὑψοῦται καὶ γαυριᾷ, ἀλλʼ ἄμφω ἐπὶ ὠκύτητι, ὁ μὲν ποδῶν, ὁ δὲ πτερῶν. καὶ σὺ τοιγαροῦν μὴ ἐπὶ τροφῇ καὶ σκέπῃ καὶ ἁπλῶς τῇ ἔξωθεν περιουσίᾳ μέγα ὀγκύλλου, ἀλλʼ ἐπὶ χρηστότητι καὶ εὐποιίᾳ.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "15" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "15"
+      }
+    ]
   },
   {
-    "id": "mm-900237", "type": "quote",
-    "sr": "Dobro življenje razlikuje se od raskošnog: prvo dolazi od celomudrenosti, samodovoljnosti, reda, pristojnosti i skromnosti, a drugo od razuzdanosti, razmaženosti, nereda i nepristojnosti. Ishod prvoga je istinska pohvala, a drugoga pokuda. Hoćeš li dobro živeti, ne traži da te hvale zbog raskoši.",
-    "stsl": "Добро жити отъ роскошьно жити различьно єсть · оно бо отъ цѣломѫдриꙗ · самодовъльства · чина · благолѣпиꙗ и маліи потрѣбꙑ приходить · сиѥ же отъ невъꙁдръжаниꙗ · нѣгы · бесчиниꙗ и неблаголѣпиꙗ · Ономѹ коньць истиньна хвала · семѹ поречениѥ · Аште добро жити хоштеши · роскошиѭ хвалы не ишти ·",
+    "id": "mm-900237",
+    "type": "quote",
+    "sr": "Dobro življenje razlikuje se od raskošnog: prvo proizlazi iz celomudrenosti, samodovoljnosti, urednosti, pristojnosti i skromnosti, a drugo iz razuzdanosti, raskoši, nereda i nepristojnosti. Ishod prvoga je istinska pohvala, a drugoga pokuda. Ako hoćeš da živiš dobro, ne traži da te zbog raskoši hvale.",
+    "stsl": "Добро жити отъ роскошьно жити различьно єстъ: оно бо отъ цѣломѫдриꙗ, самодъльжства, чина, благолѣпиꙗ и мѣрꙑ произходитъ, а сиѥ отъ невъꙁдръжаниꙗ, нѣгы, бесчиниꙗ и неблаголѣпиꙗ. Коньць оному истиньна хвала, семѹ же поречениѥ. Аще ѹбо добро жити хощеши, не ищи хвалꙑ роскоши ради.",
     "originalText": "τὸ καλῶς ζῆν τοῦ πολυτελῶς διαφέρει· τὸ μὲν γὰρ ἐκ σωφροσύνης καὶ αὐταρκείας καὶ εὐταξίας καὶ κοσμιότητος καὶ εὐτελείας παραγίνεται, τὸ δὲ ἐξ ἀκολασίας καὶ τρυφῆς καὶ ἀταξίας καὶ ἀκοσμίας· τέλος δὲ τοῦ μὲν ἔπαινος ἀληθής, τοῦ δὲ ψόγος. εἰ τοίνυν βούλει καλῶς ζῆν, μὴ ζήτει μετὰ πολυτελείας ἐπαινεῖσθαι.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "16" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "16"
+      }
+    ]
   },
   {
-    "id": "mm-900238", "type": "quote",
-    "sr": "Mera svakog jela i pića neka ti bude prvo utaženje gladi, a začin i naslada sama glad. Tako nećeš uzeti više no što treba, neće ti trebati kuvar i zadovoljićeš se pićem koje se zatekne.",
+    "id": "mm-900238",
+    "type": "quote",
+    "sr": "Neka ti mera svakog jela i pića bude prvo utaženje želje za hranom, a jelo i naslada neka budu sama ta želja. Tako nećeš uzeti više nego što treba, neće ti biti potreban kuvar i bićeš zadovoljan pićem koje ti se nađe pri ruci.",
     "stsl": "Мѣра пишти и питиꙗ да бѫдетъ прьвоѥ насыштениѥ алчьбы · присмокъ же и сласть сама алчьба · Тако ни паче потрѣбꙑ приимеши · ни повара потрѣбѹѥши · и обрѣтъшимь сѧ питиѥмь довъльнъ бѫдеши ·",
     "originalText": "μέτρον ἔστω σοι παντὸς σίτου καὶ ποτοῦ ἡ πρώτη τῆς ὀρέξεως ἔμπλησις, ὄψον δὲ καὶ ἡδονὴ αὐτὴ ἡ ὄρεξις· καὶ οὔτε πλείονα τῶν δεόντων προσοίσῃ οὔτε ὀψοποιῶν δεηθήσῃ ποτῷ τε τῷ παραπεσόντι ἀρκεσθήσῃ.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "17" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "17"
+      }
+    ]
   },
   {
-    "id": "mm-900239", "type": "quote",
-    "sr": "Gozbe ne priređuj raskošne i sumorne, nego vedre i skromne, da se duše ne uznemiruju zbog tela niti da, obmanute telesnim nasladama, zanemare sebe: tela najpre uživaju, a potom obole.",
+    "id": "mm-900239",
+    "type": "quote",
+    "sr": "Gozbe priređuj ne raskošne i sumorne, nego vedre i skromne, da se duše ni zbog tela ne uznemiruju niti, obmanute telesnim nasladama, zanemare same sebe: tela najpre uživaju, a potom obole.",
     "stsl": "Гостьбꙑ не твори роскошьнꙑ и дрѹчьнꙑ · нъ свѣтлꙑ и мѣрьнꙑ · да ни дѹшѧ тѣла ради съмѫтѧтъ сѧ · ни тѣлесьнꙑими сластьми прѣльштены себе небрѣгѫтъ · тѣлесемъ прѣжде нѣжащемъ сѧ · потомь же болѧштемъ ·",
     "originalText": "τὰς σιτήσεις ποιοῦ μὴ πολυτελεῖς καὶ σκυθρωπάς, ἀλλὰ λαμπρὰς καὶ εὐτελεῖς, ἵνα μήτε διὰ τὰ σωματικὰ αἱ ψυχαὶ ταράττωνται μήτε φενακιζόμεναι πρὸς τῶν ἡδονῶν τῶν σωματικῶν ὀλιγωρῶσιν, ἔπειτα βλάπτωνται τρυφῶντα μὲν παραυτίκα, νοσοῦντα δὲ εἰσαῦθις τὰ σώματα.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "18" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "18"
+      }
+    ]
   },
   {
-    "id": "mm-900240", "type": "quote",
-    "sr": "Pazi da te ne uznose jela u trbuhu, nego radost u duši: jela se izbacuju i iščezavaju, a radost ostaje zauvek neiskvarena, čak i kada se duša odvoji.",
+    "id": "mm-900240",
+    "type": "quote",
+    "sr": "Pazi da te ne uznose jela u stomaku, nego radost u duši: jela se izbacuju i zajedno s njima nestaje pohvala, dok radost ostaje zauvek neiskvarena, čak i kada se duša odvoji.",
     "stsl": "Блюди да не вꙁносе те брашьна въ чрѣвѣ · нъ радость въ дѹши · брашьна бо иꙁмѣтаѭтъ сѧ и погибаѭтъ · радость же и дѹши разлѫчьшисѧ вынѫ нетлѣньна прѣбываѥтъ ·",
     "originalText": "φρόντιζε, ὅπως σε μὴ τὰ ἐν τῇ γαστρὶ σιτία ἐπαίρῃ, ἀλλʼ ἡ ἐν τῇ ψυχῇ εὐφρασία· ἐπεὶ τὰ μὲν ἀποσκυβαλίζεται καὶ συνεκρεῖ ὁ † ἔπαινος, ἡ δέ, κἂν ἡ ψυχὴ χωρισθῇ, διὰ παντὸς ἀκήρατος μένει.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "19" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "19"
+      }
+    ]
   },
   {
-    "id": "mm-900241", "type": "quote",
-    "sr": "Na gozbama pamti da ugošćavaš dvoje — telo i dušu. Što daš telu, odmah si izlio; što daš duši, čuvaš zauvek.",
-    "stsl": "На гостьбахъ помьни ꙗко тѣло и дѹшѫ приимаши · Єже тѣлѹ даси · абиѥ иꙁлиѥши · єже ли дѹши · вынѫ съхраниши ·",
+    "id": "mm-900241",
+    "type": "quote",
+    "sr": "Na gozbama pamti da primaš dvojicu gostiju: telo i dušu. Šta god daš telu, odmah si izlio; šta god daš duši, čuvaš zauvek.",
+    "stsl": "На пирѣхъ помьни, ꙗко двѣ лица приимаеши: тѣло и дѹшѫ. Єже тѣлѹ даси, абиѥ излилъ єси; єже же дѹши, на вьсегда съхраниши.",
     "originalText": "ἐν ταῖς ἑστιάσεσι μέμνησο, ὅτι δύο ὑποδέχῃ, σῶμα καὶ ψυχήν, καὶ ὅ τι ἂν τῷ σώματι δῷς, τοῦτο εὐθὺς ἐξέχεας, ὅ τι δʼ ἂν τῇ ψυχῇ, διὰ παντὸς τηρεῖς.",
-    "author": "Epictetus", "sources": [{ "name": "epictetus-gnomology-3-4", "reference": "20" }]
+    "author": "Epictetus",
+    "sources": [
+      {
+        "name": "epictetus-gnomology-3-4",
+        "reference": "20"
+      }
+    ]
   }
 ]
