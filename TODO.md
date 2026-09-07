@@ -7,7 +7,7 @@
   - [x] proveriti da se svih 486 poglavlja pravilno razrešava iz lokalnog grčkog izvora
   - [x] napraviti početni terminološki inventar prema `RECNIK.md`
   - [x] prevesti knjige I–IV: grčki → STSL → srpski → klesanje → provera prema grčkom
-  - [ ] prevesti knjige V–VI istim postupkom
+  - [ ] prevesti knjige V–VI istim postupkom — [radni plan](data/works/marcus-aurelius/meditations/PLAN_PREVODA.md)
   - [ ] prevesti knjige VII–IX istim postupkom
   - [ ] prevesti knjige X–XII istim postupkom
   - [ ] uraditi celovitu redakciju: terminologija, ponavljane formule, STSL gramatika i grafija, srpski ritam
@@ -25,8 +25,6 @@
   - [ ] uraditi celovitu redakciju svih 54 rasprava: pojmovne porodice, STSL gramatika i grafija, srpski ritam i naslovi
   - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
 - [ ] izvršiti završnu ciljanu proveru oba dela i uskladiti dokumentaciju sa stvarnim stanjem
-
-- dopuniti život Epikteta - kako je prestao da bude rob, kako je pokrenuo svoju filozofsku školu, itd.
 
 ## Terminologija i UI
 

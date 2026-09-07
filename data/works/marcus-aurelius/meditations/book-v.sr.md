@@ -1,72 +1,77 @@
-<!-- anchor:V.1 -->
+<!-- anchor:V.1 -->U zoru, kada nerado ustaješ, imaj pri ruci: Ustajem na čovekovo delo. Zašto onda negodujem ako idem činiti ono radi čega sam rođen i uveden u svet? Ili sam sazdan da se, ležeći u posteljici, grejem? Ali ovo je slađe. Zar si, dakle, rođen radi zadovoljstva? Uopšte, radi trpljenja ili dejstva? Ne vidiš li biljčice, ptičice, mrave, pauke, pčele kako čine svoje i koliko je do njih sastavljaju stroj? A ti nećeš činiti čovekovo? Ne hitaš onome što je po tvojoj prirodi? Ali treba i počivati. I ja kažem; ipak, priroda i tome dade mere, kao i jelu i piću. Ti prelaziš i mere i ono što je dovoljno, a u činjenju ostaješ ispod mogućeg. Jer ne ljubiš sebe; inače bi ljubio i svoju prirodu i njenu volju. Oni koji ljube svoje veštine izgaraju u njihovim delima, neoprani i gladni. Ti svoju prirodu manje ceniš nego rezbar rezbarenje, plesač ples, srebroljubac srebro ili tašt čovek svoju slavicu? Oni, kada se nečemu predaju, radije ga umnožavaju nego što jedu i spavaju. A tebi se činjenje za zajednicu čini manje vredno i dostojno manjeg truda?
 
-<!-- anchor:V.2 -->
+<!-- anchor:V.2 -->Kako je lako odbaciti i izbrisati svaku tegobnu ili neprikladnu predstavu i odmah biti u potpunoj tišini.
 
-<!-- anchor:V.3 -->
+<!-- anchor:V.3 -->Sudi da si dostojan svake reči i dela po prirodi. Neka te ne odvlači nečiji naknadni prekor ili govor. Ako je krasno učiniti ili reći, ne smatraj sebe nedostojnim. Oni imaju svoje vladajuće načelo i slede svoj poriv. Ne obaziri se na njih, već idi pravo, sledeći svoju i opštu prirodu: obema je put isti.
 
-<!-- anchor:V.4 -->
+<!-- anchor:V.4 -->Idem onim što je po prirodi, dok ne padnem i počinem, izdahnuvši u ono iz čega svakodnevno dišem i pavši na ono iz čega moj otac sabra seme, majka krv, a dojilja mleko; iz čega se svakodnevno, toliko godina, hranim i napajam; što me nosi dok ga gazim i za toliko toga upotrebljavam.
 
-<!-- anchor:V.5 -->
+<!-- anchor:V.5 -->Ne mogu se diviti tvojoj oštroumnosti. Neka. Ali mnogo je drugog za šta ne možeš reći: Nisam za to rođen. Pokaži ono što je sasvim u tvojoj vlasti: iskrenost, dostojanstvo, trpljenje truda, odsustvo slastoljublja, nezameranje sudelu, skromne potrebe, blagonaklonost, slobodu, jednostavnost, uzdržan govor, veličinu. Ne osećaš li koliko već možeš pokazati, bez izgovora da nemaš dara ni sposobnosti, a ipak svojevoljno ostaješ dole? Zar te nedostatak prirodnog dara primorava da gunđaš, škrtariš, laskaš, okrivljuješ telce, ugađaš, hvališeš se i toliko se dušom premećeš? Ne, tako mi bogova: toga si se odavno mogao osloboditi, pa da ti možda jedino zamere što si sporiji i teže razumeš. I to treba vežbati, bez nemara i naslađivanja tromošću.
 
-<!-- anchor:V.6 -->
+<!-- anchor:V.6 -->Jedan, čim nekome učini dobro, spreman je da mu dobročinstvo upiše u dug. Drugi to ne čini, ali u sebi ipak misli na dužnika i zna šta je učinio. Treći nekako i ne zna šta je učinio, već je nalik lozi koja donese grozd i ništa više ne traži pošto dade svoj plod. Konj potrča, pas pronađe trag, pčela načini med; čovek učini dobro pa ne razglašava, već prelazi na drugo, kao loza koja će u svoje vreme opet doneti grozd. Treba li, dakle, biti među onima koji to nekako čine nesvesno? Da, ali upravo toga treba biti svestan: društvenom biću svojstveno je, kaže, osećati da dejstvuje za zajednicu i, tako mi Zevsa, želeti da to oseti i njegov drug. Istinito je što govoriš, ali pogrešno primaš ovo što je sada rečeno. Zato ćeš biti jedan od onih koje ranije pomenuh: i njih zavodi neka slovesna uverljivost. Ako ushteš razumeti rečeno, ne boj se da ćeš zbog toga propustiti koje delo za zajednicu.
 
-<!-- anchor:V.7 -->
+<!-- anchor:V.7 -->Molitva Atinjana: Daždi, daždi, dragi Zevse, na atinske njive i polja. Ili se ne treba moliti, ili ovako jednostavno i slobodno.
 
-<!-- anchor:V.8 -->
+<!-- anchor:V.8 -->Kao što se kaže: Asklepije ovome odredi jahanje, hladno kupanje ili bosonogo hodanje, tako i: Priroda svega ovome odredi bolest, sakaćenje, gubitak ili nešto slično. I tamo odredi znači: odredi mu to kao prikladno zdravlju; i ovde je ono što se svakome događa nekako određeno kao prikladno njegovoj sudbi. Tako kažemo da se događaji s nama sastaju, kao što veštaci kažu da se četvrtasti kamenovi u zidovima ili piramidama sastaju, uklapajući se jedni u druge svojim sklopom. Sve je jedan sklad: kao što se od svih tela ispunjuje svet, takvo telo, tako se od svih vina ispunjuje sudba, takva vina.
 
-<!-- anchor:V.9 -->
+I sasvim prosti ljudi poimaju šta govorim: To mu je donelo, kažu. Dakle, to mu se donosilo i to mu se određivalo. Primajmo to kao ono što Asklepije određuje. I među njegovim odredbama mnogo je tegobnog, ali ih primamo u nadi na zdravlje. Neka ti dovršenje i ispunjenje onoga što opšta priroda sudi bude poput tvoga zdravlja. Tako primaj sve što biva, makar izgledalo surovije, jer te vodi zdravlju sveta, Zevsovom uspešnom putu i delu. Ne bi to nekome donela da ne koristi celini: ni bilo koja priroda ne donosi nešto neprikladno onome čime upravlja.
 
-<!-- anchor:V.10 -->
+Iz dva razloga valja ljubiti ono što ti se događa: prvo, jer se tebi zbivalo, tebi određivalo i nekako tebi pripadalo, od iskona ispredeno iz najstarijih vina; drugo, jer je i ono što dolazi svakome zasebno vina uspešnog puta, ispunjenja i, tako mi Zevsa, samog opstanka onoga što upravlja celinom. Celina se sakati ako makar šta prekineš u povezanosti i neprekidnosti delova, pa tako i vina. A prekidaš, koliko je do tebe, kada negoduješ, i nekako razaraš.
 
-<!-- anchor:V.11 -->
+<!-- anchor:V.9 -->Ne gadi se, ne odustaj i ne gubi duh ako ti ne uspeva činiti sve po pravim mnenjima. Odbijen, opet se vrati; raduj se ako je većina tvojih dela čovečnija i ljubi ono čemu se vraćaš. Filozofiji se ne vraćaj kao vaspitaču, već kao što se bolesnih očiju vraćaš sunđeru i jajetu, ili kao drugi oblozi i polivanju. Tako nećeš pokazivati poslušnost slovesnosti, nego ćeš u njoj počivati. Pamti: filozofija hoće samo ono što hoće tvoja priroda; ti si hteo nešto drugo, protiv prirode. Šta je prijatnije od toga? Zar zadovoljstvo upravo time ne zavodi? Ali pogledaj nisu li prijatniji velikodušnost, sloboda, jednostavnost, dobronamernost, svetost. Šta je prijatnije od same razboritosti, kada pomisliš na nespoticanje i lak tok moći razumevanja i znanja u svemu?
 
-<!-- anchor:V.12 -->
+<!-- anchor:V.10 -->Stvari su nekako toliko zastrte da su se mnogim, i to znamenitim filozofima, činile sasvim nesaznatljive; čak ih i stoici smatraju teško saznatljivim. Svaki naš pristanak podložan je promeni: gde je onaj koji se ne menja? Pređi zatim na same podloge: koliko su kratkotrajne i malo vredne, i mogu pripadati razvratniku, bludnici ili razbojniku. Potom pređi na naravi onih s kojima živiš: jedva se može podneti i najprijatniji, da ne kažem kako čovek jedva podnosi i sebe. U tolikoj tami i prljavštini, tolikom toku suštastva, vremena, kretanja i onoga što se kreće, ne mogu ni pomisliti šta bi se moglo visoko ceniti ili uopšte revnosno tražiti. Naprotiv, treba se tešiti i čekati prirodno razrešenje, ne negodovati zbog odlaganja, već počivati samo u ovome: prvo, ništa mi se neće dogoditi što nije po prirodi svega; drugo, mogu ništa ne činiti protiv svog boga i božanstva, jer me niko ne može primorati da mu se ogrešim.
 
-<!-- anchor:V.13 -->
+<!-- anchor:V.11 -->Za šta sada upotrebljavam svoju dušu? Pri svakoj stvari to sebe pitati i ispitivati šta mi je sada u onom delu koji zovu vladajućim načelom. Čiju dušu sada imam? Deteta? Mladića? Ženice? Nasilnika? Stočeta? Zveri?
 
-<!-- anchor:V.14 -->
+<!-- anchor:V.12 -->Kakva su dobra koja mnogi smatraju dobrima, možeš pojmiti i ovako. Ako neko pomisli na istinska dobra, poput razboritosti, celomudrenosti, pravednosti i muževnosti, posle toga ne bi mogao slušati: Od dobara — jer se ne uklapa. Ali ko prethodno pomisli na ono što se mnogima čini dobro, čuće i lako prihvatiti reči komediografa kao prikladan nastavak. Tako i mnoštvo predstavlja sebi razliku; inače nas prvo ne bi vređalo i bilo odbačeno, a drugo, rečeno o bogatstvu i onome što donosi raskoš ili slavu, ne bismo primali kao umesno i duhovito. Idi dalje i pitaj treba li ceniti i smatrati dobrima stvari uz koje, kada se na njih pomisli, prikladno dolazi da njihov imalac od obilja nema gde da sere.
 
-<!-- anchor:V.15 -->
+<!-- anchor:V.13 -->Sastojim se od vinog i tvarnog. Nijedno od toga neće propasti u nesušto, kao što ni iz nesuštog nije nastalo. Svaki moj deo promenom će se uvrstiti u neki deo sveta, pa će se taj opet promeniti u drugi deo sveta, i tako u beskraj. Takvom promenom nastadoh i ja i oni koji me rodiše, pa unazad u drugi beskraj. Ništa ne brani tako govoriti, makar se svetom upravljalo u omeđenim kolovratima.
 
-<!-- anchor:V.16 -->
+<!-- anchor:V.14 -->Slovesnost i slovesna veština moći su dovoljne sebi i svojim delima. Polaze od svog počela i putuju prema postavljenoj svrsi. Zato se takva činjenja nazivaju ispravljenjima, naznačujući pravost puta.
 
-<!-- anchor:V.17 -->
+<!-- anchor:V.15 -->Ništa ne treba nazivati čovekovim što čoveku, kao čoveku, ne pripada. To nisu čovekovi zahtevi; ljudska priroda to ne obećava, niti su to njena savršenstva. U tome, dakle, ne leži čovekova svrha, ni dobro koje je ispunjuje. Kada bi nešto od toga pripadalo čoveku, ne bi mu pripadalo da to prezire i uzdiže se iznad toga. Ne bi bio hvale dostojan ko pokazuje da mu to ne treba, niti bi bio dobar onaj koji sebi nešto od toga uskraćuje, kada bi to bila dobra. Sada pak, što više toga ili sličnog čovek sebi oduzima, ili trpi da mu se oduzme, utoliko je bolji.
 
-<!-- anchor:V.18 -->
+<!-- anchor:V.16 -->Kakve često imaš predstave, takvo će ti biti razmišljanje: predstave boje dušu. Boji je, dakle, neprestanim ovakvim predstavama: Gde je moguće živeti, moguće je i dobro živeti. Na dvoru je moguće živeti; dakle, moguće je i dobro živeti na dvoru. I opet: Svaka stvar stremi onome radi čega je sazdana; u onome čemu stremi leži joj svrha, a gde je svrha, tu su joj korist i dobro. Dobro slovesnog živog bića jeste, dakle, zajednica. Odavno je dokazano da smo radi zajednice rođeni. Zar nije bilo jasno da su lošija bića radi boljih, a bolja jedna radi drugih? Od bezdušnih bolja su duševna, a od duševnih slovesna.
 
-<!-- anchor:V.19 -->
+<!-- anchor:V.17 -->Bezumno je juriti nemoguće. A nemoguće je da rđavi ne čine takve stvari.
 
-<!-- anchor:V.20 -->
+<!-- anchor:V.18 -->Nikome se ne događa ništa što po prirodi ne može podneti. Drugome se događa isto, pa on, bilo ne znajući šta ga je snašlo, bilo pokazujući veličinu duha, ostaje postojan i nepovređen. Strašno je da neznanje i želja za dopadanjem budu jači od razboritosti.
 
-<!-- anchor:V.21 -->
+<!-- anchor:V.19 -->Same stvari nikako ne dotiču dušu, nemaju ulaza u nju i ne mogu je obrnuti ni pokrenuti. Ona sama sebe obrće i pokreće; kakvih se sudova udostoji, takvim sebi čini ono što joj predstoji.
 
-<!-- anchor:V.22 -->
+<!-- anchor:V.20 -->U jednom pogledu čovek nam je najprisniji: ljudima treba činiti dobro i podnositi ih. Ali kada se neki protive mojim delima, čovek mi postaje jedna od ravnodušnih stvari, koliko i sunce, vetar ili zver. Oni mogu sprečiti neko dejstvo, ali ne postaju prepreke porivu i raspoloženju, zbog izuzeća i preobrata. Razmišljanje svaku prepreku dejstvu obrće i premešta u ono čemu se prvenstveno teži: ono što zadržava delo postaje pomoć delu, a ono što se isprečilo na putu — pomoć putu.
 
-<!-- anchor:V.23 -->
+<!-- anchor:V.21 -->Poštuj najbolje u svetu: ono se svime služi i svime upravlja. Tako i u sebi poštuj najbolje: ono je istog roda s onim. I u tebi se ono služi ostalim, i njime se upravlja tvoj život.
 
-<!-- anchor:V.24 -->
+<!-- anchor:V.22 -->Što nije štetno gradu, ne šteti ni građaninu. Svakoj predstavi da si oštećen priloži ovo pravilo: Ako grad time nije oštećen, nisam ni ja. Ako se gradu nanosi šteta, ne treba se gneviti, već onome koji mu šteti pokazati šta previđa.
 
-<!-- anchor:V.25 -->
+<!-- anchor:V.23 -->Često pomišljaj kako brzo sušta i ono što nastaje prolaze i nestaju. Suštastvo je kao reka u neprestanom toku; dejstva se neprekidno menjaju, vine bezbrojno preobraćaju. Gotovo ništa ne stoji, ni ono sasvim blizu. Zjapi beskraj prošlog i budućeg, u kojem sve iščezava. Kako onda nije lud ko se u tome nadima, biva povlačen ili jadikuje kao zbog nečega što mu dugo i zadugo dosađuje?
 
-<!-- anchor:V.26 -->
+<!-- anchor:V.24 -->Pamti sveukupno suštastvo, u kojem imaš neznatan udeo; sveukupni vek, od kojeg ti je odmeren kratak, trenutan razmak; i sudbu — koliki si njen deo?
 
-<!-- anchor:V.27 -->
+<!-- anchor:V.25 -->Drugi se ogrešuje o mene? On će videti: ima svoje raspoloženje, svoje dejstvo. Ja sada imam ono što opšta priroda hoće da imam i činim ono što moja priroda sada hoće da činim.
 
-<!-- anchor:V.28 -->
+<!-- anchor:V.26 -->Neka vodeći i vladajući deo tvoje duše ne menja glatko ili grubo kretanje u puti. Neka se s njim ne meša, nego sebe odvoji, a ta trpljenja ograniči na udove. Kada se pak, po drugoj uzajamnoj povezanosti, prenesu u razmišljanje kao u sjedinjenom telu, ne pokušavaj se protiviti čuvstvu, jer je prirodno. Ali neka vladajuće načelo samo od sebe ne dodaje prihvatanje da je to dobro ili zlo.
 
-<!-- anchor:V.29 -->
+<!-- anchor:V.27 -->Živeti s bogovima. S bogovima živi ko im neprestano pokazuje dušu zadovoljnu dodeljenim, koja čini sve što hoće božanstvo koje Zevs svakome dade za zaštitnika i vođu, odvojivši ga od sebe. To je um i slovesnost svakoga.
 
-<!-- anchor:V.30 -->
+<!-- anchor:V.28 -->Gneviš li se na onoga kome smrde pazuha ili usta? Šta da ti čini? Takva su mu usta, takva pazuha; nužno je da iz takvih dolazi takav miris. Ali čovek, kažeš, ima slovesnost i može pažnjom razumeti u čemu greši. Dobro ti bilo! I ti imaš slovesnost: slovesnim raspoloženjem pokreni slovesno raspoloženje; pokaži, podseti. Ako čuje, izlečićeš ga i neće trebati gneva. Ni tragički glumac ni bludnica.
 
-<!-- anchor:V.31 -->
+<!-- anchor:V.29 -->Kako misliš živeti pošto odeš, tako možeš živeti i ovde. Ako ti ne dopuštaju, izađi i iz života, ali kao neko ko ne trpi nikakvo zlo. Dim je, pa odlazim. Šta u tome vidiš veliko? Dok me ništa takvo ne izvodi, ostajem slobodan i niko mi neće braniti da činim što hoću. A hoću ono što je po prirodi slovesnog i društvenog živog bića.
 
-<!-- anchor:V.32 -->
+<!-- anchor:V.30 -->Um celine usmeren je zajednici. Lošija bića sazda radi boljih, a bolja uklopi jedno s drugim. Vidiš kako ih podredi, rasporedi, svakome dodeli prema dostojanstvu i najbolja privede uzajamnom jednomisliju.
 
-<!-- anchor:V.33 -->
+<!-- anchor:V.31 -->Kako si se dosad odnosio prema bogovima, roditeljima, braći, ženi, deci, učiteljima, hraniteljima, prijateljima, svojima, slugama? Važi li za tebe dosad prema svima: Ništa bezakono ne učiniti niti reći? Prisećaj se i kroz šta si prošao, šta si uspeo podneti, kako je već ispunjena povest tvoga života i dovršena služba; koliko si krasnoga video, koliko zadovoljstava i bolova prezreo, koliko slavnih stvari mimoišao i prema koliko nerazumnih bio dobronameran.
 
-<!-- anchor:V.34 -->
+<!-- anchor:V.32 -->Zašto nevešte i neuke duše smućuju veštu i učenu? Koja je duša vešta i učena? Ona koja zna počelo i svrhu, i slovesnost što prolazi kroz sve suštastvo i čitavog veka, po određenim kolovratima, upravlja svime.
 
-<!-- anchor:V.35 -->
+<!-- anchor:V.33 -->Još malo: pepeo ili kostur, ime ili ni ime. A ime je zvuk i odjek. Ono što se u životu visoko ceni prazno je, trulo i sitno: psići što se grizu, deca što se svađaju, smeju, pa odmah plaču. A vernost, stid, pravda i istina — ka Olimpu sa zemlje širokih puteva. Šta te još ovde drži, ako se čulne stvari lako menjaju i ne stoje, čula su mutna i lako primaju lažne otiske, sama dušica para iz krvi, a slava među takvima prazna? Šta, dakle? Vedro čekaš gašenje ili preseljenje. Dok vreme za to ne dođe, šta je dovoljno? Šta drugo do bogove poštovati i blagosloviti, ljudima činiti dobro, podnositi ih i uzdržavati se; a za sve što je unutar granica ove puti i daha pamtiti da nije tvoje ni u tvojoj vlasti.
 
-<!-- anchor:V.36 -->
+<!-- anchor:V.34 -->Možeš uvek dobro teći ako možeš dobro putovati, ako možeš uredno prihvatati i činiti. Ovo dvoje zajedničko je duši boga, čoveka i svakog slovesnog živog bića: da je drugi ne ometa i da dobro ima u pravednom raspoloženju i činjenju, pa da joj se tu završava težnja.
 
+<!-- anchor:V.35 -->Ako ovo nije moja zloba ni dejstvo po mojoj zlobi, niti je zajednica oštećena, zašto se oko toga borim? A kakva je šteta zajednici?
+
+<!-- anchor:V.36 -->Ne daj da te predstava sasvim ponese. Pomaži prema moći i dostojanstvu, makar ljudi gubili ravnodušne stvari, ali ne predstavljaj sebi to kao štetu: loša je to navika. Kao što starac na odlasku zatraži čigru svoga pitomca, pamteći da je čigra, tako i ovde. Inače postaješ poput onoga koji s govornice izvikiva robu. Čoveče, zar si zaboravio šta su te stvari? Jesam, ali ovima su veoma drage. Zar ćeš zato i ti postati lud?
+
+Nekada bejah čovek dobre sreće, gde god se zatekao. A dobre sreće znači: sebi dodelivši dobar deo. Dobri delovi jesu dobri obrati duše, dobri porivi, dobra činjenja.
