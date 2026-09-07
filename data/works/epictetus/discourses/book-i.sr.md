@@ -1292,13 +1292,13 @@ Ali ja, kaže, ne mogu sve to pratiti u isto vreme.
 
 A govori li ti iko da imaš moć jednaku Zevsovoj?
 
-Pa ipak je svakome postavio za staratelja njegovog daimona i predao ga njemu na čuvanje — daimona koji ne spava i ne može biti obmanut.
+Pa ipak je svakome postavio za čuvara njegovo božanstvo i predao ga njemu na čuvanje — božanstvo koje ne spava i ne može biti obmanuto.
 
 Jer kojem bi nas boljem i brižljivijem čuvaru mogao pojedinačno predati?
 
 Zato, kada zatvorite vrata i načinite tamu unutra, setite se da nikada ne govorite da ste sami.
 
-Jer niste sami: Bog je unutra, a unutra je i vaš daimon. I kakva je njima potreba za svetlošću da bi videli šta činite?
+Jer niste sami: Bog je unutra, a unutra je i vaše božanstvo. I kakva je njima potreba za svetlošću da bi videli šta činite?
 
 Tome Bogu trebalo je i vi da se zakunete zakletvom kakvom se vojnici zaklinju caru.
 

@@ -615,7 +615,7 @@ Igrao se na sudu.
 
 Reci mi, Anite: kako kažeš da ne priznajem božanstvo?
 
-Šta su po tvome mišljenju daimoni?
+Šta su po tvome mišljenju božanstva?
 
 Nisu li ili deca bogova ili neka mešavina ljudi i bogova?
 
