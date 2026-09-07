@@ -1,5 +1,7 @@
 # TODO
 
+- oceniti postojeće sr i stsl prevode u projektu na osnovu uzorka, za svakog autora. uzeti u obzir json fajlove (posebno izreke type: quote i reported) i cele knjige u works. izuzeti predsokratovce i stare grčke mudrace iz ove analize, oni generalno imaju bolje prevode.
+
 ## Sadržaj
 
 - prevesti Marko Aurelije — *Samome sebi*
@@ -12,6 +14,7 @@
   - [ ] prevesti knjige X–XII istim postupkom
   - [ ] uraditi celovitu redakciju: terminologija, ponavljane formule, STSL gramatika i grafija, srpski ritam
   - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
+
 - prevesti Plotin — *Eneade*
   - [x] dovršiti tehničku pripremu: nacrt manifesta, 6 prevodnih fajlova i 653 kanonska sidra
   - [x] proveriti da se svih 653 odeljka pravilno razrešava iz lokalnog grčkog izvora
@@ -24,7 +27,6 @@
   - [ ] prevesti Eneadu VI, rasprave VI.1–VI.9
   - [ ] uraditi celovitu redakciju svih 54 rasprava: pojmovne porodice, STSL gramatika i grafija, srpski ritam i naslovi
   - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
-- [ ] izvršiti završnu ciljanu proveru oba dela i uskladiti dokumentaciju sa stvarnim stanjem
 
 ## Terminologija i UI
 
