@@ -132,13 +132,7 @@
 
 <!-- anchor:VII.67 -->Priroda nije tako pomešala čoveka sa celinom da mu ne bi bilo dopušteno da ograničava sebe i da ono što mu pripada drži pod svojom vlašću. Jer sasvim je moguće da čovek postane božanski, a da ga niko ne prepozna. Uvek se toga sećaj, i još ovoga: u vrlo malome leži to da li ćeš živeti srećno ili nesrećno. To što si izgubio nadu da ćeš postati dijalektičar i prirodnjak ne znači da treba da izgubiš nadu da ćeš biti slobodan, skroman, društven i poslušan bogu.
 
-<!-- anchor:VII.68 -->Živeti bez prinude i u najvećoj vedrini, pa makar svi vikali protiv tebe šta god žele, pa makar zveri kidale komadiće od tog tvog jadnog tela koje je odgajeno i oblikovano.
-
-<!-- anchor:VII.69 -->Ako ne mogu da podnesu ni da im bude prijatno dok su u skladu sa prirodom, onda neka to i ne žele; a neka kažu da je prijatno ono što im je sada prijatno. Razuman čovek ne treba da trpi ono što je protivno njegovoj prirodi.
-
-<!-- anchor:VII.70 -->I sama priroda nas je učinila takvima da ne možemo živeti drugačije nego jedni za druge. Stoga, ako ovo nije moguće, neka se bar to može: ne biti ni na koji način neprijateljski raspoložen prema drugima.
-
-<!-- anchor:VII.68 -->Živeti bez prinude, u najvećoj vedrini, makar svi vikali protiv tebe šta god žele, makar zveri kidale komadiće od ovog jadnog tela koje je odgajeno i oblikovano. Jer šta sprečava da u svemu tome razum sačuva samoga sebe u spokoju, sa istinitim sudom o onome što se događa i spremnom upotrebom onoga što mu je dato? Neka sud kaže onome što nailazi: „Ti si po svojoj bivstvenoj prirodi ovo, ma kako drugačije izgledao po mnjenju“; a upotreba neka kaže onome što nailazi: „Tebe sam tražio; jer sadašnjost mi je uvek materijal za razumnu i društvenu vrlinu i, uopšte, za veštinu čoveka ili boga.“ Jer sve što se događa bogu ili čoveku postaje blisko i nije ni novo ni teško za upotrebu, nego poznato i korisno.
+<!-- anchor:VII.68 -->Živeti bez prinude i u najvećoj vedrini, pa makar svi vikali protiv tebe šta god žele, pa makar zveri kidale komadiće od tog tvog jadnog tela koje je odgajeno i oblikovano. Jer šta sprečava da u svemu tome razum sačuva samoga sebe u spokoju, sa istinitim sudom o onome što se događa i spremnom upotrebom onoga što mu je dato? Neka sud kaže onome što nailazi: „Ti si po svojoj bivstvenoj prirodi ovo, ma kako drugačije izgledao po mnjenju“; a upotreba neka kaže onome što nailazi: „Tebe sam tražio; jer sadašnjost mi je uvek materijal za razumnu i društvenu vrlinu i, uopšte, za veštinu čoveka ili boga.“ Jer sve što se događa bogu ili čoveku postaje blisko i nije ni novo ni teško za upotrebu, nego poznato i korisno.
 
 <!-- anchor:VII.69 -->U tome je savršenstvo karaktera: provoditi svaki dan kao poslednji, a ne biti ni usplahiren, ni obamro, ni pretvarati se.
 

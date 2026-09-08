@@ -15,7 +15,7 @@ Normalizovani izvornik: `των ηδεων τα σπανιωτατα γινομ�
 | ID | Autor | Tip | Izvor | Pointer | Srpski |
 | --- | --- | --- | --- | --- | --- |
 | `mm-000753` | Democritus | `quote` | hermann-diels:68 B 232 | — | Od prijatnih stvari najviše raduju one koje se najređe događaju. |
-| `mm-009062` | Epictetus | `quote` | epictetus-fragments:33 | — | Od ugodnih stvari one koje se najređe dešavaju najviše raduju. |
+| `mm-009062` | Epictetus | `quote` | epictetus-fragments:33 | — | Od prijatnih stvari najviše raduju one koje se najređe događaju. |
 
 - [ ] Odluka: duplikat / deljeni unos / opravdano odvojeno
 
@@ -28,7 +28,7 @@ Broj grupa: **7**.
 | ID | Autor | Tip | Referenca | Srpski |
 | --- | --- | --- | --- | --- |
 | `mm-000056` | Anaxagoras | `quote` | B.4 | U onome što se sastavlja sadržane su mnoge i svakovrsne stvari, semena svih stvari, sa svakovrsnim oblicima, bojama i ukusima. |
-| `mm-000075` | Anaxagoras | `quote` | B.4 | A pre nego što se razlučiše, dok sve stvari behu zajedno, nijedna boja ne beše razaznatljiva; jer to sprečavaše mešavina svih stvari: vlažnog i suv… |
+| `mm-000075` | Anaxagoras | `quote` | B.4 | A pre nego što se razlučiše, dok sve stvari behu zajedno, nijedna boja ne beše razaznatljiva; jer to sprečavaše mešavina svih stvari: vlažnog i suh… |
 
 - [ ] Odluka: duplikat / deljeni unos / pravilna atomizacija / neprecizan pointer
 

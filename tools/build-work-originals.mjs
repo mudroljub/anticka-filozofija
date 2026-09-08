@@ -1,6 +1,7 @@
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { extractBekkerFragment } from './tei-bekker.mjs'
 
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const indexFile = path.join(rootDir, 'data', 'works-index.json')
@@ -116,16 +117,8 @@ const extractStephanus = (xml, anchor) => {
 }
 
 const extractBekker = (xml, anchor) => {
-  const milestones = [...xml.matchAll(/<milestone\b[^>]*\/>/gu)]
-    .filter(match => {
-      const values = attrs(match[0])
-      return values.unit === 'page' && values.resp === 'Bekker'
-    })
-  const index = milestones.findIndex(match => attrs(match[0]).n === anchor)
-  if (index < 0) return null
-  const start = milestones[index].index + milestones[index][0].length
-  const end = milestones[index + 1]?.index ?? xml.indexOf('</div>', start)
-  return teiToText(xml.slice(start, end))
+  const fragment = extractBekkerFragment(xml, anchor)
+  return fragment === null ? null : teiToText(fragment)
 }
 
 const extractDiscourses = (xml, anchor) => {

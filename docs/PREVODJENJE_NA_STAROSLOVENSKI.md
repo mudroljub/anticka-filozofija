@@ -1,11 +1,16 @@
 # Pravila rekonstrukcije slovenskog filozofskog jezika VIII veka
+
 Polje `stsl` predstavlja prevod na rekonstruisani slovenski filozofski jezik VIII veka.
 
 U ovom projektu termin **„staroslovenski“** koristi se kao skraćen naziv za taj rekonstruisani jezik, osim kada se izričito odnosi na istorijski staroslovenski jezik ili njegove spomenike.
 
 Cilj nije doslovna rekonstrukcija govornog jezika VIII veka, niti ograničavanje na reči slučajno sačuvane u poznatim spomenicima, već stvaranje mogućeg, autentičnog slovenskog filozofskog jezika tog doba.
 
+GLAVNO PRAVILO: Sintaksa i grafija prevoda nisu previše bitni. Duh, ritam i lepota prevoda su mnogo bitniji.
+Tehnički detalji nisu od presudnog značaja. Ono što je najvažnije je da prevod ima pravi duh, ritam i lepotu — da zvuči kao autentična slovenska filozofska misao, a ne kao mehanički preveden tekst.
+
 ## Autoritet i izbor reči
+
 Glavni autoritet projekta je [RECNIK.md](RECNIK.md).
 
 Ako je grčki termin već obrađen u rečniku, koristiti tamo utvrđeni staroslovenski ekvivalent. Ne menjati ga samostalno samo zato što drugi oblik postoji u istorijskom korpusu, crkvenoslovenskom ili savremenim slovenskim jezicima.

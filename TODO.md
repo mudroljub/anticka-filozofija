@@ -1,23 +1,19 @@
 # TODO
 
-- oceniti postojeće sr i stsl prevode u projektu na osnovu uzorka, za svakog autora. uzeti u obzir json fajlove (posebno izreke type: quote i reported) i cele knjige u works. izuzeti predsokratovce i stare grčke mudrace iz ove analize, oni generalno imaju bolje prevode.
-
 ## Sadržaj
 
 - prevesti Marko Aurelije — *Samome sebi*
-  - [x] dovršiti tehničku pripremu: nacrt manifesta, 12 prevodnih fajlova i 486 kanonskih sidara
-  - [x] proveriti da se svih 486 poglavlja pravilno razrešava iz lokalnog grčkog izvora
-  - [x] napraviti početni terminološki inventar prema `RECNIK.md`
-  - [x] prevesti knjige I–IV: grčki → STSL → srpski → klesanje → provera prema grčkom
-  - [ ] prevesti knjige V–VI istim postupkom — [radni plan](data/works/marcus-aurelius/meditations/PLAN_PREVODA.md)
-  - [ ] prevesti knjige VII–IX istim postupkom
-  - [ ] prevesti knjige X–XII istim postupkom
-  - [ ] uraditi celovitu redakciju: terminologija, ponavljane formule, STSL gramatika i grafija, srpski ritam
-  - [ ] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
+  - [x] proveriti sva sidra i izvornike, aktivirati `work.json` i izgraditi indeks dela
+  - [ ] popraviti kompletan stsl prevod Marko Aurelije — *Samome sebi* u skladu sa PREVODJENJE_NA_STAROSLOVENSKI.md
+  - [ ] popraviti kompletan srpski prevod Marko Aurelije — *Samome sebi* u skladu sa PREVODJENJE_NA_SRPSKI.md
+
+- popraviti Aristotel - Metafizika
+  - [ ] popraviti kompletan stsl u skladu sa PREVODJENJE_NA_STAROSLOVENSKI.md
+    - Urađen prvi prolaz kroz ceo postojeći tekst: grafija, prezentski završeci, deo terminologije i slaganja; `980a–980b` provereni prema grčkom.
+    - Ostaje potpuna filološka redakcija: blokovi pod `982b` i `994b` sadrže ponovljen i izmešten tekst, `1032b` je prazan, a ostala sidra i sintaksa zahtevaju proveru prema izvorniku. Postojeći manifest obuhvata `980a–1043b`.
+  - [ ] popraviti kompletan srpski u skladu sa PREVODJENJE_NA_SRPSKI.md
 
 - prevesti Plotin — *Eneade*
-  - [x] dovršiti tehničku pripremu: nacrt manifesta, 6 prevodnih fajlova i 653 kanonska sidra
-  - [x] proveriti da se svih 653 odeljka pravilno razrešava iz lokalnog grčkog izvora
   - [ ] napraviti početni terminološki inventar prema `RECNIK.md`, posebno za `οὐσία`, `ὄν`, `νοῦς`, `ψυχή`, `ἕν`, `λόγος`, `ἐνέργεια` i `δύναμις`
   - [ ] prevesti Eneadu I, rasprave I.1–I.9; svaku raspravu dovršiti i redigovati pre sledeće
   - [ ] prevesti Eneadu II, rasprave II.1–II.9
