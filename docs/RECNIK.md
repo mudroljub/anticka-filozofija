@@ -14,7 +14,7 @@
 | ἀΐδιος            | вѣчьнъ                                | večan                           |
 | αἰθήρ             | небєсьє                               | nebesje                         |
 | αἴσθησις          | чѹвьство                              | čulo, čuvstvo                   |
-| αἰτία             | вина                                  | vina (alt: uzrok)               |
+| αἰτία             | вина                                  | vina (alt. uzrok)               |
 | αἰτιάομαι         | винити                                | vinovati                        |
 | αἰτιατός          | виновьнъ                              | vinovan                         |
 | αἴτιος            | виньнъ                                | vin                             |
@@ -68,8 +68,8 @@
 | γνῶσις            | знаніє                                | znanje                          |
 | γνωστός           | знанъ                                 | znan                            |
 | γονεύς            | родитель                              | roditelj                        |
-| δαίμων            | божьство (alt: дѹхъ)                  | božanstvo (alt: duh)            |
-| δείκνυμι          | казати                                | kazati (alt: pokazati)          |
+| δαίμων            | божьство (alt. дѹхъ)                  | božanstvo (alt. duh)            |
+| δείκνυμι          | казати                                | kazati (alt. pokazati)          |
 | διακρίνω          | разлѫчити                             | razlučiti                       |
 | διάκρισις         | разлѫченіє                            | razlučenje                      |
 | διαλέγομαι        | разговаривати                         | razgovarati                     |
@@ -98,7 +98,7 @@
 | ἔμψυχος           | дѹшьнъ                                | duševan                         |
 | ἕν                | єдно                                  | jedno                           |
 | ἐναντιοδρομία     | прѣвратъ                              | preobrat                        |
-| ἐνέργεια          | дѣиство (alt: дѣиствиѥ)               | dejstvo (alt: dejstvovanje)     |
+| ἐνέργεια          | дѣиство (alt. дѣиствиѥ)               | dejstvo (alt. dejstvovanje)     |
 | ἐνεργέω           | дѣиствовати                           | dejstvovati                     |
 | ἐνεργής           | дѣиствьнъ                             | dejstven                        |
 | ἔννοια            | мыслъ                                 | misao                           |
@@ -120,7 +120,7 @@
 | εὐδαιμονικός      | благочѧстьнъ                          | blagočestan                     |
 | εὐθυμία           | благодѹшіє                            | blagodušje                      |
 | εὔθυμος           | благодѹшьнъ                           | blagodušan                      |
-| ζεύς              | Зевсъ (alt: небо)                     | Zevs (alt: nebo)                |
+| ζεύς              | Зевсъ (alt. небо)                     | Zevs (alt. nebo)                |
 | ζωή               | животъ                                | život                           |
 | ζῷον              | животно                               | živo biće, životinja            |
 | ἡδονή             | сластъ                                | zadovoljstvo                    |
@@ -133,7 +133,7 @@
 | θεός              | богъ                                  | bog                             |
 | θέσις             | ставъ                                 | stav                            |
 | θεωρία            | зрѣніє                                | motrenje                        |
-| ἰδέα              | вижда                                 | viđa (alt: ideja)               |
+| ἰδέα              | вижда                                 | viđa (alt. ideja)               |
 | ἴδιος             | свои                                  | svoj                            |
 | ἰσότης            | равьность                             | jednakost                       |
 | κακόν             | зло                                   | zlo                             |
@@ -144,7 +144,7 @@
 | κοινός            | общь                                  | opšti                           |
 | κόσμος            | строи, міръ                           | svet, stroj                     |
 | κρᾶσις            | смѣшеніє                              | mešanje                         |
-| κρίνω             | лѫчити (alt: сѫдити)                  | odlučiti (alt: suditi)          |
+| κρίνω             | лѫчити (alt. сѫдити)                  | odlučiti (alt. suditi)          |
 | κρίσις            | лѫченіє                               | odlučenje, odluka               |
 | κυκλικός          | крѫжьнъ                               | kružan                          |
 | κύκλος            | крѫгъ                                 | krug                            |
@@ -159,7 +159,7 @@
 | μεταβολή          | прѣмѣненіє                            | promena                         |
 | μετριότης         | мѣрьность                             | umerenost                       |
 | μέτρον            | мѣра                                  | mera                            |
-| μὴ ὄν             | несѫщее                               | nesušto (alt: nebiće)           |
+| μὴ ὄν             | несѫщее                               | nesušto (alt. nebiće)           |
 | μονάς             | єдиница                               | jedinica                        |
 | μορφή             | обликъ                                | oblik                           |
 | νεῖκος            | вражда                                | vražda                          |
@@ -167,14 +167,14 @@
 | νόημα             | поимъ                                 | pojam                           |
 | νόησις            | поѩтиѥ                                | poimanje                        |
 | νοητόν            | поимно                                | pojamno                         |
-| νοητός            | поимьнъ                               | pojaman (alt: pojmljiv)         |
+| νοητός            | поимьнъ                               | pojaman (alt. pojmljiv)         |
 | νόμος             | законъ                                | zakon                           |
 | νοῦς              | ѹмъ                                   | um                              |
 | οἶδα              | вѣдѣти                                | vedeti (alt. uvideti, znati)    |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
-| τὸ ὄν             | сѫщее                                 | sušto (alt: biće)               |
-| τὰ ὄντα           | сѫщаѧ                                 | sušta (alt: bića)               |
+| τὸ ὄν             | сѫщее                                 | to jeste, biće                  |
+| τὰ ὄντα           | сѫщаѧ                                 | bića (alt. sušta)               |
 | ὀρέγομαι          | тѧжити                                | težiti                          |
 | ὄρεξις            | тѧженіє                               | težnja                          |
 | ὁρμή              | порꙑвъ                                | poriv                          |
@@ -188,7 +188,7 @@
 | περίοδος          | коловратъ                             | kolovrat                        |
 | πλῆθος            | множьство                             | mnoštvo                         |
 | πνεῦμα            | 1. дѹхъ, 2. дъхъ                      | 1. duh, 2. dah                  |
-| πνέω              | дꙑхати (alt: дѹхати)                 | disati (alt: duvati)            |
+| πνέω              | дꙑхати (alt. дѹхати)                 | disati (alt. duvati)            |
 | πνοή              | дъхъ                                  | dah                             |
 | πόλεμος           | рать                                  | rat                             |
 | πόλις             | градъ                                 | grad                            |
@@ -206,7 +206,7 @@
 | σκάφη             | корꙑто                               | korito                           |
 | σοφία             | мѫдрость                              | mudrost                         |
 | στάσις            | 1. стояніє, 2. мѧтежь                 | 1. zastoj, 2. metež             |
-| στίχος            | рѧдъкъ (alt: рѣчь)                    | redak (alt. stih)               |
+| στίχος            | рѧдъкъ (alt. рѣчь)                    | redak (alt. stih)               |
 | στοιχεῖον         | съставъ                               | sastojak                        |
 | συμμετρίη         | съмѣріє                               | samerljivost                    |
 | σύμμετρος         | съмѣрьнъ                              | samerljiv                       |
@@ -234,7 +234,7 @@
 | ὑποδείκνυμι       | указати                               | ukazati                         |
 | ὑπόθεσις          | подставъ                              | postavka                        |
 | ὑπόκειμαι         | подълѣгати                            | podlegati                       |
-| ὑποκείμενον       | подълежащее (alt. подълога)           | podležeće (alt: podloga)        |
+| ὑποκείμενον       | подълежащее (alt. подълога)           | podležeće (alt. podloga)        |
 | ὑπόληψις          | приѩтиѥ                               | prihvatanje                     |
 | φαίνομαι          | ꙗвити сѧ                              | pojaviti se                     |
 | φαινόμενον        | ꙗвленіє                               | pojava                          |
@@ -243,7 +243,7 @@
 | φθορά             | тлѣніє                                | propadanje                      |
 | φιλία             | дрѹжьба                               | prijateljstvo                   |
 | φιλοσοφία         | любомѫдриѥ (alt. философїа)           | filozofija (alt. mudroljublje)  |
-| φιλόσοφος         | любомѫдрьць (alt: философъ)           | filozof (alt. mudroljub)        |
+| φιλόσοφος         | любомѫдрьць (alt. философъ)           | filozof (alt. mudroljub)        |
 | φιλότης           | любовь                                | ljubav                          |
 | φόβος             | страхъ                                | strah                           |
 | φρένες            | разборъ                               | razbor                          |
@@ -253,7 +253,7 @@
 | φυσικός           | природьнъ                             | prirodan                        |
 | φύσις             | природа                               | priroda                         |
 | φύω               | боуꙗти                                | bujati                          |
-| χθονίη            | тьло (alt: Хѳониꙗ)                    | tlo (alt: Htonija)              |
+| χθονίη            | тьло (alt. Хѳониꙗ)                    | tlo (alt. Htonija)              |
 | χρόνος            | врѣмѧ                                 | vreme                           |
 | ψεῦδος            | лъжь                                  | laž                             |
 | ψυχή              | дѹша                                  | duša                            |

@@ -31,6 +31,9 @@
 
 ## Terminologija i UI
 
-- proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku:
-   - demon
-   - stroj, ustroj, red, poredak
+- promeniti da sr bude default jezik
+- za duge citate, dugme Prikaži više treba pre imena autora, ne posle
+- proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works:
+   - sušto, biće
+   - nebiće
+   - bitije
