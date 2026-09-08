@@ -169,7 +169,8 @@ fajlove i zatim prati izmene citata.
 
 Lokalni `npm run build` proverava serverski build bez izvoza hiljada statičkih
 adresa. GitHub Pages koristi `npm run build:static`; tada se unapred generišu
-svi citati, ali za čitava dela samo početna sidra stvarnih čitalačkih stranica.
+svi citati, čitalačke stranice na početnim sidrima i zasebne stranice izvora
+za svaki kanonski odeljak dela.
 
 ## Prikaz
 
@@ -188,6 +189,13 @@ Spisak dela nalazi se na:
 Osnovna adresa dela preusmerava na prvi odeljak. Čitač podržava sadržaj,
 prethodni i sledeći odeljak, izbor jezika i preslovljavanje.
 Ispod prevoda je sklopivi izvorni grčki tekst sa latiničnim preslovljavanjem.
+Klik na suptilnu strelicu `→` na kraju odeljka otvara zasebnu stranicu
+`/<lang>/dela/<author>/<work>/<anchor>/izvor` u istom formatu kao citat:
+izvornik, latinično preslovljavanje grčkog, oba prevoda i bibliografski izvor.
+Veza za čitanje dela vraća na odgovarajuću čitalačku stranicu i sidro odeljka.
+Link se prikazuje jednom po odeljku, i kada njegova granica prolazi kroz
+pasus, bez cepanja pasusa. Sam tekst prevoda nije klikabilan.
+Odeljci bez dostupnog izvornika prikazuju se kao običan tekst.
 
 Stranica autora automatski prikazuje sva dela čiji manifest ima odgovarajuće
 polje `author`.

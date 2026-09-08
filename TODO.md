@@ -31,8 +31,8 @@
 
 ## Terminologija i UI
 
-- ako je moguće bez mnogo napora, da odeljci dužih dela na klik vode na njihove izvore, kao citati trenutno
 - za duge citate, dugme Prikaži više treba pre imena autora, ne posle
+- ako je moguće, tagovati odeljke dugih dela kao i obične citate
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works:
    - sušto, biće
    - nebiće

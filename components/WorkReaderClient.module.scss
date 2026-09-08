@@ -31,6 +31,19 @@
   margin: $spacing-xl 0 $spacing-md;
 }
 
+.sourceLink {
+  display: inline-block;
+  margin-left: $spacing-xs;
+  color: $color-text-light;
+  font-size: $font-size-sm;
+  text-decoration: none;
+
+  &:hover,
+  &:focus-visible {
+    color: $color-text;
+  }
+}
+
 .inlineAnchor,
 .anchorBoundary {
   scroll-margin-top: $spacing-lg;

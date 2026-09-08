@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import classNames from "classnames";
+import SourceTextContent from "./SourceTextContent";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import { getAuthorName, authorSlugs, getSourceName, getSourceAuthor } from "../utils/catalog";
@@ -108,30 +108,7 @@ export default function QuotePageClient({
           {authorData?.src && <img src={authorData.src} alt={authorName} />}
           <h2>{authorName}</h2>
 
-          {quote.originalText && (
-            <blockquote className={styles.originalQuote} lang={isGreek(quote.originalText) ? 'grc' : undefined}>
-              <div>{quote.originalText}</div>
-              {isGreek(quote.originalText) && (
-                <div lang="grc-Latn" className={styles.greekLatin}>{greekToLatin(quote.originalText)}</div>
-              )}
-            </blockquote>
-          )}
-
-          {quote.stsl && (
-            <blockquote lang="cu" className={classNames(styles.stslQuote, {
-              [styles.selectedQuote]: language === 'stsl'
-            })}>
-              {transliterateStsl(quote.stsl)}
-            </blockquote>
-          )}
-
-          {quote.sr && (
-            <blockquote lang="sr" className={classNames(styles.srQuote, {
-              [styles.selectedQuote]: language === 'sr'
-            })}>
-              {transliterateSr(quote.sr)}
-            </blockquote>
-          )}
+          <SourceTextContent language={language} originalText={quote.originalText} sr={quote.sr} stsl={quote.stsl} />
 
           <p className={styles.sourceLine}>
             <b>{t.source}</b>: {quote.sources.map((src, idx) => (

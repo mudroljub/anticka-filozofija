@@ -13,6 +13,8 @@ import type { Language } from '../types/data'
 import styles from './WorkReaderClient.module.scss'
 
 const anchorPattern = /<!--\s*anchor:([^>]+?)\s*-->/gu
+const sourcePattern = /<!--\s*source:([^>]+?)\s*-->/gu
+const markerPattern = /<!--\s*(anchor|source):([^>]+?)\s*-->/gu
 
 const anchorSpans = (anchors: string[], keyPrefix: string) => anchors.map((anchor, index) => (
   <span
@@ -22,16 +24,6 @@ const anchorSpans = (anchors: string[], keyPrefix: string) => anchors.map((ancho
     key={`${keyPrefix}-${anchor}-${index}`}
   />
 ))
-
-const anchoredText = (text: string, keyPrefix: string) =>
-  text.split(anchorPattern).map((part, index) => index % 2 === 0
-    ? part
-    : <span
-        id={part.trim()}
-        className={styles.inlineAnchor}
-        aria-hidden="true"
-        key={`${keyPrefix}-${part}-${index}`}
-      />)
 
 interface WorkReaderClientProps {
   language: Language
@@ -53,9 +45,13 @@ export default function WorkReaderClient({ language, work, sections, readingPage
   const pageLabel = firstSection.anchor === lastSection.anchor
     ? firstSection.anchor
     : `${firstSection.anchor}–${lastSection.anchor}`
-  const pageText = sections.map(({ section, text }) =>
-    `<!-- anchor:${section.anchor} -->${transliterateText(text)}`
-  ).join('')
+  const pageText = sections.map(({ section, text, original }) => {
+    const translated = transliterateText(text)
+    const linkedText = original
+      ? translated.replace(/\s*$/u, whitespace => `<!-- source:${section.anchor} -->${whitespace}`)
+      : translated
+    return `<!-- anchor:${section.anchor} -->${linkedText}`
+  }).join('')
   const textBlocks = pageText
     .split(/\n\s*\n/u)
     .map(value => value.trim())
@@ -67,10 +63,30 @@ export default function WorkReaderClient({ language, work, sections, readingPage
       .map(({ section }) => [section.anchor, section]),
   )
   let pendingAnchors: string[] = []
+  const anchoredText = (text: string, keyPrefix: string) =>
+    text.split(markerPattern).map((part, index, parts) => {
+      if (index % 3 === 0) return part
+      if (index % 3 === 2) return null
+      const anchor = parts[index + 1].trim()
+      if (part === 'anchor') return anchorSpans([anchor], `${keyPrefix}-${index}`)
+      const label = `${t.source}: § ${anchor}`
+      return (
+        <Link
+          key={`${keyPrefix}-${index}`}
+          href={`${basePath}/${encodeURIComponent(anchor)}/izvor`}
+          prefetch={false}
+          className={styles.sourceLink}
+          title={label}
+          aria-label={label}
+        >
+          <span aria-hidden="true">→</span>
+        </Link>
+      )
+    })
 
   textBlocks.forEach((block, index) => {
     const anchors = Array.from(block.matchAll(anchorPattern), match => match[1].trim())
-    const visibleText = block.replace(anchorPattern, '').trim()
+    const visibleText = block.replace(anchorPattern, '').replace(sourcePattern, '').trim()
 
     if (!visibleText) {
       pendingAnchors.push(...anchors)
