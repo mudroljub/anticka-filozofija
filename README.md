@@ -1,12 +1,6 @@
-# Mudre misli (мѫдрыѩ мысли)
+# Antička filozofija
 
-🏛️ Училище Мѫдрости Блатьнограда
-je zamišljena slovenska filozofska škola iz 9. veka koja se nalazila u
-Blatogradu, jednom od središta panonskih Slovena. Tamo su u to vreme boravili
-Ćirilo (Konstantin Filozof) i Metodije sa 50-ak učenika, a grad je postao
-značajno središte slovenske pismenosti. Ovaj projekat pokušava da dočara kako
-bi izgledale studije filozofije da su Sloveni imali univerzitete u srednjem
-veku i kakav bi bio slovenski učeni jezik toga vremena.
+Projekat prevođenja antičke filozofije sa starogrčkog na staroslovenski i srpski jezik.
 
 ## Razvoj
 
@@ -40,4 +34,3 @@ npm start
 - [Diels–Kranz](data/sources/INDEX_DIELS.md)
 - [grčki CTS korpus](data/sources/INDEX_GREEK.md)
 - [Walter Burley](data/sources/INDEX_BURLEY.md)
-

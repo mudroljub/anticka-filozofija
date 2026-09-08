@@ -4,8 +4,8 @@ import { Providers } from '../components/Providers';
 import '../styles/globals.scss';
 
 export const metadata: Metadata = {
-  title: 'Училище мѫдрости',
-  description: 'Slovensko učilište mudrosti Blatnograd',
+  title: 'Antička filozofija',
+  description: 'Projekat prevođenja antičke filozofije sa starogrčkog na staroslovenski i srpski jezik.',
 };
 
 interface RootLayoutProps {
@@ -13,7 +13,7 @@ interface RootLayoutProps {
 }
 
 export default function RootLayout({ children }: RootLayoutProps) {
-  const basePath = process.env.STATIC_EXPORT === 'true' ? '/mudre-misli' : '';
+  const basePath = process.env.STATIC_EXPORT === 'true' ? '/anticka-filozofija' : '';
   const fontPath = `${basePath}/fonts/BukyVede-Regular`;
 
   return (

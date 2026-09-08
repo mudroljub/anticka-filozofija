@@ -28988,8 +28988,8 @@
     "_id": 1676,
     "id": "mm-001377",
     "type": "quote",
-    "sr": "Uži krugovi puni su nepomešane vatre, a oni do njih noći; između njih izliva se deo plamena. U sredini je duh koji svime upravlja; ona započinje svako bolno rađanje i mešanje, šaljući žensko muškom da se spoji, a muško ženskom.",
-    "stsl": "Ѹжьшии крѫзи непомѣшанаго огнѧ пълни · иже же при нихъ нощи пълни · межи ними же чѧсть пламени исходить · Посредѣ дѹхъ · иже вьсѣмь править · она бо вьсакомѹ болѣзньномѹ рожденьѭ и смѣшенію начѧло творить · женьскоє къ мѫжьскомѹ на смѣшеніє посылаѭщи · и пакꙑ мѫжьскоє къ женьскомѹ ·",
+    "sr": "Uži krugovi puni su nepomešane vatre, a oni do njih noći; između njih izliva se deo plamena. U sredini je božanstvo koje svime upravlja; ona započinje svako bolno rađanje i mešanje, šaljući žensko muškom da se spoji, a muško ženskom.",
+    "stsl": "Ѹжьшии крѫзи непомѣшанаго огнѧ пълни · иже же при нихъ нощи пълни · межи ними же чѧсть пламени исходить · Посредѣ божьство · ѥже вьсѣмь править · она бо вьсакомѹ болѣзньномѹ рожденьѭ и смѣшенію начѧло творить · женьскоє къ мѫжьскомѹ на смѣшеніє посылаѭщи · и пакꙑ мѫжьскоє къ женьскомѹ ·",
     "originalText": "αἱ γὰρ στεινότεραι πλῆντο πυρὸς ἀκρήτοιο, αἱ δ᾽ ἐπὶ ταῖς νυκτός, μετὰ δὲ φλογὸς ἵεται αἶσα· ἐν δὲ μέσῳ τούτων δαίμων ἣ πάντα κυβερνᾷ· πάντα γὰρ <ἣ> στυγεροῖο τόκου καὶ μίξιος ἄρχει πέμπουσ᾽ ἄρσενι θῆλυ μιγῆν τό τ᾽ ἐναντίον αὖτις ἄρσεν θηλυτέρῳ.",
     "author": "Parmenides",
     "sources": [
@@ -30436,8 +30436,8 @@
         "reference": "III.67"
       }
     ],
-    "stsl": "Дѹша числьно начѧло имать · тѣло же землемѣрьно ·",
-    "sr": "Duša ima brojno počelo, a telo geometrijsko.",
+    "stsl": "Дѹша числьно начѧло имать · тѣло же пространьно ·",
+    "sr": "Duša ima brojčano počelo, a telo prostorno.",
     "pointer": "data/sources/diogenes-laertius/diogenes-laertius.xml#3.67",
     "tags": [
       "ἀρχή"

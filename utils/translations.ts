@@ -189,7 +189,7 @@ export interface Translations {
 
 export const translations: Record<Language, Translations> = {
   stsl: {
-    siteTitle: 'Ѹчилище Блатьнограда',
+    siteTitle: 'Древьня любомѫдрость',
     randomQuote: 'Слѹчаиноє изрѣчєніє',
     quoteDetails: 'О изрѣчєніи',
     source: 'Источьникъ',
@@ -375,7 +375,7 @@ export const translations: Record<Language, Translations> = {
     },
   },
   sr: {
-    siteTitle: 'Učilište Blatnograda',
+    siteTitle: 'Antička filozofija',
     randomQuote: 'Slučajni citat',
     quoteDetails: 'Detalji citata',
     source: 'Izvor',

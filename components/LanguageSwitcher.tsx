@@ -15,7 +15,7 @@ const languageNames: Record<Language, string> = {
   sr: 'Srpski',
 };
 
-const LANGUAGE_SWITCH_TARGET_KEY = 'mudre-misli:language-switch-target';
+const LANGUAGE_SWITCH_TARGET_KEY = 'anticka-filozofija:language-switch-target';
 
 export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps) {
   const pathname = usePathname();

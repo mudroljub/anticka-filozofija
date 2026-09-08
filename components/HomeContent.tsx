@@ -12,8 +12,8 @@ interface HomeContentProps {
   language: Language;
 }
 
-const HOME_QUOTE_STORAGE_KEY = 'mudre-misli:home-quote-id';
-const LANGUAGE_SWITCH_TARGET_KEY = 'mudre-misli:language-switch-target';
+const HOME_QUOTE_STORAGE_KEY = 'anticka-filozofija:home-quote-id';
+const LANGUAGE_SWITCH_TARGET_KEY = 'anticka-filozofija:language-switch-target';
 
 export default function HomeContent({ quotePool, language }: HomeContentProps) {
   const { t } = useTranslations(language);
