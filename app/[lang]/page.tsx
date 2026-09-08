@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation';
-import { supportedLanguages } from '../../types/data';
+import { defaultLanguage, supportedLanguages } from '../../types/data';
 import { quotesData } from '../../utils/quotes';
 import HomeContent from '../../components/HomeContent';
 import type { Language } from '../../types/data';
@@ -18,7 +18,7 @@ export default function LangPage({ params }: LangPageProps) {
   const lang = params.lang as Language;
 
   if (!supportedLanguages.includes(lang)) {
-    redirect('/stsl');
+    redirect(`/${defaultLanguage}`);
   }
 
   // Keep client hydration light while preserving a broad, deterministic

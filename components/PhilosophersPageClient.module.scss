@@ -6,29 +6,12 @@
 
 .group {
   margin-bottom: $spacing-xl;
-
-  h3 {
-    color: $color-primary;
-    font-size: $font-size-xl;
-    margin-bottom: $spacing-md;
-    border-bottom: $border-width-medium solid $color-primary;
-    padding-bottom: $spacing-xs;
-  }
 }
 
 .subgroups {
   display: flex;
   flex-direction: column;
   gap: $spacing-lg;
-}
-
-.subgroup {
-  h4 {
-    color: $color-text;
-    font-size: $font-size-lg;
-    margin-bottom: $spacing-sm;
-    font-weight: 500;
-  }
 }
 
 .authors {

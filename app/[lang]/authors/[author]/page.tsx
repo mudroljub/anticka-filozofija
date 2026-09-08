@@ -1,5 +1,5 @@
 import { notFound, redirect } from 'next/navigation';
-import { supportedLanguages } from '../../../../types/data';
+import { defaultLanguage, supportedLanguages } from '../../../../types/data';
 import { authorsData, authorFromSlug, authorSlugs } from '../../../../utils/catalog';
 import { quotesData } from '../../../../utils/quotes';
 import AuthorPageClient from '../../../../components/AuthorPageClient';
@@ -28,7 +28,7 @@ export default function AuthorPage({ params }: AuthorPageProps) {
   const lang = params.lang as Language;
 
   if (!supportedLanguages.includes(lang)) {
-    redirect('/stsl');
+    redirect(`/${defaultLanguage}`);
   }
 
   const author = authorFromSlug[params.author];

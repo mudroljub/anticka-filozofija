@@ -1,6 +1,6 @@
 import { notFound, redirect } from 'next/navigation'
 import WorkReaderClient from '../../../../../../components/WorkReaderClient'
-import { supportedLanguages, type Language } from '../../../../../../types/data'
+import { defaultLanguage, supportedLanguages, type Language } from '../../../../../../types/data'
 import { findWorkReadingPage, getWorkReadingPages, readWorkSection } from '../../../../../../utils/workFiles'
 import { findWorkOriginal } from '../../../../../../utils/workOriginals'
 import { findWork, workAuthorSlug, worksData } from '../../../../../../utils/works'
@@ -24,7 +24,7 @@ export function generateStaticParams(): WorkSectionPageProps['params'][] {
 
 export default function WorkSectionPage({ params }: WorkSectionPageProps) {
   const language = params.lang as Language
-  if (!supportedLanguages.includes(language)) redirect('/stsl')
+  if (!supportedLanguages.includes(language)) redirect(`/${defaultLanguage}`)
   const work = findWork(params.author, params.work)
   if (!work) notFound()
   const sectionIndex = work.sections.findIndex(section => section.anchor === decodeURIComponent(params.section))

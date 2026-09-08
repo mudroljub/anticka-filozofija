@@ -1,5 +1,5 @@
 import { notFound, redirect } from 'next/navigation'
-import { supportedLanguages, type Language } from '../../../../../types/data'
+import { defaultLanguage, supportedLanguages, type Language } from '../../../../../types/data'
 import { findWork, workAuthorSlug, worksData } from '../../../../../utils/works'
 
 interface WorkPageProps {
@@ -18,7 +18,7 @@ export function generateStaticParams(): WorkPageProps['params'][] {
 
 export default function WorkPage({ params }: WorkPageProps) {
   const language = params.lang as Language
-  if (!supportedLanguages.includes(language)) redirect('/stsl')
+  if (!supportedLanguages.includes(language)) redirect(`/${defaultLanguage}`)
   const work = findWork(params.author, params.work)
   if (!work) notFound()
   redirect(`/${language}/dela/${params.author}/${params.work}/${encodeURIComponent(work.sections[0].anchor)}`)

@@ -16,6 +16,7 @@ export const entryTypes = [
  */
 export const supportedLanguages = ["stsl", "sr"] as const
 export type Language = (typeof supportedLanguages)[number]
+export const defaultLanguage: Language = "sr"
 
 /**
  * Source reference object.

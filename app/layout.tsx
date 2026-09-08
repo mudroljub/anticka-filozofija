@@ -1,3 +1,4 @@
+import { defaultLanguage, supportedLanguages } from '../types/data';
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 import { Providers } from '../components/Providers';
@@ -17,7 +18,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
   const fontPath = `${basePath}/fonts/BukyVede-Regular`;
 
   return (
-    <html lang="sr" suppressHydrationWarning>
+    <html lang={defaultLanguage === 'stsl' ? 'cu' : 'sr'} suppressHydrationWarning>
       <head>
         <link
           rel="preload"
@@ -33,7 +34,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
         />
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){var p=location.pathname.split('/').filter(Boolean);var l=p.includes('sr')?'sr':'stsl';var s=l==='stsl'?'cyr':'lat';var e=document.documentElement;e.lang=l==='stsl'?'cu':'sr';e.dataset.language=l;e.dataset.script=s;}());`,
+            __html: `(function(){var p=location.pathname.split('/').filter(Boolean);var languages=${JSON.stringify(supportedLanguages)};var l=p.find(function(segment){return languages.includes(segment);})||${JSON.stringify(defaultLanguage)};var s=l==='stsl'?'cyr':'lat';var e=document.documentElement;e.lang=l==='stsl'?'cu':'sr';e.dataset.language=l;e.dataset.script=s;}());`,
           }}
         />
       </head>

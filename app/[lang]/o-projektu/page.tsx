@@ -1,5 +1,5 @@
 import { redirect } from 'next/navigation'
-import { supportedLanguages, type Language } from '../../../types/data'
+import { defaultLanguage, supportedLanguages, type Language } from '../../../types/data'
 import AboutPageClient from './AboutPageClient'
 
 interface AboutPageProps {
@@ -16,7 +16,7 @@ export default function AboutPage({ params }: AboutPageProps) {
   const language = params.lang as Language
 
   if (!supportedLanguages.includes(language)) {
-    redirect('/stsl')
+    redirect(`/${defaultLanguage}`)
   }
 
   return <AboutPageClient language={language} />

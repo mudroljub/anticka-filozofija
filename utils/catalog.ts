@@ -2,6 +2,7 @@ import authorsRaw from '../data/authors.json';
 import placesRaw from '../data/places.json';
 import sourcesRaw from '../data/sources.json';
 import {
+  defaultLanguage,
   supportedLanguages,
   type AuthorsData,
   type PlacesData,
@@ -39,9 +40,9 @@ const authorFromSlug: Record<string, string> = Object.fromEntries(
 );
 
 const getLanguagePreference = (preferred: string): Language =>
-  languages.includes(preferred as Language) ? (preferred as Language) : 'stsl';
+  languages.includes(preferred as Language) ? (preferred as Language) : defaultLanguage;
 
-const getTextForLanguage = (entry: Pick<Entry, 'sr' | 'stsl'>, language: Language = 'stsl'): string => {
+const getTextForLanguage = (entry: Pick<Entry, 'sr' | 'stsl'>, language: Language = defaultLanguage): string => {
   if (language === 'stsl' && entry.stsl) {
     return entry.stsl;
   }
@@ -49,12 +50,12 @@ const getTextForLanguage = (entry: Pick<Entry, 'sr' | 'stsl'>, language: Languag
   return entry.sr || '';
 };
 
-const getAuthorName = (author: string, language: Language = 'stsl'): string => {
+const getAuthorName = (author: string, language: Language = defaultLanguage): string => {
   const t = getTranslation(language);
   return t.philosophers[author as keyof typeof t.philosophers] || author;
 };
 
-const getSourceName = (source: string, language: Language = 'stsl'): string => {
+const getSourceName = (source: string, language: Language = defaultLanguage): string => {
   const metadata = sourcesData[source];
   if (!metadata) return source;
   return language === 'stsl' ? metadata.stsl : metadata.sr;

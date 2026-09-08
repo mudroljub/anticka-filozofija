@@ -1,7 +1,7 @@
 import { notFound, redirect } from 'next/navigation';
 import fs from 'node:fs';
 import path from 'node:path';
-import { supportedLanguages } from '../../../../types/data';
+import { defaultLanguage, supportedLanguages } from '../../../../types/data';
 import { quotesData } from '../../../../utils/quotes';
 import { findDictionaryEntry } from '../../../../utils/dictionary';
 import QuoteCard from '../../../../components/QuoteCard';
@@ -49,7 +49,7 @@ export default function TagPage({ params }: TagPageProps) {
   const tag = decodeURIComponent(params.tag);
 
   if (!supportedLanguages.includes(lang)) {
-    redirect('/stsl');
+    redirect(`/${defaultLanguage}`);
   }
 
   // Filter quotes that have this tag

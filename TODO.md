@@ -31,7 +31,7 @@
 
 ## Terminologija i UI
 
-- promeniti da sr bude default jezik
+- ako je moguće bez mnogo napora, da odeljci dužih dela na klik vode na njihove izvore, kao citati trenutno
 - za duge citate, dugme Prikaži više treba pre imena autora, ne posle
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works:
    - sušto, biće

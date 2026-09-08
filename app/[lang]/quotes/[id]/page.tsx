@@ -1,5 +1,5 @@
 import { notFound, redirect } from 'next/navigation';
-import { supportedLanguages } from '../../../../types/data';
+import { defaultLanguage, supportedLanguages } from '../../../../types/data';
 import { authorsData } from '../../../../utils/catalog';
 import { quotesData } from '../../../../utils/quotes';
 import { findWorkById, workAuthorSlug } from '../../../../utils/works';
@@ -33,7 +33,7 @@ export default function QuotePage({ params }: QuotePageProps) {
   const lang = params.lang as Language;
 
   if (!supportedLanguages.includes(lang)) {
-    redirect('/stsl');
+    redirect(`/${defaultLanguage}`);
   }
 
   const quote = quotesData.find((entry) => entry.id === params.id);
