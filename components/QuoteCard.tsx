@@ -39,6 +39,7 @@ export default function QuoteCard({
   const text = transliterate(getTextForLanguage(entry, language));
   const isLongForm = isLongFormEntry(entry);
   const [isExpanded, setIsExpanded] = useState(false);
+  const showDetails = !isLongForm || isExpanded;
   const visibleText = isLongForm && !isExpanded
     ? getExcerpt(text)
     : text;
@@ -69,7 +70,7 @@ export default function QuoteCard({
       className={classNames(styles.card, styles[entry.type], className)}
       lang={language === 'stsl' ? 'cu' : 'sr'}
     >
-      {entry.type === 'reported' && authorAttribution}
+      {showDetails && entry.type === 'reported' && authorAttribution}
 
       <p className={classNames(styles.quoteText, {
         [styles.expandedQuote]: isLongForm && isExpanded,
@@ -77,9 +78,9 @@ export default function QuoteCard({
         {visibleText}
       </p>
 
-      {entry.type !== 'reported' && authorAttribution}
+      {showDetails && entry.type !== 'reported' && authorAttribution}
 
-      {(isLongForm || showSource) && (
+      {(isLongForm || (showDetails && showSource)) && (
         <div className={styles.cardActions}>
           {isLongForm && (
             <button
@@ -91,7 +92,7 @@ export default function QuoteCard({
               {isExpanded ? t.showLess : t.showMore}
             </button>
           )}
-          {showSource && (
+          {showDetails && showSource && (
             <Link
               href={`/${language}/quotes/${entry.id}`}
               className={styles.sourceLink}

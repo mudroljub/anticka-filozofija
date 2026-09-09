@@ -31,7 +31,7 @@
 
 ## Terminologija i UI
 
-- za duge citate, dugme Prikaži više treba pre imena autora, ne posle
+- wiktionary link nekad vodi na nepostojeći pojam, npr. τὸ ὄν ne postoji ali postoji ὄν. možda za početak izbaciti član za wiktionary linkove?
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works:
    - sušto, biće
    - nebiće
