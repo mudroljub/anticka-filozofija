@@ -173,8 +173,8 @@
 | οἶδα              | вѣдѣти                                | vedeti (alt. uvideti, znati)    |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
-| τὸ ὄν             | сѫщее                                 | to jeste, biće                  |
-| τὰ ὄντα           | сѫщаѧ                                 | bića (alt. sušta)               |
+| τὸ ὄν             | сѫщее                                 | to jeste (alt. biće)            |
+| τὰ ὄντα           | сѫщаѧ                                 | sušta (alt. bića)               |
 | ὀρέγομαι          | тѧжити                                | težiti                          |
 | ὄρεξις            | тѧженіє                               | težnja                          |
 | ὁρμή              | порꙑвъ                                | poriv                          |

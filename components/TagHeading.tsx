@@ -2,6 +2,7 @@
 
 import { useTransliterate } from '../utils/useTransliterate';
 import { greekToLatin, isGreek } from '../utils/greekToLatin';
+import { getWiktionaryUrl } from '../utils/dictionary';
 import type { Language } from '../types/data';
 import styles from './TagHeading.module.scss';
 
@@ -13,7 +14,7 @@ interface TagHeadingProps {
 
 export default function TagHeading({ language, tag, translation }: TagHeadingProps) {
   const transliterate = useTransliterate(language);
-  const wiktionaryUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(tag)}`;
+  const wiktionaryUrl = getWiktionaryUrl(tag);
 
   return (
     <header className={styles.heading}>

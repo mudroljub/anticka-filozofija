@@ -3,6 +3,10 @@
 ## Sadržaj
 
 - prevesti Marko Aurelije — *Samome sebi*
+  - Detaljan plan i završene celine: [PLAN_MARKO_AURELIJE.md](docs/PLAN_MARKO_AURELIJE.md).
+  - [x] I.1–I.4 — provereni izvornik i oba prevoda; redakcija i provera sidara završene.
+  - [x] I.5–I.12 — redigovani oba prevoda, terminologija i raspored pasusa; provere prolaze.
+  - Sledeće: I.13–I.15. Plan sadrži 74 manje prevodne celine i završne provere.
   - [ ] popraviti kompletan stsl prevod Marko Aurelije — *Samome sebi* u skladu sa PREVODJENJE_NA_STAROSLOVENSKI.md
   - [ ] popraviti kompletan srpski prevod Marko Aurelije — *Samome sebi* u skladu sa PREVODJENJE_NA_SRPSKI.md
 
@@ -31,8 +35,7 @@
 
 ## Terminologija i UI
 
-- wiktionary link nekad vodi na nepostojeći pojam, npr. τὸ ὄν ne postoji ali postoji ὄν. možda za početak izbaciti član za wiktionary linkove?
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works:
-   - sušto, biće
+   - sušto, biće, to jeste, jesuće
    - nebiće
    - bitije

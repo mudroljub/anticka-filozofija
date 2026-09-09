@@ -6,6 +6,12 @@ export interface DictionaryEntry {
 
 const plainText = (value: string): string => value.replace(/\*+/gu, '').trim();
 
+export const getWiktionaryUrl = (greekTerm: string): string => {
+  const term = plainText(greekTerm).normalize('NFC')
+    .replace(/^(?:ὁ|ἡ|τό|τὸ|οἱ|αἱ|τά|τὰ)\s+(?=\S)/u, '');
+  return `https://en.wiktionary.org/wiki/${encodeURIComponent(term)}`;
+};
+
 export const parseDictionary = (content: string): DictionaryEntry[] => content
   .replace(/<!--[\s\S]*?-->/gu, '')
   .split('\n')
