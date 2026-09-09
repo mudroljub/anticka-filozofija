@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { defaultLanguage, supportedLanguages } from '../../../../types/data';
 import { quotesData } from '../../../../utils/quotes';
+import { allTags } from '../../../../utils/tags';
 import { findDictionaryEntry } from '../../../../utils/dictionary';
 import QuoteCard from '../../../../components/QuoteCard';
 import Sidebar from '../../../../components/Sidebar';
@@ -23,14 +24,6 @@ export function generateStaticParams(): TagPageProps['params'][] {
   if (process.env.STATIC_EXPORT !== 'true') return [];
 
   const params: TagPageProps['params'][] = [];
-
-  // Collect all unique tags from quotes
-  const allTags = new Set<string>();
-  for (const entry of quotesData) {
-    if (entry.tags) {
-      entry.tags.forEach(tag => allTags.add(tag));
-    }
-  }
 
   // Generate params for each language + tag combination
   for (const lang of supportedLanguages) {

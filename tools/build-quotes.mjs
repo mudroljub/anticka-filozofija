@@ -1,3 +1,4 @@
+import { detectTags, knownGreekTags } from './detect-tags.mjs'
 import { promises as fs } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -9,32 +10,8 @@ const rootDir = path.resolve(__dirname, '..')
 const inputDir = path.join(rootDir, 'data/quotes')
 const outputFile = path.join(rootDir, 'data/quotes.json')
 const sourcesFile = path.join(rootDir, 'data/sources.json')
-const greekTermsFile = path.join(rootDir, 'data/tags.json')
-
-const normalizeGreek = text =>
-  text
-    .normalize('NFD')
-    .replace(/\u0300/g, '\u0301')
-    .normalize('NFC')
-    .toLocaleLowerCase('el')
-
-const escapeRegExp = text => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-
-const greekFormPattern = form => {
-  const normalizedForm = normalizeGreek(form)
-  const expression = escapeRegExp(normalizedForm).replace(/\s+/g, '\\s+')
-
-  return new RegExp(`(?<!\\p{L})${expression}(?!\\p{L})`, 'u')
-}
 
 const sourceRegistry = JSON.parse(await fs.readFile(sourcesFile, 'utf8'))
-const greekTerms = JSON.parse(await fs.readFile(greekTermsFile, 'utf8'))
-const knownGreekTags = new Set(Object.keys(greekTerms))
-const normalizedGreekTerms = Object.entries(greekTerms).map(([tag, forms]) => [
-  tag,
-  forms.map(greekFormPattern),
-])
-
 const files = (await fs.readdir(inputDir))
   .filter(file => file.endsWith('.json'))
   .sort()
@@ -47,26 +24,6 @@ const buildPointer = async (sourceObj, author, originalText) => {
   return resolver
     ? resolver(sourceObj.reference, author, originalText)
     : null
-}
-
-/**
- * Detect Greek philosophical terms in originalText and return tags.
- * @param {string} originalText Greek text to analyze.
- * @returns {string[]} Array of detected term tags.
- */
-const detectTags = originalText => {
-  if (!originalText) return []
-
-  const detectedTags = new Set()
-  const normalizedText = normalizeGreek(originalText)
-
-  for (const [tag, patterns] of normalizedGreekTerms) {
-    if (patterns.some(pattern => pattern.test(normalizedText))) {
-      detectedTags.add(tag)
-    }
-  }
-
-  return [...detectedTags].sort()
 }
 
 const allQuotes = []

@@ -197,6 +197,8 @@ Link se prikazuje jednom po odeljku, i kada njegova granica prolazi kroz
 pasus, bez cepanja pasusa. Sam tekst prevoda nije klikabilan.
 Odeljci bez dostupnog izvornika prikazuju se kao običan tekst.
 
+Sistem tagova obuhvata kratke citate; odeljci čitavih dela nisu uključeni.
+
 Stranica autora automatski prikazuje sva dela čiji manifest ima odgovarajuće
 polje `author`.
 
