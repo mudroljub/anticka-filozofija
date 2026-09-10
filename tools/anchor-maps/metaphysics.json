@@ -1,0 +1,21 @@
+{
+  "work": "aristotle/metaphysics",
+  "anchors": {
+    "994a": {
+      "sr": { "before": "O starima je, dakle, dovoljno." },
+      "stsl": { "before": "Ꙗвьно же єсть · ꙗко єсть нѣкое начѧло" }
+    },
+    "994b": {
+      "sr": { "before": "Ne nastaje ni dete iz čoveka" },
+      "stsl": { "before": "ни отъ чловѣка дѣтище бꙑваєть" }
+    },
+    "995a": {
+      "sr": { "before": "Slušanja se događaju prema običajima" },
+      "stsl": { "before": "А тѣ · ꙗже сѫть мимо того" }
+    },
+    "995b": {
+      "sr": { "before": "Zato treba prethodno sagledati sve teškoće" },
+      "stsl": { "before": "Конець бо томѹ не ꙗвьнъ" }
+    }
+  }
+}
