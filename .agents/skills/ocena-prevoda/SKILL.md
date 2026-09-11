@@ -1,5 +1,5 @@
 ---
-name: ocena-filozofskog-prevoda
+name: ocena-prevoda
 description: Ocenjuje kvalitet postojećih prevoda starogrčke filozofije na projektni staroslovenski (`stsl`) i/ili srpski (`sr`). Koristi ovu veštinu kada korisnik traži filološku proveru, pregled kvaliteta, audit, uzorkovanu ocenu ili izveštaj o prevodima u jednom ili više fajlova. Veština proverava vernost grčkom, slovensku prirodnost, sažetost, ritam, važne pojmovne veze i jezičke norme, uz razumno uzorkovanje koje jasno ograničava zaključke.
 ---
 
