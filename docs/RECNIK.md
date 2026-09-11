@@ -159,7 +159,7 @@
 | μεταβολή          | прѣмѣненіє                            | promena                         |
 | μετριότης         | мѣрьность                             | umerenost                       |
 | μέτρον            | мѣра                                  | mera                            |
-| μὴ ὄν             | несѫщее                               | ne jeste (alt. nebiće)          |
+| μὴ ὄν             | несѫщее                               | ne jeste, nebiće                |
 | μονάς             | єдиница                               | jedinica                        |
 | μορφή             | обликъ                                | oblik                           |
 | νεῖκος            | вражда                                | vražda                          |
@@ -173,8 +173,7 @@
 | οἶδα              | вѣдѣти                                | vedeti (alt. uvideti, znati)    |
 | ὁμολογέω          | съсловити сѧ                          | susloviti se                    |
 | ὁμολογία          | съсловлєніє                           | suslovljenje                    |
-| τὸ ὄν             | сѫщее                                 | to jeste (alt. biće)            |
-| τὰ ὄντα           | сѫщаѧ                                 | sušta (alt. bića)               |
+| τὸ ὄν             | сѫщее                                 | to jeste, biće                  |
 | ὀρέγομαι          | тѧжити                                | težiti                          |
 | ὄρεξις            | тѧженіє                               | težnja                          |
 | ὁρμή              | порꙑвъ                                | poriv                          |

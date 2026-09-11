@@ -17,3 +17,15 @@
    - sušta, bića
    - nebiće
    - bitije
+
+Dileme u prevodu
+
+ἀρχὴν καὶ στοιχεῖον τῶν ὄντων τὸ ἄπειρον:
+- **„Beskraj je početak i sastojak jesućih.“** — bliže grčkoj gramatičkoj formi.
+- **„Beskraj je početak i sastojak svega što jeste.“** — prirodniji srpski, uz očuvanje osnovnog značenja.
+
+Πρεσβύτατον τῶν ὄντων θεός· ἀγένητον γάρ:
+- Najstariji od jesućih jeste bog, jer je nerođen. — bliže grčkoj gramatičkoj formi.
+- Najstariji od svega jeste bog, jer je nerođen. — prirodniji srpski, uz očuvanje osnovnog značenja.
+
+Pravilo može biti: **kad doslovno praćenje pojedine reči ili konstrukcije daje neprirodan srpski, treba je zameniti prirodnijim izrazom, uz očuvanje značenja.**
