@@ -1,11 +1,11 @@
 ---
 name: klesanje-prevoda
-description: Kleše postojeće filozofske prevode na projektni staroslovenski (`stsl`) i/ili srpski (`sr`): sažima ih, oslobađa teške sintakse i izoštrava ritam bez ponovnog prevođenja ili zamene već valjanih reči sinonimima. Koristi ovu veštinu kad korisnik traži klesanje, sažimanje, zgusnuće, ritam, lepši tok ili oslobađanje postojećeg prevoda od viška, a smisao je već prihvaćen kao tačan.
+description: Kleše postojeće filozofske prevode na projektni staroslovenski (`stsl`) i/ili srpski (`sr`): sažima ih, preoblikuje u kratke i prirodne iskaze, oslobađa teške sintakse i izoštrava ritam bez nove filološke redakture. Koristi ovu veštinu kad korisnik traži klesanje, sažimanje, zgusnuće, ritam, lepši tok ili oslobađanje postojećeg prevoda od viška, a smisao je već prihvaćen kao tačan.
 ---
 
 # Klesanje postojećeg prevoda
 
-Klesanje počinje od pretpostavke da prevod prenosi grčku misao. Njegov posao nije nova filološka redaktura, provera svake grčke reči ni potraga za lepšim sinonimima, nego da iz već tačnog teksta ukloni ono što mu ne služi.
+Klesanje počinje od pretpostavke da prevod prenosi grčku misao. Njegov posao nije nova filološka redaktura ni provera svake grčke reči, nego da iz već tačnog teksta isklese kraći, neposredniji i lepši iskaz. To nije puko brisanje: ponekad rečenicu treba preurediti ili opisni oblik zameniti snažnijim, ali samo kada se 100% informacije očuva.
 
 ## Granica posla
 
@@ -15,18 +15,24 @@ Ne otvaraj grčki izvornik rutinski. Otvori ga samo ako predloženo skraćenje m
 
 Kada su data oba prevoda, kleši ih svaki kao sopstveni jezik. Ne izvodi srpski iz `stsl`, niti nameći da budu isti po rečima ili dužini.
 
+## Nepromenljiva granica
+
+Klesanje sme menjati oblik, red reči, sažetost i ritam, ali ne i sadržaj. Sačuvaj 100% onoga što prevod kaže: tvrdnju, negaciju, ogradu, uzrok, uslov, vremenski odnos, lice, broj, vid, poređenje i ton koji nose značenje. Ako kraći oblik makar i nijansirano sužava, proširuje ili menja informaciju, nije klesanje nego nova redaktura.
+
 ## Merilo
 
 Pre rada pročitaj `docs/KLESANJE_PREVODA.md`. Za staroslovenski zatim pročitaj `docs/PREVODJENJE_NA_STAROSLOVENSKI.md`, a za srpski `docs/PREVODJENJE_NA_SRPSKI.md`.
 
 Najpre čitaj rečenicu naglas. Traži samo ovo:
 
-1. reč, veznik, kopulu, zamenicu ili ponavljanje koje može nestati;
+1. reč, veznik, kopulu, zamenicu ili ponavljanje koje može nestati ili ustupiti mesto kraćem, življem obliku;
 2. dugu ili grčki savijenu konstrukciju koja se može raspresti u kratke slovenske udare;
-3. opisnost koju može preuzeti snažna imenica ili glagol iz postojećeg izraza;
-4. slab red reči, ritam ili pauzu koji se mogu popraviti bez izmene rečnika misli.
+3. opisnost koju može preuzeti snažna imenica ili glagol;
+4. slab red reči, ritam ili pauzu koji se mogu popraviti bez pomeranja smisla ili pojmovne mreže.
 
-Prednost imaju oduzimanje, premeštanje i sažimanje. Ne menjaj ispravnu reč samo zato što postoji drugi sinonim, čak ni ako deluje modernije, arhaičnije ili lepše izvan rečenice.
+Prednost imaju oduzimanje, premeštanje i sažimanje. Kada to nije dovoljno, zameni opisni ili mlitavi oblik kraćim i jačim, ali samo zato što cela rečenica time postaje prirodnija i snažnija — ne zbog usamljenog sinonima koji izvan rečenice deluje lepše. Pre promene proveri da li novi oblik čuva svu informaciju, a ne samo opšti smisao.
+
+Na primer, `Pukla mi je guma dok sam se vraćao sa posla.` može postati `Puče mi guma dok sam išao s posla.` Događaj i odnos vremena ostaju, ali izveštaj postaje neposredan udar.
 
 ## Šta ostaje netaknuto
 

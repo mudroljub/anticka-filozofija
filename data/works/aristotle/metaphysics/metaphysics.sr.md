@@ -42,11 +42,11 @@ Jednu, dakle, vinu nazivamo suštastvom i onim što je bilo bitije · jer se ono
 
 <!-- anchor:983b -->
 
-O njima smo dovoljno razmotrili u knjigama o prirodi · ipak uzmimo i one koji su pre nas pristupili ispitivanju suštih i mudrovali o istini.
+O njima smo dovoljno razmotrili u knjigama o prirodi · ipak uzmimo i one koji su pre nas ispitivali sušta i mudrovali o istini.
 
 <!-- anchor:983b.5 -->
 
-Jasno je, naime, da i oni govore o nekim počelima i vinama · pa će njihovim razmatranjem biti nešto korisno za naš sadašnji način istraživanja · ili ćemo pronaći drugi rod vina, ili ćemo više verovati onima o kojima sada govorimo.
+Jasno je da i oni govore o nekim počelima i vinama · njihovo će razmatranje koristiti našem sadašnjem istraživanju · ili ćemo pronaći drugi rod vina, ili ćemo više verovati onima o kojima sada govorimo.
 
 <!-- anchor:983b.10 -->
 
@@ -62,7 +62,7 @@ Ali svi ne govore isto ni o mnoštvu ni o liku takvoga počela. Tales, prvi zač
 
 <!-- anchor:984a -->
 
-Ako je ovo mišljenje o prirodi zaista drevno i staro, teško bi se moglo znati · ipak se kaže da je Tales tako izrekao svoje mišljenje o prvoj vinu. Hipona, međutim, niko ne bi smatrao dostojnim da postavi među ove zbog siromaštva njegova mišljenja.
+Ako je ovo mišljenje o prirodi zaista drevno i staro, teško bi se moglo znati · ipak se kaže da je Tales tako izrekao svoje mišljenje o prvoj vinu. Hipona, međutim, niko ne bi smatrao dostojnim da postavi među ove zbog siromaštva mišljenja.
 
 <!-- anchor:984a.5 -->
 
@@ -86,7 +86,7 @@ Jer ako je svako nastajanje i propadanje iz nečega jednoga ili iz mnogoga, zaš
 
 <!-- anchor:984a.30 -->
 
-A tražiti ovo znači tražiti drugo počelo · ono odakle, kako bismo mi rekli, počinje kretanje.
+Tražiti ovo znači tražiti drugo počelo · ono odakle, kako bismo mi rekli, počinje kretanje.
 
 <!-- anchor:984b -->
 
@@ -94,15 +94,15 @@ Oni koji su od samoga početka dotakli ovaj način istraživanja i tvrdili da je
 
 <!-- anchor:984b.5 -->
 
-Od onih koji tvrde da je sve jedno niko nije uspeo da sagleda ovu vinu, osim možda Parmenida, i to samo utoliko što on ne postavlja samo jedno, nego nekako i dve vine.
+Niko od onih koji kažu da je sve jedno ne sagleda ovu vinu, osim možda Parmenida — i on samo utoliko što ne postavlja samo jedno, nego nekako i dve vine.
 
 <!-- anchor:984b.10 -->
 
-Onima koji postavljaju više počela više priliči da tako govore · na primer onima koji postavljaju toplo i hladno, ili oganj i zemlju. Ognju, naime, pripisuju prirodu koja pokreće, a vodi, zemlji i sličnima suprotnu.
+To više priliči onima koji postavljaju više počela — toplo i hladno, ili oganj i zemlju. Ognju pripisuju pokretačku prirodu, a vodi, zemlji i sličnima suprotnu.
 
 <!-- anchor:984b.15 -->
 
-Posle ovih i ovakvih počela, pošto nisu bila dovoljna da rode prirodu suštih, sama istina ih je, kao što rekosmo, prinudila da ponovo traže sledeće počelo.
+Posle ovih i ovakvih počela, nedovoljnih da rode prirodu suštih, sama istina ih je, kao što rekosmo, prinudila da opet traže sledeće počelo.
 
 <!-- anchor:984b.20 -->
 
@@ -110,93 +110,93 @@ Jer da ono što je dobro i lepo kod jednih suštih postoji, a kod drugih nastaje
 
 <!-- anchor:984b.25 -->
 
-Neko je, dakle, kazavši da je um prisutan u prirodi, kao u živim bićima, i da je u prirodi on vina sveta i celoga poretka, pojavio se kao trezan među onima koji su pre njega govorili nasumice.
+Neko, dakle, reče da je um u prirodi, kao u živim bićima, i vina sveta i svega poretka · među onima pre njega, koji govore nasumice, pojavi se trezan.
 
 <!-- anchor:984b.18 -->
 
-Jasno znamo da se Anaksagora dotakao ovih reči, ali se kaže da je pre njega Hermotim iz Klazomene imao tu misao. Oni koji su tako mislili postavili su zajedno dobrotu kao vinu i počelo suštih, i takvo počelo odakle suštima dolazi kretanje.
+Jasno znamo da se Anaksagora dotakao ovih reči, ali se kaže da je Hermotim iz Klazomene tu misao imao pre njega. Oni koji su tako mislili postaviše dobro i za vinu suštih i za počelo odakle suštima dolazi kretanje.
 
 <!-- anchor:984b.30 -->
 
-Jer i on, uređujući nastajanje svega, kaže: „Najpre od svih bogova ljubav je smislio.“
+Jer i on, uređujući nastajanje svega, kaže: Najpre od svih bogova ljubav je smislio.
 
 <!-- anchor:985a -->
 
-Kako ih treba rasporediti po pitanju toga ko je prvi, ostavimo da se kasnije presudi. Pošto se, međutim, u prirodi pokazalo da postoje i suprotnosti dobrima, i ne samo poredak i lepota nego i nered i ružnoća, i da je zala više nego dobara i ružnoga više nego lepoga, tada je neko drugi uveo ljubav i svađu, od kojih je svako vina suprotnoga.
+Kako ih po prvenstvu rasporediti, ostavimo za kasniju presudu. Kako su se u prirodi pokazale suprotnosti dobrima — ne samo poredak i lepota, nego i nered i ružnoća, a zala više no dobara i ružnoga no lepoga — neko drugi uvede ljubav i svađu, svaku kao vinu suprotnoga.
 
 <!-- anchor:985a.5 -->
 
-Jer ako bi neko sledio misao, a ne ono što Empedokle promuca govoreći, našao bi da je ljubav vina dobara, a svađa vina zala. Zato, ako bi neko rekao da Empedokle na neki način, i među prvima, govori o zlu i dobru kao o počelima, možda bi dobro rekao, ako je samo dobro vina svih dobara.
+Jer ako bi neko sledio misao, a ne Empedoklova mucanja, našao bi ljubav kao vinu dobara, a svađu kao vinu zala. Zato bi možda dobro rekao onaj ko bi tvrdio da Empedokle, na neki način i među prvima, govori o zlu i dobru kao počelima — ako je samo dobro vina svih dobara.
 
 <!-- anchor:985a.10 -->
 
-Ovi, dakle, kao što govorimo, do ovoga mesta izgledaju kao da su dotakli dve vine koje smo mi odredili u knjigama o prirodi · tvar i ono odakle kretanje. Ali nejasno i nimalo jasno, nego kao što neiskusni čine u bitkama.
+Ovi su, kako rekosmo, dovde izgleda dotakli dve vine koje odredismo u knjigama o prirodi · tvar i ono odakle kretanje. Ali nejasno, nimalo jasno — kao što neiskusni rade u bitkama.
 
 <!-- anchor:985a.15 -->
 
-Jer i oni, okrećući se unaokolo, često zadaju dobre udarce, ali ni oni ne čine to po nauci, niti ovi izgledaju da znaju šta govore · jer gotovo nimalo ne koriste ova počela, osim malo.
+Jer i oni, okrećući se unaokolo, često zadaju dobre udarce, ali ne po nauci; ni ovi ne izgledaju da znaju šta govore · jer ova počela koriste tek malo.
 
 <!-- anchor:985a.20 -->
 
-Anaksagora se, naime, umom služi kao oruđem za stvaranje sveta · a kada se pita zbog koje je vine nešto nužno, tada ga ostavlja po strani · u svemu drugome više za nastalo optužuje druge vine nego um.
+Anaksagora se umom služi kao oruđem za stvaranje sveta; ali kad se pita zašto je nešto nužno, ostavlja ga po strani i u svemu drugom za nastalo više krivi druge vine nego um.
 
 <!-- anchor:985a.25 -->
 
-I Empedokle se više služi vinama od ovoga, ali ne dovoljno, niti u njima nalazi ono što bi bilo saglasno · jer kod njega na mnogim mestima ljubav razdvaja, a svađa sastavlja.
+Empedokle se vinama služi više od ovoga, ali nedovoljno i u njima ne nalazi saglasno · jer na mnogim mestima ljubav razdvaja, a svađa sastavlja.
 
 <!-- anchor:985a.30 -->
 
-Jer kada se sve pod vlašću svađe razdvaja na sastave, tada se oganj sastavlja u jedno, i svaki od drugih sastava isto tako · a kada se ponovo pod vlašću ljubavi sastavljaju u jedno, nužno je da se delovi svakoga ponovo razdvoje.
+Jer kada se sve pod vlašću svađe razdvaja na sastave, oganj se sastavlja u jedno, i svaki od drugih sastava isto tako · a kada se ponovo pod vlašću ljubavi sastavljaju u jedno, nužno se delovi svakoga ponovo razdvoje.
 
 <!-- anchor:985b -->
 
-Empedokle je, dakle, za razliku od prethodnih prvi uneo razdvajanje vina · nije postavio jedno počelo kretanja, nego druga i suprotna · a takođe je prvi rekao da postoje četiri sastava koja se kazuju u liku tvari.
+Empedokle prvi među prethodnima razdvoji vine: ne postavi jedno počelo kretanja, nego druga i suprotna; prvi reče i da su četiri sastava u liku tvari.
 
 <!-- anchor:985b.5 -->
 
-Ipak, on se njima ne služi kao četvorima, nego kao da su samo dva · ognjem samim, i onima njemu suprotnima kao jednoj prirodi — zemljom, vazduhom i vodom. To bi neko mogao videti posmatrajući njegove pesme.
+Ipak, ne služi se njima kao četvorima, nego kao dvama: samim ognjem i njemu suprotnima kao jednom prirodom — zemljom, vazduhom i vodom. To bi se moglo videti u njegovim pesmama.
 
 <!-- anchor:985b.10 -->
 
-On je, dakle, kao što kažemo, rekao takva i tolika počela. Leukip i njegov drug Demokrit kažu da su sastavi puno i prazno · govoreći da je jedno sušto, a drugo nesušto.
+Toliko i takvih počela, kako kažemo, on reče. Leukip i njegov drug Demokrit kažu da su sastavi puno i prazno · jedno sušto, drugo nesušto.
 
 <!-- anchor:985b.15 -->
 
-Kažu, međutim, da su tri: oblik, poredak i stav · jer kažu da se sušto razlikuje samo ritmom, dodirom i obrtom. Ritam je oblik, dodir je poredak, a obrt je stav.
+Kažu da su tri: oblik, poredak i stav · jer se sušto razlikuje samo ritmom, dodirom i obrtom: ritam je oblik, dodir poredak, a obrt stav.
 
 <!-- anchor:985b.20 -->
 
-Jer A se razlikuje od N po obliku, AN od NA po poretku, a Z od H po stavu. O kretanju pak, odakle ili kako će pripasti suštima, i ovi su, slično drugima, nemarno ostavili stvar.
+Jer A se od N razlikuje oblikom, AN od NA poretkom, a Z od H stavom. O kretanju — odakle ili kako će pripasti suštima — i ovi, kao i drugi, nemarno ostaviše stvar.
 
 <!-- anchor:985b.25 -->
 
-O dve vine, dakle, kao što govorimo, toliko se izgleda istraživalo među prethodnima.
+Toliko se, kako govorimo, među prethodnima izgleda istražilo o dvema vinama.
 
 <!-- anchor:985b.30 -->
 
 Pošto su brojevi po prirodi prvi među ovim naukama, a u njima se činilo da vide mnoga podražavanja onome što jeste i što nastaje, više nego u ognju, zemlji i vodi — jer je takvo svojstvo broja pravednost, drugo duša i um, drugo vreme, i, da tako kažemo, svako drugo na sličan način · <!-- anchor:986a -->
 
-i pošto su u brojevima videli svojstva i odnose saglasja, pošto se sva ostala priroda činila da je po svemu nalik brojevima, a brojevi su prvi od cele prirode, smatrali su da su sastavi brojeva sastavi svih suštih, i da je celo nebo saglasje i broj.
+i pošto su u brojevima videli svojstva i odnose saglasja, a sva ostala priroda im se po svemu činila nalik brojevima — koji su prvi od cele prirode — smatrali su sastave brojeva sastavima svih suštih, a celo nebo saglasjem i brojem.
 
 <!-- anchor:986a.5 -->
 
-A ono što su nalazili saglasnim u brojevima i saglasjima sa svojstvima i delovima neba i sa celim poretkom, sve su to sabirali i tome prilagođavali.
+Sve što su u brojevima i saglasjima nalazili saglasnim sa svojstvima, delovima neba i celim poretkom, sabirali su i tome prilagođavali.
 
 <!-- anchor:986a.10 -->
 
-A ako bi nešto negde nedostajalo, priključivali bi tome, samo da im celo učenje bude povezano. Kažem, pošto se čini da je desetica savršena i da obuhvata celu prirodu brojeva, kažu da je i ono što se kreće po nebu deset, ali pošto je samo devet vidljivih, zato postavljaju desetu — protuzemlju.
+A ako bi nešto negde nedostajalo, priključivali bi tome, samo da im celo učenje bude povezano. Kako im se desetica činila savršenom i obuhvatnom za celu prirodu brojeva, kažu da je i onoga što se po nebu kreće deset; kako je vidljivo samo devet, postavljaju desetu — protuzemlju.
 
 <!-- anchor:986a.15 -->
 
-O ovome smo na drugom mestu govorili podrobnije. Ali razlog zbog kojega sada njima pristupamo jeste da i od njih uzmemo koja počela postavljaju i kako se ona mogu svesti na već kazane vine.
+O ovome smo drugde govorili podrobnije. Sada im pristupamo da uzmemo koja počela postavljaju i kako se svode na već kazane vine.
 
 <!-- anchor:986a.20 -->
 
-Čini se, dakle, da i oni smatraju broj počelom, i kao tvar suštih, i kao svojstva i stanja · a elementi broja jesu parno i neparno.
+Čini se da i oni broj smatraju počelom — i kao tvar suštih i kao njihova svojstva i stanja · a elementi broja jesu parno i neparno.
 
 <!-- anchor:986a.25 -->
 
-Od ovih je jedno ograničeno, a drugo neograničeno · jedno je iz oba, jer je i parno i neparno · a broj je iz jednoga, i brojevi su, kao što je rečeno, celo nebo.
+Od njih je jedno ograničeno, drugo neograničeno; jedno je iz oba, jer je parno i neparno; broj je iz jednoga, a brojevi su, kao što je rečeno, celo nebo.
 
 <!-- anchor:986a.30 -->
 
@@ -204,83 +204,83 @@ Drugi pak od istih ovih kažu da ima deset počela, koja se kazuju u parovima ·
 
 <!-- anchor:986b -->
 
-Čini se da je tako mislio i Alkmeon iz Krotona, i da je ili on od njih ili oni od njega primio ovaj govor. Jer i Alkmeon, po godinama blizu starom Pitagori, izrekao je nešto slično · kaže da je većina stvari u ljudskom životu u parovima, navodeći suprotnosti ne onako razdvojene kao ovi, nego slučajne, kao belo i crno, slatko i gorko, dobro i zlo, veliko i malo.
+Tako je, čini se, mislio i Alkmeon iz Krotona; ili je on ovaj govor primio od njih, ili oni od njega. I Alkmeon, po godinama blizu starom Pitagori, reče slično: većina stvari u ljudskom životu ide u parovima; suprotnosti ne razdvaja kao ovi, nego navodi slučajne — belo i crno, slatko i gorko, dobro i zlo, veliko i malo.
 
 <!-- anchor:986b.5 -->
 
-On je, dakle, o ostalima govorio bez određenja · Pitagorejci su pak odredili i koliko ima suprotnosti i koje su. Od obojih se može toliko uzeti · da su suprotnosti počela suštih · a koliko ih je i koje su, od drugih.
+On je o ostalima govorio bez određenja, a Pitagorejci odrediše koliko suprotnosti ima i koje su. Od obojih se uzima da su suprotnosti počela suštih; a koliko ih je i koje su — od drugih.
 
 <!-- anchor:986b.10 -->
 
-Kako se, međutim, ovo može svesti na već pomenute vine, kod njih nije jasno razloženo · čini se da elemente postavljaju u vidu tvari · jer kažu da je suštastvo iz njih, kao iz onoga što u njemu postoji, sastavljeno i oblikovano.
+Kako se ovo svodi na već pomenute vine, oni jasno ne razlažu. Elemente, čini se, postavljaju kao tvar: suštastvo je, kažu, iz njih sastavljeno i oblikovano, kao iz onoga što u njemu postoji.
 
 <!-- anchor:986b.15 -->
 
-O starima, dakle, koji su govorili o mnogim sastavima prirode, iz ovoga je dovoljno videti njihovu misao. Ima i nekih koji su o svemu govorili kao o jednoj prirodi, ali ne na isti način, niti svi isto o dobrom niti o onome što je po prirodi.
+Iz ovoga je dovoljno videti misao starih, koji su govorili o mnogim sastavima prirode. Ima i onih koji su o svemu govorili kao o jednoj prirodi, ali ne jednako, niti svi isto o dobru i onome što je po prirodi.
 
 <!-- anchor:987a -->
 
-Parmenid se, po meri govora, drži jednoga po govoru, a Melis po tvari · zato jedan kaže da je ograničeno, a drugi da je neograničeno. Ksenofan, prvi među njima koji je proglasio jedno, jer se kaže da je Parmenid bio njegov učenik, ništa jasno nije izrekao, niti se čini da je dotakao ijednu od ovih priroda · nego, gledajući na celo nebo, kaže da je bog jedno.
+Parmenid jedno drži po govoru, Melis po tvari; zato prvi kaže da je ograničeno, drugi neograničeno. Ksenofan — prvi među njima koji je proglasio jedno, a za Parmenida se kaže da mu je bio učenik — ništa jasno ne izreče niti se čini da je dotakao ijednu od ovih priroda · nego, gledajući celo nebo, kaže da je bog jedno.
 
 <!-- anchor:987a.25 -->
 
-Ove, dakle, kao što rekosmo, treba ostaviti za sadašnje istraživanje · jer su dvojica od njih sasvim i suviše grubi u mišljenju, Ksenofan i Melis. Parmenid, pak, izgleda da vidi bolje i da govori nešto ispravno · pošto mimo suštoga ne dopušta nesuštome da bude išta, po nuždi smatra da je jedno sušto i ništa drugo.
+Kako rekosmo, ove za sada ostavimo: Ksenofan i Melis su u mišljenju sasvim i suviše grubi. Parmenid, pak, izgleda da bolje vidi i govori ispravno: mimo suštoga ne dopušta da nesušto bude išta; zato po nuždi smatra da je jedno sušto i ništa drugo.
 
 <!-- anchor:987a.30 -->
 
-O ovome smo jasnije govorili u knjigama o prirodi. Ali pošto je prinuđen da sledi ono što se pokazuje, i smatra da je jedno po govoru, a mnoštvo po čulu, ponovo postavlja dve vine i dva počela · toplo i hladno, kao oganj i zemlju, od kojih toplo stavlja pod sušto, a drugo pod nesušto.
+O ovome smo jasnije govorili u knjigama o prirodi. Ali, prinuđen da sledi ono što se pokazuje, i držeći jedno po govoru, a mnoštvo po čulu, ponovo postavlja dve vine i dva počela: toplo i hladno, kao oganj i zemlju; toplo stavlja pod sušto, drugo pod nesušto.
 
 <!-- anchor:987b -->
 
-Iz onoga što je rečeno, i od onih koji su već sa nama sedeli u mudrovanju o istini, ovo smo primili · od prvih — telesno počelo, jer su voda, oganj i slične stvari tela · od nekih jedno, od drugih više telesnih počela, ali od obojih postavljenih kao tvar · od drugih pak, osim ovoga, i ono odakle je počelo kretanja, od kojih je kod jednih jedno, a kod drugih dva.
+Iz rečenoga, i od onih koji su s nama već mudrovali o istini, ovo primismo: od prvih telesno počelo — jer su voda, oganj i slične stvari tela; od nekih jedno, od drugih više telesnih počela, ali kod obojih kao tvar; od drugih, osim toga, i počelo kretanja — kod jednih jedno, kod drugih dva.
 
 <!-- anchor:987b.10 -->
 
-Do Italika, a i mimo njih, drugi su o ovome govorili podrobnije · ipak, kao što rekosmo, služe se dvema vinama, a onu od koje je kretanje jedni čine jednom, drugi dvema.
+Do Italika i mimo njih drugi su o ovome govorili podrobnije. Ipak se, kako rekosmo, služe dvema vinama: onu od koje je kretanje jedni čine jednom, drugi dvema.
 
 <!-- anchor:987b.15 -->
 
-Pitagorejci su na isti način govorili o dva počela, ali su ovome dodali nešto što je njihovo posebno · ograničeno i neograničeno nisu smatrali nekim drugim prirodama, kao ognjem ili zemljom ili nečim sličnim, nego su samo neograničeno i samo jedno smatrali suštastvom onoga čemu pripadaju · zato su smatrali da je suštastvo svega broj.
+Pitagorejci su kao i ovi govorili o dva počela, ali su dodali vlastito: ograničeno i neograničeno ne smatraju drugim prirodama, poput ognja, zemlje i sličnog; samo neograničeno i samo jedno drže za suštastvo onoga čemu pripadaju. Zato im je suštastvo svega broj.
 
 <!-- anchor:987b.20 -->
 
-O ovome su, dakle, tako govorili · a o tome šta nešto jeste počeli su da govore i da određuju, ali su time postupali suviše jednostavno. Određivali su površno, i ono čemu je prvo određenje moglo pripasti smatrali su suštastvom stvari.
+O ovome su tako govorili; počeli su govoriti i određivati šta nešto jeste, ali su postupali suviše jednostavno. Određivali su površno: ono čemu prvo određenje pripada smatrali su suštastvom stvari.
 
 <!-- anchor:987b.25 -->
 
-Kao kada bi neko smatrao da su biti dvostruk i biti dvojstvo isto, zato što se dvostruko prvo pripisuje dvoma. Ali možda nije isto biti dvostruk i biti dvojstvo · a ako nije, jedno će biti mnogostruko, što se i njima događalo.
+Kao da neko drži da su biti dvostruk i biti dvojstvo isto, jer se dvostruko prvo pripisuje dvoma. A možda biti dvostruk i biti dvojstvo nisu isto; ako nisu, jedno će biti mnogostruko — kao i kod njih.
 
 <!-- anchor:988a -->
 
-Posle pomenutih mudrovanja nastade Platonovo učenje · u mnogome je sledilo njih, ali je imalo i nešto sopstveno nasuprot italskom mudrovanju.
+Posle pomenutih mudrovanja nastade Platonovo učenje. U mnogome ih sledi, ali nasuprot italskom mudrovanju ima i svoje.
 
 <!-- anchor:988a.5 -->
 
-Od mladosti naviknut najpre na Kratila i na Heraklitova mišljenja, po kojima sva čulna bića neprestano teku i o njima nema nauke, i kasnije je to tako smatrao. Sokrat se bavio etičkim stvarima, a o celokupnoj prirodi ništa nije razmatrao · ipak je u njima tražio opšte i prvi usmerio misao na odredbe. Prihvativši ga zbog toga, Platon je smatrao da se ovo odnosi na neke druge stvari, a ne na čulne.
+Od mladosti naviknut na Kratila i Heraklitova mišljenja — da sva čulna bića neprestano teku i da o njima nema nauke — tako je mislio i kasnije. Sokrat se bavio etičkim stvarima, ne celokupnom prirodom; u njima je tražio opšte i prvi usmerio misao na odredbe. Zato ga Platon prihvati, držeći da se to odnosi na neke druge stvari, a ne na čulne.
 
 <!-- anchor:988a.15 -->
 
-Jer nemoguće je da zajednička odredba pripada nečemu čulnom, pošto se čulne stvari neprestano menjaju. Takve stvari nazvao je viđama, a čulne je govorio da se nazivaju mimo njih i po njima · jer su mnoge čulne stvari istoimene sa vidovima po učestvovanju.
+Zajednička odredba ne može pripadati čulnom: čulne stvari neprestano se menjaju. Takve je stvari nazvao viđama; čulne se, govorio je, nazivaju mimo njih i po njima, jer su mnoge čulne stvari sa vidovima istoimene po učestvovanju.
 
 <!-- anchor:988a.25 -->
 
-Samo je ime „učestvovanje“ promenio · Pitagorejci, naime, kažu da su sušta stvari po podražavanju brojeva, a Platon po učestvovanju, promenivši samo ime. Samo učestvovanje ili podražavanje, kakvo god da je u odnosu na vidove, ostavio je po strani i tražio zajedničko.
+Samo je ime učestvovanje promenio: Pitagorejci kažu da su sušta stvari po podražavanju brojeva, Platon po učestvovanju. Kakvo je učestvovanje ili podražavanje u odnosu na vidove, ostavio je po strani i tražio zajedničko.
 
 <!-- anchor:988a.30 -->
 
-Još je, mimo čulnih stvari, i između njih i vidova postavio matematička sušta · od čulnih se razlikuju po tome što su večna i nepokretna, a od vidova po tome što je čulnih mnogo sličnih, dok je svaki sam vid jedan.
+Mimo čulnih stvari, a između njih i vidova, postavio je matematička sušta: od čulnih se razlikuju večnošću i nepokretnošću, a od vidova time što su matematička sušta mnoga i slična, dok je svaki vid jedan.
 
 <!-- anchor:988b -->
 
-Pošto su vidovi vine drugim stvarima, smatrao je da su njihovi elementi elementi svih suštih. Kao tvar je postavio veliko i malo, a kao suštastvo jedno · iz njih su, po učestvovanju u jednome, brojevi.
+Kako su vidovi vine drugim stvarima, njihove je elemente smatrao elementima svih suštih. Kao tvar postavi veliko i malo, kao suštastvo jedno; iz njih, učestvovanjem u jednome, nastaju brojevi.
 
 <!-- anchor:988b.10 -->
 
-To da je jedno suštastvo, a ne da se jedno naziva nečim drugim što je sušto, govorio je slično Pitagorejcima · i da su brojevi vine suštastva drugih stvari, takođe kao oni.
+Da je jedno suštastvo, a ne ime nečeg drugog što je sušto, govorio je kao Pitagorejci; kao oni i da su brojevi vine suštastva drugih stvari.
 
 <!-- anchor:988b.15 -->
 
-Ali da umesto neograničenog načini dvojstvo kao jedno, a neograničeno iz velikog i malog, to je njegovo posebno. Još, on brojeve postavlja mimo čulnih stvari, dok Pitagorejci kažu da su sami brojevi stvari · a matematička sušta ne postavljaju između ovih.
+Ali da umesto neograničenog načini dvojstvo kao jedno, a neograničeno iz velikog i malog, svojstveno je njemu. On brojeve postavlja mimo čulnih stvari, dok Pitagorejci kažu da su sami brojevi stvari · a matematička sušta ne postavljaju između ovih.
 
 <!-- anchor:988b.20 -->
 
@@ -304,11 +304,11 @@ Još je i vinu dobra i zla pripisao sastavima, svakome po jednu, kao što rekosm
 
 <!-- anchor:989a -->
 
-Iz ovoga je dovoljno videti mišljenja starih o počelima. Posle njih, pošto ima nekih koji tvrde da je sušto jedno, treba i to razmotriti · jer ne govore svi na isti način, nego različito.
+Iz ovoga se dovoljno vide mišljenja starih o počelima. Posle njih treba razmotriti i one koji sušto drže jednim: ne govore svi jednako.
 
 <!-- anchor:989a.5 -->
 
-Parmenid, čini se, smatra da je sušto jedno, a Melis neograničeno. Ako su, dakle, sušto jedno i neograničeno, ne mogu jedno i isto biti oba, pa ni oni ne govore na isti način.
+Parmenid, čini se, drži sušto jednim, Melis neograničenim. Ako su sušto jedno i neograničeno, oba ne mogu biti isto; zato ni oni ne govore jednako.
 
 <!-- anchor:989a.10 -->
 
@@ -316,7 +316,7 @@ Parmenid se, po meri govora, više drži jednoga, a Melis po tvari · zato jedan
 
 <!-- anchor:989a.15 -->
 
-Ove, dakle, kao što rekosmo, treba ostaviti za sadašnje istraživanje · jer su Ksenofan i Melis suviše grubi. Parmenid, pak, vidi bolje i zaista govori nešto ispravno · pošto mimo suštoga nesuštome ne dopušta da bude išta, smatra da je sušto jedno.
+Kako rekosmo, ove za sada ostavimo: Ksenofan i Melis suviše su grubi. Parmenid, pak, vidi bolje i zaista govori ispravno: mimo suštoga nesuštome ne dopušta da bude išta, pa smatra da je sušto jedno.
 
 <!-- anchor:989a.20 -->
 
