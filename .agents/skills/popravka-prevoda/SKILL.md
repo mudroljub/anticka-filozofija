@@ -78,7 +78,20 @@ Proveri:
 4. Da li je `stsl` samostalno slovenski, sažet i ritmičan?
 5. Da li je `sr` samostalan, razumljiv i blago uzvišen, a ne staroslovenski presvučen savremenim rečima?
 
-Ne insistiraj da iste grčke reči imaju isti izraz u svakom pojavljivanju, niti da se `stsl` i `sr` podudaraju reč po reč. Ispravi samo razilaženje koje menja smisao, briše važnu vezu ili kvari prirodnost.
+Ne insistiraj da iste grčke reči imaju isti izraz u svakom pojavljivanju, niti da se `stsl` i `sr` podudaraju reč po reč. Ispravi samo razilaženje koje menja smisao, briše važnu vezu ili čini iskaz zaista nejasnim ili zbunjujućim.
+
+## Visok prag za zamenu reči
+
+Ne menjaj već ispravnu reč samo zato što postoji lepši, kraći ili jednako dobar sinonim. Zamena reči je opravdana samo kada možeš jasno pokazati jedan od ovih nedostataka prema grčkom:
+
+- pogrešan, izostavljen ili obrnut smisao, negacija, referenca ili argument;
+- bitna filozofska razlika ili korenska veza koju prevod stvarno briše;
+- teška dvosmislenost, nejasnoća ili nespretna sintaksa zbog koje razuman čitalac ne može pouzdano razumeti iskaz;
+- stvarna gramatička, grafijska ili sidrena greška koja menja čitanje ili upotrebljivost teksta.
+
+Razlika u nijansi, redosledu reči, stepenu arhaičnosti ili ličnom stilskom ukusu nije dovoljan razlog za zamenu sinonima. Ako se nedostatak ne može kratko i konkretno objasniti uz grčki izvornik, ne menjaj tu reč i ne predlaži varijante.
+
+To ne sprečava pravo klesanje prevoda. Kada je smisao potpun, prvenstvo imaju lepota, sažetost i ritam: ukloni stvarni višak, raskini tešku grčku konstrukciju, sabij dve slabe reči u jednu snažnu i uredi udar rečenice — ali samo dok ne gubiš nijansu, terminološku vezu ili deo misli. Prednost daj oduzimanju i preuređenju postojećeg iskaza, ne zameni već valjane reči drugima.
 
 ## Redosled prioriteta i ekonomija dorade
 
@@ -98,7 +111,7 @@ Ne troši pažnju jednako na svaku nesavršenost. Rediguj ovim redom:
 4. sažetost, ritam i lepotu;
 5. grafiju i druge tehničke sitnice.
 
-Dobra rečenica nije sirovina za preoblikovanje. Za svaku rečenicu napravi najviše jednu ili dve smislene izmene, osim kada je potrebna veća popravka smisla ili argumenta. Ne menjaj izraz samo zato što postoji drugačiji mogući izraz; menjaj ga kada nova verzija vidljivo bolje čuva grčku misao ili daje prirodniji slovenski iskaz.
+Dobra rečenica nije sirovina za preoblikovanje, ali je prvi tačan prevod još kamen za klesanje. Najpre očuvaj ceo smisao; zatim ukloni višak i oslobodi ritam; tek poslednje razmatraj pojedinačnu reč. Ne menjaj valjan izraz zbog sinonima — ako prevod može postati lepši, neka to najpre postigne sažimanjem, prirodnijim sklopom i jačim udarom iste misli.
 
 Vodi kratku radnu belešku samo kada ona štedi budući rad: za novu projektnu rekonstrukciju, stvarnu dvosmislenost grčkog, važnu odluku o pojmovnoj porodici ili ponavljajući stilski problem. Ne pravi beleške o rutinskim stilskim izborima, niti poseban izveštaj ako ga korisnik nije tražio.
 
