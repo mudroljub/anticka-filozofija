@@ -3,11 +3,27 @@
 ## Osnovna načela
 
 * Grčki izvornik je konačni kriterijum značenja i tačnosti.
-* Dosledno koristiti termine i pojmovne porodice iz [RECNIK.md](RECNIK.md).
-* RECNIK.md predstavlja naš ujednačen i sistematizovan jezik i ima prednost nad korpusom.
-* Osnovni smer prevođenja je `grčki → staroslovenski → srpski`.
-* Srpski graditi po uzoru na staroslovenski, uz neposrednu proveru prema grčkom.
-* Cilj je arhaičan slovenski srpski, ne savremeni izraz.
+* [RECNIK.md](RECNIK.md) koristiti kao orijentir za pojmovne porodice i već
+  istražena rešenja, ne kao mapu za doslovnu zamenu termina.
+* Kada rečnički izraz ne služi konkretnom smislu, razumljivosti, ritmu ili
+  lepoti, izabrati prirodniji izraz koji ne briše važnu razliku izvornika.
+* Srpski se prevodi neposredno iz grčkog, ne preko staroslovenskog prevoda.
+* Staroslovenski prevod je jezički i stilski oslonac: pomaže srpskom da dobije
+  slovenski ritam, sažetost, red reči i izbor slike, ali nije posredni izvor
+  značenja.
+* Cilj je blago uzvišen i arhaičan slovenski srpski, kao izraz koji se organski
+  razvio iz staroslovenskog, a ne savremeni izraz premazan arhaizmima.
+
+## Projektna književna pretpostavka
+
+Projekat ne tvrdi da savremeni srpski genetski potiče od staroslovenskog.
+Umesto toga, za potrebe prevoda zamišlja književni razvoj u kojem je srpski
+prevod tokom vekova organski izrastao iz staroslovenskog prevoda.
+
+Zato srpski neposredno prenosi grčki smisao, dok staroslovenski ostavlja
+književni trag: ritam, sažetost, slovensku sliku, nenametljiv red reči i blagu
+uzvišenost. Taj trag ne sme preći u kopiranje oblika niti u veštačku
+arhaizaciju; srpski mora ostati živ, razumljiv i prirodan književni jezik.
 
 ## Postupak prevođenja
 
@@ -16,17 +32,21 @@ Pre srpskog prevoda proveriti:
 * puni grčki izvor i kontekst;
 * važne grčke reči i njihove korenske porodice;
 * odgovarajuće termine i porodice u RECNIK.md;
-* staroslovenski prevod.
+* staroslovenski prevod kao stilski oslonac, uz stalno vraćanje na grčki.
 
-Srpski zatim graditi blisko staroslovenskom, ali ga uvek proveravati prema grčkom.
+Srpski prevod graditi direktno iz grčkog. Staroslovenski upotrebiti da osvetli
+slovenski ritam, zbijenost, mogući red reči, slike i korenske veze; ne
+preuzimati iz njega značenje bez neposredne provere prema grčkom.
 
-Kada grčke reči nema u rečniku, tražiti stsl izraz redom:
+Kada za važan grčki pojam nema korisnog rečničkog oslonca, istražiti mogući
+slovenski izraz redom:
 
 `korpus → praslovenski i srodni slovenski jezici → nova tvorba`
 
 Nove i nepotvrđene slovenske reči dopuštene su i poželjne kada su potrebne za dosledan filozofski jezik.
 
-Ako RECNIK.md nudi više prevoda, prvi je podrazumevan kada se dobro uklapa; ako ne, pokušati alternativu.
+Ako RECNIK.md nudi više prevoda, razmotriti ih kao moguće oslonce i izabrati
+onaj koji najbolje služi grčkom kontekstu i prirodnom srpskom iskazu.
 
 ## Kriterijumi prevoda
 
@@ -36,11 +56,15 @@ Dobar srpski prevod treba da bude:
 2. korenski dosledan;
 3. arhaičan;
 4. blizak staroslovenskom;
-5. prirodan.
+5. prirodan;
+6. blago uzvišen, bez veštačkog arhaiziranja.
 
-Savremenost izraza nije kriterijum. Od starog ili terminološki doslednog izraza odstupati samo kada postaje nerazumljiv.
+Savremenost izraza nije kriterijum. Od starog ili rečničkog izraza odstupiti
+kada prirodniji izraz vernije prenosi smisao, bolje teče ili jasnije govori.
 
-Konačni tekst mora neusiljeno teći. Ne preslikavati mehanički grčku sintaksu, nego je izraziti prirodno slovenski, čuvajući značenje, pojmove i njihove korenske veze.
+Konačni tekst mora neusiljeno teći. Ne preslikavati mehanički ni grčku ni
+staroslovensku sintaksu, nego istu grčku misao izraziti prirodno srpski,
+oslonjen na staroslovenski duh, ritam i zbijenost.
 
 Kada grčki koristi različite bliske termine, čuvati njihovu razliku i u slovenskom. Kada grčki gradi korensku porodicu, težiti odgovarajućoj slovenskoj porodici.
 
@@ -76,32 +100,51 @@ Bolje: `Solon reče: Dobar budi.`
 
 ## Rečnik
 
-RECNIK.md ima prednost nad slobodnim izborom sinonima i korpusom.
+RECNIK.md je radni orijentir, ne zabrana slobodnog izbora. Daje primere
+pojmovnih porodica i mogućih izraza; prevodilac zatim bira oblik koji najbolje
+služi punom grčkom smislu i prirodnoj srpskoj rečenici.
 
-Rečnik daje osnovni član pojmovne porodice, ne iscrpan popis svih njegovih
-izvedenica. Prevodilac sme, kada to zahtevaju grčki oblik i kontekst, da iz
-istoga utvrđenog slovenskog korena izvede odgovarajući oblik. Na primer, uz
-*stroj* mogu stajati *ustroj* i *ustrojenje*; time se čuva, a ne menja,
-rečnički termin.
+Kada je korisno, iz istoga slovenskog korena mogu se izvesti odgovarajući
+oblici: uz *stroj* mogu stajati *ustroj* i *ustrojenje*. Ali isti koren ne
+treba održavati po svaku cenu ako bi prevod postao nejasan ili veštački.
 
-Ne menjati ustaljeni termin samo zato što je druga reč danas češća. Voditi računa o celoj pojmovnoj porodici, ne samo o pojedinačnoj reči.
-
-Kada se tvori nova stsl reč, srpski par po pravilu graditi iz istog slovenskog korena, čak i kada takva reč ne postoji u savremenom standardnom srpskom.
+Kada se tvori nova stsl reč, srpski par može slediti isti slovenski koren ako
+to čuva bitnu vezu izvornika i ostaje razumljivo; inače izabrati prirodniji
+srpski izraz.
 
 Pojmove poput vreme, bog, slučaj, nužda... nikad ne pisati velikim slovom.
+
+## Staroslovenski kao stilski oslonac
+
+Staroslovenski prevod nije međukorak iz kojeg se izvodi srpsko značenje. Oba
+prevoda neposredno odgovaraju grčkom izvorniku.
+
+Dok grčki određuje šta se kaže, staroslovenski može pokazati kako srpski iskaz
+može postati stariji, sažetiji i slovenski obojen: kroz ritam kratkih celina,
+prirodan red reči, snažne imenice i glagole, štedljivu kopulu, particip ili
+infinitiv gde su prirodni, te nenametljivu arhaičnost.
+
+Ne kopirati staroslovenski oblik po oblik. Srpski mora zvučati kao sopstven,
+razumljiv književni jezik koji je organski izrastao iz istog slovenskog tla.
 
 ## Završna provera
 
 1. Da li prevod tačno prenosi grčki?
-2. Da li su termini prethodno provereni u RECNIK.md?
-3. Da li su očuvane pojmovne i korenske porodice?
-4. Da li je srpski dovoljno blizak staroslovenskom?
-5. Da li je izraz razumljiv, arhaičan i prirodan?
+2. Da li je staroslovenski poslužio kao stilski oslonac, a ne kao posredni
+   izvor značenja?
+3. Da li su po potrebi proverena rešenja i porodice u RECNIK.md?
+4. Da li su očuvane pojmovne i korenske veze važne za izvornik?
+5. Da li je srpski blago uzvišen, arhaičan, razumljiv i prirodan?
 6. Da li konačna rečenica neusiljeno teče?
 
 Red prioriteta:
 
-`grčki izvornik → RECNIK.md → staroslovenski → arhaični srpski`
+`grčki izvornik → srpski prevod`
+
+Staroslovenski prevod i rečnički orijentir prate taj neposredni put kao
+stilska i terminološka pomoć:
+
+`grčki izvornik ↔ staroslovenski prevod ↔ srpski prevod`
 
 ## Primeri dobrih prevoda
 

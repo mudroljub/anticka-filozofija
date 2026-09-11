@@ -86,7 +86,8 @@ teksta.
 3. Proveriti grčki tekst van OCR-a u pouzdanom izdanju.
 4. Proveriti postoji li ista misao već u autorskom JSON-u preko drugog izvora.
 5. Sačuvati kanonski `name: "hermann-diels"` i oznaku, na primer `B.17`.
-6. Prevesti prema projektnom rečniku i pravilima, pa validirati podatke.
+6. Prevesti prema grčkom izvorniku i projektnim pravilima, koristeći rečnik
+   kao orijentir, pa validirati podatke.
 
 Prvi provereni Empedoklov paket povezan je na postojeće unose: B 1, B 2, B 6,
 B 17, B 111, B 112, B 117 i B 129. Kao prvi novi unosi dodati su B 11–16,

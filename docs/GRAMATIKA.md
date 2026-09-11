@@ -4,7 +4,8 @@ Ovaj dokument određuje osnovna gramatička pravila jezika koji se u projektu ko
 
 Cilj nije opisati sve varijante istorijskog staroslovenskog, već koristiti gramatičke oblike koji su istorijski mogući i dosledni rekonstruisanom slovenskom filozofskom jeziku VIII veka.
 
-Za terminologiju je glavni autoritet `RECNIK.md`.
+Za terminologiju `RECNIK.md` služi kao orijentir za već istražena rešenja i
+porodice reči; konkretan prevod ne sme postati njegova doslovna primena.
 
 Za opšta pravila rekonstrukcije i stil prevoda vidi `PREVODJENJE_NA_STAROSLOVENSKI.md`.
 
@@ -382,13 +383,18 @@ Jezik projekta je rekonstruisani rani književni slovenski jezik VIII veka.
 
 ## 21. Autoritet izvora
 
-Za terminologiju:
+Za terminološku orijentaciju:
 
 1. `RECNIK.md`
 2. istorijski korpus
 3. praslovenska rekonstrukcija i etimologija
 4. istorijski moguća slovenska tvorba
 5. kasniji slovenski izvori kao pomoć
+
+Ovaj red određuje izvore za razmišljanje, ne obavezno preslikavanje grčke
+reči u jednu rečničku zamenu. Prednost u prevodu imaju puni smisao, prirodan
+slovenski izraz, sažetost, ritam i lepota; zatim proveriti da li su važne
+pojmovne veze sačuvane.
 
 Za gramatiku:
 
@@ -410,7 +416,8 @@ Stručne gramatike imaju prednost nad Wiktionaryjem za gramatičke paradigme.
 
 ## 22. Kontrola pre prihvatanja prevoda
 
-Pre prihvatanja `stsl` rečenice proveriti:
+Pre tehničke provere najpre se uveriti da rečenica nosi punu grčku misao i da
+zvuči slovenski, sažeto, ritmično i lepo. Zatim proveriti:
 
 * da li su padeži pravilni;
 * da li se pridevi i participi slažu;

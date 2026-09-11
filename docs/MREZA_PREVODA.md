@@ -32,4 +32,5 @@ To je ideal mreže prevoda:
 
 > Ne prevoditi samo reč. Prevesti njen položaj u jeziku.
 
-[`RECNIK.md`](RECNIK.md) ostaje autoritet za pojedinačne termine.
+[`RECNIK.md`](RECNIK.md) je orijentir za pojedinačne termine i njihove veze.
+Mreža je sredstvo da se uoči smisao, ne šablon za doslovnu zamenu reči.

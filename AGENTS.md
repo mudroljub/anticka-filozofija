@@ -2,7 +2,7 @@
 
 Zavisno od zadatka koristi:
 
-* `docs/RECNIK.md` — glavni terminološki autoritet projekta
+* `docs/RECNIK.md` — terminološki orijentir i zbirka ranije istraženih rešenja
 * `docs/GRAMATIKA.md` — gramatika i normativna pravila rekonstruisanog slovenskog jezika
 * `docs/PREVODJENJE_NA_STAROSLOVENSKI.md` — pravila rekonstrukcije i staroslovenskog prevoda
 * `docs/PREVODJENJE_NA_SRPSKI.md` — pravila srpskog prevoda
@@ -16,9 +16,9 @@ Zavisno od zadatka koristi:
 
 ## Osnovna pravila
 
-`docs/RECNIK.md` je glavni autoritet za terminologiju.
+`docs/RECNIK.md` je važan terminološki orijentir, ne obavezna mapa za doslovno prevođenje.
 
-Ako je termin već utvrđen u rečniku, koristi taj oblik. Ne menjaj ga samostalno na osnovu korpusa, Wiktionaryja ili drugih izvora. Ako postoji razlog za promenu termina, prvo treba promeniti odluku u rečniku.
+Najpre ga proveri da razumeš postojeća rešenja i porodice reči, ali ne radi pretragu-zamenu grčkih pojmova. U konkretnom odlomku slobodno izaberi prirodniji, razumljiviji i lepši slovenski izraz kada rečnički oblik ne služi punom smislu, ritmu ili duhu prevoda. Ne menjaj sam rečnički unos bez izričitog zahteva; odstupanje u prevodu nije promena rečnika.
 
 Cilj staroslovenskog prevoda nije ograničavanje na reči neposredno potvrđene u sačuvanim spomenicima, već rekonstrukcija autentičnog i istorijski mogućeg slovenskog filozofskog jezika VIII veka.
 
@@ -46,11 +46,11 @@ Pri rekonstrukciji novog termina proveri:
 * istorijske tvorbene obrasce;
 * fonološku i morfološku mogućnost oblika;
 * analogne oblike u istorijskom korpusu;
-* uklapanje u terminološki sistem `docs/RECNIK.md`.
+* odnos prema postojećim terminološkim porodicama iz `docs/RECNIK.md`.
 
-Prednost ima rešenje koje je slovensko, istorijski moguće, semantički precizno i sistemski povezano sa ostalim terminima projekta.
+Prednost ima rešenje koje potpuno prenosi grčku misao, zvuči kao živa slovenska rečenica, sažeto je i lepo, a zatim je istorijski moguće i po potrebi povezano sa ostalim terminima projekta.
 
-Čuvaj porodice reči: isti grčki koren treba, gde značenje dopušta, predstavljati istim slovenskim korenom.
+Čuvaj porodice reči kada su bitne za misao: isti grčki koren, gde značenje i prirodan izraz to dopuštaju, može predstavljati isti slovenski koren.
 
 Korpus koristi za proveru stvarne istorijske upotrebe, morfologije, sintakse, značenja, tvorbenih obrazaca i autentičnosti jezika. Ne koristi ga kao zatvoren spisak dozvoljenih reči.
 

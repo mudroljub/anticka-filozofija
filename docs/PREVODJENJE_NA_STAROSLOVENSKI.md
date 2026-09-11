@@ -9,11 +9,16 @@ Cilj nije doslovna rekonstrukcija govornog jezika VIII veka, niti ograničavanje
 GLAVNO PRAVILO: Sintaksa i grafija prevoda nisu previše bitni. Duh, ritam i lepota prevoda su mnogo bitniji.
 Tehnički detalji nisu od presudnog značaja. Ono što je najvažnije je da prevod ima pravi duh, ritam i lepotu — da zvuči kao autentična slovenska filozofska misao, a ne kao mehanički preveden tekst.
 
-## Autoritet i izbor reči
+## Orijentir i izbor reči
 
-Glavni autoritet projekta je [RECNIK.md](RECNIK.md).
+[RECNIK.md](RECNIK.md) je važan terminološki orijentir: pokazuje ranije
+istražena rešenja, razlike i porodice reči. Nije obrazac za doslovnu
+pretragu-zamenu.
 
-Ako je grčki termin već obrađen u rečniku, koristiti tamo utvrđeni staroslovenski ekvivalent. Ne menjati ga samostalno samo zato što drugi oblik postoji u istorijskom korpusu, crkvenoslovenskom ili savremenim slovenskim jezicima.
+Prevesti treba puni grčki smisao u njegovom konkretnom kontekstu. Rečnički
+oblik upotrebiti kada pomaže toj misli; kada je u odlomku nejasan, neprirodan
+ili ritmički težak, slobodno izabrati razumljiviji i lepši slovenski izraz.
+Takvo odstupanje ne menja samo po sebi rečničku odluku.
 
 Kod termina koji još nisu utvrđeni u rečniku koristiti sledeće izvore i kriterijume:
 
@@ -172,21 +177,22 @@ Primeri:
 * Ἀριστοτέλης → Арістотєль
 
 ## Prevođenje grčkih filozofskih termina
-### Rečnik je glavni autoritet
-Pre prevođenja filozofskog termina prvo proveriti [RECNIK.md](RECNIK.md).
-
-Ako termin postoji u rečniku, koristiti tamo određeni prevod.
+### Rečnik kao terminološki orijentir
+Pre prevođenja filozofskog termina proveriti [RECNIK.md](RECNIK.md) radi
+ranijih rešenja, semantičkih razlika i porodica reči. Ne primenjivati ga kao
+automatsku zamenu grčkih reči.
 
 Rečnik utvrđuje osnovni član terminološke porodice, ne zatvoren spisak svih
 njegovih gramatičkih i tvorbenih oblika. Kada to traže grčki oblik, sintaksa i
 smisao, dopušteno je upotrebiti istorijski moguć izvedeni oblik iz istoga
-slovenskog korena, bez napuštanja rečničke odluke. Tako uz `строи` prema
+slovenskog korena, bez nužnog ponavljanja istog rečničkog izraza. Tako uz `строи` prema
 kontekstu mogu stajati `ѹстрои`, `ѹстроєниє` i druge pravilno izvedene reči;
 srpski prevod čuva istu porodicu: *stroj*, *ustroj*, *ustrojenje*.
 
-Korpus, etimološki rečnici, praslovenske rekonstrukcije i drugi izvori mogu služiti za proveru i dalje istraživanje, ali ne menjaju automatski već donesenu terminološku odluku.
-
-Ako postoji razlog da se postojeći unos u rečniku promeni, prvo razmotriti promenu samog rečnika, a zatim dosledno primeniti novu odluku na prevode.
+Korpus, etimološki rečnici, praslovenske rekonstrukcije i drugi izvori služe
+za proveru i dalje istraživanje. Njima proceni da li odabrani izraz nosi
+grčku misao i zvuči prirodno slovenski; rečnički unos ne mora se menjati zato
+što prevod u jednom kontekstu bira drugi izraz.
 
 ### Čuvanje mreže reči
 Jezik je mreža znanja: značenje nije samo u pojedinačnim rečima nego i u vezama među njima. Zato prevod treba, gde je moguće, da sačuva korene, srodstva i razlike među pojmovnim porodicama.
@@ -245,12 +251,15 @@ ako se pojam može izraziti odgovarajućom slovenskom rečju ili istorijski mogu
 
 Koristiti jezičke oblike prirodne za staroslovenski. Ne kopirati grčki red reči ako narušava slovensku konstrukciju.
 
-## Princip jedan na jedan
-Težiti odnosu:
+## Doslednost bez mehanike
 
-`jedna grčka reč → jedna staroslovenska reč → jedna srpska reč`
+Kada grčki koren, suprotnost, ponavljanje ili razlika među pojmovima nose
+misao, nastojati da se sačuvaju odgovarajućom slovenskom mrežom reči.
 
-Ne koristiti sinonime ili opisne prevode bez potrebe. Srodne grčke reči po pravilu prevoditi odgovarajućom slovenskom porodicom reči.
+To nije pravilo `jedna grčka reč → jedna staroslovenska reč → jedna srpska
+reč`. Kontekst može tražiti drukčiji oblik, prirodniji sinonim ili kraću
+konstrukciju. Takav izbor je dobar ako potpuno čuva filozofsku misao i ne
+briše razliku koja je u izvorniku važna.
 
 ## Uloga staroslovenskog korpusa
 Korpus je jedan od glavnih instrumenata rekonstrukcije, ali nije konačni autoritet za izbor filozofskog termina.

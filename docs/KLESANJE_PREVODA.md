@@ -140,7 +140,8 @@ Ne sme se ukloniti sve što se može ukloniti.
 
 Moraju se sačuvati:
 
-- filozofski termini utvrđeni rečnikom;
+- filozofske razlike i termini iz rečnika kada u konkretnom kontekstu nose
+  misao;
 - važni zajednički koreni;
 - etimološke veze;
 - suprotnosti;
@@ -167,7 +168,8 @@ Isto važi za utvrđene terminološke porodice. Ako grčki gradi više filozofsk
 
 ## 7. Razlikovati termin od obične reči
 
-Klesanje ne sme uništiti terminološki sistem rečnika.
+Klesanje ne sme uništiti filozofske razlike, korenske veze i mrežu misli koju
+rečnik pomaže da se uoči. Rečnik je orijentir, a ne zabrana prirodnijeg izraza.
 
 Na primer:
 
@@ -179,7 +181,9 @@ ali:
 
 Nije svaka grčka reč za govor isto što i filozofski `λόγος`.
 
-Kraći ili prirodniji izraz nije bolji ako ruši već utvrđenu terminološku razliku.
+Kraći ili prirodniji izraz nije bolji ako briše filozofsku razliku izvornika;
+ali jeste bolji kada tu razliku čuva, a rečnički oblik bi samo opteretio
+rečenicu.
 
 ## 8. Klesati i srpski prevod
 
