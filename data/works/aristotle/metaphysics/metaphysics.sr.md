@@ -32,8 +32,6 @@ Ali treba doći do suprotnoga i do boljega, po poslovici, i tako dovršiti istra
 
 Dakle, rečeno je kakva je priroda nauke koju tražimo, i koji je cilj do kojega istraživanje treba da dospe, i kakav je ceo način istraživanja.
 
-<!-- anchor:983b -->
-
 Pošto je jasno da nauku treba zadobiti od prvih vina · jer tada kažemo da svaku stvar znamo kada mislimo da poznajemo prvu vinu · a vine se kazuju na četiri načina.
 
 <!-- anchor:983b.25 -->
@@ -41,6 +39,8 @@ Pošto je jasno da nauku treba zadobiti od prvih vina · jer tada kažemo da sva
 Jednu, dakle, vinu nazivamo suštastvom i onim što je bilo bitije · jer se ono „radi čega“ svodi na poslednje slovo, a vina i počelo jeste prvo „radi čega“. Drugu nazivamo tvari i podloženim · treću onim odakle počinje kretanje · četvrtu pak suprotnom od ove, to jest onim radi čega i dobrom · jer to je svrha svakog rođenja i kretanja.
 
 <!-- anchor:983b.30 -->
+
+<!-- anchor:983b -->
 
 O njima smo dovoljno razmotrili u knjigama o prirodi · ipak uzmimo i one koji su pre nas pristupili ispitivanju suštih i mudrovali o istini.
 

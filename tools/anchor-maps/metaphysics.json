@@ -1,6 +1,18 @@
 {
   "work": "aristotle/metaphysics",
   "anchors": {
+    "983b": {
+      "sr": { "before": "O njima smo dovoljno razmotrili u knjigama o prirodi" },
+      "stsl": { "before": "Обаче приимемъ и тѣхъ" }
+    },
+    "984a": {
+      "sr": { "before": "Ako je ovo mišljenje o prirodi zaista drevno i staro" },
+      "stsl": { "before": "Аще ѹбо сіе мьнѣніє древьно и прѣстаро" }
+    },
+    "985a": {
+      "sr": { "before": "Kako ih treba rasporediti po pitanju toga ko je prvi" },
+      "stsl": { "before": "Понеже же ꙗвлѧхѫ сѧ въ природѣ" }
+    },
     "994a": {
       "sr": { "before": "O starima je, dakle, dovoljno." },
       "stsl": { "before": "Ꙗвьно же єсть · ꙗко єсть нѣкое начѧло" }

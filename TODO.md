@@ -3,7 +3,6 @@
 ## Sadržaj
 
 - popraviti Aristotel - Metafizika
-  - proveriti sidra
   - [ ] popraviti kompletan stsl u skladu sa PREVODJENJE_NA_STAROSLOVENSKI.md
   - [ ] popraviti kompletan srpski u skladu sa PREVODJENJE_NA_SRPSKI.md
 
