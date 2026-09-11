@@ -4,7 +4,17 @@ Prevod se ne završava kada je grčki tekst tačno prenesen. Prvi tačan prevod 
 
 Zatim se prevod kleše sloj po sloj: najpre reči, zatim konstrukcije, pa ritam. Skida se sve što nije neophodno, dok ne ostane najkraći, najprirodniji i najsnažniji slovenski izraz koji potpuno čuva izvornu misao.
 
-Cilj nije pojednostaviti misao, nego sabiti jezik.
+Klesanje nije samo oduzimanje. Kada brisanje ne oslobađa rečenicu, opisni ili mlitavi oblik može se preoblikovati u kraći i snažniji, ali samo uz potpunu — 100% — očuvanost informacije. Cilj nije pojednostaviti misao, nego sabiti jezik.
+
+Primer običnog srpskog iskaza:
+
+`Pukla mi je guma dok sam se vraćao sa posla.`
+
+→
+
+`Puče mi guma dok sam išao s posla.`
+
+Drugi oblik nije tek kraći: zbija događaj u neposredan udar, a zadržava svu informaciju. Takvo preoblikovanje vredi samo kada ne briše ni najmanju nijansu, odnos ili filozofsku razliku.
 
 ## 1. Najpre isklesati reči
 
@@ -274,7 +284,7 @@ Treći uklanja višak.
 
 Peti kleše ritam.
 
-Prevod je isklesan kada se više ništa ne može oduzeti, a da se nešto iz izvornika ne izgubi.
+Prevod je isklesan kada se više ništa ne može oduzeti, sabiti ili preurediti, a da se izgubi makar i najmanji deo informacije iz izvornika ili da iskaz ne oslabi.
 
 Ne pojednostaviti misao.
 
