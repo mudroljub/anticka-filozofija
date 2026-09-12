@@ -3,8 +3,8 @@
         "id":  "mm-900304",
         "type":  "bio",
         "year":  -160,
-        "sr":  "Antipatar, rodom iz Tarsa, bio je učenik Diogena Vavilonjanina.",
-        "stsl":  "Антіпатръ · родомь отъ Тарса · ѹченикъ Діогена Вавѵлонꙗнина бѣ ·",
+        "sr":  "Antipatar, stoik rodom iz Tarsa, bio je učenik Diogena Vavilonjanina.",
+        "stsl":  "Антіпатръ · стоикъ · родомь отъ Тарса · ѹченикъ Діогена Вавѵлонꙗнина бѣ ·",
         "originalText":  "ἄνδρες δ’ ἐξ αὐτῆς τῆς Ταρσοῦ γεγόνασι τῶν Στωϊκῶν Ἀντίπατρος. Διογένης ὁ Βαβυλώνιος ἀκροατὴς γεγονὼν Ἀντιπάτρου καθηγητὴς γέγονε.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -18,8 +18,8 @@
         "id":  "mm-900305",
         "type":  "bio",
         "year":  -150,
-        "sr":  "Protiv Karneada napisao je toliko knjiga da je prozvan Trskoglasnikom: nije hteo da mu se suprotstavi usmeno, nego je knjige punio odgovorima.",
-        "stsl":  "Противѹ Карнеадѹ толико кънигъ написа · ꙗко Тръстьногласьць проꙁъванъ бꙑстъ · не хотѣ бо ѹстꙑ противѹ ємѹ стати · нъ кънигꙑ отъвѣтꙑ исплънꙗаше ·",
+        "sr":  "Stoik Antipatar, ne mogavši niti htejući sučeliti se s Karneadom, pisao je i punio knjige pobijanjima, pa je prozvan Trskoglasnikom.",
+        "stsl":  "Стоикъ Антіпатръ · не могꙑи ни хотѧи противѹ Карнеадѹ стати · писаше и кънигꙑ отъвѣтꙑ исплънꙗаше · тѣмь Тръстьногласьць проꙁъванъ бꙑстъ ·",
         "originalText":  "ὁ Στωϊκὸς Ἀντίπατρος, μὴ δυνάμενος μηδὲ βουλόμενος ὁμόσε χωρεῖν τῷ Καρνεάδῃ, γράφων δὲ καὶ πληρῶν τὰ βιβλία τῶν πρὸς αὐτὸν ἀντιλογιῶν καλαμοβόας ἐπεκλήθη.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -33,8 +33,8 @@
         "id":  "mm-900306",
         "type":  "anecdote",
         "year":  -129,
-        "sr":  "Na samrti se prisećao dobara koja su ga zadesila i nije zaboravio ni povoljnu plovidbu iz Kilikije u Atinu. Svaki dar sreće primao je s velikom zahvalnošću i do kraja ga čuvao u sećanju, najpouzdanijoj riznici ljudskih dobara.",
-        "stsl":  "При смрьти добра ꙗже ємѹ прилѹчишѧ сѧ поминааше · ни благоѥ плаваниѥ отъ Кілікіѧ въ Аѳинꙑ не забꙑ · Къжьдо бо сѫдьбꙑ даꙗниѥ съ великоѭ благодарьностиѭ приимаше · и до коньца въ памѧти съхранꙗаше · тврьдѣишти съкровишти чловѣчьскꙑихъ добръ ·",
+        "sr":  "Na samrti, prebirući po dobrima koja su ga zadesila, nije propustio ni srećnu plovidbu iz Kilikije u Atinu. Svaki je dar smatrao velikom milošću i do kraja ga čuvao u sećanju; čoveku nema pouzdanije riznice dobara od sećanja.",
+        "stsl":  "При коньци добра ꙗже ємѹ прилѹчишѧ сѧ поминааше · ни благоѥ плаваниѥ отъ Кілікіѧ въ Аѳинꙑ не остави · Вьсако даꙗниѥ въ великѫ благодать полагааше и до коньца въ памѧти съхранꙗаше · Памѧть бо тврьдѣише съкровиште чловѣчьскꙑихъ добръ ·",
         "originalText":  "πρὸς τῷ τελευτᾶν ὧν ἔτυχεν ἀγαθῶν ἀναλογιζόμενος οὐδὲ τὴν εὔπλοιαν παρέλιπε τὴν ἐκ Κιλικίας αὐτῷ γενομένην εἰς Ἀθήνας, ἅπασαν δόσιν εἰς μεγάλην χάριν τιθέμενον καὶ σώζοντα τῇ μνήμῃ διὰ τέλους, ἧς οὐδέν ἐστιν ἀνθρώπῳ ταμιεῖον ἀγαθῶν βεβαιότερον.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -75,8 +75,8 @@
     {
         "id":  "mm-900309",
         "type":  "reported",
-        "sr":  "Onaj ko tvrdi da se ništa ne može saznati mora dopustiti da je saznavna barem sama tvrdnja da se ništa ne može saznati.",
-        "stsl":  "Иже ничтоже съзнати сѧ можеть глаголеть · понѣ самъ тъ глаголъ съзнатьливъ бꙑти исповѣдати имать · ꙗко ничтоже съзнати сѧ можеть ·",
+        "sr":  "Ko tvrdi da se ništa ne može saznati, mora priznati da se može saznati barem ovo jedno: da se ostalo ne može saznati.",
+        "stsl":  "Иже ничтоже съзнати сѧ можеть глаголеть · єдино се съзнати сѧ можеть исповѣдати имать · ꙗко ина не могутъ сѧ съзнати ·",
         "originalText":  "ei qui affirmaret nihil posse percipi, unum tamen illud dicere percipi posse consentaneum esse, ut alia non possent.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -103,8 +103,8 @@
     {
         "id":  "mm-900311",
         "type":  "reported",
-        "sr":  "I zaključak s jednom izrečenom premisom može biti potpun: Dišeš; dakle živiš. Drugu, poznatu premisu — Svako ko diše živi — slušalac sam pridodaje.",
-        "stsl":  "И съвъдъ съ єдиноѭ изреченоѭ предпоставоѭ съврьшенъ бꙑти можеть · Дꙑшеши · живеши ѹбо · Дрѹгѫѭ же вѣдомѫ предпоставѫ · Вьсь дꙑшѧи живеть · слꙑшатель самъ прилагаѥть ·",
+        "sr":  "„Dišeš, dakle živiš” jeste, čini se, silogizam: slušalac sam pridodaje drugu, poznatu premisu — „Svako ko diše živi.”",
+        "stsl":  "«Дꙑшеши · живеши ѹбо» мьнить сѧ съвъдъ єсть · понеже слꙑшатель самъ дрѹгѫѭ вѣдомѫ предпоставѫ прилагаѥть · «Вьсь дꙑшѧи живеть.»",
         "originalText":  "Vides: vivis igitur. τὸ γὰρ ἀναπνεῖς, ζῇς ἄρα δοκεῖ συλλογισμὸς εἶναι, ὅτι παρ’ αὑτοῦ προστίθησιν ὁ ἀκούσας τὴν ἑτέραν πρότασιν οὖσαν γνώριμον, τὴν πᾶς ὁ ἀναπνέων ζῇ.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -117,8 +117,8 @@
     {
         "id":  "mm-900312",
         "type":  "reported",
-        "sr":  "Moguće je ono što niti jeste niti će biti istinito; iz mogućeg ne sledi nemoguće; ali nije svaka istinita prošlost nužna.",
-        "stsl":  "Можьно єсть єже ни истиньно єсть ни истиньно бѫдеть · отъ можьнаго неможьно не послѣдѹѥть · не вьсака же истиньна мимошьдьшаꙗ нѫжьна ·",
+        "sr":  "Ima nečeg mogućeg što niti je niti će biti istinito; iz mogućeg ne sledi nemoguće; ali nije sve što je istinito u prošlosti nužno.",
+        "stsl":  "Можьно єсть єже ни истиньно єсть ни истиньно бѫдеть · отъ можьнаго неможьно не послѣдѹѥть · не вьсако же истиньно минѫвъше нѫжьно ·",
         "originalText":  "ἔστι τέ τι δυνατόν, ὃ οὔτ’ ἔστιν ἀληθὲς οὔτ’ ἔσται, καὶ δυνατῷ ἀδύνατον οὐκ ἀκολουθεῖ· οὐ πᾶν δὲ παρεληλυθὸς ἀληθὲς ἀναγκαῖόν ἐστι.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -159,8 +159,8 @@
     {
         "id":  "mm-900315",
         "type":  "quote",
-        "sr":  "Ko bogovima oduzima dobrotvornost, delimično ruši naš prethodni pojam o njima; tako čini i ko misli da oni nastaju i propadaju.",
-        "stsl":  "Иже богомъ благотворениѥ отъиметь · часть прѣдъмꙑсла нашего о нихъ раꙁараѥть · такожде иже мнить ꙗко раждаѭть сѧ и погꙑбаѭть ·",
+        "sr":  "Ko bogovima oduzima dobrotvornost, napada jedan deo našeg prethodnog pojma o njima; isto čini i ko misli da i oni imaju udela u postanku i propasti.",
+        "stsl":  "Иже богомъ благотворениѥ отъиметь · часть прѣдъмꙑсла нашего о нихъ раꙁараѥть · такожде иже мнить ꙗко и ти рожденьѭ и погꙑбели причѧстьни сѫть ·",
         "originalText":  "ὅσοι δὲ περιαιροῦνται τὸ εὐποιητικὸν ἐκ τῶν θεῶν, ἀπὸ μέρους προσβάλλουσι τῇ τούτων προλήψει· κατὰ τὸν αὐτὸν λόγον καὶ οἱ νομίζοντες αὐτοὺς γενέσεως τε καὶ φθορᾶς κοινωνεῖν.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -187,8 +187,8 @@
     {
         "id":  "mm-900317",
         "type":  "reported",
-        "sr":  "Svet je jedan, ograničen i kuglast, jer taj oblik najbolje odgovara kretanju. Božje suštastvo nalik je vazduhu.",
-        "stsl":  "Миръ єдинъ · коньчьнъ и крѫгловидьнъ · тъ бо обликъ движению подобьнѣиши · Божиѥ сѫштьство въздѹхѹ подобьно ·",
+        "sr":  "Svet je jedan, ograničen i kuglast, jer taj oblik najbolje odgovara kretanju. Njegovo je suštastvo nalik vazduhu.",
+        "stsl":  "Миръ єдинъ · коньчьнъ и крѫгловидьнъ · тъ бо обликъ движению подобьнѣиши · сѫштьство же его въздѹшьно ·",
         "originalText":  "ἕνα τὸν κόσμον εἶναι καὶ τοῦτον πεπερασμένον, σχῆμα ἔχοντα σφαιροειδές· πρὸς γὰρ τὴν κίνησιν ἁρμοδιώτατον τὸ τοιοῦτον. ἀεροειδῆ φησιν αὐτοῦ τὴν οὐσίαν.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -215,8 +215,8 @@
     {
         "id":  "mm-900319",
         "type":  "reported",
-        "sr":  "Sve prema prirodi ima vrednost, a sve protiv prirode nevrednost. Izborna vrednost jeste ona po kojoj, kada nam stvari dopuštaju, biramo zdravlje pre bolesti, život pre smrti i bogatstvo pre siromaštva.",
-        "stsl":  "Вьсе по природѣ цѣнѫ имать · вьсе же противѹ природѣ безцѣниѥ · Изборьнаꙗ цѣна єсть по неиже · єгда вещи даѭть · здравиѥ паче болѣꙁни · животъ паче смрьти · богатъство паче ништетꙑ избираѥмъ ·",
+        "sr":  "Sve prema prirodi ima vrednost, a sve protiv prirode nevrednost. Treća vrednost, koju Antipatar naziva izbornom, jeste ona po kojoj, kad okolnosti dopuštaju, biramo zdravlje pre bolesti, život pre smrti i bogatstvo pre siromaštva.",
+        "stsl":  "Вьсе по природѣ цѣнѫ имать · вьсе же противѹ природѣ безцѣниѥ · Третиꙗ цѣна · ѭже Антіпатръ изборьнѫ нарицаєть · по неиже · єгда вещи даѭть · здравиѥ паче болѣꙁни · животъ паче смрьти · богатъство паче ништетꙑ избираѥмъ ·",
         "originalText":  "πάντα δὲ τὰ κατὰ φύσιν ἀξίαν ἔχειν καὶ πάντα τὰ παρὰ φύσιν ἀπαξίαν. τὴν τρίτην, ἣν ὁ Ἀντίπατρος ἐκλεκτικὴν προσαγορεύει, καθ’ ἣν διδόντων τῶν πραγμάτων τάδε τινὰ μᾶλλον ἀντὶ τῶνδε αἱρούμεθα, οἷον ὑγίειαν ἀντὶ νόσου καὶ ζωὴν ἀντὶ θανάτου καὶ πλοῦτον ἀντὶ πενίας.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -229,8 +229,8 @@
     {
         "id":  "mm-900320",
         "type":  "reported",
-        "sr":  "Spoljašnje stvari ponešto doprinose vrhovnom dobru, ali veoma malo: kao da čoveku sunce nije dovoljno bez sjaja nekog plamička.",
-        "stsl":  "Вьнѣшьнꙑѧ вещи нѣчьто къ вꙑшьнѥмѹ добрѹ прилагаѭть · ꙁѣло же мало · ꙗкоже аще слъньце не довълно безъ свѣта малаго огньца ·",
+        "sr":  "Antipatar kaže da spoljašnje stvari nešto doprinose, ali sasvim malo. Vidiš koliko je to malo: zar ti sunce nije dovoljno bez svetla nekog plamička?",
+        "stsl":  "Антіпатръ глаголетъ · ꙗко вьнѣшьнꙑѧ вещи нѣчьто прилагаѭть · ꙁѣло же мало · Видиши ли колико? Єда ти слъньце не довълно · аще малъ огньць не възсиѥть?",
         "originalText":  "Antipater quoque aliquid se tribuere dicit externis, sed exiguum admodum. vides autem quale sit, sole te non esse contentum, nisi aliquis igniculus adluxerit?",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -243,8 +243,8 @@
     {
         "id":  "mm-900321",
         "type":  "reported",
-        "sr":  "Vrlina je dovoljna za blagočest. Svrha je neprekidno i nepokolebljivo birati ono što je prema prirodi, a odbijati ono što je protiv prirode; činiti sve što je do nas radi sticanja prirodno povlašćenih stvari.",
-        "stsl":  "Добродѣтель довълна къ благочѧсти · Коньць · непрѣстаньно и непоколѣбимо избирати ꙗже по природѣ · отъбирати же ꙗже противѹ природѣ · вьсе єже до насъ творити · да природьно прѣдъположенаꙗ стѧжемъ ·",
+        "sr":  "Vrlina je dovoljna za blaženstvo. Antipatar pak kaže da treba neprekidno i nepokolebljivo birati ono što je prema prirodi, a odbijati ono što je protiv prirode; činiti sve što je do nas radi sticanja prirodno povlašćenih stvari.",
+        "stsl":  "Добродѣтель довълна къ блаженьствѹ · Антіпатръ же глаголетъ · непрѣстаньно и непоколѣбимо избирати ꙗже по природѣ · отъбирати же ꙗже противѹ природѣ · вьсе єже до насъ творити · да природьно прѣдъположенаꙗ стѧжемъ ·",
         "originalText":  "αὐτάρκης ἡ ἀρετὴ πρὸς εὐδαιμονίαν. Ἀντίπατρος δὲ ζῆν ἐκλεγομένους μὲν τὰ κατὰ φύσιν, ἀπεκλεγομένους δὲ τὰ παρὰ φύσιν. πᾶν τὸ καθ’ αὑτὸν ποιεῖν διηνεκῶς καὶ ἀπαραβάτως πρὸς τὸ τυγχάνειν τῶν προηγουμένων κατὰ φύσιν.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -257,8 +257,8 @@
     {
         "id":  "mm-900322",
         "type":  "reported",
-        "sr":  "Prodavac mora kupcu otkriti sve što zna, da kupcu ništa ne ostane nepoznato. Rođeni smo da služimo ljudskoj zajednici: naša korist treba da bude zajednička, a zajednička korist naša.",
-        "stsl":  "Продаꙗи кѹпьцѹ вьсе єже вѣсть открꙑти имать · да ничтоже кѹпьцѹ невѣдомо останеть · Чловѣчьскомѹ обьштению служити родихомъ сѧ · наша польза обьшта бꙑти имать · обьштаꙗ же наша ·",
+        "sr":  "Prodavac mora kupcu otkriti sve što zna, da kupcu ništa ne ostane nepoznato. Ti treba da se staraš o ljudima i služiš ljudskoj zajednici: rođen si pod zakonom po kojem je tvoja korist zajednička, a zajednička korist tvoja.",
+        "stsl":  "Продаꙗи кѹпьцѹ вьсе єже вѣсть открꙑти имать · да ничтоже кѹпьцѹ невѣдомо останеть · Тебѣ о чловѣцѣхъ пещи сѧ и чловѣчьскомѹ обьштению служити подобаєть · симъ закономъ родилъ сѧ єси · да твоя польза обьшта бѫдеть · обьштаꙗ же твоя ·",
         "originalText":  "Antipatro omnia patefacienda, ut nequid omnino, quod venditor norit, emptor ignoret. Tu quum hominibus consulere debeas et servire humanae societati eaque lege natus sis, ut utilitas tua communis sit utilitas vicissimque communis utilitas tua sit.",
         "author":  "Antipater of Tarsus",
         "sources":  [
@@ -271,8 +271,8 @@
     {
         "id":  "mm-900323",
         "type":  "reported",
-        "sr":  "Prosidbu ne treba činiti nasumce, nego veoma promišljeno: ne gledati bogatstvo, naduveno poreklo ni lepotu, već najpre ispitati narav roditelja — jesu li druželjubivi, čestiti, umereni i pravedni — a zatim kako su vaspitali kćer.",
-        "stsl":  "Прошениѥ не напрасно творити · нъ ꙁѣло размꙑшьлено · Не на богатъство · гръдо родъ ни красотѫ ꙁрѣти · нъ прѣжде нравъ родителю испытати · аште обьштьна · блага · цѣломѫдра и праведьна єста · потомь же како дъштерь възрастааста ·",
+        "sr":  "Prosidbu ne treba činiti nasumce, nego veoma promišljeno: ne gledati na bogatstvo, naduveno plemićko poreklo ni lepotu, već najpre ispitati očevu narav i vladanje — je li društven i razborit, umeren i pravedan — zatim i majku, te jesu li kćer odgajili u skladu sa sopstvenom naravi.",
+        "stsl":  "Прошениѥ не напрасно творити · нъ ꙁѣло размꙑшьлено · Не на богатъство · гръдо благородьствіє ни красотѫ ꙁрѣти · нъ прѣжде отьчь нравъ и обꙑчаи испытати · аще обьштьнъ и разѹмьнъ · цѣломѫдръ и праведьнъ єсть · потомь же и матерь · и аще дъштерь по своемѹ нравѹ възрастааста ·",
         "originalText":  "Πρῶτον μὲν χρὴ τὴν μνηστείαν μὴ εἰκῆ ποιήσασθαι ἀλλὰ πάνυ πεφροντισμένως, μηδ’ εἰς πλοῦτον μηδ’ εἰς ὀγκοῦσαν εὐγένειαν μηδὲ εἰς κάλλος· ἀλλὰ πρῶτα μὲν τὸ τοῦ γονέως ἐξετάζειν ἦθος καὶ τρόπον, εἰ πολιτικὸς καὶ εὐγνώμων, ἔτι δὲ σώφρων καὶ δίκαιος, ἔπειτα καὶ τὴν μητέρα, καὶ εἰ ἀκολούθως τῷ ἑαυτῶν τρόπῳ ἤχασι τὴν θυγατέρα.",
         "author":  "Antipater of Tarsus",
         "sources":  [

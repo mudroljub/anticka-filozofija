@@ -107,8 +107,8 @@
     "id": "mm-900072",
     "type": "bio",
     "year": 250,
-    "sr": "Plotin deset godina u Rimu držaše rasprave po Amonijevom učenju, a ništa ne pisaše.",
-    "stsl": "Плѡтинъ десѧть лѣтъ въ Римѣ по Аммѡнієвѣмь ѹченію бесѣдꙑ творѧше · ничьсоже не пишаше ·",
+    "sr": "Plotin deset celih godina držaše rasprave po Amonijevom učenju, a ništa ne pisaše.",
+    "stsl": "Плѡтинъ десѧть цѣлꙑихъ лѣтъ по Аммѡнієвѣмь ѹченію бесѣдꙑ творѧше · ничьсоже не пишаше ·",
     "originalText": "Πλωτῖνος δὲ ἄχρι μὲν πολλοῦ γράφων οὐδὲν διετέλεσεν, ἐκ δὲ τῆς Ἀμμωνίου συνουσίας ποιούμενος τὰς διατριβάς· καὶ οὕτως ὅλων ἐτῶν δέκα διετέλεσε, συνὼν μέν τισι, γράφων δὲ οὐδέν.",
     "author": "Plotinus",
     "sources": [
@@ -121,8 +121,8 @@
   {
     "id": "mm-900073",
     "type": "mention",
-    "sr": "Plotin napisano nikada ne bi prerađivao, pa čak ni jednom ponovo pročitao, jer mu vid nije služio za čitanje. Nije mario ni za lepotu slova, ni za jasno rastavljanje slogova, ni za pravopis, nego se držao jedino misli. Najpre bi u sebi dovršio razmatranje od početka do kraja, potom bi ono što je promislio zapisivao kao da prepisuje iz knjige. Dok bi s nekim razgovarao, istovremeno bi odgovarao sagovorniku i bez prekida čuvao tok razmatranja; čim bi ovaj otišao, nastavljao bi pisati gde je stao, ne čitajući prethodno napisano.",
-    "stsl": "Плѡтинъ написаноє николиже прѣлагааше · ни єдиноѭ паки прочитати можаше · ꙁрѣніє бо єго къ чьтению не слѹжаше · Ни красотѣ письменъ · ни ꙗвьномѹ слоговъ раꙁдѣлению · ни правописанию рачаше · нъ єдиного помꙑсла дрьжаше сѧ · Прѣжде бо въ себѣ раꙁмꙑшленіє отъ начѧла до коньца съвършаше · потомъ же ꙗже помꙑсли · акы отъ кънигꙑ прѣписѹѧ писаше · Съ нѣкꙑимь же бесѣдѹѧ · къ бесѣдѣ отъвѣштааше и беспрѣстани теченіє раꙁмꙑшленіꙗ хранꙗаше · ономѹ же отъшедъшѹ · не прочитавъ прѣжде написанаго · отънѭдѹже прѣста паки писати начинааше ·",
+    "sr": "Plotin napisano nije prerađivao niti jednom čitao: vid mu čitanju nije služio. Nije mario za lepotu slova, razdvajanje slogova ni pravopis, nego jedino za misao. Najpre bi u sebi dovršio razmatranje od početka do kraja, potom zapisivao ono što je promislio kao da prepisuje iz knjige. Dok bi s nekim razgovarao, odgovarao bi sagovorniku i bez prekida čuvao tok razmatranja; čim bi ovaj otišao, nastavljao bi pisati gde je stao, ne čitajući prethodno.",
+    "stsl": "Плѡтинъ написаноє николиже прѣлагааше · ни єдиноѭ прочитати можаше · ꙁрѣніє бо єго къ чьтению не слѹжаше · Писменъ красотѣ · слоговъ ꙗвьномѹ раꙁдѣлению · правописанию не рачаше · нъ єдиного помꙑсла дрьжаше сѧ · Прѣжде бо въ себѣ раꙁмꙑшленіє отъ начѧла до коньца съвършаше · потомъ же ꙗже помꙑсли · акы отъ кънигꙑ прѣписѹѧ писаше · Съ нѣкꙑимь же бесѣдѹѧ · къ бесѣдѣ отъвѣштааше и беспрѣстани теченіє раꙁмꙑшленіꙗ хранꙗаше · ономѹ же отъшедъшѹ · не прочитавъ прѣжде написанаго · отънѭдѹже прѣста паки писати начинааше ·",
     "originalText": "γράψας γὰρ ἐκεῖνος δὶς τὸ γραφὲν μεταλαβεῖν οὐδέποτ’ ἂν ἠνέσχετο, ἀλλ’ οὐδὲ ἅπαξ γοῦν ἀναγνῶναι καὶ διελθεῖν διὰ τὸ τὴν ὅρασιν μὴ ὑπηρετεῖσθαι αὐτῷ πρὸς τὴν ἀνάγνωσιν. ἔγραφε δὲ οὔτε εἰς κάλλος ἀποτυπούμενος τὰ γράμματα οὔτε εὐσήμως τὰς συλλαβὰς διαιρῶν οὔτε τῆς ὀρθογραφίας φροντίζων, ἀλλὰ μόνον τοῦ νοῦ ἐχόμενος ... συντελέσας γὰρ παρ’ ἑαυτῷ ἀπ’ ἀρχῆς ἄχρι τέλους τὸ σκέμμα, ἔπειτα εἰς γραφὴν παραδιδοὺς ἃ ἐσκέπτετο, συνεῖρεν οὕτω γράφων ἃ ἐν τῇ ψυχῇ διέθηκεν, ὡς ἀπὸ βιβλίου δοκεῖν μεταβάλλειν τὰ γραφόμενα· ἐπεὶ καὶ διαλεγόμενος πρός τινα καὶ συνείρων τὰς ὁμιλίας πρὸς τῷ σκέμματι ἦν ... ἀποστάντος γοῦν τοῦ προσδιαλεγομένου οὐδ’ ἐπαναλαβὼν τὰ γεγραμμένα ... τὰ ἑξῆς ἂν ἐπισυνῆψεν.",
     "author": "Plotinus",
     "sources": [
@@ -136,8 +136,8 @@
     "id": "mm-900074",
     "type": "bio",
     "year": 255,
-    "sr": "Mnogi plemeniti ljudi na samrti poveravahu Plotinu decu i imanje, kao svetom i božanskom čuvaru. Kuća mu stoga beše puna dečaka i devojčica, čije je imanje brižljivo čuvao.",
-    "stsl": "Мноꙁи благородьни при съмрьти Плѡтинѹ чѧда и имѣніє своє прѣдавахѫ · акы свѧтѹ и божьствьнѹ хранителю · тѣмь домъ єго отрокъ и дѣвъ исплъненъ бѣ · имѣніє же ихъ прилѣжьно хранꙗаше ·",
+    "sr": "Mnogi ugledni muškarci i žene na samrti poveravahu Plotinu decu i imanje, kao svetom i božanskom čuvaru. Kuća mu stoga beše puna dečaka i devojčica, čije je imanje brižljivo čuvao.",
+    "stsl": "Мноꙁи благородьнии мѫжи и жены при съмрьти Плѡтинѹ чѧда и имѣніє своє прѣдавахѫ · акы свѧтѹ и божьствьнѹ хранителю · тѣмь домъ єго отрокъ и дѣвъ исплъненъ бѣ · имѣніє же ихъ прилѣжьно хранꙗаше ·",
     "originalText": "πολλοὶ δὲ καὶ ἄνδρες καὶ γυναῖκες ἀποθνῄσκειν μέλλοντες τῶν εὐγενεστάτων φέροντες τὰ ἑαυτῶν τέκνα ... ἐκείνῳ παρεδίδοσαν μετὰ τῆς ἄλλης οὐσίας ὡς ἱερῷ τινι καὶ θείῳ φύλακι.",
     "author": "Plotinus",
     "sources": [
@@ -196,8 +196,8 @@
     "id": "mm-900078",
     "type": "bio",
     "year": 265,
-    "sr": "Car Galijen i carica Salonina silno poštovahu Plotina. Pouzdajući se u njihovo prijateljstvo, zatraži da se razrušeni grad u Kampaniji obnovi, nazove Platonopolj i uredi po Platonovim zakonima; dvorska zavist osujeti zamisao.",
-    "stsl": "Цѣсарь Галіенъ и цѣсарица Салѡнина Плѡтина много чьтѣахѫ · на дрѹжьство ихъ ѹповаѧ · проси раꙁоренъ градъ въ Кампаніи обновити · Платѡноградъ нарешти и Платѡновꙑими законꙑ ѹстроити · зависть же дворьнꙑихъ помꙑслъ раꙁори ·",
+    "sr": "Car Galijen i carica Salonina silno poštovahu Plotina. Pouzdajući se u njihovo prijateljstvo, zatraži da se razrušeni grad u Kampaniji obnovi, nazove Platonopolj i uredi po Platonovim zakonima; neki od ljudi oko cara osujetiše zamisao.",
+    "stsl": "Цѣсарь Галіенъ и цѣсарица Салѡнина Плѡтина много чьтѣахѫ · на дрѹжьство ихъ ѹповаѧ · проси раꙁоренъ градъ въ Кампаніи обновити · Платѡноградъ нарешти и Платѡновꙑими законꙑ ѹстроити · нѣцѣи при цѣсари сѫщии помꙑслъ вьспрѣтише ·",
     "originalText": "ἐτίμησαν δὲ τὸν Πλωτῖνον μάλιστα καὶ ἐσέφθησαν Γαλιῆνός τε ὁ αὐτοκράτωρ καὶ ἡ τούτου γυνὴ Σαλωνίνα ... Πλατωνόπολιν θέσθαι ... τινες τῶν συνόντων τῷ βασιλεῖ ... ἐνεπόδισαν.",
     "author": "Plotinus",
     "sources": [
@@ -254,7 +254,7 @@
     "id": "mm-900086",
     "type": "works",
     "year": 268,
-    "sr": "Plotin napisa pedeset četiri rasprave. Porfirije ih razdeli u šest Eneada, po devet u svakoj, i sastavi im hronološki red i sadržaje.",
+    "sr": "Plotin napisa pedeset četiri rasprave. Porfirije ih razdeli u šest Eneada, po devet u svakoj, i sastavi im hronološki red i naslove poglavlja.",
     "stsl": "Плѡтинъ четꙑри и пѧтьдесѧть съписании написа · Порфѵрии же ꙗ въ шесть девѧтицъ раꙁдѣли · по девѧти съписании въ коєиждо · и врѣменьнъ чинъ и оглавленіꙗ имъ сътвори ·",
     "originalText": "γεγράφθαι μὲν οὖν πεντήκοντα καὶ τέσσαρα ... ἓξ μὲν Ἐννεάδας ... ἑκάστῃ δὲ ἐννέα ἀποδούς ... τάξας δὲ καὶ χρονικῶς τὰ βιβλία ... καὶ κεφάλαια ἑκάστου βιβλίου.",
     "author": "Plotinus",
@@ -325,7 +325,7 @@
   {
     "id": "mm-900106",
     "type": "quote",
-    "sr": "Bežimo, dakle, u dragu otadžbinu — tako bi nas neko istinitije pozvao. Kakav je to beg i kako ćemo se otisnuti? Kao Odisej od čarobnice Kirke ili Kalipse: on, čini mi se, zagonetno kazuje da ne pristade ostati, premda je očima uživao slasti i boravio uz mnogo čulne krasote. Naša je otadžbina odakle smo došli, i onde je Otac. Kakvo je, dakle, putovanje i beg? Ne treba ga prevaliti nogama: noge nas svuda nose samo s jedne zemlje na drugu. Ne spremaj ni konjsku zapregu ni kakvu lađu, nego sve to ostavi i ne gledaj; već sklopi oči, zameni ovaj vid drugim i probudi ga — svi ga imaju, ali ga malobrojni koriste.",
+    "sr": "Bežimo, dakle, u dragu otadžbinu — tako bi nas neko istinitije pozvao. Kakav je to beg i kako ćemo se otisnuti? Kao Odisej od čarobnice Kirke ili Kalipse: on, čini mi se, zagonetno kazuje da ne pristade ostati, premda je očima uživao slasti i boravio uz mnogo čulne krasote. Naša je otadžbina odakle smo došli, i onde je otac. Kakvo je, dakle, putovanje i beg? Ne treba ga prevaliti nogama: noge nas svuda nose samo s jedne zemlje na drugu. Ne spremaj ni konjsku zapregu ni kakvu lađu, nego sve to ostavi i ne gledaj; već sklopi oči, zameni ovaj vid drugim i probudi ga — svi ga imaju, ali ga malobrojni koriste.",
     "stsl": "Бѣжимъ ѹбо въ любѹѭ отьчьствинѫ · истиньнѣє бо тако кто нꙑ възъꙁоветь · Кое ѹбо бѣжаниє · и како отъпловемъ · акы Одѵссеи отъ волъшвьницѧ Кіркꙑ или Калѵпсꙑ · онъ бо · мьню · притъчеѭ глаголеть · ꙗко не въсхотѣ прѣбꙑти · аште и сласти очима имѣаше и при мноꙁѣ чѹвьствьнѣи красотѣ бѣ · Отьчьствина же намъ · отъкѫдѹ придохомъ · и отьць тамо · Кое ѹбо пѫтованіє и бѣжаниє · Не ногама прѣити подобаєть · ногꙑ бо вьсѫдѹ отъ землѧ на землѭ носѧть · ни коньска кола ни корабль готовити ти подобаєть · нъ вьсѧ та оставити и не ꙁрѣти · очи же акы съмѣживъ · ино зрѣніє възмѣни и възбѹди · єже вьси имѫть · мало же кто имь дѣєть ·",
     "originalText": "φεύγωμεν δὴ φίλην ἐς πατρίδα, ἀληθέστερον ἄν τις παρακελεύοιτο. τίς οὖν ἡ φυγή; καὶ πῶς ἀναξόμεθα; οἷον ἀπὸ μάγου Κίρκης φησὶν ἢ Καλυψοῦς Ὀδυσσεὺς αἰνιττόμενος, δοκεῖ μοι, μεῖναι οὐκ ἀρεσθείς, καίτοι ἔχων ἡδονὰς δἰ ὀμμάτων καὶ κάλλει πολλῷ αἰσθητῷ συνών. πατρὶς δὲ ἡμῖν, ὅθενπερ ἤλθομεν, καὶ πατὴρ ἐκεῖ. τίς οὖν ὁ στόλος καὶ ἡ φυγή; οὐ ποσὶ δεῖ διανύσαι: πανταχοῦ γὰρ φέρουσι πόδες ἐπὶ γῆν ἄλλην ἀπ’ ἄλλης: οὐδέ σε δεῖ ἵππων ὄχημα ἤ τι θαλάττιον παρασκευάσαι, ἀλλὰ ταῦτα πάντα ἀφεῖναι δεῖ καὶ μὴ βλέπειν, ἀλλ’ οἷον μύσαντα ὄψιν ἄλλην ἀλλάξασθαι καὶ ἀνεγεῖραι, ἣν ἔχει μὲν πᾶς, χρῶνται δὲ ὀλίγοι.",
     "author": "Plotinus",
@@ -353,8 +353,8 @@
   {
     "id": "mm-900108",
     "type": "quote",
-    "sr": "Um, dakle, nužno je od nečeg drugog, što više nije u izlaženju, nego je počelo izlaženja, počelo života, počelo uma i svega. Jer počelo nije sve, nego je sve iz počela; ono pak nije ni sve ni išta od svega, da bi rodilo sve i ne bi bilo mnoštvo, nego počelo mnoštva. Ono što rađa svuda je prostije od rođenoga. Ako je, dakle, ono rodilo um, mora biti prostije od uma.",
-    "stsl": "Ѹмъ ѹбо отъ нѣчьсо иного бꙑти нѫжда єсть · єже ѹже не въ исходѣ · нъ начѧло исхода и начѧло живота и начѧло ѹма и вьсѣхъ · Начѧло бо не вьсѧ єсть · нъ отъ начѧла вьсѧ · оно же ни вьсѧ ни нѣчто отъ вьсѣхъ · да вьсѧ родить и не множьство бѫдеть · нъ начѧло множьства · Раждаѭште бо вьсѫдѹ рожденнаго простѣє єсть · Аще ѹбо оно ѹмъ роди · простѣє ѹма ємѹ бꙑти подобаєть ·",
+    "sr": "Um, dakle, nužno je od nečeg drugog, što više nije u izlaženju, nego je počelo izlaženja, počelo života, počelo uma i svega. Jer počelo nije sve, nego je sve iz počela; ono pak nije ni sve ni išta od svega, da bi rodilo sve i ne bi bilo mnoštvo, nego počelo mnoštva. Ono što rađa uvek je prostije od rođenoga. Ako je, dakle, ono rodilo um, mora biti prostije od uma.",
+    "stsl": "Ѹмъ ѹбо отъ нѣчьсо иного бꙑти нѫжда єсть · єже ѹже не въ исходѣ · нъ начѧло исхода и начѧло живота и начѧло ѹма и вьсѣхъ · Начѧло бо не вьсѧ єсть · нъ отъ начѧла вьсѧ · оно же ни вьсѧ ни нѣчто отъ вьсѣхъ · да вьсѧ родить и не множьство бѫдеть · нъ начѧло множьства · Раждаѭште бо вьсегда рожденнаго простѣє єсть · Аще ѹбо оно ѹмъ роди · простѣє ѹма ємѹ бꙑти подобаєть ·",
     "originalText": "ἀνάγκη ἔκ τινος ἄλλου αὐτὸν εἶναι, ὃ οὐκέτι ἐν διεξόδῳ, ἀλλὰ ἀρχὴ διεξόδου καὶ ἀρχὴ ζωῆς καὶ ἀρχὴ νοῦ καὶ τῶν πάντων. οὐ γὰρ ἀρχὴ τὰ πάντα, ἀλλ’ ἐξ ἀρχῆς τὰ πάντα: αὐτὴ δὲ οὐκέτι τὰ πάντα οὐδέ τι τῶν πάντων, ἵνα γεννήσῃ τὰ πάντα, καὶ ἵνα μὴ πλῆθος ᾖ, ἀλλὰ τοῦ πλήθους ἀρχή: τοῦ γὰρ γεννηθέντος πανταχοῦ τὸ γεννῶν ἁπλούστερον. εἰ οὖν τοῦτο νοῦν ἐγέννησεν, ἁπλούστερον νοῦ δεῖ αὐτὸ εἶναι.",
     "author": "Plotinus",
     "sources": [
@@ -367,8 +367,8 @@
   {
     "id": "mm-900109",
     "type": "quote",
-    "sr": "Šta je učinilo da duše zaborave boga, svoga oca, pa iako su delovi odande i u celosti njegove, ne poznaju ni sebe ni njega? Počelo zla beše im smelost, rođenje, prva drugost i želja da pripadaju sebi. Obradovavši se samovlasti i obilno se služeći sopstvenim kretanjem, potrčaše suprotnim putem i udaljiše se koliko god su mogle, pa zaboraviše da su odande. Kao što deca, rano otrgnuta od očeva i dugo odgajana daleko, ne poznaju ni sebe ni očeve.",
-    "stsl": "Что ѹбо сътвори дѹшамъ бога отьца ꙁабꙑти · и отътѫдѹ чѧсти сѫштамъ и вьсѣмь єго · ни себе ни єго не познати · Начѧло ѹбо ꙁла имъ бѣ дрьꙁновеніє и рожденьѥ и прьва инаковьсть · и хотѣниє своими бꙑти · Самовластію же ѹсладивъше сѧ и много своимь движеніємь дѣѭште · противьнꙑимь пѫтемь потекошѧ и наидалѣє отъстѫпишѧ · тѣмь ꙁабꙑшѧ · ꙗко отътѫдѹ сѫть · ꙗкоже чѧда · абиє отъ отьць отъръвена и много врѣмѧ далече въспитана · ни себе ни отьць познаваѭть ·",
+    "sr": "Šta je navelo duše da zaborave boga, svoga oca, i da, premda su delovi odande i sasvim njegove, ne poznaju ni sebe ni njega? Počelo zla behu im smelost, postanak, prva drugost i želja da pripadaju sebi. Obradovavši se samovlasti i obilno se služeći sopstvenim kretanjem, potrčaše suprotnim putem i odmaknuše se što dalje, pa zaboraviše da su odande. Kao što deca, rano otrgnuta od očeva i dugo odgajana daleko, ne poznaju ni sebe ni očeve.",
+    "stsl": "Что ѹбо сътвори дѹшамъ бога отьца ꙁабꙑти · и отътѫдѹ чѧсти и вьсецѣло єго сѫштамъ · ни себе ни єго не познати · Начѧло ѹбо ꙁла имъ бѣ дрьꙁновеніє и рожденьѥ и прьва инаковьсть · и хотѣниє своими бꙑти · Самовластію же ѹсладивъше сѧ и много своимь движеніємь дѣѭште · противьнꙑимь пѫтемь потекошѧ и наидалѣє отъстѫпишѧ · тѣмь ꙁабꙑшѧ · ꙗко отътѫдѹ сѫть · ꙗкоже чѧда · абиє отъ отьць отъръвена и много врѣмѧ далече въспитана · ни себе ни отьць познаваѭть ·",
     "originalText": "Τί ποτε ἄρα ἐστὶ τὸ πεποιηκὸς τὰς ψυχὰς πατρὸς θεοῦ ἐπιλαθέσθαι, καὶ μοίρας ἐκεῖθεν οὔσας καὶ ὅλως ἐκείνου ἀγνοῆσαι καὶ ἑαυτὰς καὶ ἐκεῖνον; ἀρχὴ μὲν οὖν αὐταῖς τοῦ κακοῦ ἡ τόλμα καὶ ἡ γένεσις καὶ ἡ πρώτη ἑτερότης καὶ τὸ βουληθῆναι δὲ ἑαυτῶν εἶναι. τῷ δὴ αὐτεξουσίῳ ἐπειδήπερ ἐφάνησαν ἡσθεῖσαι πολλῷ τῷ κινεῖσθαι παῤ αὑτῶν κεχρημέναι, τὴν ἐναντίαν δραμοῦσαι καὶ πλείστην ἀπόστασιν πεποιημέναι ἠγνόησαν καὶ ἑαυτὰς ἐκεῖθεν εἶναι: ὥσπερ παῖδες εὐθὺς ἀποσπασθέντες ἀπὸ πατέρων καὶ πολὺν χρόνον πόρρω τραφέντες ἀγνοοῦσι καὶ ἑαυτοὺς καὶ πατέρας.",
     "author": "Plotinus",
     "sources": [
@@ -381,8 +381,8 @@
   {
     "id": "mm-900110",
     "type": "quote",
-    "sr": "Duša je slovo uma i neko njegovo dejstvo, kao što je i sam um slovo i dejstvo jednog. Ali je dušino slovo nejasno: kao privid uma, mora gledati ka umu; a um isto tako ka jednom, da bi bio um. Gleda ga ne odvojivši se, nego kao ono što je odmah posle njega i između njih nema ničega, kao što ničega nema između duše i uma. Um nazivamo slikom jednog: jer ono što jedno rađa mora nekako biti od njega, mnogo od njega sačuvati i biti mu slično, kao svetlost suncu.",
-    "stsl": "Дѹша слово ѹма и дѣиство нѣкоє · ꙗкоже и самъ ѹмъ слово и дѣиство єдного · Дѹшевно же слово неꙗвьно · привидъ бо ѹма єсть · тѣмь къ ѹмѹ ꙁрѣти подобаєть · ѹмъ же тако же къ єдномѹ · да ѹмъ бѫдеть · ꙁрить же є не отълѫчивъ сѧ · нъ ꙗко абиє по немь єсть и междѹ има ничьсо же · ꙗкоже ни междѹ дѹшеѭ и ѹмомъ · Образъ же єдного ѹмъ нарицаємъ · рожденоє бо отъ него нѣкако его бꙑти подобаєть · многа отъ него съхранити и подобно ємѹ бꙑти · ꙗкоже свѣтъ слъньцѹ ·",
+    "sr": "Duša je slovo uma i njegovo dejstvo, kao što je um slovo i dejstvo onoga. Ali dušino je slovo nejasno: kao slika uma, mora gledati u um; a um u ono, da bi bio um. Um ga gleda ne odvojivši se od njega, jer je neposredno posle njega i među njima nema ničeg, kao ni između duše i uma. Um pak zovemo slikom onoga: rođeno mora nekako od njega poticati, mnogo od njega sačuvati i biti mu slično, kao svetlost suncu.",
+    "stsl": "Дѹша слово ѹма и дѣиство его · ꙗкоже ѹмъ слово и дѣиство оного · Дѹшевно же слово неꙗвьно · акы образъ ѹма · тѣмь къ ѹмѹ ꙁрѣти подобаєть · ѹмъ же къ ономѹ · да ѹмъ бѫдеть · Ѹмъ же єго ꙁрить не отълѫчивъ сѧ · нъ понеже абиє по немь єсть и междѹ има ничьсоже · ꙗкоже ни междѹ дѹшеѭ и ѹмомъ · Ѹмъ же образъ оного нарицаемъ · раждаемоє бо отъ него нѣкако его бꙑти подобаєть · многа его съхранити и подобно ємѹ бꙑти · ꙗкоже свѣтъ слъньцѹ ·",
     "originalText": "οἷον καὶ ἡ ψυχὴ λόγος νοῦ καὶ ἐνέργειά τις, ὥσπερ αὐτὸς ἐκείνου. ἀλλὰ ψυχῆς μὲν ἀμυδρὸς ὁ λόγος: ὡς γὰρ εἴδωλον νοῦ, ταύτῃ καὶ εἰς νοῦν βλέπειν δεῖ: νοῦς δὲ ὡσαύτως πρὸς ἐκεῖνο, ἵνα ᾖ νοῦς. ὁρᾷ δὲ αὐτὸ οὐ χωρισθείς, ἀλλ’ ὅτι μετ’ αὐτὸ καὶ μεταξὺ οὐδέν, ὡς οὐδὲ ψυχῆς καὶ νοῦ. εἰκόνα δὲ ἐκείνου εἶναι λέγομεν τὸν νοῦν: δεῖ γὰρ σαφέστερον λέγειν: πρῶτον μέν, ὅτι δεῖ πως εἶναι ἐκείνου τὸ γεννώμενον καὶ ἀποσώζειν πολλὰ αὐτοῦ καὶ εἶναι ὁμοιότητα πρὸς αὐτό, ὥσπερ καὶ τὸ φῶς τοῦ ἡλίου.",
     "author": "Plotinus",
     "sources": [
@@ -453,8 +453,8 @@
   {
     "id": "mm-900191",
     "type": "quote",
-    "sr": "Jedno je savršeno: ništa ne traži, nema niti mu šta treba. Ono je mera i kraj svega; drugima dajući moć, ne umanjuje se.",
-    "stsl": "Єдно съвръшено · ничьсоже не ищетъ · ни имать · ни чьсого трѣбоуєтъ · оно мѣра и краи вьсего · инѣмъ же мощь даѭще · не ѹмалѧєть сѧ ·",
+    "sr": "jedno je savršeno: ništa ne traži, nema niti mu treba. Mera je i kraj svega; drugima dajući moć, ne umanjuje se.",
+    "stsl": "Єдно съвръшено · ничьсоже не ищетъ · ни имать · ни трѣбоуєть · мѣра и краи вьсего · инѣмъ же мощь даѭще · не ѹмалѧєть сѧ ·",
     "originalText": "τέλειον δὲ ὅτι οὐδὲν ζητεῖ οὐδὲ ἔχει οὐδὲ δεῖται οὐδενός, μέτρον δὲ αὐτό ἐστι πάντων καὶ πέρας, δύναμιν δὲ δοὺς τοῖς ἄλλοις οὐκ ἐλαττοῦται.",
     "author": "Plotinus",
     "sources": [
@@ -467,7 +467,7 @@
   {
     "id": "mm-900192",
     "type": "quote",
-    "sr": "Jedno nije ništa od onoga što je posle njega. Nije ni biće, ni um, ni duša. Nije u kretanju ni u miru, ni u prostoru ni u vremenu. Ono je samo po sebi jednoobrazno, bolje rečeno bezoblično, bivajući pre svakog oblika.",
+    "sr": "jedno nije ništa od onoga što je posle njega. Nije ni biće, ni um, ni duša. Nije u kretanju ni u miru, ni u prostoru ni u vremenu. Ono je samo po sebi jednoobrazno, bolje rečeno bezoblično, bivajući pre svakog oblika.",
     "stsl": "Єдно нѣстъ ничьтоже отъ оного єже по немь єстъ · ни сѫщее · ни ѹмъ · ни дѹша · ни въ движеніи ни въ покои · ни въ мѣстѣ ни въ врѣмени · само въ себѣ єдинообразно · паче же реще безъобразьно · прѣжде вьсѧкаго образа сѫще ·",
     "originalText": "τὸ δὲ ἕν οὐδὲν τῶν μετ' αὐτό· οὔτε γὰρ ὂν οὔτε νοῦς οὔτε ψυχή ἐστιν· οὔτε κινούμενον οὔτε ἑστός, οὔτε ἐν τόπῳ οὔτε ἐν χρόνῳ, ἀλλ' αὐτὸ καθ' αὑτὸ μονοειδές, μᾶλλον δὲ ἀνείδεον, πρὸ εἴδους ὄν.",
     "author": "Plotinus",
@@ -481,7 +481,7 @@
   {
     "id": "mm-900193",
     "type": "quote",
-    "sr": "Ako bi hteo da pomisliš jedno, treba napustiti sve — jer ono ne treba ničemu od onog posle njega; ko ga traži ne treba ništa nositi sa sobom.",
+    "sr": "Ako hoćeš pomisliti jedno, ostavi sve: jer njemu ne treba ništa od onoga što je posle njega; ko ga traži, ne treba ništa nositi sa sobom.",
     "stsl": "Аще хощеши єдно помꙑслити · вьсѧ оставити подобаєтъ · ничьсоже бо отъ оного иже по немь трѣбоуєтъ · иже єго ищетъ ничьсоже подобаєтъ съ собоѭ носити ·",
     "originalText": "εἰ οὖν τοῦτο βούλει νοῆσαι, δεῖ πάντα ἀφελεῖν· οὐδενὸς γὰρ δεῖται τῶν μετ' αὐτό· ὁ γὰρ αὐτὸ ζητῶν οὐδὲν δεῖ ἐπιφέρεσθαι.",
     "author": "Plotinus",
@@ -495,7 +495,7 @@
   {
     "id": "mm-900194",
     "type": "quote",
-    "sr": "U nama nije ne videti jedno, nego videti ga. Onaj ko ga se dotakne ne može o njemu ni govoriti ni išta činiti, jer um vidi nešto što je pre njega samog.",
+    "sr": "Nije u nama da jedno ne vidimo, nego da ga vidimo. Onaj ko ga se dotakne ne može o njemu ni govoriti ni išta činiti, jer um vidi nešto pre sebe.",
     "stsl": "Нѣстъ вь насъ не видѣти єдно · нъ видѣти є · Прикоснѫвъ сѧ єго · ни глаголати ни чьсого къ немѹ творити не може · понеже ѹмъ видитъ нѣчьто єже єстъ прѣжде самого себе ·",
     "originalText": "οὐκ ἔστιν ἐν ἡμῖν τὸ μὴ ἰδεῖν, ἀλλὰ τὸ ἰδεῖν. ὁ δὲ ἐφαψάμενος αὐτοῦ οὔτε λέγειν ἔχει οὔτε ποιεῖ τι πρὸς αὐτόν, ὅτι ὁ νοῦς ὁρᾷ τι πρὸ αὑτοῦ.",
     "author": "Plotinus",
@@ -509,8 +509,8 @@
   {
     "id": "mm-900195",
     "type": "quote",
-    "sr": "Jedno ne kaže 'ja', jer ni to nije od njega. Šta je onda? Ono koje rađa i 'ja' i sve ostalo. Nije ono — ali je izvor svega i prvorođenac bića.",
-    "stsl": "Єдно не глаголетъ «аꙁъ» · ни бо и то нѣстъ отъ него · Что же єстъ? Оно єже рождаєтъ и «аꙁъ» и вьсѧ иная · Нѣстъ оно — нъ иꙁворъ вьсего єстъ и пьрворождено сѫщихъ ·",
+    "sr": "jedno ne kaže 'ja', jer ni to nije od njega. Šta je onda? Ono koje je rodilo i 'ja' i sve ostalo. Nije ono — ali je izvor svega i prvorođenac bića.",
+    "stsl": "Єдно не глаголетъ «аꙁъ» · ни бо и то нѣстъ отъ него · Что же єстъ? Оно єже роди и «аꙁъ» и вьсѧ иная · Нѣстъ оно — нъ иꙁворъ вьсего єстъ и пьрворождено сѫщихъ ·",
     "originalText": "οὐδὲ λέγει 'ἐγώ', ἐπεὶ οὐδὲ τοῦτο ἀπ' αὐτοῦ. τί οὖν ἐστι; τὸ γεννῆσαν καὶ τὸ 'ἐγώ' καὶ τἄλλα πάντα. οὐκ ἔστιν ἐκεῖνο, ἀλλ' ἡ πηγὴ τῶν πάντων καὶ τὸ πρωτότοκον τῶν ὄντων.",
     "author": "Plotinus",
     "sources": [

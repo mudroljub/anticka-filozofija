@@ -58,8 +58,8 @@
   {
     "id": "mm-000172",
     "type": "quote",
-    "sr": "Bol je dobro, kao što pokazuju Herakle i Kir.",
-    "stsl": "Болѣзнь добро єсть · ꙗкоже Хераклъ и Киръ показѹєта ·",
+    "sr": "Trud je dobro, kao što pokazuju Herakle i Kir.",
+    "stsl": "Трѹдъ добро єсть · ꙗкоже Хераклъ и Киръ показѹєта ·",
     "originalText": "ὁ πόνος ἀγαθὸν συνέστησε διὰ τοῦ μεγάλου Ἡρακλέους καὶ τοῦ Κύρου.",
     "author": "Antisthenes",
     "sources": [
@@ -100,8 +100,8 @@
   {
     "id": "mm-000175",
     "type": "quote",
-    "sr": "Treba voleti žene koje će umeti da budu zahvalne.",
-    "stsl": "Подобаєть любити жены · ꙗже благодарьны быти ѹмѣѭть ·",
+    "sr": "Treba biti sa ženama koje umeju da budu zahvalne.",
+    "stsl": "Подобаєть къ женамъ приближати сѧ · ꙗже благодарьны быти ѹмѣѭть ·",
     "originalText": "Χρὴ τοιαύταις πλησιάζειν γυναιξὶν αἳ χάριν εἴσονται.",
     "author": "Antisthenes",
     "sources": [
@@ -114,8 +114,8 @@
   {
     "id": "mm-000176",
     "type": "quote",
-    "sr": "Ako imaš uma, dođi sa novom knjigom, novim pisalom i novim tablicama.",
-    "stsl": "Аште ѹмъ имаши · прииди съ новою книгою · новымъ писаломъ и новыми дъштицами ·",
+    "sr": "Nova knjižica, novo pisalo i nove tablice.",
+    "stsl": "Нова книжица · ново писало и новыѩ дъштицы ·",
     "originalText": "Βιβλαρίου καινοῦ καὶ γραφείου καινοῦ καὶ πινακιδίου καινοῦ.",
     "author": "Antisthenes",
     "sources": [
@@ -240,8 +240,8 @@
   {
     "id": "mm-000185",
     "type": "quote",
-    "sr": "Vrhunac ljudskog blaženstva je umreti srećan.",
-    "stsl": "Връхъ чловѣчьскаго блаженьства єсть съчастьнѹ ѹмрѣти ·",
+    "sr": "Umreti srećan.",
+    "stsl": "Съчастьнѹ ѹмрѣти ·",
     "originalText": "Εὐτυχοῦντα ἀποθανεῖν.",
     "author": "Antisthenes",
     "sources": [
@@ -268,8 +268,8 @@
   {
     "id": "mm-000187",
     "type": "quote",
-    "sr": "Kao što rđa izjeda gvožđe, tako zavidljivce izjeda njihova sopstvena strast.",
-    "stsl": "Ꙗкоже ръжа желѣзо поꙗдаєть · тако завистьливыѩ своѩ страсть поꙗдаєть ·",
+    "sr": "Kao što rđa izjeda gvožđe, tako zavidljivce izjeda njihova sopstvena narav.",
+    "stsl": "Ꙗкоже ръжа желѣзо поꙗдаєть · тако завистьливыѩ свои нравъ поꙗдаєть ·",
     "originalText": "Ὥσπερ ὑπὸ τοῦ ἰοῦ τὸν σίδηρον, οὕτως ... τοὺς φθονεροὺς ὑπὸ τοῦ ἰδίου ἤθους κατεσθίεσθαι.",
     "author": "Antisthenes",
     "sources": [
@@ -380,8 +380,8 @@
   {
     "id": "mm-000195",
     "type": "quote",
-    "sr": "Od mudroljublja sam dobio sposobnost da razgovaram sa sobom.",
-    "stsl": "Отъ любомѫдриꙗ приѧхъ силѹ съ собою бесѣдовати ·",
+    "sr": "Sposobnost da razgovaram sa sobom.",
+    "stsl": "Силѹ съ собою бесѣдовати ·",
     "originalText": "Τὸ δύνασθαι ἑαυτῷ ὁμιλεῖν.",
     "author": "Antisthenes",
     "sources": [
@@ -394,8 +394,8 @@
   {
     "id": "mm-000196",
     "type": "quote",
-    "sr": "Ako želiš da pevam, prati me na svirali.",
-    "stsl": "Аште хоштеши да поѭ · съпровождаи мѧ на свирѣли ·",
+    "sr": "Sviraj mi frulu.",
+    "stsl": "Свири ми на свирѣли ·",
     "originalText": "Σύ μοι αὔλησον.",
     "author": "Antisthenes",
     "sources": [
@@ -562,8 +562,8 @@
   {
     "id": "mm-000208",
     "type": "reported",
-    "sr": "Antisten je ironično govorio da je Anit mudriji od Sokrata.",
-    "stsl": "Антисѳенъ посмѣвьно глаголаше · ꙗко Анитъ мѫдрѣиши Сократа єсть ·",
+    "sr": "Susrevši mladiće iz Ponta koji su došli zbog Sokratove slave, odveo ih je Anitu, rekavši ironično da je on naravi mudriji od Sokrata.",
+    "stsl": "Юношы отъ Понта · Сократовы славы ради пришедъшыѩ · срѣтъ · къ Анитѹ приведе · рекъ посмѣвьно · ꙗко онъ нравомъ мѫдрѣиши Сократа єсть ·",
     "originalText": "Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους.",
     "author": "Antisthenes",
     "sources": [
@@ -576,8 +576,8 @@
   {
     "id": "mm-000209",
     "type": "quote",
-    "sr": "Ako to imaju, neka uživaju u raskoši... a ako ne, oduzeti im ustroj.",
-    "stsl": "Аще убо си имѫтъ, да оуслаждѫтъ сѧ ... аще ли ни, оуимьнути имъ строи.",
+    "sr": "Ako to imaju, neka uživaju u raskoši; a ako ne, neka skinu ukras.",
+    "stsl": "Аще ѹбо си имѫтъ · да оуслаждѫтъ сѧ · аще ли ни · оуимьнѫти имъ ѹкрасъ ·",
     "originalText": "εἰ μὲν ἔχοι ταῦτα, ἐᾶν τρυφᾶν ... εἰ δὲ μή, περιαιρεῖν τὸν κόσμον.",
     "author": "Antisthenes",
     "sources": [
@@ -646,8 +646,8 @@
   {
     "id": "mm-000214",
     "type": "quote",
-    "sr": "Mudrac je samodovoljan jer su sva dobra drugih ljudi njegova.",
-    "stsl": "Мѫдрьць самодоволєнъ єсть · зане вьсѧ блага прочиихъ чловѣкъ єго сѫть ·",
+    "sr": "Mudrac je samodovoljan jer je njegovo sve što pripada drugima.",
+    "stsl": "Мѫдрьць самодоволєнъ єсть · зане вьсѧ прочиихъ єго сѫть ·",
     "originalText": "Αὐτάρκη τ' εἶναι τὸν σοφόν· πάντα γὰρ αὐτοῦ εἶναι τὰ τῶν ἄλλων.",
     "author": "Antisthenes",
     "sources": [
@@ -688,8 +688,8 @@
   {
     "id": "mm-000217",
     "type": "quote",
-    "sr": "Mudrac će se oženiti najlepšom ženom da bi imao decu.",
-    "stsl": "Мѫдрьць наикраснѣишєю женою оженить сѧ · да чѧда имать ·",
+    "sr": "Mudrac će se ženiti ženama najdarovitije prirode.",
+    "stsl": "Мѫдрьць съ женами наиблагородьнѣишими сѧ съходити имать ·",
     "originalText": "Γαμήσειν ... ταῖς εὐφυεστάταις συνιόντα γυναιξί.",
     "author": "Antisthenes",
     "sources": [
@@ -702,8 +702,8 @@
   {
     "id": "mm-000218",
     "type": "quote",
-    "sr": "Mudrac neće prezirati ljubav jer samo on zna ko je dostojan da bude voljen.",
-    "stsl": "Мѫдрьць любве не прѣзрить · зане тъкмо онъ вѣсть · кто достоꙗнъ єсть любимъ быти ·",
+    "sr": "Samo mudrac zna koga treba voleti.",
+    "stsl": "Тъкмо мѫдрьць вѣсть · кого любити подобаєть ·",
     "originalText": "μόνον γὰρ εἰδέναι τὸν σοφὸν τίνων χρὴ ἐρᾶν.",
     "author": "Antisthenes",
     "sources": [
@@ -842,8 +842,8 @@
   {
     "id": "mm-000228",
     "type": "quote",
-    "sr": "Dobra dela su lepa, a rđava dela ružna.",
-    "stsl": "Добра дѣла красна сѫть · зъла же грѫба ·",
+    "sr": "Dobro je lepo, a zlo ružno.",
+    "stsl": "Добра красна · зъла же грѫба ·",
     "originalText": "τἀγαθὰ καλά, τὰ κακὰ αἰσχρά.",
     "author": "Antisthenes",
     "sources": [
@@ -870,8 +870,8 @@
   {
     "id": "mm-000230",
     "type": "quote",
-    "sr": "Mudrost je najpouzdanija tvrđava: nikada se ne ruši niti se može izdati.",
-    "stsl": "Мѫдрость наинадѣжьнѣиша твръдь єсть · никогда не разорѧєть сѧ ни прѣдана быти можеть ·",
+    "sr": "Razboritost je najsigurnija tvrđava: niti se ruši niti se može izdati.",
+    "stsl": "Разборьность тврьдь вьсѣхъ безопасьнѣиша єсть · ни разорѧєть сѧ ни прѣдана быти можеть ·",
     "originalText": "Τεῖχος ἀσφαλέστατον φρόνησιν· μήτε γὰρ καταρρεῖν μήτε προδίδοσθαι.",
     "author": "Antisthenes",
     "sources": [
@@ -986,8 +986,8 @@
   {
     "id": "mm-000238",
     "type": "anecdote",
-    "sr": "Antisten se smatraše vinovnikom Anitova progonstva i Meletovog pogubljenja. Mladiće iz Ponta koji su došli zbog Sokratove slave odveo je Anitu i ironično ga predstavio kao mudrijeg od Sokrata; ogorčeni mladići potom su Anita isterali iz grada.",
-    "stsl": "Антисѳенъ виновьникомъ Анитова изгнаниꙗ и Мелетова погѹблениꙗ мьнѣаше сѧ · Юношы отъ Понта · Сократовы славы ради пришедъшыѩ · къ Анитѹ приведе и посмѣвьно єго мѫдрѣиша Сократа нарече · разгнѣвании юношы потъомь Анита отъ града изгнаша ·",
+    "sr": "Antisten se smatrao vinovnikom Anitova progonstva i Meletovog pogubljenja. Mladiće iz Ponta koji su došli zbog Sokratove slave odveo je Anitu i ironično rekao da je on naravi mudriji od Sokrata; ogorčeni prisutni potom su isterali Antistena.",
+    "stsl": "Антисѳенъ виновьникомъ Анитова изгнаниꙗ и Мелетова погѹблениꙗ мьнѣаше сѧ · Юношы отъ Понта · Сократовы славы ради пришедъшыѩ · къ Анитѹ приведе и посмѣвьно рече · ꙗко онъ нравомъ мѫдрѣиши Сократа єсть · разгнѣвании прѣдстоѧштеи потъомь Антисѳена изгнаша ·",
     "originalText": "Αὐτὸς δὲ καὶ Ἀνύτῳ τῆς φυγῆς αἴτιος γενέσθαι δοκεῖ καὶ Μελήτῳ τοῦ θανάτου. Ποντικοῖς γὰρ νεανίσκοις κατὰ κλέος τοῦ Σωκράτους ἀφιγμένοις περιτυχὼν ἀπήγαγεν αὐτοὺς πρὸς τὸν Ἄνυτον, εἰπὼν ἐν ἤθει σοφώτερον εἶναι τοῦ Σωκράτους· ἐφ' ᾧ διαγανακτήσαντας τοὺς περιεστῶτας ἐκδιῶξαι αὐτόν.",
     "author": "Antisthenes",
     "year": -399,
@@ -1046,8 +1046,8 @@
     "id": "mm-000242",
     "type": "bio",
     "year": -390,
-    "sr": "Nakon rasprave sa Platonom o nemogućnosti protivrečenja njih dvojica su ostala zavađena.",
-    "stsl": "По прѣнії съ Платономъ о невъзможьності протъиворѣченіꙗ оба въ враждѣ прѣбыста ·",
+    "sr": "Bio je u sporu s Platonom o nemogućnosti protivrečenja.",
+    "stsl": "Съ Платономъ о невъзможьності протъиворѣченіꙗ прѣше сѧ ·",
     "originalText": "Διαφερομένου δ' αὐτοῦ πρὸς τὸν Πλάτωνα περὶ τῶν ἀντιλεγομένων.",
     "author": "Antisthenes",
     "sources": [
@@ -1075,8 +1075,8 @@
   {
     "id": "mm-000244",
     "type": "anecdote",
-    "sr": "Antisten je podstakao Diogenovu ravnodušnost, Kratetovu uzdržanost i Zenonovu izdržljivost i tako položio temelje njihove filozofske zajednice. Teopomp je od svih Sokratovaca hvalio samo njega, tvrdeći da prijatnim razgovorom može pridobiti svakoga.",
-    "stsl": "Антисѳенъ Диогеново небреженіє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди и тако основаніє ихъ любомѫдрьнаго обьштества положи · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко приѧтьною бесѣдою вьсѧкаго придобѹдетъ ·",
+    "sr": "Antisten je podstakao Diogenovu neosetljivost, Kratetovu uzdržanost i Zenonovu izdržljivost. Teopomp je od svih Sokratovaca hvalio samo njega, tvrdeći da skladnim razgovorom može pridobiti svakoga.",
+    "stsl": "Антисѳенъ Диогеново неосѧꙁаниє · Кратетово въздръжаніє и Зеноново тръпѣніє възбѹди · Теопомпъ отъ вьсѣхъ Сократовьцевъ тъкмо єго хвалѧаше · твьрдѧ · ꙗко съгласною бесѣдою вьсѧкаго придобѹдетъ ·",
     "author": "Antisthenes",
     "year": -384,
     "originalText": "Οὗτος ἀπηλγηκυίας μὲν Διογένη πεποίηκεν, ἐγκρατῆ δὲ Κράτητα, καρτερικὸν δὲ Ζήνωνα. Τοῦτον μόνον ἐκ πάντων Σωκρατικῶν Θεόπομπος ἐπαινεῖ καί φησι δεινόν τ' εἶναι καὶ δι' ὁμιλίας ἐμμελοῦς ὑπαγαγέσθαι πάνθ' ὁντινοῦν.",
@@ -1105,8 +1105,8 @@
   {
     "id": "mm-000246",
     "type": "anecdote",
-    "sr": "Dok je Antisten umirao od bolesti, Diogen ga je posetio noseći bodež. Na Antistenovo pitanje ko će ga osloboditi bolova, Diogen je pokazao bodež; Antisten je odgovorio da je tražio oslobođenje od bolova, a ne od života.",
-    "stsl": "Єгда Антисѳенъ отъ болѣзни ѹмирааше · Диогенъ съ ножемъ єго посѣти · На Антисѳеновъ вопросъ · кто єго отъ болѣзни освободить · Диогенъ ножь показа · Антисѳенъ отъвѣща · ꙗко освобождениꙗ отъ болѣзни проси · не отъ животъа ·",
+    "sr": "Diogen je posetio bolesnog Antistena, pružajući bodež, i upitao: Treba li ti prijatelj?",
+    "stsl": "Диогенъ болѧштаго Антисѳена посѣти · ножь простираѧ · и рече · Дрѹга ли трѣбѹєши ·",
     "author": "Antisthenes",
     "year": -366,
     "originalText": "Τὸν γοῦν Ἀντισθένην νοσοῦντα Διογένης ἐλθὼν καὶ εἰπών· « Φίλου δεῖ; » ἐγχειριδίου προτείνας.",
@@ -1154,7 +1154,7 @@
     "type": "anecdote",
     "year": -420,
     "sr": "Kada mu je drugi rekao: 'O tebi ljudi govore rđavo', odgovorio je: 'To se dešava zato što je deo višeg čoveka to trpeti, a nižeg to činiti.'",
-    "stsl": "Єgда ємѹ дрѹгыи рече · О тєбѣ чловѣци ꙁьло глаголѭть · Отъвѣшта · То бываєть · зане єсть чѧсть вышааго чловѣка то тръпѣти · а нижааго то творити.",
+    "stsl": "Єгда ємѹ дрѹгыи рече · О тєбѣ чловѣци ꙁьло глаголѭть · Отъвѣшта · То бываєть · зане єсть чѧсть вышааго чловѣка то тръпѣти · а нижааго то творити.",
     "originalText": "Alteri dicenti: De te homine male loquuntur, ait: Hoc fit, quia plus perioria persone est hoc pati, inferioris hoc facere.",
     "la": "Alteri dicenti: De te homine male loquuntur, ait: Hoc fit, quia plus perioria persone est hoc pati, inferioris hoc facere.",
     "author": "Antisthenes",

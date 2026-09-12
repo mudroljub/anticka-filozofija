@@ -47,8 +47,8 @@
   {
     "id": "mm-001110",
     "type": "quote",
-    "sr": "Ne znam šta da zamislim kao dobro, oduzimajući zadovoljstva kroz ukuse, oduzimajući zadovoljstva kroz ljubavne užitke i slušanja i kroz vidove.",
-    "stsl": "Нє вѣмь что да помꙑслѹ ꙗко благо · Отъємлꙗꙗ сласти чрєꙁъ вкѹсꙑ · Отъємлꙗꙗ сласти чрєꙁъ люботъьнаꙗ насладꙑ і слѹшаніꙗ і чрєꙁъ відꙑ.",
+    "sr": "Ne znam šta bih smatrao dobrom kad bih uklonio uživanja ukusa, ljubavna uživanja, uživanja slušanja i oblika.",
+    "stsl": "Не вѣмь что бы помꙑслилъ ꙗко благо · отъємлѧ сласти чрєꙁъ вкѹсы · чрєꙁъ люботнꙑѧ · чрєꙁъ слѹшаніꙗ и чрєꙁъ виды ·",
     "originalText": "Οὐ γὰρ ἔγωγε ἔχω τί νοήσω τἀγαθόν, ἀφαιρῶν μὲν τὰς διὰ χυλῶν ἡδονάς, ἀφαιρῶν δὲ τὰς δι' ἀφροδισίων καὶ τὰς δι' ἀκροαμάτων καὶ τὰς διὰ μορφῆς.",
     "author": "Epicurus",
     "sources": [
@@ -61,8 +61,8 @@
   {
     "id": "mm-001111",
     "type": "quote",
-    "sr": "Obrazovanje sveukupno, blaženi, bežeći podignuvši veslo.",
-    "stsl": "Оврꙁованіє всєѹкѹпно · вльжєни · вѣгаꙗ въꙁдигънѫвъ вєсло.",
+    "sr": "Blaženi, beži od svakog obrazovanja, podigavši jedro.",
+    "stsl": "Вльжєни · отъ всєго въꙁпитаніꙗ бѣжи · ѧдро въꙁдигънѫвъ ·",
     "originalText": "Παιδείαν δὲ πᾶσαν, μακάριε, φεῦγε τἀκάτιον ἀράμενος.",
     "author": "Epicurus",
     "sources": [
@@ -90,8 +90,8 @@
   {
     "id": "mm-001113",
     "type": "reported",
-    "sr": "Epikur nije smatrao da dobra treba polagati u zajedničku imovinu, kao Pitagora kada je govorio da je prijateljima sve zajedničko: takva zajednica podrazumeva nepoverenje, a gde nema poverenja nema ni prijateljstva.",
-    "stsl": "Епікѹръ нє мнꙗашє ꙗко подовитъ въ общѫѭ імовинѫ полагати довра · ꙗко Пиѳагоръ глаголаашє ꙗко общаꙗ вєщь дрѹгомъ · ꙗко то ꙁнамєнѹєть нєвѣрство · а ꙇжє нє вѣрѹєть · тъ нєсть дрѹгъ ·",
+    "sr": "Epikur nije smatrao umesnim da se imovina polaže u zajednicu, kao što je Pitagora govorio da je prijateljima sve zajedničko: takvo je uređenje za one koji ne veruju jedni drugima, a bez poverenja nema ni prijateljstva.",
+    "stsl": "Епікѹръ не мнѣаше имѣниѩ въ обьште полагати · акы Пиѳагоръ глаголааше · ꙗко дрѹгомъ вьсѧ обьшта · таково бо не вѣрѫштиимъ єсть · аще ли не вѣрѫть · ни дрѹзи сѫть ·",
     "originalText": "τόν τ' Ἐπίκουρον μὴ ἀξιοῦν εἰς τὸ κοινὸν κατατίθεσθαι τὰς οὐσίας, καθάπερ τὸν Πυθαγόραν κοινὰ τὰ φίλων λέγοντα· ἀπιστούντων γὰρ εἶναι τὸ τοιοῦτον· εἰ δ' ἀπίστων οὐδὲ φίλων.",
     "author": "Epicurus",
     "sources": [
@@ -104,8 +104,8 @@
   {
     "id": "mm-001114",
     "type": "quote",
-    "sr": "Pošalji mi sira malo, da kada budem hteo da rasipam, mogu.",
-    "stsl": "Пошлі ми сіра мало · да єгда бѫдѫ хотъꙗ расіпати · могѫ.",
+    "sr": "Pošalji mi lončić sira, da se, kad god hoću, mogu raskošno počastiti.",
+    "stsl": "Пошли ми малъ сьсѫдъ сира · да єгда хощѫ · роскошно почьстити сѧ могѫ ·",
     "originalText": "πέμψον μοι τυροῦ κυθριδίου, ἵν' ὅταν βούλωμαι πολυτελεύσασθαι δύνωμαι.",
     "author": "Epicurus",
     "sources": [
@@ -147,8 +147,8 @@
   {
     "id": "mm-001117",
     "type": "quote",
-    "sr": "Osuđuje svaku muku i bol, proglašavajući umerenu prezirivom, a veliku ne dugotrajnom.",
-    "stsl": "Осѫждаєть всѧкѫѭ мѫкѫ і воль · проглашаꙗ ѹмѣрєнѫѭ прєꙁривоѭ · а вєликѫѭ нє дълготъраинѫѭ.",
+    "sr": "Osuđuje svaku muku i bol: malu smatra prezrivom, a veliku nedugotrajnom.",
+    "stsl": "Осѫждаєть всѧкѫ мѫкѫ и боль · малѫ прєзривѫ глаголѧ · велику же не дълготраинѫ ·",
     "originalText": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
     "la": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
     "author": "Epicurus",

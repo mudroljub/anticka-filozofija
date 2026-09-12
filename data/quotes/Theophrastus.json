@@ -62,7 +62,7 @@
   {
     "id": "mm-001840",
     "type": "quote",
-    "sr": "Pre se treba pouzdati u neuzdanog konja nego u nesređenu besedu.",
+    "sr": "Pre se treba pouzdati u konja bez uzde nego u nesređenu besedu.",
     "stsl": "Скорѣѥ подобаєть на конѧ безъ ѹзды ѹповати · нежели на нестроино слово ·",
     "originalText": "θᾶττον ἔφη πιστεύειν δεῖν ἵππῳ ἀχαλίνῳ ἢ λόγῳ ἀσυντάκτῳ",
     "author": "Theophrastus",
@@ -180,8 +180,8 @@
   {
     "id": "mm-001848",
     "type": "quote",
-    "sr": "Ako si neuk, mudro činiš što ćutiš; ako si obrazovan, nerazumno.",
-    "stsl": "Аще неѹченъ єси · мѫдро твориши мълчѧ · аще ли възпитанъ · неразборьно ·",
+    "sr": "Ako si neuk, mudro činiš; ako si obrazovan, činiš nerazumno.",
+    "stsl": "Аще неѹченъ єси · мѫдро твориши · аще ли възпитанъ · неразборьно твориши ·",
     "originalText": "Εἰ μὲν ἀμαθὴς εἶ, φρονίμως ποιεῖς, εἰ δὲ πεπαίδευσαι, ἀφρόνως.",
     "author": "Theophrastus",
     "sources": [

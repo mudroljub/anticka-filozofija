@@ -296,8 +296,13 @@ Za katalog izvora vidi [KORPUS.md](KORPUS.md).
 * Svaka staroslovenska rečenica završava se srednjom tačkom ·
 
 ## Primeri dobrih prevoda
-Za uzore kratke, prirodne i sažete staroslovenske rečenice koristiti
-[isus.json](../data/sources/corpus/isus.json).
+
+Za etičke izreke kao uzor kratke, prirodne i sažete staroslovenske rečenice
+koristiti [isus.json](../data/sources/corpus/isus.json).
+
+Za metafiziku i kosmologiju koristiti [Бытиѥ.md](../data/sources/corpus/Бытиѥ.md):
+kao uzor mirnog, graditeljskog ritma, nizanja bića i poredaka, te jasnih
+uzročnih veza.
 
 Za primere već integrisanih prevoda vidi [`data/quotes/`](../data/quotes/) i
 [`data/works/`](../data/works/).

@@ -58,3 +58,15 @@ sr: <isklesani oblik>
 ```
 
 Za izmenu fajlova kratko navedi čitalačke jedinice koje su isklesane. Ne pravi izveštaj o bezbroj mogućih varijanti.
+
+## Ocena posle klesanja
+
+Kada je klesanje sačuvano u autorskom fajlu, odmah ažuriraj ocenu tog autora
+prema veštini `ocena-prevoda`. Uzorak mora obavezno uključiti isklesane
+jedinice, ali za autora sa više od 10 prioritetnih `quote`/`reported` unosa
+ostaje propisani uzorak, a ne ceo fajl.
+
+Ažuriraj samo autorov red i nalaze u kanonskom izveštaju
+`docs/OCENA_PREVODA.md`. Ne stvaraj pojedinačni Markdown izveštaj.
+Ako provera otkrije sadržajni pomak, zabeleži ga kao nalaz i ne prepravljaj
+prevod bez posebne komande za `popravka-prevoda`.

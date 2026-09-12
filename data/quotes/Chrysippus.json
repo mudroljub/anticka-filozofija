@@ -93,7 +93,7 @@
         "id":  "mm-002211",
         "type":  "reported",
         "sr":  "Kleantu je često govorio da mu od njega treba samo pouka o postavkama, a da će dokaze sam pronaći.",
-        "stsl":  "Клеантѹ же чѧсто глаголааше · ꙗко токмо ѹчениꙗ о догматѣхъ отъ него трѣбѹєть · доказаниꙗ же самъ обрѧщеть ·",
+        "stsl":  "Клеантѹ же чѧсто глаголааше · ꙗко тъкмо ѹчениꙗ о поставѣхъ отъ него трѣбѹєть · доказаниꙗ же самъ обрѧщеть ·",
         "originalText":  "ᾧ καὶ πολλάκις ἔλεγε μόνης τῆς τῶν δογμάτων διδασκαλίας χρῄζειν, τὰς δὲ ἀποδείξεις αὐτὸς εὑρήσειν.",
         "author":  "Chrysippus",
         "sources":  [
@@ -471,7 +471,7 @@
         "id":  "mm-000467",
         "type":  "quote",
         "sr":  "Ono što znaš učvršćuj čitanjem, a ono što još nisi naučio stekni učenjem.",
-        "stsl":  "Єже вѣси · чьтениемь храни · єже же еще не наѹчи сѧ · ѹчениемь стѧжи ·",
+        "stsl":  "Єже вѣси · чьтениємь храни · єже же єште не навꙑкъ · ѹчениємь стѧжи ·",
         "originalText":  "Quae nosti conserva lectionibus, quae vero nondum didicisti disciplinis acquire.",
         "author":  "Isocrates",
         "sources":  [
@@ -1109,8 +1109,8 @@
     {
         "id":  "mm-900288",
         "type":  "quote",
-        "sr":  "Strast je kretanje duše protiv prirode, slovu neposlušno i od njega odvraćeno. Ono nije tek pogrešno rasuđivanje, nego odvraćanje od slova i nepokornost njemu.",
-        "stsl":  "Страсть єсть движениѥ дѹшѧ противѹ природѣ · словѹ непокорьно и отъ него отъвраштьно · Страстьнъ не тъкъмо въ размꙑшлѥнии погрѣши · нъ отъ слова отъврати сѧ и не повинѹѥть сѧ ємѹ ·",
+        "sr":  "Strast je kretanje duše protiv prirode. Sva takva kretanja i stanja neposlušna su slovu i od njega odvraćena. Nije to tek pogrešno rasuđivanje, nego odvraćanje od slova.",
+        "stsl":  "Страсть єсть движеніє дѹшѧ противъ природѣ · Вьсѧ бо такова движенія и състоянія словѹ непокорьна и отъ него отвраштена сѫть · Не акы ꙁло въ размꙑшленіи · нъ по отвраштеніѭ отъ слова ·",
         "originalText":  "τὸ τῆς ψυχῆς πάθος εἶναι κίνησις παρὰ φύσιν. πᾶσαι γὰρ αἱ τοιαῦται κινήσεις τε καὶ καταστάσεις ἀπειθεῖς τε τῷ λόγῳ εἰσὶ καὶ ἀπεστραμμέναι. οὐχ οἷον κακῶς ἐν τῷ διαλογίζεσθαι, ἀλλὰ κατὰ τὴν τοῦ λόγου ἀποστροφήν.",
         "author":  "Chrysippus",
         "sources":  [

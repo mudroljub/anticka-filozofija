@@ -56,6 +56,12 @@ Staroslovenski oblikuj kao sažetu, prirodnu i lepu slovensku filozofsku misao V
 - Rečničko rešenje primeni kada služi konkretnom iskazu; izaberi drugi istorijski moguć slovenski izraz kada je razumljiviji, lepši ili ritmički bolji.
 - Grafiju i tehničke oblike proveri tek pošto su rešeni smisao, sažetost i ritam. Ne žrtvuj dobru rečenicu radi površinske arhaizacije.
 
+Za stilski uzor odredi vrstu iskaza: za etičke izreke koristi
+`data/sources/corpus/isus.json` — kratak, neposredan i težinski udar; za
+metafiziku i kosmologiju koristi `data/sources/corpus/Бытиѥ.md` — miran,
+graditeljski ritam, nizanje bića i poredaka, te jasne uzročne veze. Uzor
+usmerava ritam i oblik rečenice, nikada ne zamenjuje grčki izvor značenja.
+
 ### 3. Popravi srpski neposredno prema grčkom
 
 Ponovo pogledaj grčki, zatim srpski. Ne izvodi srpsko značenje iz upravo dorađenog `stsl`.
@@ -93,15 +99,43 @@ Razlika u nijansi, redosledu reči, stepenu arhaičnosti ili ličnom stilskom uk
 
 To ne sprečava pravo klesanje prevoda. Kada je smisao potpun, prvenstvo imaju lepota, sažetost i ritam: ukloni stvarni višak, raskini tešku grčku konstrukciju, sabij dve slabe reči u jednu snažnu i uredi udar rečenice — ali samo dok ne gubiš nijansu, terminološku vezu ili deo misli. Prednost daj oduzimanju i preuređenju postojećeg iskaza, ne zameni već valjane reči drugima.
 
-## Redosled prioriteta i ekonomija dorade
+## Potpuna procedura popravke
 
-Štednja tokena je radni prioritet, jer paralelni postupak treba da bude brži od dva odvojena čitanja. Ona ne opravdava preskakanje grčkog konteksta, provere značenja ili one jezičke provere koja je potrebna za novu staroslovensku tvorbu.
+Kada korisnik navede fajl, autora, delo ili drugu zbirku bez ograničavanja na
+pojedinačne `id`-jeve, predmet popravke je **ceo taj obim**. Pregledaj svaku
+čitalačku jedinicu koja ima prevod, redom od početka do kraja, u oba polja
+`stsl` i `sr`. Ne uzorkuj, ne biraj reprezentativne jedinice i ne završavaj
+posao nakon dela fajla.
 
-- Za jednu seriju odlomaka učitaj projektna merila jednom, a zatim čitaj samo lokalni kontekst svake naredne jedinice.
-- Grčku analizu uradi jednom po jedinici i upotrebi je za oba prevoda; ne sastavljaj dva nezavisna sažetka istog grčkog iskaza.
-- Susedne kratke jedinice obrađuj u jednoj radnoj celini kada dele argument ili pojmovnu porodicu, ali ne proširuj kontekst bez razloga.
-- Ne pravi duple tabele, pune prepisе izvora ni izveštaj ako korisnik traži samo izmenu. Sačuvaj samo odluke koje će služiti sledećoj jedinici.
-- Ako je jedinica već verna, prirodna i ritmična, zabeleži da nema izmene i pređi dalje.
+Broj unosa nikada ne sužava obim popravke. Pravila uzorkovanja iz
+`ocena-prevoda` važe isključivo za naknadnu ocenu kvaliteta; ne određuju koje
+će se jedinice čitati, popravljati ili preskočiti u `popravka-prevoda`.
+
+Radi ovim redom:
+
+1. Odredi potpun niz prevodivih jedinica i njihov redosled u zadatom obimu.
+2. Prođi svaku jedinicu paralelno uz njen grčki izvor: najpre smisao i
+   argument, zatim pojmove, prirodnost, sažetost, ritam i tehničke oblike.
+   Zabeleži samo da li je jedinica promenjena ili je proverena bez izmene;
+   nijedna ne sme ostati nepročitana.
+3. Kada je prvi prolazak završen, pročitaj ceo dorađeni obim ponovo kao dva
+   samostalna slovenska teksta i uporedi ga s grčkim po jedinicama. Popravi
+   sve nove ili ranije propuštene nedostatke.
+4. Ponovi potpuni prolazak onoliko puta koliko je potrebno. Posao je završen
+   tek kada ceo obim prođe bez preostale opravdane dorade prema merilima ove
+   veštine — bez sadržajne greške, nejasnoće, izgubljene razlike, teškog
+   kalka ili uklonjivog viška koji slabi iskaz.
+
+Ne proglašavaj prevod popravljenim zato što je reprezentativan uzorak dobar,
+zato što je ispravljeno nekoliko očiglednih mesta ili zato što je dostignut
+unapred zamišljen broj izmena. Ako obim zahteva više iteracija, obavi ih sve.
+Ograniči se samo na izričito zadati fajl ili delo; potpunost znači potpunost
+tog obima, ne proširivanje na druge autore.
+
+Za jednu seriju odlomaka učitaj projektna merila jednom i grčku analizu uradi
+jednom po jedinici za oba prevoda. Susedne jedinice možeš čitati u istoj
+radnoj celini kada dele argument ili pojmovnu porodicu, ali to ne dopušta
+preskakanje ijedne jedinice.
 
 Ne troši pažnju jednako na svaku nesavršenost. Rediguj ovim redom:
 
@@ -123,6 +157,12 @@ Vodi kratku radnu belešku samo kada ona štedi budući rad: za novu projektnu r
 - Ne menjaj generisane fajlove ni `pointer` polja ručno.
 - Kada je nova staroslovenska reč potrebna, proveri njenu mogućnost prema gramatici i korpusu. Jasno razlikuj istorijski potvrđen oblik, praslovensku rekonstrukciju i projektnu rekonstrukciju.
 
+## Ocena posle potpune popravke
+
+Tek pošto je potpuna procedura za zadati obim završena, odmah ponovo oceni tog autora po postupku veštine `ocena-prevoda`. Upotrebi propisani uzorak za taj fajl, ali ga jasno odvoji od potpunog prolaska popravke: uzorak meri ocenu, a ne obim izvršene redakture. Ne ocenjuj ponovo ceo direktorijum samo zbog jedne popravke.
+
+Ažuriraj samo kanonski izveštaj `docs/OCENA_PREVODA.md`: njegov red u tabeli i nalaze za tog autora, tako da nijedna prethodna ocena ne ostane zasnovana na staroj verziji prevoda. Ne stvaraj pojedinačni autorski izveštaj. U predaji navedi novu ocenu autora i da je kanonski izveštaj osvežen.
+
 ## Predaja
 
 Kada korisnik traži samo redakturu teksta, prikaži oba dovršena oblika:
@@ -132,6 +172,11 @@ stsl: <dorađeni staroslovenski prevod>
 sr: <dorađeni srpski prevod>
 ```
 
-Za izmenu fajlova kratko navedi koje su jedinice izmenjene i da li su menjana sidra. Objasni samo stvarnu terminološku ili tekstualnu nedoumicu; ne zatrpavaj korisnika beleškama o grafiji kada ona nije uticala na smisao, duh ili lepotu prevoda.
+Za izmenu fajlova kratko navedi da je ceo zadati obim pregledan, broj
+pregledanih prevodivih jedinica, koje su jedinice izmenjene i da li su menjana
+sidra. Ne predstavljaj posao kao završen ako ceo obim nije prošao punu
+proceduru. Objasni samo stvarnu terminološku ili tekstualnu nedoumicu; ne
+zatrpavaj korisnika beleškama o grafiji kada ona nije uticala na smisao, duh
+ili lepotu prevoda.
 
 Pre predaje poslednji put pročitaj oba prevoda naglas: najpre kao dve slovenske rečenice, pa uz grčki kao merilo. Ako se nešto ne može oduzeti bez gubitka misli, redaktura je završena.
