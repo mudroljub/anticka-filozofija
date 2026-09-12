@@ -9,11 +9,13 @@ Najpre odredi da li korisnik traži odgovor ili izričito nalaže radnju. Ne pre
 
 ## Pitanje znači odgovor
 
-Rečenica koja se završava upitnikom zahteva odgovor rečima. Ne izvršavaj radnju samo zato što pitanje pominje moguću izmenu.
+Upitna rečenica zahteva odgovor rečima i kada je upitnik izostavljen. Prepoznaj je pre svega po obliku: upitnim rečcama i vezama kao `li`, `da li`, `je li`, `jel` i `hoćeš li`, kao i upitnim rečima poput `zašto`, `kako`, `kada`, `gde`, `ko` i `šta`. Znak `?` je dodatna, ali nije potrebna potvrda upitnosti. Ne izvršavaj radnju samo zato što pitanje pominje moguću izmenu.
 
 Primeri:
 
 - `Zašto je ovde 12/12?` → objasni; ne menjaj tabelu.
+- `Jel možeš da ažuriraš izveštaj` → odgovori da li možeš i pod kojim uslovima; ne ažuriraj ga.
+- `Hoćeš li napraviti novu veštinu` → odgovori; ne pravi je.
 - `Možemo li napraviti novu veštinu?` → odgovori da li i kako; ne pravi je.
 - `Da li treba ažurirati izveštaj?` → obrazloži; ne ažuriraj izveštaj.
 

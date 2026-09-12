@@ -53,7 +53,7 @@
     "type": "bio",
     "year": -585,
     "sr": "Anaksimander je predvodio Milećane koji su osnovali naseobinu u Apoloniji.",
-    "stsl": "Анаѯімандръ Милетꙗнъ поведе · и селеніє въ Аполлоніи основа ·",
+    "stsl": "Анаѯімандръ поведе селеніє изъ Милета въ Аполлоніѭ ·",
     "originalText": "καὶ Ἀναξίμανδρος δὲ ἡγήσατο τῆς εἰς Ἀπολλωνίαν ἐκ Μιλήτου ἀποικίας.",
     "author": "Anaximander",
     "sources": [
@@ -67,7 +67,7 @@
     "id": "mm-000100",
     "type": "bio",
     "year": -578,
-    "sr": "Prvi se usudio da na ploči nacrta nastanjeni svet; prvi je nacrtao i obris zemlje i mora, a načinio je i nebesku sferu.",
+    "sr": "Prvi se usudi na ploči nacrtati nastanjeni svet; prvi nacrta obris zemlje i mora, a načini i nebesku sferu.",
     "stsl": "Пръвыи дръзнѫ на дъсцѣ образъ вселены начрътати · и земли и морѧ обимѣръ пръвыи начръта · лопътѫ же небесьнѫ сътвори ·",
     "originalText": "Ἀναξίμανδρος ... πρῶτος ἐτόλμησε τὴν οἰκουμένην ἐν πίνακι γράψαι. Καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν, ἀλλὰ καὶ σφαῖραν κατεσκεύασε.",
     "author": "Anaximander",
@@ -86,7 +86,7 @@
     "id": "mm-000101",
     "type": "bio",
     "year": -575,
-    "sr": "Prvi je načinio gnomon i postavio ga na spravu za merenje senke u Lakedemonu, kako kaže Favorin u Različnoj povesti, da pokazuje solsticije i ravnodnevice; načinio je i časovnike.",
+    "sr": "Prvi načini gnomon i postavi ga na spravu za merenje senke u Lakedemonu, kako kaže Favorin u Različnoj povesti, da pokazuje solsticije i ravnodnevice; načini i časovnike.",
     "stsl": "Пръвъ съльньцекаꙁатель сътвори · и на сѣноловищи въ Лакедемонѣ постави · ꙗкоже Фаворинъ въ Различьнѣи повѣсти глаголеть · да повратꙑ и равноденьѥ ꙁнаменаєть · и часомѣрꙑ сътвори ·",
     "originalText": "Εὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ, τρόπός τε καὶ ἰσημερίας σημαίνοντα, καὶ ὡροσκοπεῖα κατεσκεύασε.",
     "author": "Anaximander",
@@ -116,8 +116,8 @@
     "id": "mm-000103",
     "type": "bio",
     "year": -546,
-    "sr": "Ubrzo potom je umro.",
-    "stsl": "И мало потомъ прѣстави сѧ ·",
+    "sr": "Ubrzo potom umre.",
+    "stsl": "Мало потомъ прѣстави сѧ ·",
     "originalText": "καὶ μετ᾿ ὀλίγον τελευτῆσαι.",
     "author": "Anaximander",
     "sources": [
@@ -130,7 +130,7 @@
   {
     "id": "mm-000104",
     "type": "works",
-    "sr": "Sastavio je sažeto izlaganje svojih učenja, koje je dospelo i do Apolodora Atinjanina.",
+    "sr": "Sažeto izloži svoja učenja; spis dospe i do Apolodora Atinjanina.",
     "stsl": "Своꙗ ѹчениꙗ въ кратъцѣ изложи · и Аполодоръ Атинѧнинъ сиє списаниє обрѣте ·",
     "originalText": "Τῶν δὲ ἀρεσκόντων αὐτῷ πεποίηται κεφαλαιώδη τὴν ἔκθεσιν, ᾗ που περιέτυχεν καὶ Ἀπολλόδωρος ὁ Ἀθηναῖος.",
     "author": "Anaximander",
@@ -144,7 +144,7 @@
   {
     "id": "mm-000105",
     "type": "works",
-    "sr": "Temistije kaže da je Anaksimander prvi među poznatim Helenima koji se usudio da objavi spis o prirodi.",
+    "sr": "Temistije kaže da se Anaksimander, prvi među poznatim Helenima, usudio objaviti spis o prirodi.",
     "stsl": "Темистии глаголєть · ꙗко Анаксимандръ пръвыи отъ вѣдомыхъ Елинъ списаниє О естествѣ издати дръзнѫ ·",
     "originalText": "Ἀναξίμανδρος ... πρῶτος ὧν ἴσμεν Ἑλλήνων λόγον ἐξενεγκεῖν περὶ φύσεως συγγεγραμμένον ἐτόλμησεν.",
     "author": "Anaximander",
@@ -158,8 +158,8 @@
   {
     "id": "mm-000106",
     "type": "quote",
-    "sr": "Govorio je da počelo i sastojak jeste beskrajno, ne određujući ga kao vazduh, vodu ili nešto drugo.",
-    "stsl": "Сь глаголааше бескраи начѧло и съставъ быти · не опрѣдѣлꙗѧ въздѹхъ или водѫ или ино что ·",
+    "sr": "Govorio je da je beskrajno počelo i sastojak, ne određujući ga kao vazduh, vodu ili šta drugo.",
+    "stsl": "Глаголааше · бескраи начѧло и съставъ · не опрѣдѣлꙗѧ въздѹхъ · водѫ · или ино что ·",
     "originalText": "οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον, οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι.",
     "author": "Anaximander",
     "sources": [
@@ -187,7 +187,7 @@
     "id": "mm-000108",
     "type": "quote",
     "sr": "Zemlja leži u sredini, zauzimajući središnje mesto, i okrugla je.",
-    "stsl": "Землꙗ посредѣ лежить · срѣдиштьно мѣсто имѫшти · и окрѫгла єсть ·",
+    "stsl": "Землꙗ посредѣ лежить · срѣдиштьно мѣсто имѫщи · округла же ·",
     "originalText": "μέσην τε τὴν γῆν κεῖσθαι, κέντρου τάξιν ἐπέχουσαν, οὖσαν σφαιροειδῆ.",
     "author": "Anaximander",
     "sources": [
@@ -200,7 +200,7 @@
   {
     "id": "mm-000109",
     "type": "quote",
-    "sr": "Mesec svetli tuđom svetlošću, jer ga osvetljava Sunce.",
+    "sr": "Mesec svetli tuđom svetlošću: osvetljava ga Sunce.",
     "stsl": "Мѣсѧць тѹждимъ свѣтомъ свѣтить · отъ слъньца бо просвѣштаєть сѧ ·",
     "originalText": "τήν τε σελήνην ψευδοφαῆ, καὶ ἀπὸ ἡλίου φωτίζεσθαι.",
     "author": "Anaximander",
@@ -214,8 +214,8 @@
   {
     "id": "mm-000110",
     "type": "quote",
-    "sr": "Sunce nije manje od Zemlje i najčistija je vatra.",
-    "stsl": "Слъньце не мьнѣє земли · и прѣчистъ огнь ·",
+    "sr": "Sunce nije manje od Zemlje: najčistija je vatra.",
+    "stsl": "Слъньце не мьнѣє земли · прѣчистъ огнь ·",
     "originalText": "ἀλλὰ καὶ τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς, καὶ καθαρώτατον πῦρ.",
     "author": "Anaximander",
     "sources": [
@@ -229,7 +229,7 @@
     "id": "mm-000111",
     "type": "reported",
     "sr": "Beskraj je početak i sastojak svega što jeste. [...] neka druga beskrajna priroda, iz koje bivaju sva nebesa i svetovi u njima.",
-    "stsl": "Начѧло и съставъ сѫштихъ бескраи єсть · ... ина нѣкаꙗ природа бескраина · отъ неѩже вьсѣ небеса и сѫштіи въ нихъ строи бꙑваѭть ·",
+    "stsl": "Бескраи начѧло и съставъ сѫштихъ · ... ина нѣкаꙗ бескраина природа · отъ неѩже вьсѣ небеса и строи въ нихъ бꙑваѭть ·",
     "originalText": "ἀρχὴν καὶ στοιχεῖον τῶν ὄντων τὸ ἄπειρον ... ἑτέραν τινὰ φύσιν ἄπειρον, ἐξ ἧς ἅπαντας γίνεσθαι τοὺς οὐρανοὺς καὶ τοὺς ἐν αὐτοῖς κόσμους.",
     "author": "Anaximander",
     "sources": [
@@ -243,7 +243,7 @@
     "id": "mm-000112",
     "type": "reported",
     "sr": "Rođenje ne biva promenom sastojka, no izdvajanjem suprotnosti večnim kretanjem.",
-    "stsl": "Не измѣненіємъ състава рожденьѥ творить сѧ · нъ отълѫченіємъ противьнꙑхъ вѣчьнꙑмъ движеніємъ ·",
+    "stsl": "Рожденьѥ не отъ прѣмѣненіꙗ състава · нъ вѣчьнꙑмъ движеніємъ противьна разлѫчѧть сѧ ·",
     "originalText": "οὐκ ἀλλοιουμένου τοῦ στοιχείου τὴν γένεσιν ποιεῖ, ἀλλ’ ἀποκρινομένων τῶν ἐναντίων διὰ τῆς ἀιδίου κινήσεως.",
     "author": "Anaximander",
     "sources": [
@@ -256,8 +256,8 @@
   {
     "id": "mm-000113",
     "type": "quote",
-    "sr": "Suprotnosti su toplo i hladno, suho i vlažno, i tome slično.",
-    "stsl": "Противи сѫть тепло и стѹдено · сѹхо и влажно · и ина ·",
+    "sr": "Suprotnosti: toplo i hladno, suho i vlažno, i slično.",
+    "stsl": "Противи · тепло и стѹдено · сѹхо и влажно · и ина ·",
     "originalText": "ἐναντιότητες δέ εἰσι θερμὸν ψυχρὸν ξηρὸν ὑγρὸν καὶ τὰ ἄλλα.",
     "author": "Anaximander",
     "sources": [
@@ -284,8 +284,8 @@
   {
     "id": "mm-000115",
     "type": "quote",
-    "sr": "Pri rođenju ovog sveta iz večnog razluči se rađajuće toplog i hladnog, a oko vazduha što obvija Zemlju vatrena lopta obrazova se, kao kora oko drveta.",
-    "stsl": "При рождении сего строꙗ отъ вѣчьнаго разлѫчи сѧ раждаѭштеє тепло и стѹдено · около же въздѹха обымѫшта землѭ огньна лопъта състави сѧ · ꙗко кора около дрѣва ·",
+    "sr": "Pri rođenju ovog sveta iz večnoga se izdvojilo rađajuće toplo i hladno, a oko vazduha što obvija Zemlju obrazovala se vatrena lopta, kao kora oko drveta.",
+    "stsl": "При рожденьи сего строꙗ отъ вѣчьнаго разлѫчи сѧ раждаѭщеє тепло и стѹдено · огньна же лопъта около въздѹха · землѭ обымаѭшта · състави сѧ · ꙗко кора около дрѣва ·",
     "originalText": "τὸ ἐκ τοῦ ἀιδίου γόνιμον θερμοῦ τε καὶ ψυχροῦ κατὰ τὴν γένεσιν τοῦδε τοῦ κόσμου ἀποκριθῆναι καί τινα ἐκ τούτου φλογὸς σφαῖραν περιφυῆναι τῷ περὶ τὴν γῆν ἀέρι ὡς τῷ δένδρῳ φλοιόν.",
     "author": "Anaximander",
     "sources": [
@@ -298,7 +298,7 @@
   {
     "id": "mm-000116",
     "type": "quote",
-    "sr": "Sunce, Mesec i zvezde nastali su kada se vatrena lopta rascepila, a njeni delovi zatvorili u zasebne krugove.",
+    "sr": "Sunce, Mesec i zvezde nastali su kad se vatrena lopta rascepila, a njeni delovi zatvorili u zasebne krugove.",
     "stsl": "Слъньце · мѣсѧць и звѣзды родишѧ сѧ · єгда огньна лопъта расторже сѧ · чѧсти же єѩ въ особы крѫгы затворишѧ сѧ ·",
     "originalText": "ἧστινος ἀπορραγείσης καὶ εἴς τινας ἀποκλεισθείσης κύκλους ὑποστῆναι τὸν ἥλιον καὶ τὴν σελήνην καὶ τοὺς ἀστέρας.",
     "author": "Anaximander",
@@ -326,8 +326,8 @@
   {
     "id": "mm-000118",
     "type": "quote",
-    "sr": "Zemlja lebdi ničim držana i ostaje u sredini zato što je jednako udaljena od svih krajnosti, pa nema razloga da se kreće nagore, nadole ili u bilo koju stranu.",
-    "stsl": "Землꙗ висить · ничимь дръжима · и посредѣ прѣбываєть · отъ вьсѣхъ бо коньць равно отъстоить · ни горѣ · ни долѣ · ни на странѫ движити сѧ вины имать ·",
+    "sr": "Zemlja lebdi, ničim držana, i ostaje u sredini: jednako je udaljena od svih krajnosti, pa nema razloga da se kreće nagore, nadole ili u bilo koju stranu.",
+    "stsl": "Землꙗ висить · ничимь дръжима · посредѣ же прѣбываєть · отъ вьсѣхъ бо коньць равно отъстоить · ни горѣ · ни долѣ · ни на странѫ движити сѧ вины не имать ·",
     "originalText": "τὴν δὲ γῆν εἶναι μετέωρον ὑπὸ μηδενὸς κρατουμένην, μένουσαν δὲ διὰ τὴν ὁμοίαν πάντων ἀπόστασιν. διὰ τὴν ὁμοιότητα ... τὸ ἐπὶ τοῦ μέσου ἱδρυμένον καὶ ὁμοίως πρὸς τὰ ἔσχατα ἔχον.",
     "author": "Anaximander",
     "sources": [
@@ -344,7 +344,7 @@
   {
     "id": "mm-000119",
     "type": "quote",
-    "sr": "Zemlja je nalik valjku ili kamenom stubu, a visina joj je jednaka trećini širine.",
+    "sr": "Zemlja je nalik valjku ili kamenom stubu; visina joj je trećina širine.",
     "stsl": "Землꙗ валѹ или каменьномѹ столъпѹ подобьна · высота же єѩ треть ширины ·",
     "originalText": "ὑπάρχειν δὲ τῷ μὲν σχήματι τὴν γῆν κυλινδροειδῆ, ἔχειν δὲ τοσοῦτον βάθος ὅσον ἂν εἴη τρίτον πρὸς τὸ πλάτος. Ἀναξίμανδρος λίθῳ κίονι τὴν γῆν προσφερῆ.",
     "author": "Anaximander",
@@ -362,8 +362,8 @@
   {
     "id": "mm-000120",
     "type": "quote",
-    "sr": "Zvezde su ognjeni krugovi, od ognja sveta odvojene i vazduhom obavijene, sa otvorima kroz koje se oganj vidi.",
-    "stsl": "Звѣзды огньни крѫзи · отъ огнѧ строꙗ разлѫчены и въздѹхомъ объꙗты · отворы же имѫть ими же огнь видимъ єсть ·",
+    "sr": "Zvezde su ognjeni krugovi, od ognja sveta odvojeni, vazduhom obavijeni, s otvorima kroz koje se vidi oganj.",
+    "stsl": "Звѣзды огньни крѫзи · отъ огнѧ строꙗ разлѫчены · въздѹхомъ объꙗты · отворы имѫть · ими же огнь видимъ ·",
     "originalText": "τὰ δὲ ἄστρα γίνεσθαι κύκλον πυρός, ἀποκριθέντα τοῦ κατὰ τὸν κόσμον πυρός, περιληφθέντα δὲ ὑπὸ ἀέρος· ἐκπνοὰς δ’ ὑπάρξαι πόρους τινὰς αὐλώδεις, καθ’ οὓς φαίνεται τὰ ἄστρα.",
     "author": "Anaximander",
     "sources": [
@@ -376,8 +376,8 @@
   {
     "id": "mm-000121",
     "type": "quote",
-    "sr": "Do pomračenja dolazi kada se zatvore otvori kroz koje izbija vatra.",
-    "stsl": "Помрачениꙗ бываѭть · єгда отвори · ими же огнь исходить · затворѧть сѧ ·",
+    "sr": "Pomračenja nastaju kad se zatvore otvori kroz koje izbija vatra.",
+    "stsl": "Помрачениꙗ бываѭть · єгда затворѧть сѧ отвори · ими же огнь исходить ·",
     "originalText": "τὰς δὲ ἐκλείψεις γίνεσθαι τῶν ἐκπνοῶν ἀποκλειομένων.",
     "author": "Anaximander",
     "sources": [
@@ -390,7 +390,7 @@
   {
     "id": "mm-000122",
     "type": "quote",
-    "sr": "Sunčev krug je dvadeset sedam puta veći od Zemlje, a Mesečev osamnaest puta; Sunce je najviše, dok su krugovi nepokretnih zvezda najniže.",
+    "sr": "Sunčev krug dvadeset je sedam puta veći od Zemlje, Mesečev osamnaest; Sunce je najviše, a krugovi nepokretnih zvezda najniže.",
     "stsl": "Крѫгъ слъньца седмь и двадесѧть кратъ болии земли · мѣсѧчьнъ же осмьнадесѧть кратъ · слъньце выше вьсѣхъ · крѫзи же недвижимыхъ звѣздъ ниже вьсѣхъ ·",
     "originalText": "τὸν δὲ τοῦ ἡλίου κύκλον ἑπτακαιεικοσαπλασίονα <τῆς γῆς, τὸν δὲ> τῆς σελήνης <ὀκτωκαιδεκαπλασίονα>· ἀνωτάτω μὲν εἶναι τὸν ἥλιον, κατωτάτω δὲ τοὺς τῶν ἀπλανῶν ἀστέρων κύκλους.",
     "author": "Anaximander",
@@ -404,8 +404,8 @@
   {
     "id": "mm-000123",
     "type": "quote",
-    "sr": "Sunce je krug dvadeset osam puta veći od Zemlje, nalik kolskom točku sa šupljim obodom ispunjenim vatrom, koja se vidi kroz jedan otvor.",
-    "stsl": "Слъньце крѫгъ · осмь и двадесѧть кратъ болии земли · колесѹ подобьнъ · полъ ободъ · огнѧ пълнъ · имать · сквозѣ єдинъ же отворъ огнь видимъ єсть ·",
+    "sr": "Sunce je krug dvadeset osam puta veći od Zemlje, nalik kolskom točku: šuplji mu je obod ispunjen vatrom, koja se vidi kroz jedan otvor.",
+    "stsl": "Слъньце крѫгъ · осмь и двадесѧть кратъ болии земли · колесѹ подобьнъ · ободъ же полъ · огнѧ пълнъ · сквозѣ єдинъ отворъ огнь видимъ ·",
     "originalText": "Ἀναξίμανδρος κύκλον εἶναι ὀκτωκαιεικοσαπλασίονα τῆς γῆς, ὅμοιον ἁρματείῳ τροχῷ κοίλην ἔχοντι τὴν ἁψῖδα καὶ πυρὸς πλήρη, κατά τι μέρος ἐκφαίνουσαν διὰ στομίου τὸ πῦρ.",
     "author": "Anaximander",
     "sources": [
@@ -418,8 +418,8 @@
   {
     "id": "mm-000124",
     "type": "quote",
-    "sr": "Mesec je krug devetnaest puta veći od Zemlje, nalik kolskom točku sa šupljim obodom ispunjenim vatrom, a do pomračenja dolazi okretanjem tog točka.",
-    "stsl": "Мѣсѧць крѫгъ · девѧтьнадесѧть кратъ болии земли · колесѹ подобьнъ · полъ ободъ · огнѧ пълнъ · имать · помрачениє же враштениємъ колеса бываєть ·",
+    "sr": "Mesec je krug devetnaest puta veći od Zemlje, nalik kolskom točku: šuplji mu je obod ispunjen vatrom, a pomračenja dolaze okretanjem točka.",
+    "stsl": "Мѣсѧць крѫгъ · девѧтьнадесѧть кратъ болии земли · колесѹ подобьнъ · ободъ же полъ · огнѧ пълнъ · помрачениє же враштениємъ колеса бываєть ·",
     "originalText": "Ἀναξίμανδρος κύκλον εἶναι ἐννεακαιδεκαπλασίονα τῆς γῆς, ὅμοιον ἁρματείῳ τροχῷ κοίλην ἔχοντι τὴν ἁψῖδα καὶ πυρὸς πλήρη ... ἐκλείπειν δὲ κατὰ τὰς τροπὰς τοῦ τροχοῦ.",
     "author": "Anaximander",
     "sources": [
@@ -432,8 +432,8 @@
   {
     "id": "mm-000125",
     "type": "reported",
-    "sr": "Govorio je da grom, munja i sevanje nastaju dejstvom vetra: kada se vetar silom probije iz gustog oblaka, njegovo pucanje stvara zvuk, a razdvajanje tamnog oblaka svetlost.",
-    "stsl": "Громъ · мълниꙗ и блистаниє отъ вѣтра бываѭть · єгда бо вѣтръ гѫстъ облакъ силоѭ расторгнеть · расторжениє гласъ творить · разлѫчениє же тъмьнаго облака свѣтъ ·",
+    "sr": "Govorio je da grom, munja i sevanje nastaju vetrom: kad se vetar silom probije iz gustog oblaka, pucanje stvara zvuk, a razdvajanje tamnog oblaka svetlost.",
+    "stsl": "Громъ · мълниꙗ и блистаниє отъ вѣтра бываѭть · єгда бо вѣтръ въ гѫстѣмъ облацѣ заключенъ · силоѭ исходитъ · расторжениє гласъ творить · разлѫчениє же тъмьнаго облака свѣтъ творить ·",
     "originalText": "Ἀναξίμανδρος ἐκ τοῦ πνεύματος ταῦτ’ εἶπε συμβαίνειν· ὅταν γὰρ περιληφθὲν νέφει παχεῖ βιασάμενον ἐκπέσῃ ... ἡ μὲν ῥῆξις τὸν ψόφον, ἡ δὲ διαστολὴ ... τὸν διαυγασμὸν ἀποτελεῖ.",
     "author": "Anaximander",
     "sources": [
@@ -446,8 +446,8 @@
   {
     "id": "mm-000126",
     "type": "quote",
-    "sr": "Vetrovi nastaju kada se najfinija isparenja vazduha izdvoje, sakupe i pokrenu, a kiša od isparenja koja Sunce podiže sa Zemlje.",
-    "stsl": "Вѣтри бываѭть · єгда тънчаиша испарениꙗ въздѹха разлѫчѧть сѧ · съберѫть сѧ и подвигнѫть сѧ · дъждь же отъ испарении · ꙗже слъньце отъ земли възводить ·",
+    "sr": "Vetrovi nastaju kad se najfinija isparenja vazduha izdvoje, sakupe i pokrenu. Kiša je od isparenja što ih Sunce podiže sa Zemlje.",
+    "stsl": "Вѣтри бываѭть · єгда тънчаиша испарениꙗ въздѹха разлѫчѧть сѧ · съберѫть сѧ · и подвигнѫть сѧ · дъждь же отъ испарениꙗ · еже слъньце отъ земли възводить ·",
     "originalText": "ἀνέμους δὲ γίνεσθαι τῶν λεπτοτάτων ἀτμῶν τοῦ ἀέρος ἀποκρινομένων καὶ ὅταν ἀθροισθῶσι κινουμένων· ὑετοὺς δὲ ἐκ τῆς ὑπὸ τὸν ἥλιον γῆς ἀναδιδομένης ἀτμίδος.",
     "author": "Anaximander",
     "sources": [
@@ -464,7 +464,7 @@
   {
     "id": "mm-000127",
     "type": "quote",
-    "sr": "U početku je sve oko Zemlje bilo vlažno. Sunce je vlagu isušivalo: od onoga što je isparilo nastali su vetrovi, a ono što je preostalo postalo je more. More se zato postepeno smanjuje i na kraju će sasvim presušiti.",
+    "sr": "U početku je oko Zemlje sve bilo vlažno. Sunce je vlagu isušivalo: od isparenog nastali su vetrovi, a preostalo postade more. More se postepeno smanjuje i na kraju će presušiti.",
     "stsl": "Въ начѧлѣ вьсе около земли влажно бѣ · слъньце же влагѫ исѹшааше · отъ испаренаго вѣтри бышѧ · оставъшеє же море бысть · море ѹбо мало по малѹ оскѫдѣваєть · наконецъ же вьсе исъсъхнеть ·",
     "originalText": "εἶναι γὰρ τὸ πρῶτον ὑγρὸν ἅπαντα τὸν περὶ τὴν γῆν τόπον, ὑπὸ δὲ τοῦ ἡλίου ξηραινόμενον τὸ μὲν διατμίσαι ... τὸ δὲ λειφθὲν θάλατταν εἶναι ... τέλος ἔσεσθαί ποτε πᾶσαν ξηράν.",
     "author": "Anaximander",
@@ -478,7 +478,7 @@
   {
     "id": "mm-000128",
     "type": "reported",
-    "sr": "Govorio je da zemljotresi nastaju kada se Zemlja, usled velike suše ili posle obilnih kiša, raspukne, pa silovit vazduh prodre u pukotine i potrese je.",
+    "sr": "Govorio je da zemljotresi nastaju kad se Zemlja od velike suše ili posle obilnih kiša raspukne, pa silovit vazduh prodre u pukotine i potrese je.",
     "stsl": "Землꙗ трѧсеть сѧ · єгда отъ великы сѹшы или по мнозѣхъ дъждѣхъ распѹкнеть сѧ · силенъ же въздѹхъ въ распадины вънидеть и землѭ потрѧсеть ·",
     "originalText": "Anaximander ait arescentem nimia aestuum siccitate aut post madores imbrium terram rimas pandere grandiores, quas penetrat supernus aer violentus et nimius, ac per eas vehementi spiritu quassatam cieri propriis sedibus.",
     "author": "Anaximander",
@@ -492,7 +492,7 @@
   {
     "id": "mm-000129",
     "type": "quote",
-    "sr": "Prve životinje nastale su u vlazi, obavijene bodljikavom korom. Kako su rasle, izlazile su na suvlje mesto, a kada bi im kora pukla, ubrzo bi promenile način života.",
+    "sr": "Prve životinje nastale su u vlazi, obavijene bodljikavom korom. Rastući, izlazile su na suvlje mesto; kad bi im kora pukla, ubrzo bi promenile način života.",
     "stsl": "Пръва животна въ влазѣ родишѧ сѧ · трьньнѫ корѫ имѫшта · възрастаѭшта же на сѹшеє исходѧахѫ · корѣ же распадъши сѧ · въскорѣ житиє прѣмѣнѧахѫ ·",
     "originalText": "Ἀναξίμανδρος ἐν ὑγρῷ γεννηθῆναι τὰ πρῶτα ζῷα <φλοιοῖς> περιεχόμενα ἀκανθώδεσι, προβαινούσης δὲ τῆς ἡλικίας ἀποβαίνειν ἐπὶ τὸ ξηρότερον καὶ περιρρηγνυμένου τοῦ <φλοιοῦ> ἐπ’ ὀλίγον χρόνον μεταβιῶναι.",
     "author": "Anaximander",
@@ -506,8 +506,8 @@
   {
     "id": "mm-000130",
     "type": "quote",
-    "sr": "Ljudi su prvobitno nastali u ribama i u njima bili odgajani, poput mladunaca morskih pasa, sve dok nisu postali sposobni da se sami održavaju; tada su izašli iz njih i stupili na kopno.",
-    "stsl": "Чловѣци въ начѧлѣ въ рыбахъ родишѧ сѧ и въ нихъ възпитани бышѧ · морьскымъ псомъ подобьно · дондеже сами себе хранити възмогошѧ · тогда изъ нихъ изидошѧ и на сѹшѫ въстѫпишѧ ·",
+    "sr": "Ljudi su prvobitno nastali u ribama i u njima odgajani, poput mladunaca morskih pasa, dok nisu postali sposobni da se sami održavaju; tada su iz njih izašli i stupili na kopno.",
+    "stsl": "Чловѣци въ начѧлѣ въ рыбахъ родишѧ сѧ · и въ нихъ възпитани бышѧ · ꙗко морьскыи пси · дондеже сами себе хранити възмогошѧ · тогда изъ нихъ изидошѧ · и на сѹшѫ въстѫпишѧ ·",
     "originalText": "ἐν ἰχθύσιν ἐγγενέσθαι τὸ πρῶτον ἀνθρώπους ἀποφαίνεται καὶ τραφέντας, ὥσπερ οἱ γαλεοί, καὶ γενομένους ἱκανοὺς ἑαυτοῖς βοηθεῖν ἐκβῆναι τηνικαῦτα καὶ γῆς λαβέσθαι.",
     "author": "Anaximander",
     "sources": [
@@ -548,7 +548,7 @@
   {
     "id": "mm-000133",
     "type": "quote",
-    "sr": "Beskrajno je božansko, jer je besmrtno i nepropadljivo.",
+    "sr": "Beskrajno je božansko: besmrtno je i nepropadljivo.",
     "stsl": "Бескраиноє божьско · бесъмрьтно бо и нетлѣньно ·",
     "originalText": "καὶ τοῦτ’ εἶναι τὸ θεῖον· ἀθάνατον γὰρ καὶ ἀνώλεθρον, ὥς φησιν ὁ Ἀναξίμανδρος.",
     "author": "Anaximander",
@@ -563,8 +563,8 @@
     "id": "mm-000134",
     "type": "anecdote",
     "year": -560,
-    "sr": "Kažu da su mu se dečaci podsmevali dok je pevao. Kada je to saznao, rekao je: Onda moramo bolje pevati zbog dečaka.",
-    "stsl": "Глаголѭть ꙗко пѣѭштѹ ємѹ отроци посмѣꙗхѫ сѧ · Онъ же ѹвѣдѣвъ рече · Лѹчьше ѹбо намъ пѣти подобаѥть ради отрокъ ·",
+    "sr": "Kažu da su mu se dečaci podsmevali dok je pevao. Saznavši to, reče: Zbog dečaka moramo bolje pevati.",
+    "stsl": "Глаголѭть · пѣѭштю ємѹ отроци посмѣꙗхѫ сѧ · ѹвѣдѣвъ рече · Лѹчьше ѹбо намъ пѣти подобаѥть ради отрокъ ·",
     "originalText": "τούτου φασὶν ᾄδοντος καταγελάσαι τὰ παιδάρια, τὸν δὲ μαθόντα φάναι, «βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια.»",
     "author": "Anaximander",
     "sources": [
@@ -578,7 +578,7 @@
     "id": "mm-002223",
     "type": "bio",
     "year": -610,
-    "sr": "Anaksimander beše srodnik, učenik i naslednik Talesa.",
+    "sr": "Anaksimander beše Talesov srodnik, učenik i naslednik.",
     "stsl": "Анаксимандръ бѣ сродникъ · ѹченикъ · и наслѣдьникъ Талетовъ ·",
     "originalText": "συγγενὴς καὶ μαθητὴς καὶ διάδοχος Θάλητος.",
     "author": "Anaximander",

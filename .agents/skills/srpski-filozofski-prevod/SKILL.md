@@ -28,6 +28,20 @@ Grčki izvornik je jedino merilo značenja. Čitaj ceo odlomak i dovoljno kontek
 
 `RECNIK.md` nije mapa za pretragu-zamenu. Upotrebi rečnički izraz kada prirodno služi misli. Kada je u konkretnom odlomku nejasan, težak ili ritmički loš, izaberi prirodniji srpski izraz koji ne briše filozofsku razliku izvornika. Korenske veze čuvaj kada one nose argument, a ne radi formalne simetrije.
 
+## Akademska provera filozofskog smisla
+
+Ako posle čitanja grčkog, njegovog konteksta i projektnih merila ostane stvarna
+dilema o filozofskom značenju, argumentu, tehničkom pojmu, referenci ili
+višeznačnoj konstrukciji, **obavezno konsultuj akademske autoritete na mreži
+pre nego što usvojiš prevod**. Prednost imaju naučna izdanja i komentari,
+stručni leksikoni, radovi ili monografije dostupni preko univerziteta i drugih
+akademskih ustanova, te potpisane stručne enciklopedije.
+
+Grčki ostaje primarni izvor; akademski izvor služi da razreši stvarnu dilemu,
+ne da ga zameni. Ne zasnivaj odluku na nepotpisanim popularnim tumačenjima,
+blogovima ili automatskim prevodima. U završnoj belešci navedi izvor samo kada
+je njegova konsultacija odlučila između stvarno mogućih prevodnih rešenja.
+
 ## Oblikuj prevod
 
 - Prevedi grčki smisao neposredno na srpski; ne preslikavaj mehanički ni grčku ni staroslovensku sintaksu.

@@ -38,6 +38,20 @@ grčki izvornik  ←  stsl
 
 Ne idi putem `grčki → stsl → sr`. Srpski se uvek proverava prema grčkom; staroslovenski mu daje samo ritam, zbijenost, slovensku sliku i blagu uzvišenost.
 
+## Akademska provera filozofskog smisla
+
+Ako posle čitanja grčkog, neposrednog konteksta i projektnih merila ostane
+stvarna dilema o filozofskom značenju, argumentu, tehničkom pojmu, referenci
+ili višeznačnoj konstrukciji, **obavezno konsultuj akademske autoritete na
+mreži pre nego što promeniš prevod**. Prednost imaju naučna izdanja i komentari,
+stručni leksikoni, radovi ili monografije dostupni preko univerziteta i drugih
+akademskih ustanova, te potpisane stručne enciklopedije.
+
+Grčki ostaje primarni izvor; akademski izvor služi da razreši stvarnu dilemu,
+ne da ga zameni. Ne zasnivaj odluku na nepotpisanim popularnim tumačenjima,
+blogovima ili automatskim prevodima. U predaji navedi izvor samo kada je njegova
+konsultacija odlučila između stvarno mogućih prevodnih rešenja.
+
 ### 1. Najpre utvrdi grčku misao i granicu
 
 - Pročitaj grčki odlomak i dovoljno susednog teksta da razrešiš negaciju, referencu, elipsu, argument, metaforu, opozicije, ponavljanja i korenske veze.

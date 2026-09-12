@@ -40,13 +40,35 @@ Ne uklanjaj filozofsku razliku, terminološku porodicu, namerno ponavljanje, opo
 
 Ne menjaj `id`, metapodatke, HTML sidra, pokazivače ili generisane fajlove. U `data/works` sidro može stajati usred rečenice i nije razlog da se rečenica cepa.
 
-## Postupak
+## Potpuna procedura klesanja
 
-1. Obeleži jednu čitalačku celinu i odredi njen najjači udar.
-2. Ukloni samo dokazivi višak.
-3. Razbij tešku konstrukciju ako ona muti ritam; ne skraćuj samu misao.
-4. Pročitaj novu verziju naglas. Ako nije kraća, jasnija ili ritmički jača, vrati je.
-5. Kada klesanje više ništa ne dobija, stani. Dobra rečenica nije sirovina za stalno preoblikovanje.
+Kada korisnik navede fajl, autora, delo ili drugu zbirku bez ograničavanja na
+pojedinačne `id`-jeve, predmet klesanja je **ceo taj obim**. Utvrdi potpun niz
+čitalačkih jedinica koje imaju `stsl` i/ili `sr`, pa ih obradi redom od početka
+do kraja. Ne uzorkuj, ne staj posle nekoliko očiglednih mesta i ne izvodi
+zaključak o celom fajlu iz reprezentativnih primera.
+
+Za svaku jedinicu proveri oba prevoda kao samostalne rečenice:
+
+1. odredi najjači udar iskaza;
+2. ukloni samo dokazivi višak;
+3. razbij tešku konstrukciju kada muti ritam, bez skraćivanja same misli;
+4. pročitaj rezultat naglas i zadrži ga samo ako je kraći, jasniji ili
+   ritmički jači uz potpuno očuvan sadržaj.
+
+Po završetku prvog prolaska ponovo pročitaj ceo dorađeni obim, redom, u oba
+jezika. Isklesaj sva preostala opravdana mesta i ponovi potpuni prolazak koliko
+je potrebno. Posao je završen tek kada nijedna čitalačka jedinica ne ostane
+neproverena, a u celom obimu više nema uklonjivog viška, teške sintakse ili
+slabog ritma koji se može popraviti bez pomeranja smisla.
+
+Dobra rečenica nije sirovina za stalno preoblikovanje: jedinicu koja već čuva
+svu misao i ne dobija sažetošću, prirodnošću ili ritmom ostavi netaknutu. Ali
+ne proglašavaj ceo prevod isklesanim samo zato što je nekoliko jedinica dobro
+ili je ispravljeno nekoliko najočiglednijih mesta.
+
+Pravila uzorkovanja iz `ocena-prevoda` važe samo za naknadnu ocenu kvaliteta;
+nikada ne određuju koje će jedinice biti pročitane ili isklesane.
 
 ## Predaja
 
@@ -57,7 +79,10 @@ stsl: <isklesani oblik>
 sr: <isklesani oblik>
 ```
 
-Za izmenu fajlova kratko navedi čitalačke jedinice koje su isklesane. Ne pravi izveštaj o bezbroj mogućih varijanti.
+Za izmenu fajlova kratko navedi da je ceo zadati obim pregledan, broj
+pregledanih prevodivih jedinica i čitalačke jedinice koje su isklesane. Ne
+pravi izveštaj o bezbroj mogućih varijanti i ne predstavljaj posao kao završen
+ako ceo obim nije prošao potpunu proceduru.
 
 ## Ocena posle klesanja
 

@@ -37,6 +37,20 @@ Projektni dokumenti i prethodna rešenja daju važan kontekst, ali grčki izvorn
 - Izdvoji filozofski važne reči, njihove grčke korene, suprotnosti, ponavljanja i igre reči. Ne gubi ove odnose radi površinske sažetosti.
 - Odredi da li je tekst izreka, argument, pripovest, dijalog ili naslov; oblikuj slovensku rečenicu prema njegovoj funkciji, ne prema grčkom redu reči.
 
+### Akademska provera filozofskog smisla
+
+Ako posle čitanja grčkog, neposrednog konteksta i projektnih merila ostane
+stvarna dilema o filozofskom značenju, argumentu, tehničkom pojmu, referenci
+ili višeznačnoj konstrukciji, **obavezno konsultuj akademske autoritete na
+mreži pre nego što usvojiš prevod**. Prednost imaju naučna izdanja i komentari,
+stručni leksikoni, radovi ili monografije dostupni preko univerziteta i drugih
+akademskih ustanova, te potpisane stručne enciklopedije.
+
+Grčki ostaje primarni izvor; akademski izvor služi da razreši stvarnu dilemu,
+ne da ga zameni. Ne zasnivaj odluku na nepotpisanim popularnim tumačenjima,
+blogovima ili automatskim prevodima. U završnoj belešci navedi izvor samo kada
+je njegova konsultacija odlučila između stvarno mogućih prevodnih rešenja.
+
 ### 2. Odluči terminološki sloj
 
 - Najpre pretraži `RECNIK.md` da razumeš ranije odluke, moguća rešenja i porodice reči. Ne radi pretragu-zamenu: rečnički izraz nije obavezan kada bi u konkretnom odlomku zatamnio smisao, narušio ritam ili zvučao prisilno.
