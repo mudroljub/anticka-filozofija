@@ -256,3 +256,13 @@
 | χρόνος            | врѣмѧ                                 | vreme                           |
 | ψεῦδος            | лъжь                                  | laž                             |
 | ψυχή              | дѹша                                  | duša                            |
+
+## Semantičke napomene
+
+Ove napomene čuvaju razlike izvornika koje slobodniji izraz može izbrisati;
+ne pretvaraju rečnik u mapu za mehaničko prevođenje.
+
+- **`εἶναι` u ontološkom smislu:** sačuvaj glagol `biti` — `єсть`/`сѫтъ` u
+  `stsl`, „jeste“/„jesu“ u `sr`. Srpsko „postojati“ nije njegova stilska
+  zamena. Kod nominalnog `ὄν` valjan oblik određuje kontekst; ne menjaj ga
+  samo radi formalnog ujednačavanja.

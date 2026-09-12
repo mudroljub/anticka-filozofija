@@ -31,8 +31,8 @@
   {
     "id": "mm-002040",
     "type": "mention",
-    "sr": "Demokrit pominje učenje o Jednom koje su zastupali Parmenid i Zenon.",
-    "stsl": "Демокритъ поминаєть ѹченіє о Єдиномь · єже Парменидъ и Зенонъ дрьжаста ·",
+    "sr": "Demokrit pominje učenje o jednom koje su zastupali Parmenid i Zenon.",
+    "stsl": "Демокритъ поминаєть ѹченіє о єдиномь · єже Парменидъ и Зенонъ дрьжаста ·",
     "originalText": "τῆς περὶ τοῦ ἑνὸς δόξης τῶν περὶ Παρμενίδην καὶ Ζήνωνα.",
     "author": "Zeno of Elea",
     "sources": [
@@ -73,7 +73,7 @@
   {
     "id": "mm-002043",
     "type": "quote",
-    "sr": "Postoje svetovi, ali nema praznine.",
+    "sr": "Svetovi jesu, praznine nema.",
     "stsl": "Міри сѫть · праздьно же нѣсть ·",
     "originalText": "κόσμους εἶναι κενόν τε μὴ εἶναι.",
     "author": "Zeno of Elea",
@@ -88,7 +88,7 @@
     "id": "mm-002044",
     "type": "quote",
     "sr": "Priroda svega nastala je od toplog i hladnog, suhog i vlažnog, koji se uzajamno menjaju.",
-    "stsl": "Природа вьсего отъ тепла и студени сѹхоты и влаги бꙑсть · си же дрѹгъ въ дрѹгоє прѣмѣнѧѭть сѧ ·",
+    "stsl": "Природа вьсего отъ тепла и студени · сѹха и влаги бꙑсть · си же дрѹгъ въ дрѹгоє прѣмѣнѧѭть сѧ ·",
     "originalText": "γεγενῆσθαι δὲ τὴν τῶν πάντων φύσιν ἐκ θερμοῦ καὶ ψυχροῦ καὶ ξηροῦ καὶ ὑγροῦ, λαμβανόντων αὐτῶν εἰς ἄλληλα τὴν μεταβολήν.",
     "author": "Zeno of Elea",
     "sources": [
@@ -115,8 +115,8 @@
   {
     "id": "mm-002046",
     "type": "quote",
-    "sr": "Duša je smeša toplog i hladnog, suhog i vlažnog, tako da nijedno od njih ne preovlađuje.",
-    "stsl": "Дѹша отъ тепла и студени · сѹхоты и влаги смѣшена єсть · тако ꙗко ни єдино отъ сихъ не прѣвъзмогаєть ·",
+    "sr": "Duša je smeša toplog i hladnog, suhog i vlažnog; nijedno od njih ne preovlađuje.",
+    "stsl": "Дѹша отъ тепла и студени · сѹха и влаги смѣшена єсть · ни єдино отъ сихъ не прѣвъзмогаєть ·",
     "originalText": "ψυχὴν κρᾶμα ὑπάρχειν ἐκ τῶν προειρημένων κατὰ μηδενὸς τούτων ἐπικράτησιν.",
     "author": "Zeno of Elea",
     "sources": [
@@ -157,7 +157,7 @@
   {
     "id": "mm-002049",
     "type": "quote",
-    "sr": "Ako je mnogo tih što jesu, tada moraju biti i slična i neslična, što je nemoguće; jer ni neslična ne mogu biti slična, niti slična neslična.",
+    "sr": "Ako je mnogo tih što jesu, moraju biti i slična i neslična, što je nemoguće; jer ni neslična ne mogu biti slična, niti slična neslična.",
     "stsl": "Аще сѫщаꙗ многа сѫть · подобьна и неподобьна имъ быти подобаєть · Се же неможьно · неподобьна бо подобьна не мѫгѫть быти · ни подобьна неподобьна ·",
     "originalText": "εἰ πολλά ἐστι τὰ ὄντα, ὡς ἄρα δεῖ αὐτὰ ὅμοιά τε εἶναι καὶ ἀνόμοια, τοῦτο δὲ δὴ ἀδύνατον· οὔτε γὰρ τὰ ἀνόμοια ὅμοια οὔτε τὰ ὅμοια ἀνόμοια οἷόν τε εἶναι.",
     "author": "Zeno of Elea",
@@ -171,7 +171,7 @@
   {
     "id": "mm-002050",
     "type": "mention",
-    "sr": "Platon predstavlja Zenonov spis kao odbranu Parmenida od onih koji mu se rugaju: Parmenid tvrdi da je sve jedno, a Zenon mnogim dokazima pobija da mnoštvo postoji.",
+    "sr": "Platon predstavlja Zenonov spis kao odbranu Parmenida od onih koji mu se rugaju: Parmenid tvrdi da je sve jedno, a Zenon mnogim dokazima pobija da mnoga jesu.",
     "originalText": "σὺ μὲν γὰρ ἐν τοῖς ποιήμασιν ἓν φῂς εἶναι τὸ πᾶν, καὶ τούτων τεκμήρια παρέχῃ καλῶς τε καὶ εὖ· ὅδε δὲ αὖ οὐ πολλά φησιν εἶναι, τεκμήρια δὲ καὶ αὐτὸς πάμπολλα καὶ παμμεγέθη παρέχεται. […] ἔστι δὲ τό γε ἀληθὲς βοήθειά τις ταῦτα τὰ γράμματα τῷ Παρμενίδου λόγῳ πρὸς τοὺς ἐπιχειροῦντας αὐτὸν κωμῳδεῖν.",
     "stsl": "Платонъ Зеноново писаніє ꙗко защиштениє Парменида противѹ посмѣваѭштиихъ показѹєть · Парменидъ глаголєть · ꙗко вьсе єдино єсть · Зенонъ же многыми доводы · ꙗко многа не сѫть ·",
     "author": [
@@ -376,7 +376,7 @@
   {
     "id": "mm-002066",
     "type": "anecdote",
-    "sr": "Zenon skova zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali bi uhvaćen. Ispitivan o saučesnicima i oružju koje je odnosio na Liparu, prokaza sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim reče da mu ima nešto kazati na uho, zagrize ga i ne puštaše dok ga ne probodoše; prema drugoj verziji, odgrizao mu je nos.",
+    "sr": "Zenon skova zaveru da obori tiranina Nearha, ili prema drugima Diomedonta, ali bi uhvaćen. Ispitivan o saučesnicima i oružju koje je nosio na Liparu, prokaza sve tiraninove prijatelje kako bi ga ostavio bez pristalica. Zatim reče da mu ima nešto kazati na uho, zagrize ga i ne puštaše dok ga ne probodoše; po drugoj verziji odgrizao mu je nos.",
     "stsl": "Зенонъ ѹмысли мѫчителꙗ Неарха низложити · по инѣхъ же Диомедонта · нъ ѧтъ бысть · Испытованъ о съѹмысльницѣхъ и оружии · єже въ Липарѫ ношаше · вьсѣхъ дрѹговъ мѫчителевыхъ имѧнова · да єго безъ помоштьникъ оставитъ · Таже рече · ꙗко нѣчто къ ѹхѹ ємѹ рещи имать · ѹхо єго зѹбы ꙗтъ и не пѹсти · дондеже прободенъ бысть · по иномѹ же сказаніѭ · носъ ємѹ отъгрꙑзе ·",
     "author": "Zeno of Elea",
     "year": -430,
@@ -395,8 +395,8 @@
   {
     "id": "mm-002067",
     "type": "bio",
-    "sr": "Prema Hermipu, Zenona baciše u stupu i u njoj ga smrviše.",
-    "stsl": "По Хермиппѹ · Зенонъ въ стѹпѫ въвръженъ · и въ неи истълченъ бꙑсть ·",
+    "sr": "Prema Hermipu, Zenona baciše u stupu i smrviše.",
+    "stsl": "По Хермиппѹ · Зенонъ въ стѹпѫ въвръженъ · истълченъ бꙑсть ·",
     "author": "Zeno of Elea",
     "year": -430,
     "originalText": "Ἕρμιππος δέ φησιν εἰς ὅλμον αὐτὸν βληθῆναι καὶ κατακοπῆναι.",

@@ -13,3 +13,4 @@
 
 - proveriti glavne filozofske termine ručno (AGENTI STOP) u rečniku i works
 - oceniti kvalitet prevoda celih dela
+- napravi veštinu za datiranje na osnovu docs/DATIRANJE.md . idealno je imati precizno datiranje svakog događaja, i ponekad je potrebno proveriti online, ali pre svega za članak o životu filozofa bitno je da stavke idu svojim redom i priča teče logično. ovo je veština sklapanja životne priče pre svega, od rasutih delova.

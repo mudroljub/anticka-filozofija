@@ -2,7 +2,7 @@
 
 ## Sažetak
 
-Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofskih izreka. Jedan autor ima ocenu 5, a pedeset četiri autora 4. Ocena je pokazatelj kvaliteta pregledanog uzorka, ne potpuna filološka potvrda svakog unosa u fajlu.
+Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofskih izreka. Dva autora imaju ocenu 5, a pedeset tri autora 4. Ocena je pokazatelj kvaliteta pregledanog uzorka, ne potpuna filološka potvrda svakog unosa u fajlu.
 
 ## Obim i pouzdanost
 
@@ -15,6 +15,7 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | autor | pregledano | srpski vernost | srpski prirodnost | srpski sažetost | srpski ocena | staroslovenski vernost | staroslovenski prirodnost | staroslovenski sažetost | staroslovenski ocena | ocena |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Anaximander.json | 5/28 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
+| Zeno of Elea.json | 5/15 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
 | Anacharsis.json | 5/12 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Anaxagoras.json | 5/45 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Anaximenes of Miletus.json | 5/24 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
@@ -68,4 +69,3 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Xenophanes.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Xenophon.json | 3/3 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Zeno of Citium.json | 10/56 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Zeno of Elea.json | 5/15 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |

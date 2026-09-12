@@ -64,6 +64,8 @@ Ako je granica sidra očigledno pogrešna, odvoji taj nalaz od prevodne redaktur
 
 Staroslovenski oblikuj kao sažetu, prirodnu i lepu slovensku filozofsku misao VIII veka.
 
+Poštuj prvenstvo najranijeg mogućeg slovenskog sloja; merila izbora oblika nalaze se u `docs/PREVODJENJE_NA_STAROSLOVENSKI.md`.
+
 - Sačuvaj grčki argument, razlike i korenske veze koje nose misao.
 - Klesanjem ukloni višak, teške kalke, nepotrebnu kopulu i grčki red reči kada guše slovenski udar.
 - Prednost imaju kratke težinske celine, snažne imenice i glagoli, prirodan red reči i čestice samo kada nose odnos ili ritam.
