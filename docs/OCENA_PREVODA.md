@@ -1,4 +1,4 @@
-# Ocena kvaliteta prevoda — `data/quotes`
+# Ocena kvaliteta prevoda — `data/quotes` i `data/works`
 
 ## Sažetak
 
@@ -69,3 +69,35 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Xenophanes.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Xenophon.json | 3/3 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Zeno of Citium.json | 10/56 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+
+## Ocena celih dela
+
+Pregledan je stratifikovan uzorak od 144 kanonska odlomka, raspoređen kroz početak, sredinu i kraj svakog dela, uz proveru prelaza među susednim sidrima. U pregledanom uzorku oba prevoda uglavnom verno održavaju argument, govornike i važne pojmovne razlike. Ocene su uzorkovane i ne potvrđuju filološki svaki odlomak pojedinačno.
+
+### Obim i pouzdanost
+
+- Pregledano: 15 dela, 144 odlomka iz oba prevoda i njihovih grčkih izvora; struktura manifesta i sidara proverena je za sva 1.642 kanonska odeljka.
+- Metod uzorka: 5 odlomaka u delima s 6–50 sidara, 10 u delima s 51–100, te najmanje 5% u većim delima; uzorci su raspoređeni kroz delo i knjige/fajlove gde postoje.
+- Granica zaključka: brojčana ocena govori o pregledanom uzorku. Potpuna strukturna provera ne zamenjuje punu filološku proveru svih odlomaka.
+
+| delo | pregledano | srpski vernost | srpski prirodnost | srpski sažetost | srpski ocena | staroslovenski vernost | staroslovenski prirodnost | staroslovenski sažetost | staroslovenski ocena | ocena |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Eutifron | 10/70 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Glavne misli | 5/16 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Ion | 10/59 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Klitofont | 5/21 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Kriton | 10/59 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Lisid | 10/99 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Parmenid | 10/195 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Pismo Herodotu | 5/49 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Pismo Menoikeju | 5/14 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Pismo Pitoklu | 5/33 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Priručnik | 10/53 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Protagora | 14/265 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Razgovori | 10/95 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Samom sebi | 25/486 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Metafizika | 10/128 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+
+## Strukturni problemi celih dela
+
+Nisu utvrđeni strukturni problemi.
