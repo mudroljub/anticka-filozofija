@@ -16,7 +16,7 @@ Odstupiti od besedništva, pesništva i dosetljivog govorenja; ne šetati po ku�
 
 Prema onima koji se razgneviše i ogrešiše biti lako umoljiv i spreman na pomirenje čim sami ushteju da se vrate; čitati pomno i ne zadovoljavati se tek opštim razumevanjem celine; ne pristajati brzo uz brbljivce; upoznati Epiktetove zapise, koje mi dade iz svojih knjiga.
 
-<!-- anchor:I.8 -->Od Apolonija: sloboda i nesumnjivo nepokolebljiva čvrstina; ni na šta se drugo, makar i načas, ne obazirati osim na slovesnost; ostajati uvek isti u ljutim bolovima, pri gubitku deteta i u dugim bolestima; na živom primeru jasno videti da isti čovek može biti i veoma odlučan i blag.
+<!-- anchor:I.8 -->Od Apolonija: sloboda i nesumnjivo nepokolebljiva čvrstina; ni na šta se drugo, makar i načas, ne obazirati osim na slovo; ostajati uvek isti u ljutim bolovima, pri gubitku deteta i u dugim bolestima; na živom primeru jasno videti da isti čovek može biti i veoma odlučan i blag.
 
 Ne biti nestrpljiv pri tumačenju; videti čoveka koji iskustvo i umešnost u prenošenju motrenja očigledno smatraše najmanjim od svojih dobara; naučiti kako valja primati ono što se smatra dobročinstvima prijatelja, niti im se zbog toga potčinjavajući niti to bezosećajno odbacujući.
 
@@ -36,13 +36,13 @@ Nikada ne pokazati ni trag gneva ili druge strasti, nego ujedno biti sasvim best
 
 <!-- anchor:I.14 -->Od brata moga Severa: ljubav prema svojima, istini i pravdi; preko njega upoznati Traseju, Helvidija, Katona, Diona i Bruta; primiti predstavu o državi jednakog zakona, uređenoj prema jednakosti i jednakom pravu govora, i o carstvu koje iznad svega poštuje slobodu podanika.
 
-Još od njega: postojanost i jednaku revnost u poštovanju filozofije; dobročinstvo, obilno davanje, dobru nadu i poverenje u ljubav prijatelja; otvorenost prema onima koje osuđuje, tako da njegovi prijatelji ne moraju nagađati šta hoće ili neće, nego im je jasno.
+Još od njega: postojano i jednako poštovanje filozofije; dobročinstvo, obilno davanje, dobru nadu i poverenje u ljubav prijatelja; otvorenost prema onima koje osuđuje, tako da njegovi prijatelji ne moraju nagađati šta hoće ili neće, nego im je jasno.
 
 <!-- anchor:I.15 -->Od Maksima: vladati sobom i ni u čemu se ne kolebati; biti blagodušan u svim okolnostima, pa i u bolesti; imati dobro odmerenu narav, blagu i dostojanstvenu; izvršavati predstojeće bez roptanja.
 
 Svi mu verovahu da misli ono što govori i da ono što čini ne čini zlonamerno. Ničemu se ne čuditi niti se užasavati; nikada ne hitati, ne oklevati, ne biti bespomoćan, ne klonuti, ne smešiti se usiljeno, niti se opet gneviti ili podozrevati.
 
-Biti dobročinitelj, spreman na oproštaj i nelažljiv; davati predstavu čoveka koji se ne krivi, a ne onoga koji se ispravlja. Niko ne bi pomislio da ga Maksim prezire, niti bi se usudio smatrati sebe boljim od njega. I prijatno se šaliti.
+Biti dobročinitelj, spreman na oproštaj i nelažljiv; ostavljati utisak čoveka koji nije skrenuo, a ne onoga koji se tek ispravlja. Niko ne bi pomislio da ga Maksim prezire, niti bi se usudio smatrati sebe boljim od njega. I prijatno se šaliti.
 
 <!-- anchor:I.16 -->Od oca: blagost i nepokolebljiva istrajnost u odlukama donetim posle pomnog ispitivanja; odsustvo taštine prema takozvanim počastima; trudoljublje i trajno prilježanje; slušati one koji imaju predložiti nešto opštekorisno; nepokolebljivo davati svakome prema zasluzi; iz iskustva znati gde valja pritegnuti, a gde popustiti.
 

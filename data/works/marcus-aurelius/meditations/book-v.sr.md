@@ -28,7 +28,7 @@ Iz dva razloga valja ljubiti ono što ti se događa: prvo, jer se tebi zbivalo, 
 
 <!-- anchor:V.13 -->Sastojim se od vinog i tvarnog. Nijedno od toga neće propasti u nesušto, kao što ni iz nesuštog nije nastalo. Svaki moj deo promenom će se uvrstiti u neki deo sveta, pa će se taj opet promeniti u drugi deo sveta, i tako u beskraj. Takvom promenom nastadoh i ja i oni koji me rodiše, pa unazad u drugi beskraj. Ništa ne brani tako govoriti, makar se svetom upravljalo u omeđenim kolovratima.
 
-<!-- anchor:V.14 -->Slovesnost i slovesna veština moći su dovoljne sebi i svojim delima. Polaze od svog počela i putuju prema postavljenoj svrsi. Zato se takva činjenja nazivaju ispravljenjima, naznačujući pravost puta.
+<!-- anchor:V.14 -->Slovo i umna veština moći su dovoljne sebi i svojim delima. Polaze od svog počela i putuju prema postavljenoj svrsi. Zato se takva činjenja nazivaju ispravljenjima, naznačujući pravost puta.
 
 <!-- anchor:V.15 -->Ništa ne treba nazivati čovekovim što čoveku, kao čoveku, ne pripada. To nisu čovekovi zahtevi; ljudska priroda to ne obećava, niti su to njena savršenstva. U tome, dakle, ne leži čovekova svrha, ni dobro koje je ispunjuje. Kada bi nešto od toga pripadalo čoveku, ne bi mu pripadalo da to prezire i uzdiže se iznad toga. Ne bi bio hvale dostojan ko pokazuje da mu to ne treba, niti bi bio dobar onaj koji sebi nešto od toga uskraćuje, kada bi to bila dobra. Sada pak, što više toga ili sličnog čovek sebi oduzima, ili trpi da mu se oduzme, utoliko je bolji.
 
@@ -54,7 +54,7 @@ Iz dva razloga valja ljubiti ono što ti se događa: prvo, jer se tebi zbivalo, 
 
 <!-- anchor:V.26 -->Neka vodeći i vladajući deo tvoje duše ne menja glatko ili grubo kretanje u puti. Neka se s njim ne meša, nego sebe odvoji, a ta trpljenja ograniči na udove. Kada se pak, po drugoj uzajamnoj povezanosti, prenesu u razmišljanje kao u sjedinjenom telu, ne pokušavaj se protiviti čuvstvu, jer je prirodno. Ali neka vladajuće načelo samo od sebe ne dodaje prihvatanje da je to dobro ili zlo.
 
-<!-- anchor:V.27 -->Živeti s bogovima. S bogovima živi ko im neprestano pokazuje dušu zadovoljnu dodeljenim, koja čini sve što hoće božanstvo koje Zevs svakome dade za zaštitnika i vođu, odvojivši ga od sebe. To je um i slovesnost svakoga.
+<!-- anchor:V.27 -->Živeti s bogovima. S bogovima živi ko im neprestano pokazuje dušu zadovoljnu dodeljenim, koja čini sve što hoće božanstvo koje Zevs svakome dade za zaštitnika i vođu, odvojivši ga od sebe. To su um i slovo svakoga.
 
 <!-- anchor:V.28 -->Gneviš li se na onoga kome smrde pazuha ili usta? Šta da ti čini? Takva su mu usta, takva pazuha; nužno je da iz takvih dolazi takav miris. Ali čovek, kažeš, ima slovesnost i može pažnjom razumeti u čemu greši. Dobro ti bilo! I ti imaš slovesnost: slovesnim raspoloženjem pokreni slovesno raspoloženje; pokaži, podseti. Ako čuje, izlečićeš ga i neće trebati gneva. Ni tragički glumac ni bludnica.
 

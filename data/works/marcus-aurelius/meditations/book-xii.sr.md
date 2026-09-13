@@ -2,21 +2,21 @@
 
 <!-- anchor:XII.2 -->Bog sve vladajuće nago od grubina suda, kožica i nečistota vidi — njemu bo jedinome umni dotika se umnoga, što je iz samoga njega u te isteklo i tamo se utopilo. Ako pak i ti prikneš si ovo činiti, mnogo smutenja sebi odmeš; jer ko ne vidi okruženo kao meso, ni odeždu, ni dom, ni slavu, ni takovu odeždu i predstavu — taj neće biti zaposlen.
 
-<!-- anchor:XII.3 -->Tri su: od kojih sastavljen si — telce, duhce, um. Od ovih druga dva dokle se popreti o njima — tvoja su; treće je jedino pravo tvoje. Što ako razložiš od sebe — to jest od svoje misli — sve što drugi tvore ili govore, i što sam učini ili reče, i što kao buduće te smućuje, i što bez volje prilepi se telu tebe okružujućemu ili duhu supružnomu, i što ih spoljašnji vir prevrti — da umna sila, razložena od sudbinskoga, čista, slobodno na samoj sebi živi, tvoreći pravedna i hteći dolazeća i govoreći istinu. Ako, reče, razložiš od vladanja ovoga prilepljeno od strasti i časove svrha ili prošle — učinićeš se kao sfera Empedoklova, radujući se okruglim stojanjem svojim, i naviknućeš živeti samo to što živiš, to jest sadašnje; i moći ćeš prebivajući dokle umreš mirno i milo i milostivo svomu duhu provesti.
+<!-- anchor:XII.3 -->Tri su: od kojih sastavljen si — telce, duhce, um. Od ovih druga dva dokle se popreti o njima — tvoja su; treće je jedino pravo tvoje. Što ako razložiš od sebe — to jest od svoje misli — sve što drugi tvore ili govore, i što sam učini ili reče, i što kao buduće te smućuje, i što bez volje prilepi se telu tebe okružujućemu ili duhu supružnomu, i što ih spoljašnji vir prevrti — da umna sila, razložena od sudbinskoga, čista, slobodno na samoj sebi živi, tvoreći pravedna i hteći dolazeća i govoreći istinu. Ako, reče, razložiš od vladanja ovoga prilepljeno od strasti i časove svrha ili prošle — učinićeš se kao sfera Empedoklova, radujući se okruglim stojanjem svojim, i naviknućeš živeti samo to što živiš, to jest sadašnje; i moći ćeš prebivajući dokle umreš mirno i milo i milostivo svomu božanstvu provesti.
 
 <!-- anchor:XII.4 -->Mnogokrat se divih: kako svako sebe nad sve voli, a mišljenje svoje o sebi manje polaga nego tuđe. Ako bi ko bog stao ili mudar učitelj i naredio ništa u sebi ne misliti i ne pomisljati, čega ne odmah vikneš — to ni jednoga dana ne pretrpi. Tako se bojimo više šta će o nama misliti drugi, nego samih sebe.
 
 <!-- anchor:XII.5 -->Kako bogovi, sve lepo i čovjekoljubivo ustroivši, ovo jedino prevreše: da neki od ljudi, vrlo dobri, i bogu mnogo bliski — kao savez položivši — tvoreći blagogažna dela i žrtve i uvek bogu priklonjeni, kad jednom umru, opet ne rađaju se, nego svim krajem gase? Ovo pak, ako je tako, zna dakle tvrdo: ako je inako trebalo biti, učinili bi; jer ako je bilo pravedno, bilo je i moguće, i ako po prirodi — priroda je primala. Iz toga pak da nije tako — ako nije tako — budi uveren da nije trebalo tako biti; vidiš bo i sam da, ovo tražeći, s bogom se svadiš. Ali ne bismo tako razgovarali s bogovima, ako nisu najlepši i najpravedniji. Ako je tako, ničega nisu pregrliši nepravedno i bez razuma zaboravljeno u ustrojenju.
 
-<!-- anchor:XII.6 -->Navikni i ono u čemu ne veruješ. Ruka bo leva, drugim delima nepriknula, prazna sadašnja, uzdu krepče drži nego desna — jer je priknula.
+<!-- anchor:XII.6 -->Vežbaj se i u onome za šta misliš da ne možeš. Leva ruka, inače nevešta u ostalim poslovima, uzdu drži snažnije od desne, jer je na to navikla.
 
 <!-- anchor:XII.7 -->Kakov podobava smrti pojmen biti i telom i dušom; malovremenost života; bezmernost veka i pozadi i napred; nemoć cele stvari.
 
-<!-- anchor:XII.8 -->Naga videti vinu kožica: odnosenja delanja; što trud, što slast, što smrt, što slava; ko sam sebi vinom zanjati; kako niko od drugoga ne pretknut; da je sve mišljenje.
+<!-- anchor:XII.8 -->Gledaj uzroke ogoljene od njihovih ljuski; svrhe postupaka; šta je bol, šta uživanje, šta smrt, šta slava; ko je sam sebi uzrok zauzetosti; kako nikoga ne ometa drugi; i da je sve sud.
 
-<!-- anchor:XII.9 -->Podobava dakle kao rvača biti u upotrebama uverenja, a ne kao mačevalca: mačevac bo meč, kojim se koristi, odloži; rvač pak ruku uvek ima i ničega drugoga ne treba, razve da je stisne.
+<!-- anchor:XII.9 -->U upotrebi načela valja biti nalik pankratijasti, a ne mačevaocu: mačevalac može odložiti mač kojim se služi i ostati bez njega; pankratijasta uvek ima ruku i treba samo da je stegne.
 
-<!-- anchor:XII.10 -->Takova stvari videti, razdeljajući na materiju, na vinu, na odnosenje.
+<!-- anchor:XII.10 -->Tako gledaj stvari: razdeli ih na tvar, uzrok i svrhu.
 
 <!-- anchor:XII.11 -->Koliko vlasti ima čovek: ničega drugoga ne činiti, razve toga što će bog hvaliti, i primati sve što mu bog podeli. Toliko po prirodi.
 

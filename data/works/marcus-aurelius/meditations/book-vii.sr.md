@@ -30,7 +30,7 @@
 
 <!-- anchor:VII.16 -->Vladajuće načelo samo sebi ne smeta; ono, da tako kažem, samo sebe ne plaši da bi poželelo nešto. Ako ga, pak, neko drugi može uplašiti ili ožalostiti, neka to čini; jer ono samo sebe, svojim vlastitim prosuđivanjem, neće dovesti do takvih skretanja. Neka telo, ako može, samo brine da mu se nešto ne dogodi i neka kaže ako nešto trpi; ali duša koja se boji, koja tuguje, koja o tome uopšte sudi, neka ne pretrpi ništa: nećeš je dovesti do takvog suda. Jer vladajućem načelu, koliko je do njega, ništa nije potrebno, ako samo sebi ne stvara oskudicu; a isto tako je i bez uznemirenosti i bez prepreke, ako samo sebe ne uznemirava i ne ometa.
 
-<!-- anchor:VII.17 -->Sreća je dobar daimōn, ili dobro vladajuće načelo. Pa šta onda radiš ovde, o predstavo? Odlazi, po bogovima, kao što si i došla; jer mi nisi potrebna. Došla si po starom običaju. Ne ljutim se na tebe; samo idi.
+<!-- anchor:VII.17 -->Sreća je dobro božanstvo, ili dobro vladajuće načelo. Pa šta onda radiš ovde, o predstavo? Odlazi, po bogovima, kao što si i došla; jer mi nisi potrebna. Došla si po starom običaju. Ne ljutim se na tebe; samo idi.
 
 <!-- anchor:VII.18 -->Boji li se neko promene? Pa šta može nastati bez promene? A šta je prirodi celine draže ili s njom srodnije? Možeš li se ti sam okupati ako se drva ne promene? Možeš li se nahraniti ako se hrana ne promeni? A može li se išta drugo od onoga što je korisno ostvariti bez promene? Zar onda ne vidiš da je i tvoja vlastita promena nešto slično i podjednako nužno prirodi celine?
 
@@ -42,11 +42,11 @@
 
 <!-- anchor:VII.22 -->Svojstveno je čoveku da voli i one koji greše. A to će ti se dogoditi ako ti padne na um da su ti oni srodni, da greše iz neznanja i nehotice, da ćete za malo obojica biti mrtvi i, pre svega, da ti nije naneo štetu; jer tvoje vladajuće načelo nije postalo gore nego što je bilo pre.
 
-<!-- anchor:VII.23 -->Priroda celine od celokupnog bivstva sada je oblikovala, kao od voska, konjića, pa ga, rastopivši ga, od iste materije oblikovala u drvcence; zatim u čovuljka; zatim u nešto drugo; a svako od toga trajalo je veoma kratko. Nije ništa strašno što se ono rastavi u kalupu, kao što nije ništa dobro ni što se u njemu sastavi.
+<!-- anchor:VII.23 -->Priroda celine od celokupnog suštastva sada je oblikovala, kao od voska, konjića, pa ga, rastopivši ga, od iste tvari oblikovala u drvcence; zatim u čovuljka; zatim u nešto drugo; a svako od toga trajalo je veoma kratko. Nije ništa strašno što se ono rastavi u kalupu, kao što nije ništa dobro ni što se u njemu sastavi.
 
 <!-- anchor:VII.24 -->Izraz lica koji je namršten i namrštenost veoma su protiv prirode, kada je često pretvaranje u smrt ili kada je poslednja iskra ugašena, tako da više uopšte ne može da se ponovo zapali. Nastoj da i sam to imaš na umu: to je protiv razuma. Jer ako nestane i svest o tome da grešiš, šta ti još ostaje kao razlog za život?
 
-<!-- anchor:VII.25 -->Sve što vidiš uskoro će promeniti priroda koja upravlja celinom, i od njihove će bivstvujuće građe načiniti druge stvari, a zatim opet druge od građe tih drugih, da bi svet uvek bio nov.
+<!-- anchor:VII.25 -->Sve što vidiš uskoro će promeniti priroda koja upravlja celinom, i od njihovog će suštastva načiniti druge stvari, a zatim opet druge od suštastva tih drugih, da bi svet uvek bio nov.
 
 <!-- anchor:VII.26 -->Kada neko prema tebi pogreši, odmah pomisli šta je smatrajući dobrim ili zlim pogrešno pretpostavio. Jer kada to vidiš, sažalićeš ga i nećeš se ni čuditi ni ljutiti. Jer ili i sam još smatraš dobrim isto što i on, ili nešto tome srodno; stoga mu treba oprostiti. A ako više ne smatraš takve stvari ni dobrima ni zlima, još će ti biti lakše da budeš blagonaklon prema onome koji ih previđa.
 
@@ -54,13 +54,13 @@
 
 <!-- anchor:VII.28 -->Povuci se u sebe. Jer razumno vladajuće načelo ima po prirodi dovoljno samo sebi kada čini pravedno i upravo zbog toga ima spokoj.
 
-<!-- anchor:VII.29 -->Izbriši predstavu. Zaustavi lutku na koncima. Ograniči sadašnji trenutak. Prepoznaj šta se događa, bilo tebi ili drugome. Razdvoji i raščlani ono što leži pred tobom na uzrok i materiju. Pomisli na poslednji čas. Grešku koja je učinjena ostavi tamo gde je greška nastala.
+<!-- anchor:VII.29 -->Izbriši predstavu. Zaustavi lutku na koncima. Ograniči sadašnji trenutak. Prepoznaj šta se događa, bilo tebi ili drugome. Razdvoji i raščlani ono što leži pred tobom na uzročno i tvarno. Pomisli na poslednji čas. Grešku koja je učinjena ostavi tamo gde je greška nastala.
 
 <!-- anchor:VII.30 -->Proširi svoje shvatanje zajedno s onim što se govori. Uvuci um u ono što se događa i u ono što to čini.
 
-<!-- anchor:VII.31 -->Razvedri sebe jednostavnošću, skromnošću i ravnodušnošću prema onome što je između vrline i poroka. Voli ljudski rod. Sledi boga. On kaže: „Sve je po mnjenju, a stvarno su samo elementi.“ Dovoljno je setiti se da je sve po mnjenju; već i to je veoma malo.
+<!-- anchor:VII.31 -->Razvedri sebe jednostavnošću, skromnošću i ravnodušnošću prema onome što je između vrline i poroka. Voli ljudski rod. Sledi boga. On kaže: „Sve je po mnjenju, a stvarni su samo sastojci.“ Dovoljno je setiti se da je sve po mnjenju; već i to je veoma malo.
 
-<!-- anchor:VII.32 -->O smrti: ili raspršenje, ako postoje atomi; ili sjedinjavanje, a tada ili gašenje ili promena mesta.
+<!-- anchor:VII.32 -->O smrti: ili raspršenje, ako postoje neseci; ili sjedinjavanje, a tada ili gašenje ili promena mesta.
 
 <!-- anchor:VII.33 -->O bolu: ono što je nepodnošljivo izvodi iz života, a ono što traje može se podneti; i misao čuvanjem svog mira čuva samu sebe, a vladajuće načelo nije postalo gore; a delovi koji trpe zbog bola, ako mogu, neka sami o njemu izreknu sud.
 
@@ -88,21 +88,21 @@
 
 <!-- anchor:VII.45 -->„Jer tako stvari zaista stoje, Atenjani: gde god je čovek sam sebe postavio, smatrajući da je najbolje mesto, ili gde god ga je postavio onaj koji zapoveda, tamo, čini mi se, treba ostati i izložiti se opasnosti, ne obazirući se ni na smrt ni na bilo šta drugo pre nego na ono što je sramotno.“
 
-<!-- anchor:VII.46 -->„Ne treba ni da se sažaljevaš s onima koji pate, niti da uzdišeš nad njima.“
+<!-- anchor:VII.46 -->„Ali, blaženi, gledaj nije li plemenito i dobro nešto drugo no spasavati i biti spasavan. Pravom čoveku valja pustiti život, ma koliko trajao, i ne ljubiti ga, već to prepustiti bogu i, verujući ženama da niko ne može umaći usudu, promišljati kako će vreme koje mu preostaje proživeti najbolje.“
 
-<!-- anchor:VII.47 -->Posmatraj kretanja zvezda kao da zajedno s njima trčiš, i neprestano razmišljaj o međusobnim promenama elemenata; jer prizori toga čiste prljavštinu zemaljskog života.
+<!-- anchor:VII.47 -->Posmatraj kretanja zvezda kao da zajedno s njima trčiš, i neprestano razmišljaj o međusobnim promenama sastojaka; jer prizori toga čiste prljavštinu zemaljskog života.
 
 <!-- anchor:VII.48 -->Lepa je Platonova misao. Kada govoriš o ljudima, treba posmatrati i zemaljske stvari kao da ih odozgo, iz neke visine, gledaš nadole: stada, vojske, zemljoradnju, ženidbe, razvode, rađanja, smrti, vrevu sudnica, puste krajeve, raznolika varvarska plemena, svetkovine, žalosti, pijace, sve izmešano i sastavljeno od suprotnosti.
 
 <!-- anchor:VII.49 -->Osvrni se na ono što se već dogodilo, na tolike promene vlasti. Možeš unapred sagledati i ono što će biti; jer ono će svakako biti istog roda i neće moći da izađe iz toka onoga što se sada događa. Zato je isto proučavati ljudski život kroz četrdeset godina kao i kroz deset hiljada godina. Jer šta ćeš više videti?
 
-<!-- anchor:VII.50 -->I: „Ono što je iz zemlje izniklo, u zemlju se vraća, a ono što je iz nebeskog semena izraslo, opet se vraća u nebeski svod.“ Ili je to raspad međusobnog preplitanja atoma i takvo rasipanje neosetljivih elemenata.
+<!-- anchor:VII.50 -->I: „Ono što je iz zemlje izniklo, u zemlju se vraća, a ono što je iz nebeskog semena izraslo, opet se vraća u nebeski svod.“ Ili je to raspad uzajamnog spleta neseka i takvo rasipanje bestrasnih sastojaka.
 
 <!-- anchor:VII.51 -->I: „Hranom i pićem i čarolijama skreću tok, da ne bi umrli; ... a kada s neba dune povoljan vetar, nužno je podnositi napore bez jadikovanja.“
 
-<!-- anchor:VII.52 -->Postao si više nalik na jarca, ali ne i više društven, niti obazriviji, niti uređeniji prema onome što se događa, niti blagonakloniji prema propustima svojih bližnjih.
+<!-- anchor:VII.52 -->Bolji si rvač, ali nisi društveniji, stidljiviji, uređeniji pred onim što se događa, ni blagonakloniji prema previdima bližnjih.
 
-<!-- anchor:VII.53 -->Gde god se neko delo može izvršiti u skladu sa razumom koji je zajednički bogovima i ljudima, tamo nema ničeg strašnog; jer gde se pomoću delatnosti koja napreduje i odvija se u skladu s našom prirodom može zadobiti korist, tamo ne treba naslućivati nikakvu štetu.
+<!-- anchor:VII.53 -->Gde se delo može izvršiti po slovu zajedničkom bogovima i ljudima, tu nema ničeg strašnog. Jer gde delovanje, koje valjano ide napred po svojoj građi, može doneti korist, ne treba strepiti ni od kakve štete.
 
 <!-- anchor:VII.54 -->Svuda i neprestano u tvojoj je moći da bogobojazno budeš zadovoljan sadašnjim okolnostima, da se prema ljudima koji su sada s tobom odnosiš pravedno i da sadašnjoj predstavi posvetiš pažljivu veštinu, kako se u nju ne bi uvuklo nešto nerazumljivo.
 
@@ -112,7 +112,7 @@
 
 <!-- anchor:VII.57 -->Voli jedino ono što ti se događa i što ti je utkano u sudbinu; jer šta bi ti moglo biti prikladnije?
 
-<!-- anchor:VII.58 -->Pri svakom događaju drži pred očima one kojima se dogodilo isto što i tebi, pa su zbog toga bili nezadovoljni, čudili se tome i krivili druge. Gde su sada oni? Nigde. Pa šta onda? Hoćeš li i ti isto? Ne, nego prepusti tuđe preokrete onima koji ih izazivaju i kojima se događaju, a sav se posveti tome kako da ih upotrebiš. Jer dobro ćeš ih upotrebiti i oni će ti biti materijal — samo pazi i želi da u svemu što činiš budeš dobar. I imaj na umu oboje: i prirodu onoga na čemu se radnja vrši.
+<!-- anchor:VII.58 -->Pri svakom događaju drži pred očima one kojima se dogodilo isto što i tebi, pa su zbog toga bili nezadovoljni, čudili se tome i krivili druge. Gde su sada oni? Nigde. Pa šta onda? Hoćeš li i ti isto? Ne, nego prepusti tuđe preokrete onima koji ih izazivaju i kojima se događaju, a sav se posveti tome kako da ih upotrebiš. Jer dobro ćeš ih upotrebiti i oni će ti biti tvar — samo pazi i želi da u svemu što činiš budeš dobar. I imaj na umu oboje: i prirodu onoga na čemu se radnja vrši.
 
 <!-- anchor:VII.59 -->Kopaj u sebi. Unutra je izvor dobra i on uvek može ponovo poteći, ako uvek budeš kopao.
 
@@ -122,7 +122,7 @@
 
 <!-- anchor:VII.62 -->Neprestano obraćaj pažnju na to ko su oni čije svedočanstvo želiš i kakvo vladajuće načelo imaju; jer nećeš koriti one koji nehotice greše, niti će ti biti potrebno njihovo svedočanstvo, ako pogledaš u izvore njihovih sudova i poriva.
 
-<!-- anchor:VII.63 -->„Svaka duša“, kaže on, „koja je lišena istine, lišena je i pravde“, a tako i razboritosti, blagonaklonosti i svega tome sličnog. Najpotrebnije je, dakle, neprestano ovo imati na umu; jer ćeš biti blaži prema svima.
+<!-- anchor:VII.63 -->„Svaka duša“, kaže on, „protiv volje ostaje bez istine.“ Tako i bez pravde, razboritosti, blagonaklonosti i svega tome sličnog. Najpotrebnije je, dakle, neprestano ovo imati na umu; jer ćeš biti blaži prema svima.
 
 <!-- anchor:VII.64 -->Kod svakog bola neka ti bude pri ruci misao da on nije sramotan i da vladajuće načelo ne čini gorim; jer ga ne kvari ni kao razumno ni kao društveno biće. A kod većine bolova neka ti kao pomoć posluži i Epikurova misao: da bol nije ni nepodnošljiv ni večan, ako se sećaš njegovih granica i ne dodaješ mu ono što on sam nema. I seti se takođe da mnoge stvari, iako su u osnovi iste kao bol, ne primećujemo kao takve, nego nas uznemiravaju: na primer pospanost, vrućina i gubitak apetita. Kad god ti je nešto od toga neprijatno, reci sebi: „Podaješ se bolu.“
 
@@ -132,7 +132,7 @@
 
 <!-- anchor:VII.67 -->Priroda nije tako pomešala čoveka sa celinom da mu ne bi bilo dopušteno da ograničava sebe i da ono što mu pripada drži pod svojom vlašću. Jer sasvim je moguće da čovek postane božanski, a da ga niko ne prepozna. Uvek se toga sećaj, i još ovoga: u vrlo malome leži to da li ćeš živeti srećno ili nesrećno. To što si izgubio nadu da ćeš postati dijalektičar i prirodnjak ne znači da treba da izgubiš nadu da ćeš biti slobodan, skroman, društven i poslušan bogu.
 
-<!-- anchor:VII.68 -->Živeti bez prinude i u najvećoj vedrini, pa makar svi vikali protiv tebe šta god žele, pa makar zveri kidale komadiće od tog tvog jadnog tela koje je odgajeno i oblikovano. Jer šta sprečava da u svemu tome razum sačuva samoga sebe u spokoju, sa istinitim sudom o onome što se događa i spremnom upotrebom onoga što mu je dato? Neka sud kaže onome što nailazi: „Ti si po svojoj bivstvenoj prirodi ovo, ma kako drugačije izgledao po mnjenju“; a upotreba neka kaže onome što nailazi: „Tebe sam tražio; jer sadašnjost mi je uvek materijal za razumnu i društvenu vrlinu i, uopšte, za veštinu čoveka ili boga.“ Jer sve što se događa bogu ili čoveku postaje blisko i nije ni novo ni teško za upotrebu, nego poznato i korisno.
+<!-- anchor:VII.68 -->Živi bez prinude, u najvećoj vedrini, pa makar svi vikali šta god hoće, pa makar zveri trgale komadiće ovog tvog uhranjenog tela. Šta, naime, sprečava um da se u svemu tome sačuva miran, s istinitim sudom o onome što ga okružuje i spremnom upotrebom onoga što mu se pruža? Neka sud kaže onome što nailazi: „Po suštastvu si to, makar po mnjenju izgledao drukčije.“ A upotreba neka kaže: „Tebe sam tražio. Sadašnje mi je uvek tvar razumske i društvene vrline i, uopšte, umeća čoveka ili boga.“ Sve što se dogodi bogu ili čoveku srodno je i nije ni novo ni teško za upotrebu, nego poznato i korisno.
 
 <!-- anchor:VII.69 -->U tome je savršenstvo karaktera: provoditi svaki dan kao poslednji, a ne biti ni usplahiren, ni obamro, ni pretvarati se.
 
@@ -144,6 +144,6 @@
 
 <!-- anchor:VII.73 -->Kada si ti učinio dobro, a drugi od toga imao dobro, šta još treće tražiš povrh toga, kao budale: da se i smatra da si učinio dobro ili da za to dobiješ uzvrat?
 
-<!-- anchor:VII.74 -->Niko se ne umara dok prima korist, a korist je delanje u skladu s prirodom. Zato se ne umaraj dok činiš dobro drugome.
+<!-- anchor:VII.74 -->Niko se ne zamara primajući korist, a korist je delanje po prirodi. Zato se ne zamori od koristi koju primaš čineći dobro.
 
 <!-- anchor:VII.75 -->Priroda celine usmerila se ka stvaranju sveta; a sada se ili sve što nastaje događa po nužnom sledu, ili su najvažnije stvari upravo one prema kojima vladajuće načelo sveta samo od sebe usmerava svoj poriv. Ako ovo imaš na umu, učiniće te mnogo spokojim.

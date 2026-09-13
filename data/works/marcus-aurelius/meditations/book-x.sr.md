@@ -12,7 +12,13 @@
 
 <!-- anchor:X.7 -->Delovima celoga, koliko ih svet prirodom sadrži, nužno je da tle; a to se razumno zove promena. Ako je to njima po prirodi zlo i nužno, ne bi celina dobro tekla — delovi joj idu u promenu, različito na tlenje ustrojeni. E da li je priroda pokušala da vredi svoje delove, tvoreći ih zlu podpadajućim i nevoljom u zlo padajućim, ili joj se ovo potajno događa? Oboje je neverovatno. Ako bi ko prirodu ostavivši ovako tumačio, smesno bi bilo — ujedno reći da se delovi celoga menjaju i opet se čuditi i mučiti kao pred nečim otud prirodi; naročito jer se razorenje dešava u te iste stvari od kojih je koja sastavljena. Ili je to rasipanje sastojaka od kojih se smešalo, ili preobrat: tvrdoga u zemaljsko, a duhovnoga u vazdušno — pa se i ovo uzmaje u razum celoga; u razdobljima li ili neprestano. I ne misli da su zemaljsko i vazdušno i sada tvoja: juče ili prekjuče si ih primio, od jeda brašna i udahnjenoga vazduha.
 
-<!-- anchor:X.8 -->Neka ti je pred očima kako ništa ostaje: smokva smokvine dela tvori, pas pseće, pčela pčelinje, a čovek čovečanske.
+<!-- anchor:X.8 -->Nazivaj sebe ovim imenima: dobar, stidan, istinit, razborit, saglasan, uzvišenog uma. Pazi da ne izgubiš ta imena; a ako ih izgubiš, brzo im se vrati. Pamti da „razborit” znači znanje koje razlikuje svaku stvar i ne zaboravlja je; „saglasan” znači dragovoljno prihvatanje onoga što zajednička priroda dodeljuje; a „uzvišenog uma” znači da umni deo nadvisuje prijatno i bolno kretanje tela, slavu, smrt i sve takvo.
+
+Ako ustraješ u tim imenima, ne žudeći da te drugi tako zovu, postaćeš drugi i ući ćeš u drugi život. Ostati onakav kakav si dosad bio, komadati se i kaljati u takvom životu, svojstveno je čoveku bez osećaja i ljubitelju golog života, nalik napola pojedenim borcima sa zverima: puni rana i krvi, ipak mole da ih sačuvaju za sutra, da opet budu bačeni istim kandžama i zubima.
+
+Uvedi, dakle, sebe u tih nekoliko imena; ako možeš ostati u njima, ostani kao da si se preselio na ostrva blaženih. A ako osetiš da ispadaš i ne vladaš sobom, hrabro se povuci u kakav ugao gde ćeš se održati; ili sasvim izađi iz života, ne gneveći se, nego prosto, slobodno i stidljivo, učinivši makar to jedno u životu: izaći ovako.
+
+Da pamtiš ta imena, mnogo će ti pomoći da pamtiš bogove: oni ne žele da im razumna bića laskaju, nego da im nalikuju — da smokva čini smokvine stvari, pas pseće, pčela pčelinje, a čovek čovečanske.
 
 <!-- anchor:X.9 -->Nadmetanje, rat, trepet, ukočenost, ropstvo. Po svaki dan smivaju se ona tvoja sveta uverenja, koliko protiv prirode misliš i odlažeš. Treba sve tako gledati i delati: da se i delo zajedno skončava, i da razumsko gledanje ujedno deluje, i da tvrdost od nauke o svakoj stvari čuva se nepaženo — ne potajno. Kada ćeš uživati prostotu? Kada veličanstvenost? Kada znanje o svakoj: šta je suštinom, koje mesto u svetu ima, koliko po prirodi može prebivati, od čega je sastavljeno, ko je može davati i uzimati?
 
@@ -22,7 +28,7 @@
 
 <!-- anchor:X.12 -->Kakve potrebe promišljanja, kad imaš smatrati šta treba učiniti? Ako vidiš — milo i nekolebljivo idi; ako ne — stani i savete najboljih imaj; ako se i nešto drugo protiv tome postavi — idi po snahodećem razumno, drži se javljajućega pravednoga. Najlepše je dostizati toga, jer je padanje od njega zlo. Ko u svemu po umu hodi, taj je i smiren i sposoban, i svetao i stvrdnjen.
 
-<!-- anchor:X.13 -->Pitaj sebe čim izađeš iz sna: razlikuje li se za tebe što oni koji se naduva u hvalama i pogrđama drugih — takvi su u postelji, takvi i za trpezom — i šta čine, čega beže, čega gone, šta kradu, šta otimaju; ne rukama i nogama, nego najčasnijim delom svojim, od koga, kad hoće, biva vera, sram, istina, zakon i dobri duh.
+<!-- anchor:X.13 -->Čim se probudiš, upitaj se: zar ti je važno ako neko drugi kudi ono što je pravedno i lepo? Nije. Zar si zaboravio da su oni koji brbljaju o tuđim pohvalama i pokudama isti u postelji i za trpezom; šta čine, od čega beže, za čim jure, šta kradu i otimaju — ne rukama i nogama, nego najčasnijim delom sebe, iz kojega, kada hoće, nastaju vernost, stid, istina, zakon i dobro božanstvo?
 
 <!-- anchor:X.14 -->Prirodi, koja sve daje i nazad uzima, govori poučen i stidljiv: daj što hoćeš, uzmi što hoćeš. I ovo govori ne drzovito, nego samo sledeći njoj i dobro mislivši o njoj.
 
@@ -30,37 +36,37 @@
 
 <!-- anchor:X.16 -->Ne ispituj više kakav treba biti dobar muž, nego takav budi.
 
-<!-- anchor:X.17 -->Celoga veka i cele suštine slika stalna: sve pojedinačno, po suštini — kao zrno prosa; po vremenu — kao okret vretena.
+<!-- anchor:X.17 -->Neka ti je stalno pred očima slika celog veka i cele suštine: svaka pojedinačna stvar je, prema suštini, kao zrno prosa, a prema vremenu kao obrtaj svrdla.
 
 <!-- anchor:X.18 -->Prilazeći kojoj god od predstavljenih stvari, misli je već raspadajućom i u promeni, kao u gnjenju ili rasipanju postajućom, i kako koja po prirodi kao da umire.
 
 <!-- anchor:X.19 -->Kakvi su jedući, spavajući, sa suprugom se držeći, prirodne potrebe vršeći, i ostalo; a potom kakvi oholo hodajući i dižući se, ili se ljuteći i iz nadrečenosti koreći — malo pre kolikima su služili i zbog čega; i posle malo biće u takvima.
 
-<!-- anchor:X.20 -->Koristi kojemu ono što priroda celoga kojemu nosi, i tada koristi, kada ona nosi.
+<!-- anchor:X.20 -->Svakome koristi ono što mu donosi priroda celine; koristi mu onda kada mu ga ona donosi.
 
-<!-- anchor:X.21 -->Zemlja ljubi kišu, i veličanstveni eter ljubi, i svet ljubi tvoriti ono što će bivati. Recu dakle svetu: s tobom ću ljubiti. E zar se i ono tako kaže: voli ovo da biva?
+<!-- anchor:X.21 -->„Zemlja žudi za kišom, a uzvišeni etar žudi.” I svet žudi da ostvari ono što će nastati. Zato svetu kažem: S tobom žudim. Zar se i ono ne kaže ovako: „Voli da se ovo zbude”?
 
 <!-- anchor:X.22 -->Ili ovde živiš i već si navikao; ili odlaziš i to si hteo; ili umireš i službu skonča. Pored ovoga ništa. Tim se veseli.
 
 <!-- anchor:X.23 -->Neka je stalno jasno: takovo je ono polje i kako je sve isto ovde kao na vrhu gore ili na morskoj obali ili gde hoćeš. Pravo ćeš naći Platonovo: ovčiju ogradu u gori, kaže, pasa je i ovce blejuće.
 
-<!-- anchor:X.24 -->Šta mi je vladajući deo moj i kakvo ono što sada činim njime i na šta ga sada upotrebljavam? Eda je bez uma? Eda je razložen i od zajednice odorvan? Eda se rastoplja i s mesom pomešao, da se s njim saginje?
+<!-- anchor:X.24 -->Šta je moj vladajući deo? Kakvim ga sada činim i čemu ga sada služim? Je li lišen uma? Je li razvezan i otrgnut od zajednice? Je li se priljubio uz meso i s njime se izopačuje?
 
 <!-- anchor:X.25 -->Bežanin je onaj koji beži od svoga gospodara; a gospodar je zakon, i zakonoprestupnik dakle bežanin. I onaj ko se žalosti ili se ljuti ili se boji, neće nešto da je bilo, ili biva, ili biće, od podređenih onome koji sve upravlja — koji je zakon, podajući svakome šta mu nadleži. Taj dakle, koji se boji ili se žalosti ili se ljuti, bežanin je.
 
-<!-- anchor:X.26 -->Seme u postelju otpustivši otišao je; potom je druga pričina primivši delala i stvarala dete — kakvo od kakvoga? Opet: hranu kroz grlo otpustio — i potom druga pričina primivši čini osećaj i poriv i za sve život i snagu i ostalo — šta i kakvo? Ovo dakle u takvom pokrivaču postajuće smatrati i silu tako videti, kako i nadleguće i uzlazeće vidimo — ne očima, ali ne manje jasno.
+<!-- anchor:X.26 -->Čovek je ispustio seme u matericu i otišao; potom ga je drugi uzrok preuzeo, delao i dovršio dete — kakvo od kakvoga? Opet: hrana je prošla kroz grlo, a drugi je uzrok preuzima i stvara opažanje, nagon, ukratko život i snagu i sve ostalo — šta sve i kakvo? Posmatraj kako to nastaje pod takvim pokrivačem i tako sagledaj silu: kao što vidimo težinu i uzdizanje, ne očima, ali ne manje jasno.
 
 <!-- anchor:X.27 -->Neprestano misliti kako se sve ovakve stvari — kakve sada bivaju — i pre bivahu, i misliti buduće; i cele drame i prizore istovetne, koliko znaš iz svoje ili starije povesti, pred oči postavljati — kao ceo dvor Hadrijanov i ceo dvor Antoninov i ceo dvor Filipov, Aleksandrov, Krezov; sve je to bilo ovakvo, samo preko drugih.
 
 <!-- anchor:X.28 -->Predstavlja svakoga, žalosnoga ili nezadovoljnoga, sličnim žrtvanome prasetu, bijućem se i pištećem; i sličan je onaj koji u postelji stenje, sam u bezvrsti. I našu nuždu — i to da je jednom razumnomu živom biću dano da dobrovoljno prati ono što dolazi; prosto da prati — svima je nužno.
 
-<!-- anchor:X.29 -->Na kojoj god stvari tvojih delu prilazeći, zapitaj sebe: eda li je smrt ljuto tebi zato što se ovoga lišavaš?
+<!-- anchor:X.29 -->Kad se zaustaviš nad svakim svojim poslom, pitaj sebe: Je li smrt strašna zato što ću se ovoga lišiti?
 
 <!-- anchor:X.30 -->Kad spotakneš se o koju grešenja, odmah prešavši izračunaj čemu ti slično grešiš — sudeći li da je srebro dobro, ili slast, ili malo slave, i po rodu. Tomu se prilanživši brzo zaboraviš gneva, prilazeći i tome što je nuždom naveden; šta će činiti? Ili, ako možeš, odstrani njegovo nuždenje.
 
 <!-- anchor:X.31 -->Videvši Satirijona misli Sokratskoga, ili Eutiha ili Himena; videvši Eufrata misli Eutihiona ili Silvana; Alkifrona videvši misli Tropajefora; Severa videvši misli Kritona ili Ksenofonta; u samoga sebe gledavši misli nekoga careva; i o svakome slično. Potom neka ti padne na pamet: gde su dakle oni? Nigde ili gde god. Tako ćeš stalno gledati čovečanske stvari kao dim i ništa — naročito ako pamišljaš da ono što se jednom menja više neće biti u bezmernom vremenu. Zašto se dakle naprežeš? Šta ti ne dovoljava ovo malo ladno preći? Kakvu stvar i priliku bežiš — šta su svi ovi nego vežbe za um, koji je točno i po prirodi video stvari u životu? Prebivaj pak dok navikneš na sebe i ovo, kao krepak želudac sve navikava, kao svetla vatra od svakoga što ubaciš plamen i sjaj tvori.
 
-<!-- anchor:X.32 -->Neka nikome ne bude pravo reći istinito o tebi da nisi prost ili da nisi dobar — nego laže, ko god će o tebi što od ovoga suditi. Sve je ovo na tebi; jer ko ti preči da budeš dobar i prost? Sam presuđuj da ne živiš dalje, ako takav ne budeš; jer razum ne prima onoga koji takav nije.
+<!-- anchor:X.32 -->Neka niko ne može istinito reći da nisi prost ili dobar; neka laže ko god o tebi tako sudi. Sve je to do tebe: ko te sprečava da budeš dobar i prost? Sam odluči da više nećeš živeti ako takav ne budeš; jer um ne bira onoga ko takav nije.
 
 <!-- anchor:X.33 -->Šta je u ovoj stvari moguće učiniti ili reći po najzdravijem? Šta god to bude, možeš to učiniti ili reći, ne odgovarajući se da si sputan. Ne staješ pak od stenja dok ovo ne pretrpiš: da je raskoš naslađenje onima u slastima; takovo ti je delo nadležno čovečjemu ustroju na podavanoj i podpadajućoj stvari. Prijaćim pak smatraj svako ono što je moguće po svojoj prirodi delovati; svuda pak je moguće. Kotrljajućemu pak nije svuda dano nositi svoje kretanje, ni vodi, ni ognju, ni ostalima, kojima se prirodom ili bezdušnom dušom upravlja — mnoga su preprečavajuća i protiveća. Um pak i slovo kroz sve protiveće može hoditi kako je po prirodi i kako hoće. Ovom slobodom pred oči postavljajući, kojom će slovo kroz sve odneti biti — kao oganj uzviše, kao kamen nizvode, kao što se toči niz padinu — ništa više traži; ostala preprečenja ili su mrtvoga tela, ili, bez mišljenja i bez prijatja samoga slova, ne lome i ne čine štetu nikakvu. Zaista bi i sam terpeljivi odmah postao zao. U ostalim ustrojenjima, kad što zgodi zlo kojemu od njih, i samo terpeljenje postaje gore; ovde pak čovek postaje i bolji i hvaljeniji, pravo upotrebivši dolazeće. Uopšte pak pamti: ništa ne šteti građaninu što grada ne šteti, ni grad šta zakona ne šteti; a od ovih nazvanih bezsrećnih ništa zakona ne šteti. Šta dakle zakona ne šteti — ni grada ni građanina.
 
@@ -70,7 +76,7 @@
 
 <!-- anchor:X.36 -->Nema ko je toliko srećan da, umirući, neki ne stanu dočekujući zlo koje dolazi. Revnostan je bio i mudar — e da neko ne reče o sebi: Jednoga dana odahnemo od ovoga učitelja; terak je bio nikome od nas, ali osetih da nas tiho osuđuje. Ovo je o revnostnome; o nama koliko drugoga, radi čega je velik onaj koji nas oslobađa. Ovo dakle razmišljajući umireš i lakše ćeš izaći, računajući: Od takvoga života odlazim, u kome i sami saputnici, za koje toliko podviža, molitve i brige imah — sami hoće da odem, možda neko olakšanje od toga čekajući. Zašto bi se dakle neko držao dužega zadržavanja ovde? Ali za ovo ne odlazi manje milo njima, nego čuvajući svoj običaj — prijatelj i dobronamerni i milostivi; i ne opet kao otoreno, nego kao kad umirući blago izvlači dušicu iz tela — takova neka bude i odlazba od ovih; jer ih je priroda sastavila i pomešala, sada rastavlja. Rastavljam se od svojih, ali ne protivno vučen i nevođeno — i ovo je jedno od prirodnih.
 
-<!-- anchor:X.37 -->Navikni se o svakoj stvari, koliko je moguće, o onome što ko radi pitati: na šta se ovo odnosi? Vladi od samoga sebe i samoga sebe pre ispituju.
+<!-- anchor:X.37 -->Navikni se da za svako delo, koliko je moguće, pitaš: Čemu ovaj to upravlja? Počni od sebe i najpre ispitaj sebe.
 
-<!-- anchor:X.38 -->Pamti: ono što poteže niti jesti ono skriveno u nutrini — to je snaga reči, to je život, to je, ako treba reći, čovek. Nikad ne predstavlja kao rođakon okružni sud i ova oruđa oblikovana uokolo — slični su sekiri, samo što se razlikuju prirodnošću. Zaista nemaju više dobra ti delovi bez pokrećućega i krepicu ih uzroka nego čunak tkalji i pero piscu i bič vozniku.
+<!-- anchor:X.38 -->Pamti: ono skriveno unutra pokreće konce; ono je govor, ono život, ono je, ako tako treba reći, čovek. Nikada uz njega ne zamišljaj telo koje ga obavija kao sud, ni sprave oblikovane oko njega. One su kao tesla, samo što su prirodno prirasle. Bez onoga što ih pokreće i drži, ti udovi nisu korisniji od čunka tkalji, trske pisaru ili biča kočijašu.
 

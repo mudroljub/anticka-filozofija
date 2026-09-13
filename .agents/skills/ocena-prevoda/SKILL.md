@@ -1,6 +1,6 @@
 ---
 name: ocena-prevoda
-description: Ocenjuje kvalitet postojećih prevoda starogrčke filozofije na projektni staroslovenski (`stsl`) i/ili srpski (`sr`). Koristi ovu veštinu kada korisnik traži filološku proveru, pregled kvaliteta, audit, uzorkovanu ocenu ili izveštaj o prevodima u jednom ili više fajlova. Veština proverava vernost grčkom, slovensku prirodnost, sažetost, ritam, važne pojmovne veze i jezičke norme, uz razumno uzorkovanje koje jasno ograničava zaključke.
+description: Ocenjuje kvalitet postojećih prevoda starogrčke filozofije na projektni staroslovenski (`stsl`) i/ili srpski (`sr`), u `data/quotes` i celovitim delima iz `data/works`. Koristi ovu veštinu kada korisnik traži filološku proveru, pregled kvaliteta, audit, uzorkovanu ocenu ili izveštaj o prevodima. Veština proverava vernost grčkom, slovensku prirodnost, sažetost, ritam, važne pojmovne veze i jezičke norme, uz razumno uzorkovanje koje jasno ograničava zaključke.
 ---
 
 # Ocena kvaliteta filozofskog prevoda
@@ -24,6 +24,33 @@ Učitaj kada je relevantno:
 ## Potpunost dokaza i ograničeni uzorci
 
 Najpre odredi čitalačke jedinice: pojedinačne citate, JSON unose, kanonska sidra ili smisaone pasuse. Ne uzorkuj nasumce samo po broju redova.
+
+### Režim `data/works`
+
+Za celovito delo osnovna jedinica ocene je delo iz njegovog `work.json`, a
+čitalačka jedinica je kanonski usidren smisleni odlomak. Učitaj
+`docs/CELA_DELA.md`, manifest, oba prevodna fajla i grčki izvor uz izabrana
+sidra. Sidro može biti usred pasusa: pregledaj ceo taj pasus i njegov
+neposredni kontekst, ali ga ne cepaj radi ocene.
+
+Primeni istu brojčanu meru uzorka kao za `data/quotes`, ali prema broju
+kanonskih čitalačkih jedinica dela, ne prema broju Markdown redova. Uzorak
+rasporedi kroz početak, sredinu i kraj; kod dela podeljenog na knjige ili više
+fajlova obuhvati najmanje jednu jedinicu iz svake knjige ili fajla, povećavajući
+osnovni uzorak samo koliko je za to nužno. Uvek proveri najmanje jedan prelaz
+preko susednih sidara.
+
+Pored pojedinačne vernosti proveri kontinuitet: tok argumenta ili pripovesti,
+govornike i obraćanja u dijalogu, vremenske i uzročne prelaze, te postojanost
+važnih pojmova kroz udaljene odeljke. Položaj, redosled i jedinstvenost sidara
+proveri prema `CELA_DELA.md`, ali sidro ne pomeraj tokom ocene.
+
+Strukturu ne uzorkuj: za svako ocenjivano celo delo prođi sva sidra manifesta
+i utvrdi da li je svaki prevodni blok pod pravim grčkim odeljkom, u kanonskom
+redosledu i bez duplikata, rascepljenih ili odsutnih jedinica. To je odvojena
+provera strukture, ne deo jezičkog uzorka. Svaki nađeni problem mora biti
+izričito naveden u izveštaju s delom, jezikom, sidrom ili opsegom i vrstom
+problema; ne svodi ga na opštu ocenu niti ga sakrivaj u sažetku.
 
 U `data/quotes` fajl je osnovna jedinica ocene, a njegov autor osnovna jedinica izveštaja. Kada zahtev obuhvata više fajlova ili ceo direktorijum, ne pravi jedan slučajno sastavljen korpusni uzorak. Za svaki fajl odredi zaseban uzorak i izvedi zaseban sud; opšti zaključak sme samo sažeti te sudove, ne zameniti ih.
 
@@ -51,7 +78,7 @@ Kod zahteva za ocenu svih autora ili ceo direktorijum, primeni ovaj minimum zase
 
 Za svaki izabrani odlomak pročitaj dovoljno susednog grčkog konteksta da ne pogrešno oceniš referencu ili elipsu. Kada nalaz pokaže sistemski problem, proširi uzorak za još najmanje tri prioritetna unosa iz istog fajla; ako se problem ponovi, snizi ocenu ili preporuči punu proveru autora.
 
-Ne prikazuj uzorkovanu ocenu fajla kao potpunu proveru svakog njegovog unosa. Jasno odvoji kvalitet filozofskih izreka od dopunski pregledanih biografskih i pripovednih tekstova.
+Ne prikazuj uzorkovanu ocenu fajla ili dela kao potpunu proveru svake njegove jedinice. Jasno odvoji kvalitet filozofskih izreka, pripovednih tekstova i celovitih dela.
 
 ## Merila ocene
 
@@ -67,6 +94,14 @@ Zatim proceni:
 
 Grafiju `stsl` proveravaj kao završni, tehnički sloj. Označi očigledne greške, ali joj ne daj veću težinu od smisla, duha, sažetosti, ritma i lepote.
 
+Kod `data/works` kontinuitet je dodatno merilo vernosti i prirodnosti, ne
+zasebna brojčana kolona: prekid argumenta, pogrešan govornik ili izgubljen
+prelaz snižava odgovarajuću jezičku ocenu. Pogrešno sidro, dupliran blok,
+poremećen redosled, rascepljen ili odsutan odlomak jesu strukturni problemi;
+ne pretvaraj ih automatski u nižu ocenu kvaliteta jezika. Navedi ih zasebno i
+usmeri na `popravi-sidra`, odnosno na `popravka-prevoda` samo kada posle
+strukturnog razvrstavanja zaista nedostaje prevodni sadržaj.
+
 ## Nalazi i težina problema
 
 Svaki nalaz veži za tačnu jedinicu, kratak grčki kontekst i postojeći prevod. Jasno objasni zašto je problem, a predloženu preradu navedi samo kada korisniku stvarno pomaže.
@@ -78,7 +113,7 @@ Svaki nalaz veži za tačnu jedinicu, kratak grčki kontekst i postojeći prevod
 
 Ne izmišljaj greške da bi svaki odeljak imao primedbu. Razdvoji filološki dokaz od ličnog stilskog predloga i označi stvarnu neizvesnost.
 
-## Ocene po autorima
+## Ocene po autorima i delima
 
 Kada je pregledan propisani reprezentativni uzorak autora, dodeli mu ocenu od 1 do 5 po istim merilima:
 
@@ -94,11 +129,15 @@ Opšta ocena svakog jezika je obrazložen stručni sud, ne aritmetička sredina:
 
 Posle odvojenih ocena oba jezika izračunaj jednu **ocenu prevoda (srpski + staroslovenski)** kao aritmetičku sredinu `srpski ocena` i `staroslovenski ocena`. Prikaži celobrojnu ocenu bez decimalnog nastavka (`4`, ne `4.0`); prikaži decimalu samo kada sredina nije ceo broj, na primer srpski 4 i staroslovenski 5 daju ocenu **4.5**. Ne zamenjuj ovaj račun dodatnim stručnim ili subjektivnim zaokruživanjem.
 
-Rangiraj autore prvo po oceni prevoda, opadajuće. Pri istom rezultatu poređaj najpre veću slabiju od dve opšte jezičke ocene, zatim veću vernost grčkom u slabijem jeziku, pa veći udeo pregledanih prioritetnih unosa i autora azbučnim redom. Uz svaku ocenu navedi broj pregledanih i ukupan broj `quote`/`reported` unosa. Autora bez tih tipova prikaži odvojeno, bez ravnopravne filozofske rang-ocene.
+Za `data/quotes` poređaj autore prvo po oceni prevoda, opadajuće. Pri istom rezultatu poređaj najpre veću slabiju od dve opšte jezičke ocene, zatim veću vernost grčkom u slabijem jeziku, pa veći udeo pregledanih prioritetnih unosa i autora azbučnim redom. Uz svaku ocenu navedi broj pregledanih i ukupan broj `quote`/`reported` unosa. Autora bez tih tipova ne prikazuj u toj tabeli.
+
+Za `data/works` dodeli zasebnu ocenu svakom delu, po istim jezičkim merilima i istom računu ukupne ocene. Ne prosečuj je sa autorovom ocenom iz `data/quotes`: to su različiti korpusi i različite jedinice uzorka. Tabelu dela poređaj po oceni, zatim po slabijoj jezičkoj oceni, vernosti i naslovu dela. Strukturni problem ne menja tu numeričku ocenu sam po sebi, ali može ograničiti njenu pouzdanost dok se ne razreši.
 
 ## Izveštaj korisniku
 
-Svaka izvršena ocena prevoda podrazumeva ažuriranje **jedinog kanonskog Markdown izveštaja**: `docs/OCENA_PREVODA.md`, uz sažetak u razgovoru. Kanonska tabela u tom fajlu je jedino važeće mesto za ocenu autora; za ograničeni obim ažuriraj samo njegov red i njegove nalaze u istom fajlu. Ne stvaraj, ne ažuriraj i ne čuvaj pojedinačne autorske izveštaje niti druge `OCENA_PREVODA_*.md` fajlove.
+Svaka izvršena ocena prevoda podrazumeva ažuriranje **jedinog kanonskog Markdown izveštaja**: `docs/OCENA_PREVODA.md`, uz sažetak u razgovoru. Ne stvaraj, ne ažuriraj i ne čuvaj pojedinačne autorske ili radne izveštaje niti druge `OCENA_PREVODA_*.md` fajlove.
+
+Ocene iz `data/quotes` i `data/works` drži u odvojenim tabelama istog kanonskog fajla. Za ograničeni obim ažuriraj samo red autora ili dela koji je ocenjen; ocena jednog dela ne menja autorov red iz `data/quotes`.
 
 Koristi ovaj oblik:
 
@@ -106,35 +145,37 @@ Koristi ovaj oblik:
 # Ocena kvaliteta prevoda: <obim>
 
 ## Sažetak
-<opšti sud u 2–4 rečenice koji sažima raspodelu ocena po autorima, bez lažne preciznosti>
+<opšti sud u 2–4 rečenice o ocenjenom obimu, bez lažne preciznosti>
 
 ## Obim i pouzdanost
-- Pregledano: <broj fajlova, autora, jedinica i tipova>
-- Metod uzorka: <uzorak unutar svakog fajla, s prvenstvom `quote`/`reported`>
-- Granica zaključka: <šta ocene po fajlu mogu, a šta ne mogu dokazati>
+- Pregledano: <broj autora ili dela, jedinica i tipova>
+- Metod uzorka: <za `data/quotes`: `quote`/`reported`; za `data/works`: kanonska sidra i odlomci>
+- Granica zaključka: <šta uzorkovana ocena može, a šta ne može dokazati>
 
 ## Ocena po autoru
 | autor | pregledano | srpski vernost | srpski prirodnost | srpski sažetost | srpski ocena | staroslovenski vernost | staroslovenski prirodnost | staroslovenski sažetost | staroslovenski ocena | ocena |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ... | 10/65 `quote`/`reported` | 5 | 4 | 4 | **4** | 5 | 4 | 5 | **5** | **4.5** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ... | 10/65 `quote`/`reported` | 5 | 4 | 4 | 4 | 5 | 4 | 5 | 5 | **4.5** |
 
-## Zajednički obrasci u proveravanim fajlovima
-| Merilo | Sud | Dokaz iz uzorka |
-| --- | --- | --- |
-| Vernost grčkom | snažno / mešovito / slabo | ... |
-| Filozofska građa | ... | ... |
-| Prirodnost i ritam | ... | ... |
-| Ciljni jezik | ... | ... |
-| Klesanje | ... | ... |
+## Ocena celih dela
+| delo | pregledano | srpski vernost | srpski prirodnost | srpski sažetost | srpski ocena | staroslovenski vernost | staroslovenski prirodnost | staroslovenski sažetost | staroslovenski ocena | ocena |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ... | 10/65 sidara | 5 | 4 | 4 | 4 | 5 | 4 | 5 | 5 | **4.5** |
 
-## Najvažniji nalazi po fajlovima
-1. **<težina> — <autor>, <jedinica>**: <dokaz, objašnjenje i po potrebi predlog>
-
-## Uspele tačke po autorima
-- **<autor>, <jedinica>**: <zašto je rešenje dobro>
-
-## Prioritet dorade
-1. <fajl ili grupa fajlova i najkorisnija sledeća radnja>
+## Strukturni problemi celih dela
+| delo | jezik | sidro ili opseg | problem | postupak |
+| --- | --- | --- | --- | --- |
+| ... | srpski | IX.1–IX.4 | sadržaj je rascepljen i pripada drugom poglavlju | `popravi-sidra` |
 ```
 
-Ako uzorak ne otkrije značajne nedostatke, reci da „u pregledanom uzorku nisu nađeni”, ne da ih nema u celom skupu. Ako se utvrdi sistemski obrazac, navedi njegovu verovatnu rasprostranjenost i preporuči punu proveru tog autora.
+Prikaži samo odeljke čiji je korpus zaista ocenjen. Ne dodaj legende ni
+odeljke „Autori bez filozofskih izreka”, „Zajednički obrasci u proveravanim
+fajlovima”, „Najvažniji nalazi”, „Uspele tačke” ili „Prioritet dorade”. Ako
+uzorak ne otkrije značajne nedostatke, u sažetku reci da oni nisu nađeni u
+pregledanom uzorku, ne da ih nema u celom delu ili skupu.
+
+Kada izveštaj obuhvata cela dela, odeljak `Strukturni problemi celih dela`
+uvek prikaži: navedi sve utvrđene probleme pojedinačno, a ako ih puna
+strukturna provera ne nađe, napiši samo `Nisu utvrđeni strukturni problemi.`
+Ne mešaj taj odeljak sa zabranjenim opštim nalazima niti u njega unosi jezičke
+ili stilske primedbe.

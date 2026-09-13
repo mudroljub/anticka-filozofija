@@ -1,16 +1,16 @@
 <!-- anchor:XI.1 -->Svojstva razumne duše: samu sebe vidi, samu sebe rastavlja, samu sebe tvori kakvu hoće, plod svoj sebi žanje — plod bilja i slično u životinjama drugi žanju — svoga kraja dostiže, gde god stane predel života; ne kao u plesu i predstavi, gde ceo rad nepun biva ako nešto prepeči, nego o svakom delu i gde god se uzme, tada pun i sam sebi dovoljan učini položeno, tako reći: Ja svoje imam. Još obilazi čitav svet i praznotu oko njega i oblik njegov, i u bezmernom veka prostire se, i obuhvata okruglo rađanje svih, i pomisljuje i vidi: ništa novije videće posle nas, ni mudrije videše pre nas; nego nekako četrdesetogodišnjak, ako kakav um ima, sve što je bilo i biće video je po sličnosti. Svojstvo je pak razumne duše i ljubiti bližnje, i istina, i sram, i ničega svoga ne predbirati — što je svojstvo i zakona. Tako dakle ni čime se ne razlikuje pravo slovo od slova pravednosti.
 
-<!-- anchor:XI.2 -->Pesni oglasadnoj i plesanju i borbi prezrećeš, ako glas ladni razdeliš na svako glasije i o svakom se zapitaš: eda sam od ovoga manji? Sram te, dakle, uzima. Po plesu tako isto o svakom kretanju ili stajanju, i isto o borbi. Uopšte pak, osim vrline i od nje, pamti trčati na pojedinačno i razdeljenjem njihovim ići na prezrenje; to isto prenesi na ceo život.
+<!-- anchor:XI.2 -->Prezrećeš prijatnu pesmu, ples i pankratij ako skladan glas razdeliš na pojedine tonove i pri svakom upitaš sebe: Jesam li ja manji od ovoga? Postidećeš se. Tako učini pri plesu, sa svakim pokretom i položajem, a isto i pri pankratiju. Uopšte, izuzev vrline i onoga što od nje dolazi, navikni da svaku stvar razložiš na delove i tako je prezreš; isto prenesi na ceo život.
 
 <!-- anchor:XI.3 -->Kakova duša je gotova, kad već razrešena biti od tela ima potreba — i li se ugasiti, li razsuti se, li prebivati. Gotovost pak ova — da od svoga suđenja dolazi, ne po prostoj tvrdoglavosti, kao hrišćani, nego razborito i veličanstveno, i tako da i drugoga ubeđuje, bez plača i kukanja.
 
-<!-- anchor:XI.4 -->Što sam za zajednicu učinio — tada imam koristi. Neka ti ovo uvek napred stoji i nigde ne prestaje.
+<!-- anchor:XI.4 -->Učinio sam nešto za zajednicu: dakle, koristio sam sebi. Neka ti to uvek bude pri ruci i nikad ne prestaj.
 
-<!-- anchor:XI.5 -->Kakva je tvoja veština? Dobar biti. A kako se to krasno čini, osim ispitivanjima — nekimima o prirodi celoga, drugima o čovečjemu ustroju.
+<!-- anchor:XI.5 -->Koja je tvoja veština? Biti dobar. A kako se to dobro postiže, osim učenjima: jednima o prirodi celine, drugima o osobitom ustroju čoveka?
 
 <!-- anchor:XI.6 -->Prvo su tragedije prikazivane na podsetnik dolazećega, i da se ovako po prirodi dešava, i da ono što teši na sceni ne nosiš teško na velikoj sceni; vidite, dakle, da se ovako skončavaju, i oni koji vikahu: O Kiteron! — i oni su ponese. I tvorci drama govore ponešto na korist: ako me bogovi i deca moja zaborave — i u ovome ima smisla; i opet: čovek se ne ljuti na stvari; i opet: živeti život žeti kao plodni klas; i slično. Posle tragedije pojavila se starodrevna komedija, sa slobodom govoriti sve, vaspitna, i na pamet vraćajući bez gordosti prostim glasom — od nje je i Diogenes ponešto uzeo. Posle nje srednja komedija, i potom nova — na šta je primljena, razmotri: jer malo po malo priklonile se oponašanju umne stvari. Nije nepoznato da i ovi govore ponešto na korist; ali na kakav cilj cela tvorba takva gledaše?
 
-<!-- anchor:XI.7 -->Kako je jasno da nema drugoga roda života toliko prigodna za umotvorstvo kao ovoga, u kome sada bivaš.
+<!-- anchor:XI.7 -->Kako je očigledno da nema životne prilike za filozofiranje prikladnije od ove u kojoj se sada nalaziš.
 
 <!-- anchor:XI.8 -->Gran od prisadnoga grana odsečen ne može ne biti i od celoga stabla odsečen. Tako i čovek, jednoga čoveka se odvojiv, od cele zajednice pade. Gran drugi odsece; čovek pak sam sebe od bližnjega razdvaja, zamrzivši se i okrenuvši se, i ne zna da se i od celoga građanstva odsekao. Ali to je dar Zevsov, zajednicu utemeljivšega: možemo pak opet srasiti se s prisadnim i opet u punost celoga stupiti. Mnogokratno pak dejanje takvo razdeljenje čini odlazećega teškim za vraćanje i ponovno spajanje. Uopšte pak gran, koji od početka srasla je i s njim udahnuva prebiva, nije onaj koji po odsečenju opet prisadi — kao velju savetitelji. Na istom grmu rasti, ali ne istogo mišljenja držati.
 
@@ -18,7 +18,7 @@
 
 <!-- anchor:XI.10 -->Nema priroda gora od veštine; veštine bo prirode oponašaju. Ako je tako, najsavršenija i sveobuhvatna priroda od ostalih neće zaostati umnosti. Sve pak veštine gora radi lepših tvore; tako i opšta priroda. Od tome rođenje pravednosti, a od nje druge vrline nizode; jer pravo neće biti sačuvano, ako se o srednjima svadjamo ili lako prevareni i padajući menjajući se bivamo.
 
-<!-- anchor:XI.11 -->Ne idu k tebi stvari, čijega gonjenja i bežanja smućuje te, nego nekako ti k njima hodiš. To suđenje o njima neka utihne, i one same se utiša; i ne kao goneći i bežeći javljena ćeš biti.
+<!-- anchor:XI.11 -->Ne dolaze k tebi stvari zbog kojih te uznemiruju jurnjava i bekstvo; naprotiv, ti nekako ideš k njima. Neka se tvoj sud o njima umiri: one će ostati nepomične, a ti se nećeš pokazati ni kao onaj koji juri ni kao onaj koji beži.
 
 <!-- anchor:XI.12 -->Krug duše samobrazan, kad ni k čemu prostrena, ni unutra teče, ni rasipa se, ni silazi, nego svetlom svetli se, kojim vidi istinu svih i u sebi sadašnju.
 
@@ -36,7 +36,7 @@
 
 <!-- anchor:XI.19 -->Četiri naročito preokreta vladajućega dela prisno čuvaj, i kad uhvatiš, odmah obriši, veljući o svakome tako: Ova predstava nije nužno; ovo raspušta zajednicu; ovo nećeš od sebe govoriti — jer govoriti ne od sebe smatraji među najstrannijima. Četvrto je pak: da se sam ukoriš — da je to pobedjenoga i poklonjenoga — božanstvenijega u tebi dela — bezčasnoj i smrtnoj sudbi, telu i njegovim grubim ili glatkim kretanjima.
 
-<!-- anchor:XI.20 -->Duša tvoja i sve ognjeno, koliko u smesi, i ako po prirodi uzvišeno, ipak sledeći položenje celoga, držimo je nad smesom; i sve zemaljsko u tebi i tečno, i ako nizvodo usmereno, ipak podignuto i stoji u ne svojoj prirodnoj staji. Tako pak i sastavi celima sleduju, kad silom položeni bivaju, prebivajući dokle od tuda znamenje razrešenja dođe. Nije li dakle ljuto — samo tvoja razumna da budi neposlušna i ogarčuje se o svom mestu? Iako joj ništa nuždom ne nalaže se, nego samo ono što je po prirodi — ipak se ne daje i protivno predaje se. Kretanje pak ka uvredama i besčastima i gnevima i žalostima i strahovima — ništa je drugo nego otstupljenje od prirode. I kad se ogarčuje o čemu dolazećem, tada ostavlja svoje mesto — ustrojeno je ka blagogaivenju i bogobojažni, ne manje nego ka pravednosti. I ovo je u obliku blagoživosti — i starije dela pravednih.
+<!-- anchor:XI.20 -->Tvoj mali duh i sve ognjeno što je umešano u tebe, iako je po prirodi usmereno naviše, ipak se pokorava poretku celine i ovde se zadržava u spoju. A sve zemno i vlažno u tebi, iako je po prirodi usmereno naniže, ipak je podignuto i stoji u položaju koji nije njegov. Tako se sastojci pokoravaju celini: kad se jednom nekud postave, ostaju dok odatle ne dođe znak rastavljanja. Nije li, dakle, čudno što samo tvoj umni deo neće da sluša i ogorčuje se na svoje mesto? A ništa mu se ne nalaže silom, nego samo ono što je po njegovoj prirodi; ipak se ne pokorava i predaje se protivnome. Jer kretanje ka nepravdi, neobuzdanosti, gnevu, žalosti i strahu nije ništa drugo do odstupanje od prirode. A kad se ogorči na nešto što se događa, napušta svoje mesto: ono je ustrojeno za pobožnost i poštovanje bogova, ne manje nego za pravednost. I to pripada dobrom življenju, čak je starije od pravednih dela.
 
 <!-- anchor:XI.21 -->Kojemu nema jedan i isti celoga života cilj, tomude ne može jedan i isti ceo život biti. Nije dovoljno rečeno, ako ne i ovo dodaš: kakav treba biti ovaj cilj. Kao što mišljenje svih dobara, koja mnostvo često misle, nije ravna — nego takovih, to jest opštih — tako i cilj podobava položiti zajednički i građanski. Ko pak k ovome svu porivnost svršava, sva dela ravna dade i u ovome prisno isti budi.
 
@@ -64,15 +64,15 @@
 
 <!-- anchor:XI.33 -->Smokvu u zimi tražiti — bezumstvo; takov je i koji dete traži, kad više ne da se.
 
-<!-- anchor:XI.34 -->Primaći dete, celivši, veljaše Epiktet: unutra govoriti — Sutra možda umre. — Zla ova slova. — Ništa zla, reče, znamenje prirodnoga dela — li i klas žnjenje zla.
+<!-- anchor:XI.34 -->Dok ljubiš dete, govorio je Epiktet, u sebi reci: Možda će sutra umreti. — To su zloslutne reči. — Nisu zloslutne, reče, kada označavaju neko prirodno delo; ili je i žetva klasja zloslutna?
 
-<!-- anchor:XI.35 -->Kiselo grožđe, grozd, suvo grožđe — sve promene, ne u nebitnost, nego u sada-nebitnost.
+<!-- anchor:XI.35 -->Nezreo grozd, zreo grozd, suvo grožđe: sve su to promene, ne u nebiće, nego u ono što sada nije.
 
-<!-- anchor:XI.36 -->Nema da razbojnik izbora biva — Epiktetova reč.
+<!-- anchor:XI.36 -->Niko ne može opljačkati tvoju moć izbora — Epiktetova reč.
 
 <!-- anchor:XI.37 -->Veštinu, reče, treba naći o prilanju, i na mestu poriva priležnost čuvati — da sa odložbom, da zajednički, da po vrednosti; željenja pak svega stružiti se, i klonjenja ne upotrebljavati k ničemu, što nije u nama.
 
-<!-- anchor:XI.38 -->Boj, reče, nije o čemu bilo, nego o bezumstvu ili ne.
+<!-- anchor:XI.38 -->Borba, reče, nije oko bilo čega, nego oko toga hoćeš li poludeti ili nećeš.
 
 <!-- anchor:XI.39 -->Sokrat veljaše: Što hoćete — dušama imati razumnim li bezrazumnim? — Razumnim. — Kojih pak razumnih — zdravim li lošim? — Zdravim. — Zašto dakle ne tražite? — Jer imamo. — Zašto dakle se borite i svadjate?
 

@@ -55,10 +55,10 @@ konsultacija odlučila između stvarno mogućih prevodnih rešenja.
 ### 1. Najpre utvrdi grčku misao i granicu
 
 - Pročitaj grčki odlomak i dovoljno susednog teksta da razrešiš negaciju, referencu, elipsu, argument, metaforu, opozicije, ponavljanja i korenske veze.
-- Kod celog dela proveri i mesto kanonskog sidra prema izvorniku. Sidro sme stajati usred pasusa; ne zaključuj o njegovoj grešci samo iz teksta koji sledi posle oznake.
 - Sažmi za sebe jezgro iskaza: ko šta tvrdi, kojim razlogom, uz koju ogradu i sa kojim pojmovnim razlikama. Tek onda menjaj prevode.
 
-Ako je granica sidra očigledno pogrešna, odvoji taj nalaz od prevodne redakture. Za `data/works` koristi postupak i jednoznačne lokatore iz `docs/CELA_DELA.md`; fizičko pomeranje sidra ne sme menjati tekst prevoda.
+Ako je kod `data/works` granica sidra sumnjiva, zaustavi redakturu tog
+odeljka i primeni `popravi-sidra`. Nastavi tek kada je poravnanje potvrđeno.
 
 ### 2. Popravi staroslovenski neposredno prema grčkom
 
@@ -165,9 +165,42 @@ Dobra rečenica nije sirovina za preoblikovanje, ali je prvi tačan prevod još 
 
 Vodi kratku radnu belešku samo kada ona štedi budući rad: za novu projektnu rekonstrukciju, stvarnu dvosmislenost grčkog, važnu odluku o pojmovnoj porodici ili ponavljajući stilski problem. Ne pravi beleške o rutinskim stilskim izborima, niti poseban izveštaj ako ga korisnik nije tražio.
 
+## Režim `data/works`
+
+Kada je predmet rada delo iz `data/works`, `work.json` određuje potpun obim,
+redosled knjiga i fajl svake jedinice. Ne uzorkuj. Celinu dela obrađuj
+**knjigu po knjigu**, redom manifesta; ne pokušavaj da je rediguješ kao jedan
+neprekidni, nesagledani zahvat.
+
+Radi ovim redom:
+
+1. Učitaj manifest, oba prevodna Markdown fajla po knjigama i kanonski grčki
+   korpus. Ne uređuj `data/work-originals.json` ni druge generisane fajlove.
+2. Ako je potrebno poravnanje sidara, prethodno dovrši ga veštinom
+   `popravi-sidra`.
+3. Za svaku knjigu zasebno, od prve do poslednje: utvrdi njen puni niz sidara;
+   redigiraj `stsl` i `sr` uz grčki za svako sidro; zatim ponovo pročitaj celu
+   dorađenu knjigu kao tok misli i proveri je prema izvorniku. Knjiga je
+   završena tek kada prođe tu potpunu proveru.
+4. Po završetku svake knjige odmah sačuvaj izmene u izvornim Markdown
+   fajlovima. Zabeleži stvarno obrađeni raspon i nastavi sledećom knjigom;
+   ne proglašavaj celo delo dovršenim na osnovu dovršenih početnih knjiga.
+5. Tek pošto su sve knjige zasebno dovršene, izvrši završno čitanje celog dela
+   radi veza među knjigama, postojanosti ključnih pojmova, govornika i
+   argumenata. Potom pokreni propisanu proveru manifesta i sidara iz
+   `docs/CELA_DELA.md`. Ako je zbog izvorne izmene potrebna regeneracija,
+   pokreni samo predviđeni build, nikada ne uređuj njegove izlaze ručno.
+
+Ako korisnik izričito navede jednu knjigu, potpuni obim je ta knjiga: obradi
+sva njena sidra i predaj stvarno završenu knjigu. Ako navede celo delo,
+postupak se nastavlja knjigu po knjigu do poslednje, bez preskakanja. Posao za
+celo delo nije završen dok svaki prevedeni odlomak svake knjige ne prođe
+redakturu u oba jezika. Poravnanje sidara je zaseban tehničko-filološki korak
+veštine `popravi-sidra`.
+
 ## Obim izmene i bezbednost
 
-- Menjaj samo odlomke koje korisnik odredi ili koje proveravaš u tom prolasku. Ne prepisuj celo delo iz početka ako se problem može rešiti redakturom.
+- Kod `data/quotes` menjaj samo zadati obim; kod `data/works` celo navedeno delo znači sva sidra njegovog manifesta. Ne prepisuj dobar tekst iz početka ako se problem može rešiti redakturom ili poravnanjem sidra.
 - Ne radi globalni search-replace nad terminima.
 - Čuvaj trajne `id`, metapodatke, strukturu unosa i kanonska sidra.
 - Ne menjaj generisane fajlove ni `pointer` polja ručno.
@@ -175,9 +208,16 @@ Vodi kratku radnu belešku samo kada ona štedi budući rad: za novu projektnu r
 
 ## Ocena posle potpune popravke
 
-Tek pošto je potpuna procedura za zadati obim završena, odmah ponovo oceni tog autora po postupku veštine `ocena-prevoda`. Upotrebi propisani uzorak za taj fajl, ali ga jasno odvoji od potpunog prolaska popravke: uzorak meri ocenu, a ne obim izvršene redakture. Ne ocenjuj ponovo ceo direktorijum samo zbog jedne popravke.
+Tek pošto je potpuna procedura za zadati obim završena, odmah ponovo oceni
+popravljeni korpus po postupku veštine `ocena-prevoda`. Uzorak meri ocenu, a
+ne obim izvršene redakture; ne ocenjuj ponovo ceo direktorijum zbog jednog
+fajla ili dela.
 
-Ažuriraj samo kanonski izveštaj `docs/OCENA_PREVODA.md`: njegov red u tabeli i nalaze za tog autora, tako da nijedna prethodna ocena ne ostane zasnovana na staroj verziji prevoda. Ne stvaraj pojedinačni autorski izveštaj. U predaji navedi novu ocenu autora i da je kanonski izveštaj osvežen.
+- Za `data/quotes` ažuriraj samo autorov red u `docs/OCENA_PREVODA.md`.
+- Za `data/works` ažuriraj samo red dela u `docs/OCENA_PREVODA_CELIH_DELA.md`.
+
+Ne stvaraj pojedinačni izveštaj za autora ili delo. U predaji navedi novu
+ocenu i koji je kanonski izveštaj osvežen.
 
 ## Predaja
 
@@ -189,10 +229,10 @@ sr: <dorađeni srpski prevod>
 ```
 
 Za izmenu fajlova kratko navedi da je ceo zadati obim pregledan, broj
-pregledanih prevodivih jedinica, koje su jedinice izmenjene i da li su menjana
-sidra. Ne predstavljaj posao kao završen ako ceo obim nije prošao punu
-proceduru. Objasni samo stvarnu terminološku ili tekstualnu nedoumicu; ne
-zatrpavaj korisnika beleškama o grafiji kada ona nije uticala na smisao, duh
-ili lepotu prevoda.
+pregledanih prevodivih jedinica, koje su jedinice izmenjene, da li su i koja
+sidra pomerena, rezultat provere i osveženu ocenu. Ne predstavljaj posao kao
+završen ako ceo obim nije prošao punu proceduru. Objasni samo stvarnu
+terminološku ili tekstualnu nedoumicu; ne zatrpavaj korisnika beleškama o
+grafiji kada ona nije uticala na smisao, duh ili lepotu prevoda.
 
 Pre predaje poslednji put pročitaj oba prevoda naglas: najpre kao dve slovenske rečenice, pa uz grčki kao merilo. Ako se nešto ne može oduzeti bez gubitka misli, redaktura je završena.

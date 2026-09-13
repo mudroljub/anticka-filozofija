@@ -6,35 +6,35 @@
 
 Na šta ćeš negodovati? Na ljudsku zloću? Promisli sud: slovesna bića rođena su jedna radi drugih; trpeljivost je deo pravde; ljudi greše protiv volje; a koliko je već onih koji su se zavadili, podozrevali, mrzeli i proboli jedni druge sada položeno i pretvoreno u pepeo. Prestani već jednom. Ili negoduješ na ono što ti je dodeljeno iz celine? Obnovi dvojbu: ili promisao ili atomi — i dokaze da je svet poput grada. Ili će te još dotaći telesno? Pomisli da se misao, pošto se jednom pribere i spozna vlastitu moć, ne meša sa blagim ili grubim kretanjem daha; i seti se svega što si čuo i prihvatio o bolu i uživanju.
 
-Ili će te rasejati slavičica? Pogledaj kako brzo sve pada u zaborav, bezdan beskrajnoga vremena na obe strane, prazninu odjeka, promenljivost i nerazboritost onih koji kao da hvale i tesnoću prostora u kojem je slava omeđena. Cela zemlja je tačka; koliki je tek njen kutak ovo naselje? Koliko je i kakvih onih koji će te hvaliti?
+Ili će te rasejati mala slava? Pogledaj kako brzo sve pada u zaborav, bezdan beskrajnoga vremena na obe strane, prazninu odjeka, promenljivost i nerazboritost onih koji kao da hvale i tesnoću prostora u kojem je slava omeđena. Cela zemlja je tačka; koliki je tek njen kutak ovo naselje? Koliko je i kakvih onih koji će te hvaliti?
 
-Pamti, dakle, povlačenje na ovu svoju njivicu. Pre svega se ne razvlači i ne napinji, nego budi slobodan i gledaj stvari kao muškarac, čovek, građanin i smrtno biće. Među najbližim pravilima u koja ćeš pogledati neka budu ova dva: prvo, stvari ne dotiču dušu, nego mirno stoje izvan nje; uznemirenja dolaze jedino iz unutrašnjeg prihvatanja. Drugo, sve što vidiš začas će se promeniti i više ga neće biti. Neprestano misli koliko si promena već sam video. Svet je promena; život je prihvatanje.
+Pamti, dakle, povlačenje na ovu svoju njivicu. Pre svega se ne razvlači i ne napinji, nego budi slobodan i gledaj stvari kao muškarac, čovek, građanin i smrtno biće. Među najbližim pravilima u koja ćeš pogledati neka budu ova dva: prvo, stvari ne dotiču dušu, nego mirno stoje izvan nje; uznemirenja dolaze jedino iz unutrašnjeg mnenja. Drugo, sve što vidiš začas će se promeniti i više ga neće biti. Neprestano misli koliko si promena već sam video. Svet je promena; život je mnenje.
 
-<!-- anchor:IV.4 -->Ako nam je umnost zajednička, zajednička je i slovesnost po kojoj smo slovesni. Ako je tako, zajednička je i slovesnost koja zapoveda šta treba činiti, a šta ne. Ako je tako, zajednički je i zakon; ako je tako, građani smo; ako je tako, učestvujemo u nekoj državi; ako je tako, svet je poput grada. Jer za koju bi drugu zajedničku državu neko rekao da u njoj učestvuje sav ljudski rod? Odatle, iz toga zajedničkog grada, dolaze nam i umnost, slovesnost i zakonitost — ili odakle drugde? Kao što je zemljani deo mene odvojen od neke zemlje, vlažni od drugoga počela, dah od nekoga izvora, a toplo i ognjeno od vlastitoga izvora — jer ništa ne dolazi iz ničega niti odlazi u nebiće — tako i umnost odnekud dolazi.
+<!-- anchor:IV.4 -->Ako nam je um zajednički, zajedničko je i slovo po kojem smo umna bića. Ako je tako, zajedničko je i slovo koje zapoveda šta treba činiti, a šta ne. Ako je tako, zajednički je i zakon; ako je tako, građani smo; ako je tako, učestvujemo u nekoj državi; ako je tako, svet je poput grada. Jer za koju bi drugu zajedničku državu neko rekao da u njoj učestvuje sav ljudski rod? Odatle, iz toga zajedničkog grada, dolaze nam i um, slovo i zakon — ili odakle drugde? Kao što je zemljani deo mene odvojen od neke zemlje, vlažni od drugoga počela, dah od nekoga izvora, a toplo i ognjeno od vlastitoga izvora — jer ništa ne dolazi iz ničega niti odlazi u nebiće — tako i um odnekud dolazi.
 
 <!-- anchor:IV.5 -->Smrt je, kao i rođenje, tajna prirode: sastavljanje iz istih počela i razlaganje u ista. Uopšte, nije nešto čega bi se čovek stideo, jer nije protivno redu umnoga bića niti slovesnosti njegova ustrojstva.
 
 <!-- anchor:IV.6 -->Nužno je da takve stvari po prirodi nastaju od takvih ljudi. Ko to neće, hoće da smokva nema mlečnoga soka. Uopšte pamti: za veoma kratko vreme umrećete i ti i on, a ubrzo zatim neće ostati ni vaše ime.
 
-<!-- anchor:IV.7 -->Ukloni prihvatanje — uklonjeno je: „Nastradao sam.” Ukloni: „Nastradao sam” — uklonjena je šteta.
+<!-- anchor:IV.7 -->Ukloni mnenje — uklonjeno je: „Nastradao sam.” Ukloni: „Nastradao sam” — uklonjena je šteta.
 
 <!-- anchor:IV.8 -->Ono što čoveka ne čini gorim od njega samoga ne čini gorim ni njegov život, niti mu škodi spolja ili iznutra.
 
-<!-- anchor:IV.9 -->Priroda koristi nužno mora tako činiti.
+<!-- anchor:IV.9 -->Sama priroda korisnoga nužno to čini.
 
 <!-- anchor:IV.10 -->„Sve što se događa, događa se pravedno.” Budeš li pomno motrio, naći ćeš da je tako. Ne velim samo: po redosledu, nego: prema pravdi i kao da neko svakome dodeljuje po vrednosti. Nastavi, dakle, motriti kao što si počeo; i šta god činiš, čini tako da budeš dobar u osobitom smislu reči dobar. To čuvaj u svakom delu.
 
 <!-- anchor:IV.11 -->Ne prihvataj stvari onakvima kakvima ih sudi onaj koji te vređa, niti kakvima hoće da ih ti sudiš; nego ih vidi kakve su uistinu.
 
-<!-- anchor:IV.12 -->Uvek treba imati ove dve spremnosti: prvu, da činiš samo ono što ti radi koristi ljudi nalaže carska i zakonodavna slovesnost; drugu, da promeniš stav ako se nađe neko ko te ispravlja i odvodi od kakvoga mnenja. Ali promena uvek mora poteći iz uverljivog razloga, poput pravde ili zajedničke koristi; i samo takve stvari treba pretpostaviti drugima, a ne ono što se pokazalo prijatnim ili slavnim.
+<!-- anchor:IV.12 -->Uvek treba imati ove dve spremnosti: prvu, da činiš samo ono što ti radi koristi ljudi nalaže vladajući i zakonodavni razum; drugu, da promeniš stav ako se nađe neko ko te ispravlja i odvodi od kakvoga mnenja. Ali promena uvek mora poteći iz uverljivog razloga, poput pravde ili zajedničke koristi; i samo takve stvari treba pretpostaviti drugima, a ne ono što se pokazalo prijatnim ili slavnim.
 
-<!-- anchor:IV.13 -->Imaš li slovesnost? Imam. Zašto se onda njome ne služiš? Jer kada ona čini svoje, šta još hoćeš?
+<!-- anchor:IV.13 -->Imaš li razum? Imam. Zašto se onda njime ne služiš? Jer kada on čini svoje, šta još hoćeš?
 
 <!-- anchor:IV.14 -->Postao si kao deo. Nestaćeš u onome što te je rodilo; ili, tačnije, promenom ćeš biti ponovo primljen u njegovo slovesno seme.
 
 <!-- anchor:IV.15 -->Mnoga zrnca tamjana leže na istom oltaru: jedno je palo ranije, drugo kasnije — nikakve razlike nema.
 
-<!-- anchor:IV.16 -->Za deset dana izgledaćeš kao bog upravo onima kojima si sada zver i majmun, ako se vratiš mnenjima i poštovanju slovesnosti.
+<!-- anchor:IV.16 -->Za deset dana izgledaćeš kao bog upravo onima kojima si sada zver i majmun, ako se vratiš mnenjima i poštovanju slova.
 
 <!-- anchor:IV.17 -->Ne živi kao da ćeš živeti deset hiljada godina. Nužnost visi nad tobom. Dok živiš, dok možeš, postani dobar.
 
@@ -54,7 +54,7 @@ Kako se ovde ispituje istina? Podelom na tvarno i uzročno.
 
 <!-- anchor:IV.23 -->Meni je skladno sve što je tebi skladno, o svete. Ništa mi nije prerano ni prekasno što je tebi pravovremeno. Meni je plod sve što donose tvoja godišnja doba, o prirodo. Iz tebe je sve, u tebi je sve, u tebe se sve vraća. Jedan kaže: „O mili grade Kekropov”; a ti zar nećeš reći: „O mili grade Zevsov”?
 
-<!-- anchor:IV.24 -->„Čini malo”, kaže, „ako hoćeš biti vedar.” Nije li bolje činiti ono što je nužno i što izabira slovesnost po prirodi društvenoga bića, i to onako kako izabira? To donosi ne samo vedrinu od valjanog delanja nego i od malobrojnosti dela. Kada bi čovek odstranio većinu onoga što govorimo i činimo, jer nije nužno, imao bi više dokolice i manje nemira. Zato se pri svakoj stvari podsećaj: nije li ovo među nepotrebnima? Ne treba odstraniti samo nepotrebna dela nego i predstave; jer tada za njima neće slediti ni suvišna dela.
+<!-- anchor:IV.24 -->„Čini malo”, kaže, „ako hoćeš biti vedar.” Nije li bolje činiti ono što je nužno i što izabira razum društvenoga bića po prirodi, i to onako kako izabira? To donosi ne samo vedrinu od valjanog delanja nego i od malobrojnosti dela. Kada bi čovek odstranio većinu onoga što govorimo i činimo, jer nije nužno, imao bi više dokolice i manje nemira. Zato se pri svakoj stvari podsećaj: nije li ovo među nepotrebnima? Ne treba odstraniti samo nepotrebna dela nego i predstave; jer tada za njima neće slediti ni suvišna dela.
 
 <!-- anchor:IV.25 -->Okušaj kako ti pristaje život dobroga čoveka, zadovoljnog onim što mu se dodeljuje iz celine i dovoljnog sebi u vlastitom pravednom delu i dobrohotnom raspoloženju.
 
@@ -64,9 +64,9 @@ Kako se ovde ispituje istina? Podelom na tvarno i uzročno.
 
 <!-- anchor:IV.28 -->Crna narav, mekušna narav, tvrdoglava narav, zverska, stočna, detinjasta, tupa, lažna, lakrdijaška, trgovačka, tiranska.
 
-<!-- anchor:IV.29 -->Ako je svetu tuđinac onaj koji ne poznaje ono što je u njemu, ništa manje nije tuđinac ni onaj koji ne poznaje ono što se događa. Izbeglica je onaj koji beži od društvene slovesnosti; slep je onaj koji zatvara umno oko; siromah je onaj kojem je potreban drugi i koji u sebi nema sve korisno za život; izraslina sveta je onaj koji odstupa i odvaja sebe od slovesnosti zajedničke prirode negodujući zbog događaja — jer njih donosi ona koja je donela i tebe; odlomak grada je onaj koji svoju dušu odvaja od duše slovesnih bića, premda je ona jedna.
+<!-- anchor:IV.29 -->Ako je svetu tuđinac onaj koji ne poznaje ono što je u njemu, ništa manje nije tuđinac ni onaj koji ne poznaje ono što se događa. Izbeglica je onaj koji beži od zajedničkoga razuma; slep je onaj koji zatvara umno oko; siromah je onaj kojem je potreban drugi i koji u sebi nema sve korisno za život; izraslina sveta je onaj koji odstupa i odvaja sebe od razuma zajedničke prirode negodujući zbog događaja — jer njih donosi ona koja je donela i tebe; odlomak grada je onaj koji svoju dušu odvaja od duše razumnih bića, premda je ona jedna.
 
-<!-- anchor:IV.30 -->Jedan filozofira bez tunike, drugi bez knjige. Treći, polunag, kaže: Nemam hleba, a ostajem veran slovesnosti. Ja pak nemam hrane iz učenja, pa ipak ostajem veran.
+<!-- anchor:IV.30 -->Jedan filozofira bez tunike, drugi bez knjige. Treći, polunag, kaže: Nemam hleba, a ostajem veran slovu. Ja pak nemam hrane iz učenja, pa ipak ostajem veran.
 
 <!-- anchor:IV.31 -->Ljubi malo umeće koje si naučio i u njemu počivaj. Ostatak života prođi kao čovek koji je svim srcem poverio bogovima sve svoje, a sebe nije učinio ni tiraninom ni robom ijednog čoveka.
 
@@ -98,9 +98,9 @@ Pređi zatim na Trajanovo doba: opet sve isto. I taj je život mrtav. Tako posma
 
 <!-- anchor:IV.44 -->Sve što se događa obično je i poznato poput ruže u proleće i ploda u leto. Takvi su bolest i smrt, kleveta i zavera, i sve ono što bezumne raduje ili žalosti.
 
-<!-- anchor:IV.45 -->Ono što sledi uvek prisno dolazi posle onoga što mu prethodi. To nije puko nabrajanje nepovezanih stvari, vezanih jedino nužnošću, nego slovesna sveza. Kao što su bića skladno sastavljena, tako i događaji ne pokazuju puko nizanje, nego neku čudesnu prisnost.
+<!-- anchor:IV.45 -->Ono što sledi uvek prisno dolazi posle onoga što mu prethodi. To nije puko nabrajanje nepovezanih stvari, vezanih jedino nužnošću, nego razumna sveza. Kao što su bića skladno sastavljena, tako i događaji ne pokazuju puko nizanje, nego neku čudesnu prisnost.
 
-<!-- anchor:IV.46 -->Uvek pamtiti Heraklitovo: smrt zemlje je postati voda, smrt vode postati vazduh, vazduha oganj — i obratno. Pamtiti i čoveka koji zaboravlja kuda put vodi; da se ljudi razilaze upravo sa onim s čime najneprekidnije opšte — sa slovesnošću koja upravlja svime; da im se ono što svakoga dana susreću čini tuđim; da ne treba činiti i govoriti kao u snu — jer i tada nam se čini da činimo i govorimo; niti kao deca svojih roditelja, to jest naprosto onako kako smo primili.
+<!-- anchor:IV.46 -->Uvek pamtiti Heraklitovo: smrt zemlje je postati voda, smrt vode postati vazduh, vazduha oganj — i obratno. Pamtiti i čoveka koji zaboravlja kuda put vodi; da se ljudi razilaze upravo sa onim s čime najneprekidnije opšte — sa slovom koje upravlja svime; da im se ono što svakoga dana susreću čini tuđim; da ne treba činiti i govoriti kao u snu — jer i tada nam se čini da činimo i govorimo; niti kao deca svojih roditelja, to jest naprosto onako kako smo primili.
 
 <!-- anchor:IV.47 -->Kada bi ti neki bog rekao da ćeš umreti sutra ili svakako prekosutra, ne bi mnogo više cenio prekosutra nego sutra, osim ako si krajnje nedostojan — jer koliko je vreme između njih? Tako ni smrt kroz mnogo godina ne smatraj mnogo važnijom od smrti sutra.
 
@@ -114,6 +114,6 @@ Pribrajaj i sve koje sam poznaješ, jednoga za drugim: ovaj sahrani onoga, pa i 
 
 Njenu si volju naučio. Sprečava li te ovaj događaj da budeš pravedan, velikodušan, razborit, uman, nebrzoplet, istinit, stidljiv, slobodan i da imaš ostalo čijim prisustvom ljudska priroda poseduje ono što joj je vlastito? Odsada pri svemu što te vodi tuzi pamti da se poslužiš ovim mnenjem: nije nesreća to što se dogodilo, nego je sreća podneti ga plemenito.
 
-<!-- anchor:IV.50 -->Prosto, ali delotvorno sredstvo za preziranje smrti jeste prisećanje na one koji su se grčevito držali života. Šta su oni dobili više od prerano umrlih? Negde ipak leže Kadikijan, Fabije, Julijan, Lepid i njima slični, koji su mnoge izneli na sahranu, pa zatim i sami bili izneseni. Sve u svemu, razmak je malen; i kroz koliko muka, s kakvim ljudima i u kakvom telu je iscrpljen! Zato ga ne smatraj velikom stvari. Pogledaj iza sebe bezdan veka, a ispred sebe drugu beskonačnost. Kakva je u tome razlika između trodnevnog deteta i čoveka od tri ljudska veka?
+<!-- anchor:IV.50 -->Prosto, ali delotvorno sredstvo za preziranje smrti jeste prisećanje na one koji su se grčevito držali života. Šta su oni dobili više od prerano umrlih? Negde ipak leže Kadikijan, Fabije, Julijan, Lepid i njima slični, koji su mnoge izneli na sahranu, pa zatim i sami bili izneseni. Sve u svemu, razmak je malen; i kroz koliko muka, s kakvim ljudima i u kakvom telu je iscrpljen! Zato ga ne smatraj velikom stvari. Pogledaj iza sebe bezdan veka, a ispred sebe drugu beskonačnost. Kakva je u tome razlika između trodnevnog deteta i čoveka od tri stotine godina?
 
 <!-- anchor:IV.51 -->Uvek idi prečicom; a prečica je put prema prirodi, tako da sve govoriš i činiš na najzdraviji način. Takva namera oslobađa napora, okolišanja, svakoga prenemaganja i izveštačenosti.

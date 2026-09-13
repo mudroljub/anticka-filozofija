@@ -2,7 +2,7 @@
 
 <!-- anchor:VIII.2 -->Pri svakom postupku pitaj sebe: kako mi ovo stoji? Hoću li se zbog toga pokajati? Još malo, i mrtav sam, i sve će biti uklonjeno. Šta još tražim, ako je sadašnji postupak delo razumnog i društvenog živog bića, jednakog pred zakonom s bogom?
 
-<!-- anchor:VIII.3 -->Šta su Aleksandar, Gaj i Pompej prema Diogenu, Heraklitu i Sokratu? Oni su videli stvari, njihove uzroke i materiju, i njihova vladajuća načela bila su ista; a kod onih drugih — koliko briga i koliko ropstva!
+<!-- anchor:VIII.3 -->Šta su Aleksandar, Gaj i Pompej prema Diogenu, Heraklitu i Sokratu? Oni su videli stvari, njihove uzroke i tvar, i njihova vladajuća načela bila su ista; a kod onih drugih — koliko briga i koliko ropstva!
 
 <!-- anchor:VIII.4 -->Isto će činiti, ništa manje, pa makar ti pukao od besa.
 
@@ -10,7 +10,7 @@
 
 <!-- anchor:VIII.6 -->Priroda celine ima za zadatak da ono što je ovde premesti tamo, da ga menja, da ga odavde uklanja i tamo prenosi. Sve su to promene, ništa zbog čega treba strahovati da će biti nešto novo: sve je uobičajeno; a i raspodele su jednake.
 
-<!-- anchor:VIII.7 -->Svaka priroda je zadovoljna sobom kada joj dobro ide; a razumna priroda napreduje kada u predstavama ne daje pristanak ni lažnom ni nejasnom, kada nagone usmerava samo na društvene postupke, a želje i izbegavanja usmerava samo na ono što je u našoj moći, i kada prihvata sve što joj zajednička priroda dodeljuje. Jer ona je njen deo, kao što je priroda lista deo prirode biljke; samo što je tamo priroda lista deo prirode koja je bez osećaja i bez razuma i kojoj se može stati na put, dok je čovekova priroda deo prirode kojoj se ne može stati na put, koja je razumna i pravedna — ako svima jednako i prema njihovoj vrednosti raspodeljuje vreme, supstancu, uzrok, delatnost i slučaj. Ali gledaj da ne tražiš jednakost jednog prema jednom u svemu, nego da li je, uzeto kao celina, sve jednog prema svemu drugog jednako.
+<!-- anchor:VIII.7 -->Svaka priroda je zadovoljna sobom kada joj dobro ide; a razumna priroda napreduje kada u predstavama ne daje pristanak ni lažnom ni nejasnom, kada nagone usmerava samo na društvene postupke, a želje i izbegavanja usmerava samo na ono što je u našoj moći, i kada prihvata sve što joj zajednička priroda dodeljuje. Jer ona je njen deo, kao što je priroda lista deo prirode biljke; samo što je tamo priroda lista deo prirode koja je bez osećaja i bez razuma i kojoj se može stati na put, dok je čovekova priroda deo prirode kojoj se ne može stati na put, koja je razumna i pravedna — ako svima jednako i prema njihovoj vrednosti raspodeljuje vreme, suštastvo, uzrok, delatnost i slučaj. Ali gledaj da ne tražiš jednakost jednog prema jednom u svemu, nego da li je, uzeto kao celina, sve jednog prema svemu drugog jednako.
 
 <!-- anchor:VIII.8 -->Ne možeš čitati. Ali možeš obuzdati drskost; možeš nadvladati uživanja i bolove; možeš biti iznad malog mišljenja; možeš se ne gneviti na bezosećajne i nezahvalne, štaviše, možeš se i brinuti za njih.
 
@@ -18,21 +18,21 @@
 
 <!-- anchor:VIII.10 -->Pokajanje je neka vrsta prekora sebi što si propustio nešto korisno. A korisno mora biti nešto dobro, i dobar i valjan čovek treba da se za to stara. Nijedan dobar i valjan čovek ne bi se pokajao što je propustio neko uživanje. Prema tome, uživanje nije ni korisno ni dobro.
 
-<!-- anchor:VIII.11 -->Šta je ovo samo po sebi, prema sopstvenoj prirodi? Šta je u njemu supstancijalno i materijalno, šta uzročno, šta čini u kosmosu i koliko dugo opstaje?
+<!-- anchor:VIII.11 -->Šta je ovo samo po sebi, prema sopstvenom ustrojstvu? Šta je u njemu suštastveno i tvarno, šta uzročno, šta čini u svetu i koliko dugo opstaje?
 
 <!-- anchor:VIII.12 -->Kada se teško budiš iz sna, podseti se da je prema tvojoj prirodi i prema ljudskoj prirodi da izvršavaš društvene dužnosti, dok je spavanje zajedničko i nerazumnim živim bićima. A ono što je svakome prema prirodi, to mu je i prisnije, prikladnije i, svakako, prijatnije.
 
-<!-- anchor:VIII.13 -->Neprestano, i pri svakoj predstavi, ako je moguće, rasuđuj o prirodi, o strastima i dijalektički.
+<!-- anchor:VIII.13 -->Neprestano, pri svakoj predstavi, ako možeš, rasuđuj o njoj po prirodi, po strastima i razgovorno.
 
 <!-- anchor:VIII.14 -->Koga god sretneš, odmah sebi reci: kakva načela ovaj čovek ima o dobrima i zlima? Jer ako o uživanju i bolu, o onome što ih proizvodi, o slavi i besčašću, o smrti i životu ima takva i takva načela, neće mi biti ništa čudno ako tako postupa; i setiću se da je prinuđen da tako postupa.
 
-<!-- anchor:VIII.15 -->Seti se da je isto tako sramotno čuditi se ako smokva donosi smokve, kao i ako kosmos donosi ono što on po svojoj prirodi rađa. I lekaru je sramotno čuditi se ako neko dobije groznicu, ili kormilaru ako nastane suprotan vetar.
+<!-- anchor:VIII.15 -->Seti se da je isto tako sramotno čuditi se ako smokva donosi smokve, kao i ako svet donosi ono što on po svojoj prirodi rađa. I lekaru je sramotno čuditi se ako neko dobije groznicu, ili kormilaru ako nastane suprotan vetar.
 
 <!-- anchor:VIII.16 -->Seti se da je jednako slobodno i promeniti se i slediti onoga koji ispravlja. Jer tvoja delatnost ostvaruje se prema tvom nagonu i rasuđivanju, pa i prema tvom umu.
 
-<!-- anchor:VIII.17 -->Ako je nešto u tvojoj moći, zašto to radiš? Ako je u tuđoj, koga kriviš? Atome ili bogove? I jedno i drugo je ludost. Nikoga ne treba kriviti. Ako možeš, ispravi; ako ne možeš to, onda bar samu stvar. Ako ni to ne možeš, čemu ti još služi optuživanje? Ništa ne treba činiti bez razloga.
+<!-- anchor:VIII.17 -->Ako je nešto u tvojoj moći, zašto to radiš? Ako je u tuđoj, koga kriviš? Neseke ili bogove? I jedno i drugo je ludost. Nikoga ne treba kriviti. Ako možeš, ispravi; ako ne možeš to, onda bar samu stvar. Ako ni to ne možeš, čemu ti još služi optuživanje? Ništa ne treba činiti bez razloga.
 
-<!-- anchor:VIII.18 -->Ono što je umrlo ne pada izvan kosmosa. Ono ostaje ovde, menja se ovde i razlaže se u svoje sastavne delove, koji su elementi kosmosa i tvoji. A i oni se menjaju i ne gunđaju.
+<!-- anchor:VIII.18 -->Ono što je umrlo ne pada izvan sveta. Ono ostaje ovde, menja se ovde i razlaže se u svoje sastojke, sastojke sveta i tvoje. A i oni se menjaju i ne gunđaju.
 
 <!-- anchor:VIII.19 -->Svako je nastalo radi nečega: konj, loza. Čemu se čudiš? I Sunce će reći: nastalo sam radi nekog dela, i ostali bogovi isto. A ti, radi čega si? Radi uživanja? Pogledaj može li takva misao opstati.
 
@@ -56,7 +56,7 @@
 
 <!-- anchor:VIII.29 -->Neprestano briši predstave govoreći sebi: sada je na meni da u ovoj duši ne bude nikakve pokvarenosti, ni želje, ni uopšte ikakve uznemirenosti; nego, gledajući sve onakvim kakvo jeste, da se svakim služim prema njegovoj vrednosti. Seti se ove moći koja ti je data prema prirodi.
 
-<!-- anchor:VIII.30 -->Govoriti i u senatu i pred svakim čovekom pristojno, ne razmetljivo; služiti se zdravim razumom.
+<!-- anchor:VIII.30 -->Govoriti i u senatu i pred svakim čovekom pristojno, ne razmetljivo; služiti se zdravim slovom.
 
 <!-- anchor:VIII.31 -->Avgustov dvor: žena, ćerka, unuci, preci, sestra, Agripa, rođaci, domaći, prijatelji, Arije, Mecena, lekari, žrtvoprinosioci — smrt čitavog dvora. Zatim pređi na druge… ne samo na smrt jednog čoveka, kao Pompeja. I ono što se ispisuje na grobovima: „poslednji svoga roda“ — razmisli koliko je onih pre njega nestalo da bi ostavili nekog naslednika, pa je ipak nužno da i neko drugi postane poslednji. Tako opet smrt čitavog roda.
 
@@ -66,7 +66,7 @@
 
 <!-- anchor:VIII.34 -->Ako si ikada video odsečenu ruku, ili nogu, ili odsečenu glavu kako negde leži odvojena od ostatka tela, takvim samoga sebe, koliko je do njega, čini onaj koji neće ono što se događa i odvaja sebe od zajednice, ili postupa kao neko ko nije deo zajednice. Odbacio si se od prirodne povezanosti; jer bio si rođen kao deo. A sada si sam sebe odsekao. Ali u tome je nešto lepo: dopušteno ti je da ponovo sjediniš sebe sa celinom. To nijednom drugom delu bog nije dopustio — da se, kada je odvojen i presečen, ponovo sjedini; ali pogledaj dobrostivost kojom je počastio čoveka: učinio je da on najpre ne bude odsečen od celine, a kada se odseče, učinio je da se ponovo vrati, sraste i ponovo dobije položaj dela.
 
-<!-- anchor:VIII.35 -->Kao što smo od nje dobili i ostale sposobnosti, svako od razumnih bića gotovo u meri u kojoj to dopušta priroda razumnih bića, tako smo od nje dobili i ovu. Jer kao što ona svaku prepreku i protivljenje preusmerava i raspoređuje prema sudbini i čini ih delom sebe, tako i razumno živo biće može svaku prepreku učiniti svojom materijom i njome se služiti prema onome čemu je pošlo.
+<!-- anchor:VIII.35 -->Kao što smo od nje dobili i ostale sposobnosti, svako od razumnih bića gotovo u meri u kojoj to dopušta priroda razumnih bića, tako smo od nje dobili i ovu. Jer kao što ona svaku prepreku i protivljenje preusmerava i raspoređuje prema sudbini i čini ih delom sebe, tako i razumno živo biće može svaku prepreku učiniti svojom tvari i njome se služiti prema onome čemu je pošlo.
 
 <!-- anchor:VIII.36 -->Neka te ne zbuni predstava o čitavom životu; ne zamišljaj zajedno koliko je napora i kakvih napora verovatno bilo i biće. Nego pri svakom onome što je sada pred tobom pitaj sebe: šta je u ovom postupku nepodnošljivo i neizdrživo? Jer postidećeš se da to priznaš. Zatim se podseti da te ni buduće ni prošlo ne opterećuje, nego uvek sadašnje; a sadašnje se smanjuje ako ga ograničiš samo na njega i ako opovrgneš svoj um ako nije sposoban da samo njemu odoli.
 
@@ -76,7 +76,7 @@
 
 <!-- anchor:VIII.39 -->Ne vidim u ustrojstvu razumnog živog bića vrlinu koja se suprotstavlja pravdi, dok u odnosu prema uživanju vidim uzdržljivost.
 
-<!-- anchor:VIII.40 -->Ako ukloniš svoje mišljenje o onome za šta ti se čini da te žalosti, stojiš na najsigurnijem mestu. — Ko si ti? — Razum. — Ali ja nisam razum. — Neka bude. U svakom slučaju, neka razum sam sebe ne žalosti; a ako je nešto drugo kod tebe u lošem stanju, neka ono samo o sebi tako prosuđuje.
+<!-- anchor:VIII.40 -->Ako ukloniš svoje mišljenje o onome za šta ti se čini da te žalosti, stojiš na najsigurnijem mestu. — Ko si ti? — Slovo. — Ali ja nisam slovo. — Neka bude. U svakom slučaju, neka slovo samo sebe ne žalosti; a ako je nešto drugo kod tebe u lošem stanju, neka ono samo o sebi tako prosuđuje.
 
 <!-- anchor:VIII.41 -->Sprečavanje čula je zlo životinjskoj prirodi. Sprečavanje nagona isto je tako zlo životinjskoj prirodi. Postoji i nešto drugo što na sličan način sprečava i škodi biljnoj prirodi. Tako je, dakle, i sprečavanje uma zlo razumnoj prirodi. Sve ovo prenesi na sebe. Bol ili uživanje dotiču te? Neka čulo to vidi. Nastala je prepreka onome što želiš da učiniš? Ako si hteo bez izuzetka, onda je to već zlo za razumno biće; ali ako uzimaš u obzir zajedničko, još nisi povređen niti ti je postavljena prepreka. Ono što je svojstveno umu niko drugi po običaju ne sprečava; jer njega ni vatra, ni gvožđe, ni tiranin, ni kleveta, ništa ne dotiče kada postane „kugla okrugla, koja miruje“.
 
@@ -86,7 +86,7 @@
 
 <!-- anchor:VIII.44 -->Pokloni sebi ovo vreme. Oni koji više gone slavu posle smrti ne računaju da će drugi koji budu takvi kakvi su oni sada biti upravo oni koje sada opterećuju; a i oni će biti smrtni. I šta te se uopšte tiče ako oni takvim glasovima odjekuju ili o tebi imaju takvo mišljenje?
 
-<!-- anchor:VIII.45 -->„Podigni me i baci gde hoćeš. I tamo ću imati svog demona blagonaklonog“, to jest zadovoljnog, ako bude imao i delao prema onome što sleduje njegovoj sopstvenoj prirodi. Da li je to vredno toga da mi zbog toga duša bude u lošem stanju i gora od same sebe — ponižena, željna, skupljena u sebe, uplašena? I šta ćeš naći vredno toga?
+<!-- anchor:VIII.45 -->„Podigni me i baci gde hoćeš. I tamo ću imati svoje božanstvo blagonaklono“, to jest zadovoljno, ako bude imalo i delalo prema onome što sleduje njegovoj sopstvenoj prirodi. Da li je to vredno toga da mi zbog toga duša bude u lošem stanju i gora od same sebe — ponižena, željna, skupljena u sebe, uplašena? I šta ćeš naći vredno toga?
 
 <!-- anchor:VIII.46 -->Čoveku se ne može dogoditi ništa što nije ljudska nevolja, ni volu ništa što nije volovska, ni lozi ništa što nije lozino, ni kamenu ništa što nije svojstveno kamenu. Ako se, dakle, svakome događa ono što mu se i događa i po prirodi pripada, zašto bi se uznemiravao? Zajednička priroda ti nije donela ništa nepodnošljivo.
 
@@ -94,19 +94,19 @@
 
 <!-- anchor:VIII.48 -->Seti se da vladajući deo postaje nepobediv kada se sabere u sebe i bude sebi dovoljan, ne čineći ništa što ne želi, čak i ako mu se suprotstavi nešto nerazumno. Šta tek onda kada o nečemu sudi i s razumom i promišljeno? Zato je um slobodan od strasti tvrđava; jer čovek nema ništa snažnije u šta može da pribegne i potom bude nepovrediv. Ko ovo nije video, neuk je; a ko je video, ali ne pribegava tome, nesrećan je.
 
-<!-- anchor:VIII.49 -->Ne govori sebi ništa više od onoga što ti saopštavaju prve predstave. Saopšteno ti je da te taj-i-taj ružno govori. To je saopšteno; ali da ti je naneta šteta, to nije saopšteno. Vidim da je dete bolesno. Vidim; ali da je u opasnosti, to ne vidim. Zato uvek ostani pri prvim predstavama i ne dodaj sam ništa iznutra, i ništa ti se neće dogoditi. Ili, još bolje, dodaj onoliko koliko dodaje onaj koji poznaje sve što se događa u kosmosu.
+<!-- anchor:VIII.49 -->Ne govori sebi ništa više od onoga što ti saopštavaju prve predstave. Saopšteno ti je da te taj-i-taj ružno govori. To je saopšteno; ali da ti je naneta šteta, to nije saopšteno. Vidim da je dete bolesno. Vidim; ali da je u opasnosti, to ne vidim. Zato uvek ostani pri prvim predstavama i ne dodaj sam ništa iznutra, i ništa ti se neće dogoditi. Ili, još bolje, dodaj onoliko koliko dodaje onaj koji poznaje sve što se događa u svetu.
 
-<!-- anchor:VIII.50 -->Gorka krastavica? Pusti je. Trnje na putu? Zaobiđi ga. Dovoljno je; ne dodaj ništa: a čemu su uopšte i nastale ove stvari u kosmosu? Jer ćeš biti predmet podsmeha pred čovekom koji raspravlja o prirodi, kao što bi bio predmet podsmeha pred tesarom ili obućarem ako bi im zamerao što u radionici vidiš strugotine i odsečke onoga što izrađuju. A oni ipak imaju gde da ih bace; priroda celine spolja nema ništa. Ali čudesno je u njenoj veštini to što, ograničivši sebe, sve što je u njoj i što izgleda kao da propada, stari i postaje beskorisno, preobražava u sebe samu; i što od toga ponovo pravi druge, mlade stvari, tako da joj nije potrebna materija spolja niti mesto gde bi izbacila ono što je trulo. Dovoljni su joj i sopstveni prostor, i sopstvena materija, i sopstvena veština.
+<!-- anchor:VIII.50 -->Gorka krastavica? Pusti je. Trnje na putu? Zaobiđi ga. Dovoljno je; ne dodaj ništa: a čemu su uopšte i nastale ove stvari u svetu? Jer ćeš biti predmet podsmeha pred čovekom koji raspravlja o prirodi, kao što bi bio predmet podsmeha pred tesarom ili obućarem ako bi im zamerao što u radionici vidiš strugotine i odsečke onoga što izrađuju. A oni ipak imaju gde da ih bace; priroda celine spolja nema ništa. Ali čudesno je u njenoj veštini to što, ograničivši sebe, sve što je u njoj i što izgleda kao da propada, stari i postaje beskorisno, preobražava u sebe samu; i što od toga ponovo pravi druge, mlade stvari, tako da joj nije potrebno spoljašnje suštastvo niti mesto gde bi izbacila ono što je trulo. Dovoljni su joj i sopstveni prostor, i sopstvena tvar, i sopstvena veština.
 
 <!-- anchor:VIII.51 -->Ni u postupcima ne unositi nered, ni u razgovorima mešavinu, ni u predstavama lutanje; ni dopustiti da se duša sasvim rastrgne ili izbaci iz ravnoteže, niti biti u životu bez reda. „Ubijaju, seku meso, gone prokletstvima.“ Šta je to prema tome da um ostane čist, razuman, razborit i pravedan? Kao kada bi neko stao kraj bistrog i slatkog izvora i vređao ga, a on ne prestaje da izvire kao pitka voda; pa i ako u njega baci blato ili đubre, on će ih brzo razneti, isprati i ni najmanje se njima neće obojiti. Kako ćeš, dakle, imati nepresušni izvor, a ne bunar? Ako sebe svakog časa čuvaš u slobodi, zajedno sa dobrohotnošću, jednostavnošću i obzirnošću.
 
-<!-- anchor:VIII.52 -->Ko ne zna šta je kosmos, ne zna ni gde je. Ko ne zna čemu je po prirodi namenjen, ne zna ni ko je ni šta je kosmos. A ko je zanemario jedno od toga, ne bi mogao ni reći čemu je sam po prirodi namenjen. Šta ti, dakle, izgleda čovek koji izbegava ili traži pohvalu onih koji aplaudiraju, a ne znaju ni gde su ni ko su?
+<!-- anchor:VIII.52 -->Ko ne zna šta je svet, ne zna ni gde je. Ko ne zna čemu je po prirodi namenjen, ne zna ni ko je ni šta je svet. A ko je zanemario jedno od toga, ne bi mogao ni reći čemu je sam po prirodi namenjen. Šta ti, dakle, izgleda čovek koji izbegava ili traži pohvalu onih koji aplaudiraju, a ne znaju ni gde su ni ko su?
 
 <!-- anchor:VIII.53 -->Hoćeš da te hvali čovek koji tri puta na sat proklinje samoga sebe? Hoćeš da se dopadaš čoveku koji se sam sebi ne dopada? Dopada li se samome sebi onaj koji se gotovo za sve što čini kaje?
 
 <!-- anchor:VIII.54 -->Nemoj više samo disati zajedno sa vazduhom koji te okružuje, nego već i misli zajedno sa umom koji sve obuhvata. Jer razumna sila nije ništa manje svuda raširena i prožeta kroz ono što može da je primi nego vazdušna kroz ono što može da diše.
 
-<!-- anchor:VIII.55 -->Uopšteno, zlo ne šteti kosmosu; a pojedinačno, ne šteti drugome, nego je štetno samo onome kome je prepušteno i koji ga se može osloboditi čim to prvi put zaista poželi.
+<!-- anchor:VIII.55 -->Uopšteno, zlo ne šteti svetu; a pojedinačno, ne šteti drugome, nego je štetno samo onome kome je prepušteno i koji ga se može osloboditi čim to prvi put zaista poželi.
 
 <!-- anchor:VIII.56 -->Tuđa sposobnost izbora prema mojoj je podjednako ravnodušna kao i njegov dah i njegovo telo. Jer iako smo, koliko god je moguće, stvoreni jedni zbog drugih, ipak svaki naš vladajući deo ima sopstvenu vlast. Inače bi zlo moga suseda bilo moje zlo, a to bog nije hteo, da moja nesreća ne bi zavisila od drugoga.
 
