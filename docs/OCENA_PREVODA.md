@@ -2,7 +2,7 @@
 
 ## Sažetak
 
-Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofskih izreka. Dva autora imaju ocenu 5, a pedeset tri autora 4. Ocena je pokazatelj kvaliteta pregledanog uzorka, ne potpuna filološka potvrda svakog unosa u fajlu.
+Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofskih izreka. Dva autora imaju ocenu 5; izvedene ocene sada su tačni aritmetički proseci pojedinačnih merila. Ocena je pokazatelj kvaliteta pregledanog uzorka, ne potpuna filološka potvrda svakog unosa u fajlu.
 
 ## Obim i pouzdanost
 
@@ -16,7 +16,16 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | Anaximander.json | 5/28 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
 | Zeno of Elea.json | 5/15 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
-| Anacharsis.json | 5/12 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Chrysippus.json | 5/46 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
+| Melissus of Samos.json | 4/4 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
+| Chilon of Sparta.json | 5/24 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
+| Thales of Miletus.json | 5/33 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
+| Gaius Musonius Rufus.json | 3/3 | 4 | 5 | 4 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
+| Anacharsis.json | 5/12 | 4 | 5 | 4 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
+| Pittacus of Mytilene.json | 5/14 | 4 | 4 | 5 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
+| Bias of Priene.json | 5/18 | 4 | 4 | 5 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
+| Cleobulus.json | 5/24 | 4 | 4 | 5 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
+| Diogenes.json | 10/102 | 4 | 5 | 4 | 4.3 | 4 | 4 | 4 | 4 | **4.2** |
 | Anaxagoras.json | 5/45 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Anaximenes of Miletus.json | 5/24 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Antipater of Tarsus.json | 5/17 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
@@ -24,36 +33,26 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Aristo of Chios.json | 5/21 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Aristippus.json | 5/48 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Aristotle.json | 5/26 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Bias of Priene.json | 5/18 | 4 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Chilon of Sparta.json | 5/24 | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 4 | **4** |
 | Cicero.json | 5/6 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Chrysippus.json | 5/46 | 4 | 4 | 3 | 4 | 4 | 4 | 3 | 4 | **4** |
-| Cleanthes.json | 5/36 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 4 | **4** |
-| Cleobulus.json | 5/24 | 4 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Cleobulina.json | 4/4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Crates of Thebes.json | 5/9 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Democritus.json | 12/231 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Diogenes.json | 10/102 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Empedocles.json | 10/107 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Epictetus.json | 10/65 | 4 | 4 | 3 | 4 | 4 | 4 | 3 | 4 | **4** |
-| Epicurus.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 4 | **4** |
 | Epimenides.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Epictetus.json | 10/65 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Euclid of Megara.json | 4/4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Eudoxus of Cnidus.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Gaius Musonius Rufus.json | 3/3 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Heraclitus.json | 10/132 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Hipparchia of Maroneia.json | 1/1 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Leucippus.json | 5/8 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Marcus Aurelius.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Melissus of Samos.json | 4/4 | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 4 | **4** |
 | Menedemus.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Metrocles.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Parmenides.json | 5/33 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Pherecydes of Syros.json | 1/1 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Philolaus.json | 3/3 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Pittacus of Mytilene.json | 5/14 | 4 | 4 | 5 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Plato.json | 5/37 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Plotinus.json | 5/15 | 4 | 4 | 3 | 4 | 4 | 4 | 3 | 4 | **4** |
+| Plotinus.json | 5/15 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Prodicus.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Protagoras.json | 5/42 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Pyrrho.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
@@ -62,13 +61,14 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Socrates.json | 5/36 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Solon.json | 5/17 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Sphaerus.json | 1/1 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Thales of Miletus.json | 5/33 | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 4 | **4** |
 | Theophrastus.json | 4/4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Timon of Phlius.json | 1/1 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Xenocrates.json | 2/2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Xenophanes.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Xenophon.json | 3/3 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Zeno of Citium.json | 10/56 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Epicurus.json | 5/10 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3.7 | **3.8** |
+| Cleanthes.json | 5/36 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3.7 | **3.8** |
 
 ## Ocena celih dela
 
@@ -88,6 +88,7 @@ Pregledan je stratifikovan uzorak od 144 kanonska odlomka, raspoređen kroz poč
 | Klitofont | 5/21 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Kriton | 10/59 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Lisid | 10/99 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
+| Metafizika | 10/128 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Parmenid | 10/195 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Pismo Herodotu | 5/49 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Pismo Menoikeju | 5/14 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
@@ -96,7 +97,6 @@ Pregledan je stratifikovan uzorak od 144 kanonska odlomka, raspoređen kroz poč
 | Protagora | 14/265 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Razgovori | 10/95 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Samom sebi | 25/486 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Metafizika | 10/128 sidara | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 
 ## Strukturni problemi celih dela
 
