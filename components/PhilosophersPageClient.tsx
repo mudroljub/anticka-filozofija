@@ -6,6 +6,7 @@ import Header from './Header';
 import { authorsData, authorSlugs } from '../utils/catalog';
 import { authorGroups } from '../utils/authorGroups';
 import { useTranslations } from '../utils/useTranslations';
+import { withBasePath } from '../utils/helpers';
 import type { Language } from '../types/data';
 import styles from './PhilosophersPageClient.module.scss';
 
@@ -54,7 +55,7 @@ export default function PhilosophersPageClient({ language }: PhilosophersPageCli
                                   className={styles.authorCard}
                                 >
                                   {metadata.src ? (
-                                    <img src={metadata.src} alt={displayName} />
+                                    <img src={withBasePath(metadata.src)} alt={displayName} />
                                   ) : (
                                     <div className={styles.placeholder}>
                                       {displayName.charAt(0)}
@@ -85,7 +86,7 @@ export default function PhilosophersPageClient({ language }: PhilosophersPageCli
                           className={styles.authorCard}
                         >
                           {metadata.src ? (
-                            <img src={metadata.src} alt={displayName} />
+                            <img src={withBasePath(metadata.src)} alt={displayName} />
                           ) : (
                             <div className={styles.placeholder}>
                               {displayName.charAt(0)}
