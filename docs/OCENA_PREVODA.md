@@ -17,6 +17,12 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Zeno of Elea.json | 5/15 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
 | Anaximander.json | 5/28 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
 | Chrysippus.json | 5/46 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **5** |
+| Cleanthes.json | 5/36 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
+| Socrates.json | 5/36 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
+| Aristippus.json | 5/48 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
+| Empedocles.json | 10/107 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
+| Heraclitus.json | 10/132 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
+| Democritus.json | 12/231 | 5 | 4 | 4 | 4.3 | 5 | 4 | 4 | 4.3 | **4.3** |
 | Melissus of Samos.json | 4/4 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
 | Chilon of Sparta.json | 5/24 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
 | Thales of Miletus.json | 5/33 | 4 | 4 | 5 | 4.3 | 4 | 4 | 5 | 4.3 | **4.3** |
@@ -57,16 +63,10 @@ Ocena je obnovljena po autorima, na zasebnim, stratifikovanim uzorcima filozofsk
 | Antisthenes.json | 10/65 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Epictetus.json | 10/65 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Parmenides.json | 5/33 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Cleanthes.json | 5/36 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Socrates.json | 5/36 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Plato.json | 5/37 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Protagoras.json | 5/42 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Anaxagoras.json | 5/45 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 | Pythagoras.json | 10/91 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Aristippus.json | 5/48 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Empedocles.json | 10/107 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Heraclitus.json | 10/132 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
-| Democritus.json | 12/231 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | **4** |
 
 ## Ocena celih dela
 

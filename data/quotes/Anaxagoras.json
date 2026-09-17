@@ -303,8 +303,8 @@
   {
     "id": "mm-000048",
     "type": "anecdote",
-    "sr": "Pošto je učenju dao um kao počelo koje uređuje tvar, Anaksagora je i sam dobio nadimak Um.",
-    "stsl": "Понеже въ ѹчєнии ѹмъ начѧломъ · вештество ѹстроѧѭштимъ · положи · и самъ Анаксагора прозваніє Умъ приѧтъ ·",
+    "sr": "Slušao je Anaksimena i prvi tvari pridružio um. Spis je počeo rečima: Sve stvari behu zajedno; potom dođe um i uredi ih. Otuda je i sam dobio nadimak Um.",
+    "stsl": "Анаксимена слѹша · и пръвъ къ твари ѹмъ приложи · Писаніє же тако начѧ · Вьсѧ вешти въкѹпѣ бѣахѫ · потомь ѹмъ пріиде и ѹстрои ѩ · Сего ради и самъ Ѹмъ нареченъ бѣ ·",
     "originalText": "Οὗτος ἤκουσεν Ἀναξιμένους, καὶ πρῶτος τῇ ὕλῃ νοῦν ἐπέστησεν, ἀρξάμενος οὕτω τοῦ συγγράμματος, ὅ ἐστιν ἡδέως καὶ μεγαλοφρόνως ἡρμηνευμένον· « Πάντα χρήματα ἦν ὁμοῦ· » εἶτα νοῦς ἐλθὼν αὐτὰ διεκόσμησε. Παρὸ καὶ Νοῦς ἐπεκλήθη.",
     "author": "Anaxagoras",
     "year": -471,
@@ -347,8 +347,8 @@
   {
     "id": "mm-000051",
     "type": "anecdote",
-    "sr": "Anaksagora je izveden pred sud zbog bezbožnosti jer je Sunce nazivao usijanom metalnom masom; prema nekim izvorima optužen je i za naklonost Persiji. Perikle ga je branio. Predanja se razilaze: po jednima je kažnjen i prognan, po drugima osuđen na smrt pa oslobođen, a prema Hermipu nakon oslobađanja nije podneo poniženje i oduzeo je sebi život.",
-    "stsl": "Анаксагора предъ сѫдъ изведенъ бысть ради безбожиꙗ · зане слъньце разжьженою мѣдѣною глыбою нарицаше · по нѣкотъорымъ же и ради приꙗзни къ Персомъ обвиненъ бысть · Периклесъ защищааше єго · Прѣданиꙗ разногласа сѫть · по єдинѣхъ осѫжденъ и изгнанъ бысть · по дрѹзѣхъ на смрьть осѫжденъ · таже отъпѹштенъ · по Хермиппѹ же по отъпѹштении срама не прѣтръпѣ и самъ животъ свои сконча ·",
+    "sr": "Anaksagora je izveden pred sud zbog bezbožnosti jer je Sunce nazivao usijanom masom gvožđa; prema nekima bio je optužen i za naklonost Persiji. Perikle ga je branio. Predanja se razilaze: po jednima je kažnjen s pet talenata i prognan, po drugima u odsustvu osuđen na smrt, a po Hermipu zatvoren da umre. Perikle je izdejstvovao oslobođenje, no Anaksagora, ne podnevši uvredu, sam sebi oduze život.",
+    "stsl": "Анаксагора предъ сѫдъ изведенъ бѣ ради безбожиꙗ · зане слъньце разжьженою желѣзною глыбою нарицаше · по нѣциимъ же и ради приѩзни къ Персомъ обвиненъ бѣ · Периклесъ єго защища · Прѣданиꙗ разногласа сѫть · по єдинѣмъ пѧтьми талантꙑ осѫжденъ и изгнанъ бѣ · по дрѹгимъ въ отсѫствіи на смрьть осѫжденъ · по Хермиппѹ же въ темници на смрьть ꙁаклѭченъ · Периклесъ єго отъпѹштениє испроси · онъ же обидꙑ не прѣтръпѣвъ самъ себѣ животъ отъѩ ·",
     "author": "Anaxagoras",
     "year": -433,
     "originalText": "Περὶ δὲ τῆς δίκης αὐτοῦ διάφορα λέγεται. Σωτίων μὲν γάρ φησίν ἐν τῇ Διαδοχῇ τῶν φιλοσόφων ὑπὸ Κλέωνος αὐτὸν ἀσεβείας κριθῆναι, διότι τὸν ἥλιον μύδρον ἔλεγε διάπυρον· ἀπολογησαμένου δὲ ὑπὲρ αὐτοῦ Περικλέους τοῦ μαθητοῦ, πέντε ταλάντοις ζημιωθῆναι καὶ φυγαδευθῆναι. Σάτυρος δ' ἐν τοῖς Βίοις ὑπὸ Θουκυδίδου φησὶν εἰσαχθῆναι τὴν δίκην, ἀντιπολιτευομένου τῷ Περικλεῖ· καὶ οὐ μόνον ἀσεβείας ἀλλὰ καὶ μηδισμοῦ· καὶ ἀπόντα καταδικασθῆναι θανάτῳ. Ἕρμιππος δ' ἐν τοῖς Βίοις φησὶν ὅτι καθείρχθη ἐν τῷ δεσμωτηρίῳ τεθνηξόμενος. Περικλῆς δὲ παρελθὼν εἶπεν εἴ τι ἔχουσιν ἐγκαλεῖν αὑτῷ κατὰ τὸν βίον· οὐδὲν δὲ εἰπόντων, « Καὶ μὴν ἐγώ, » ἔφη, « τούτου μαθητής εἰμι· μὴ οὖν διαβολαῖς ἐπαρθέντες ἀποκτείνητε τὸν ἄνθρωπον, ἀλλ' ἐμοὶ πεισθέντες ἄφετε. » Καὶ ἀφείθη· οὐκ ἐνεγκὼν δὲ τὴν ὕβριν ἑαυτὸν ἐξήγαγεν.",

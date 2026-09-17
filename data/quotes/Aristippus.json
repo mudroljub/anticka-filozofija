@@ -17,7 +17,7 @@
   {
     "id": "mm-000251",
     "type": "quote",
-    "sr": "Uživao je u nasladama koje su mu bile pri ruci, a nije se mučio loveći uživanje onoga što nije bilo pri ruci.",
+    "sr": "Uživao je u nasladama koje su mu bile pri ruci, a nije se mučio jureći za uživanjem onoga što nije bilo pri ruci.",
     "stsl": "Сластии настоѩштихъ наслаждааше сѧ · не трѹждааше же сѧ ловѧ сласть ненастоѩштихъ ·",
     "originalText": "Ἀπέλαυε μὲν γὰρ ἡδονῆς τῶν παρόντων, οὐκ ἐθήρα δὲ πόνῳ τὴν ἀπόλαυσιν τῶν οὐ παρόντων.",
     "author": "Aristippus",
@@ -59,8 +59,8 @@
   {
     "id": "mm-000254",
     "type": "reported",
-    "sr": "Kada Diogen, perući povrće, vide Aristipa kako prolazi, podsmehnu mu se: Da si naučio da živiš od ovoga, ne bi se dodvoravao kraljevima. Aristip mu odgovori: A da ti umeš da opštiš s ljudima, ne bi prao povrće.",
-    "stsl": "Єгда Диогенъ · зелиѥ мыѩ · Аристипа мимо идѫшта видѣ · порѫга сѧ емѹ · Аште бы симь питати сѧ наѹчилъ · не ѹгаждалъ бы царемъ · Аристипъ же отъвѣшта · Аште бы ты съ чловѣкы обьштити сѧ ѹмѣлъ · не мылъ бы зелиꙗ ·",
+    "sr": "Kada Diogen, perući povrće, vide Aristipa kako prolazi, podsmehnu mu se: Da si naučio da spremaš ovo povrće, ne bi služio kraljevima. Aristip mu odgovori: A da ti umeš da opštiš s ljudima, ne bi prao povrće.",
+    "stsl": "Єгда Диогенъ · зелиѥ мыѩ · Аристипа мимо идѫшта видѣ · порѫга сѧ емѹ · Аште бы си зелиѥ приготовити наѹчилъ · не ѹгаждалъ бы царемъ · Аристипъ же отъвѣшта · Аште бы ты съ чловѣкы обьштити сѧ ѹмѣлъ · не мылъ бы зелиꙗ ·",
     "originalText": "Διογένης λάχανα πλύνων, θεασάμενος αὐτὸν παριόντα, ἐπισκώπτων ἔφη, «εἰ ταῦτα ἔμαθες προσφέρεσθαι, οὐκ ἂν βασιλεῦσιν ἐθεράπευες.» καὶ ὅς, «καὶ σύ,» ἔφη, «εἴπερ ᾔδεις ἀνθρώποις ὁμιλεῖν, οὐκ ἂν λάχανα ἔπλυνες.»",
     "author": "Aristippus",
     "sources": [
@@ -157,8 +157,8 @@
   {
     "id": "mm-000261",
     "type": "reported",
-    "sr": "Kada mu prebaciše što posećuje Laisu, Aristip odgovori: Nije opasno ući u njenu kuću, nego ne moći iz nje izaći.",
-    "stsl": "Єгда емѹ ѹкоришѧ · ꙗко къ Лаисѣ приходить · Аристипъ отъвѣшта · Не опасно єсть въ домъ єѩ вънити · нъ не мошти изъ него изыти ·",
+    "sr": "Kada mu prebaciše što posećuje Laisu, Aristip odgovori: Nije teško ući u njenu kuću, nego ne moći iz nje izaći.",
+    "stsl": "Єгда емѹ ѹкоришѧ · ꙗко къ Лаисѣ приходить · Аристипъ отъвѣшта · Не тежько єсть въ домъ єѩ вънити · нъ не мошти изъ него изыти ·",
     "originalText": "Λαΐδι δὲ τῇ ἑταίρᾳ συνῆν· πρὸς οὖν τοὺς μεμφομένους, «οὐ τὸ εἰσελθεῖν,» ἔφη, «χαλεπόν, ἀλλὰ τὸ μὴ δύνασθαι ἐξελθεῖν.»",
     "author": "Aristippus",
     "sources": [
@@ -536,8 +536,8 @@
   {
     "id": "mm-000288",
     "type": "bio",
-    "sr": "Aristip je govorio da ljudi pri kupovini proveravaju da li posuđe dobro zvoni, a život prosuđuju bez ikakvog merila.",
-    "stsl": "Аристипъ глаголаше ꙗко чловѣци при кѹповании искѹшаѭть · добро ли съсѫди звѧчѧть · жизнь же безъ мѣрила сѫдѧть ·",
+    "sr": "Prebacivao je ljudima što pri kupovini ispituju posude kucanjem, a živote ocenjuju nasumice.",
+    "stsl": "Чловѣкы же укорѧше · ꙗко съсѫды при кѹплѣ ѹдарѧѭть · жизни же на ѹдачѹ испытуѭть ·",
     "originalText": "Κατεγίνωσκε τῶν ἀνθρώπων ὡς τὰ σκεύη μὲν ἐν ταῖς ἀγορασίαις κομπούντων, τοὺς δὲ βίους εἰκῆ δοκιμαζόντων.",
     "author": "Aristippus",
     "sources": [
@@ -620,8 +620,8 @@
   {
     "id": "mm-000294",
     "type": "reported",
-    "sr": "Kada mu hetera reče: Od tebe sam trudna, Aristip odgovori: To ne možeš znati ništa više nego kad bi, prošavši kroz šipražje, tvrdila da znaš koji te je trn ubo.",
-    "stsl": "Єгда блѹдьница емѹ рече · Отъ тебе непраздна єсмь · Аристипъ отъвѣшта · Не можеши сего вѣдѣти паче · нежели чрѣзъ трьниѥ прошедъши рекла бы · кыи трънъ тѧ ѹбоде ·",
+    "sr": "Kada mu hetera reče: Od tebe sam trudna, Aristip odgovori: To ne možeš znati ništa više nego kad bi, prošavši kroz trščak, tvrdila da znaš koja te je trska ubola.",
+    "stsl": "Єгда блѹдьница емѹ рече · Отъ тебе непраздна єсмь · Аристипъ отъвѣшта · Не можеши сего вѣдѣти паче · нежели чрѣзъ тръстиє прошедъши рекла бы · коє тръстиє тѧ ѹбоде ·",
     "originalText": "Ἑταίρας εἰπούσης πρὸς αὐτόν, «Ἐκ σοῦ κυῶ,» «Οὐ μᾶλλον,» ἔφη, «γινώσκεις ἢ εἰ δι' ὁλοσχοίνων ἰοῦσα ἔφασκες ὑπὸ τοῦδε κεκεντῆσθαι.»",
     "author": "Aristippus",
     "sources": [
@@ -634,8 +634,8 @@
   {
     "id": "mm-000295",
     "type": "reported",
-    "sr": "Kada mu neko prebaci što odbacuje sina kao da nije njegov, Aristip odgovori: I za slinu i vaške znamo da nastaju od nas, pa ih ipak, jer su beskorisne, odbacujemo što dalje.",
-    "stsl": "Єгда нѣкто емѹ ѹкори · ꙗко сына отъмѣтаєть · акы не отъ него рожденъ · Аристипъ отъвѣшта · И скврънѹ и въши вѣмы отъ насъ раждаѭшта сѧ · обаче ꙗко неполезны · што далѣ отъмѣтаємъ ·",
+    "sr": "Kada mu neko prebaci što odbacuje sina kao da nije njegov, Aristip odgovori: I za sluz i vaške znamo da nastaju od nas, pa ih ipak, jer su beskorisne, odbacujemo što dalje.",
+    "stsl": "Єгда нѣкто емѹ ѹкори · ꙗко сына отъмѣтаєть · акы не отъ него рожденъ · Аристипъ отъвѣшта · И слинѫ и въши вѣмы отъ насъ раждаѭшта сѧ · обаче ꙗко неполезны · што далѣ отъмѣтаємъ ·",
     "originalText": "ᾘτιάσατό τις αὐτὸν τὸν υἱὸν ἀπορριπτοῦντα ὥσπερ οὐκ ἐξ ἑαυτοῦ γεγονότα· καὶ ὅς, «Καὶ τὸ φλέγμα,» φησί, «καὶ τοὺς φθεῖρας ἐξ ἡμῶν ἴσμεν γεννωμένους, ἀλλ' ἀχρεῖα ὄντα ὡς πορρωτάτω ῥιπτοῦμεν.»",
     "author": "Aristippus",
     "sources": [
@@ -662,8 +662,8 @@
   {
     "id": "mm-000297",
     "type": "reported",
-    "sr": "Upitan zašto ga Dionisije ispituje, Aristip odgovori: Iz istog razloga iz kojeg ispituju i drugi.",
-    "stsl": "Въпрошенъ почьто єго Дионисии испытаєть · Аристипъ отъвѣшта · Тоѩ ради вины · єѩже ради и прочии испытаѭть ·",
+    "sr": "Upitan zašto ga Dionisije prekoreva, Aristip odgovori: Iz istog razloga iz kojeg prekorevaju i drugi.",
+    "stsl": "Въпрошенъ почьто єго Дионисии укорѧєть · Аристипъ отъвѣшта · Тоѩ ради вины · єѩже ради и прочии укорѧѭть ·",
     "originalText": "Πρὸς τὸν εἰπόντα τίνος ἕνεκα ἐλέγχεται παρὰ Διονυσίου, «Οὗ ἕνεκα,» φησίν, «οἱ ἄλλοι ἐλέγχουσιν.»",
     "author": "Aristippus",
     "sources": [
@@ -704,8 +704,8 @@
   {
     "id": "mm-000300",
     "type": "mention",
-    "sr": "Aristip je govorio da je Sokrat gajio najnežniju ljubav prema Alkibijadu.",
-    "stsl": "Аристипъ глаголаше · ꙗко Сократъ наинѣжьнѣишꙫ любовь къ Алкивиадѹ имѣаше ·",
+    "sr": "Aristip je govorio da se Sokrat zaljubio u Alkibijada.",
+    "stsl": "Аристипъ глаголаше · ꙗко Сократъ Алкивиада възлюби ·",
     "originalText": "οὗ καὶ ἐρασθῆναί φησίν αὐτὸν Ἀρίστιππος ἐν τετάρτῳ Περὶ παλαιᾶς τρυφῆς.",
     "author": [
       "Aristippus",
@@ -752,8 +752,8 @@
   {
     "id": "mm-000304",
     "type": "mention",
-    "sr": "Aristip je govorio da je Pausanija bio Empedoklov prisni prijatelj.",
-    "stsl": "Аристипъ глаголаше · ꙗко Павсании Ємпедокловъ ближьнии дрѹгъ бѣ ·",
+    "sr": "Aristip je govorio da je Pausanija bio Empedoklov ljubljeni.",
+    "stsl": "Аристипъ глаголаше · ꙗко Павсании Емпедокловъ любьимъ бѣ ·",
     "originalText": "ἦν δ' ὁ Παυσανίας, ὥς φησιν Ἀρίστιππος καὶ Σάτυρος, ἐρώμενος αὐτοῦ.",
     "author": [
       "Aristippus",
@@ -769,8 +769,8 @@
   {
     "id": "mm-000305",
     "type": "bio",
-    "sr": "Aristip je umeo da se prilagodi mestu, vremenu i čoveku i da u svakoj prilici odigra odgovarajuću ulogu. Zato je kod Dionisija bio omiljeniji od drugih: svaku okolnost umeo je da okrene u svoju korist.",
-    "stsl": "Аристипъ ѹмѣаше къ мѣстѹ · врѣмени и чловѣкѹ приложити сѧ и въ вьсѧкои пригодѣ подобьнꙫ роль сътворити · Сего ради Дионисии єго паче прочиихъ люблѧаше · вьсѧкѹю пригодꙫ въ свою пользꙫ обратити ѹмѣаше ·",
+    "sr": "Aristip je umeo da se prilagodi mestu, vremenu i čoveku i da u svakoj prilici odigra odgovarajuću ulogu. Zato je kod Dionisija bio cenjeniji od drugih, jer je umeo dobro urediti sve što bi ga zadesilo.",
+    "stsl": "Аристипъ ѹмѣаше къ мѣстѹ · врѣмени и чловѣкѹ приложити сѧ и въ вьсѧкои пригодѣ подобьнꙫ роль сътворити · Сего ради Дионисии єго паче прочиихъ люблѧаше · вьсако прилѫчившеє сѧ добро строити ѹмѣаше ·",
     "originalText": "Ἦν δὲ ἱκανὸς ἁρμόσασθαι καὶ τόπῳ καὶ χρόνῳ καὶ προσώπῳ, καὶ πᾶσαν περίστασιν ἁρμοδίως ὑποκρίνασθαι· διὸ καὶ παρὰ Διονυσίῳ τῶν ἄλλων εὐδοκίμει μᾶλλον, ἀεὶ τὸ προσπεσὸν εὖ διατιθέμενος.",
     "author": "Aristippus",
     "year": -390,
@@ -784,8 +784,8 @@
   {
     "id": "mm-000306",
     "type": "anecdote",
-    "sr": "Aristip je sumnjao da su Eshinovi dijalozi izvorni. Kada je Eshin jedan od njih čitao u Megari, Aristip ga je zadirkivao pitanjem odakle mu taj tekst, nazivajući ga lopovom. Ipak, kada je siromašni Eshin stigao na Dionisijev dvor, Aristip ga je podržao i predstavio vladaru.",
-    "stsl": "Аристипъ съмнѣвааше сѧ · истиньни ли сѫть Есхиновы бесѣды · Єгда Есхинъ єдинꙫ отъ нихъ въ Мегарѣ чтааше · Аристипъ єго посмѣваше · вопрошѧ отъкѫдѹ ємѹ тъ списъ и разбоиникомъ єго нарицаѧ · Обаче · єгда ништии Есхинъ на Дионисиєвъ дворъ приде · Аристипъ єго подьржа и властителю прѣдъстави ·",
+    "sr": "Kada je Eshin u Megari čitao jedan od dijaloga, Aristip je prepoznao da je Sokratov — Eshin ga je imao od Ksantipe, Sokratove žene — pa ga je upitao: „Otkud ti to, lopove?“",
+    "stsl": "Єгда Есхинъ въ Мегарѣ єдинѫ бесѣдѫ чтааше · Аристипъ ѭ позна · ꙗко Сократова бѣ · юже Есхинъ отъ Ксантиппꙑ · жены Сократовы · имѣ · и въпроси · Отъкѫдѹ тебѣ си · разбойниче ·",
     "originalText": "Αἰσχίνου τινὸς τῶν διαλόγων ἀναγινώσκοντος ἐν Μεγάροις καὶ γνωρίσας ὡς Σωκράτους ὄντα τὸν διάλογον, ὃν παρὰ Ξανθίππης Σωκράτους γυναικὸς εἶχεν, ἤρετο πόθεν λῃστὰ σοὶ ταῦτα;",
     "author": "Aristippus",
     "year": -395,
@@ -831,7 +831,7 @@
   {
     "id": "mm-000308",
     "type": "anecdote",
-    "sr": "Kada mu je Dionisije ponudio da izabere jednu od tri bludnice, Aristip je poveo sve tri, podsetivši da Paris nije dobro prošao kada je izabrao jednu. Ipak ih je otpustio čim je stigao do predvorja, pokazujući da ume i da izabere i da prezre.",
+    "sr": "Kada mu je Dionisije naredio da izabere jednu od tri bludnice, Aristip je poveo sve tri, podsetivši da Paris nije dobro prošao kada je izabrao jednu. Ipak ih je otpustio čim je stigao do predvorja, pokazujući da ume i da izabere i da prezre.",
     "stsl": "Єгда Дионисии ємѹ єдинꙫ отъ трии блѹдьницъ избрати повелѣ · Аристипъ вьсѧ три поведе · помѧнѹвъ · ꙗко Парисъ не добро обрѣте · єгда єдинꙫ избра · Обаче ѩ при прѣдъдверии отъпѹсти · показавъ · ꙗко ѹмѣєть и избрати и прѣзрѣти ·",
     "originalText": "Διονυσίου δέ ποτε τριῶν ἑταιρῶν οὐσῶν μίαν ἐκλέξασθαι κελεύσαντος, τὰς τρεῖς ἀπήγαγεν εἰπών, « Οὐδὲ τῷ Πάριδι συνήνεγκε μίαν προκρῖναι· » ἀπαγαγὼν μέντοι, φασίν, αὐτὰς ἄχρι τοῦ θυρῶνος ἀπέλυσεν. Οὕτως ἦν καὶ ἑλέσθαι καὶ καταφρονῆσαι πολύς.",
     "author": "Aristippus",
@@ -846,8 +846,8 @@
   {
     "id": "mm-000309",
     "type": "bio",
-    "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak. Ona je postala njegova učenica i kasnije podučavala svoga sina, Aristipa Mlađeg.",
-    "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть · Она ѹченица єго бысть и потъомь сына своєго · Аристипа Младшаго · поѹчааше ·",
+    "sr": "Aristip je svojoj kćeri Areti davao najbolje savete i vežbao je da prezire suvišak.",
+    "stsl": "Аристипъ дъштери своєи Аретѣ наилѹчьши съвѣты давааше и ѭ ѹпражнѧаше · да излишекъ прѣзираєть ·",
     "originalText": "Τὰ ἄριστα ὑπετίθετο τῇ θυγατρὶ Ἀρήτῃ, συνασκῶν αὐτὴν ὑπεροπτικὴν τοῦ πλείονος εἶναι.",
     "author": "Aristippus",
     "year": -380,
@@ -876,8 +876,8 @@
   {
     "id": "mm-000311",
     "type": "anecdote",
-    "sr": "Kada je na plovidbi otkrio da brodom upravljaju gusari, Aristip je izvadio novac, počeo da ga broji i zatim ga, kao slučajno, ispustio u more. Prema jednoj verziji rekao je da je bolje da novac propadne zbog Aristipa nego Aristip zbog novca.",
-    "stsl": "Єгда на плавании ѹвѣдѣ · ꙗко кораблємъ разбоиници правѧть · Аристипъ сребро изнесе · чести нача и потъомь є ꙗко неволею въ море низложи · По єдиномѹ сказанию рече · ꙗко лѹчьше сребрѹ Аристипа ради погыбнѫти · нежели Аристипѹ сребра ради ·",
+    "sr": "Kada je na plovidbi otkrio da brodom upravljaju gusari, Aristip je izvadio zlato, počeo da ga broji i zatim ga, kao slučajno, ispustio u more. Prema jednoj verziji rekao je da je bolje da zlato propadne zbog Aristipa nego Aristip zbog zlata.",
+    "stsl": "Єгда на плавании ѹвѣдѣ · ꙗко кораблємъ разбоиници правѧть · Аристипъ злато изнесе · чести нача и потъомь є ꙗко неволею въ море низложи · По єдиномѹ сказанию рече · ꙗко лѹчьше златѹ Аристипа ради погыбнѫти · нежели Аристипѹ злата ради ·",
     "originalText": "Πλέων ποτὲ ἐπεὶ τὸ σκάφος ἔγνω πειρατικόν, λαβὼν τὸ χρυσίον ἠρίθμει· ἔπειτα εἰς θάλατταν ὡς μὴ θέλων παρακατέβαλε καὶ δῆθεν ἀνῴμωξεν. Οἱ δὲ καὶ ἐπειπεῖν φασιν αὐτὸν ὡς ἄμεινον ταῦτα δι' Ἀρίστιππον ἢ διὰ ταῦτα Ἀρίστιππον ἀπολέσθαι.",
     "author": "Aristippus",
     "year": -372,
@@ -891,8 +891,8 @@
   {
     "id": "mm-000312",
     "type": "anecdote",
-    "sr": "Prema drugom predanju, Aristip je Dionisiju odgovorio: „Kada mi je bila potrebna mudrost, otišao sam Sokratu; sada mi je potreban novac, pa dolazim tebi.”",
-    "stsl": "По дрѹгомѹ прѣданию Аристипъ Дионисию отъвѣща · Єгда ми мѫдрость трѣбоваше сѧ · къ Сократѹ идохъ · нынѣ ми сребро трѣбѹєть сѧ · тѣмь къ тебѣ прихождꙫ ·",
+    "sr": "Kada mi je bila potrebna mudrost, otišao sam Sokratu; sada mi je potreban novac, pa dolazim tebi.",
+    "stsl": "Єгда ми мѫдрость трѣбоваше сѧ · къ Сократѹ идохъ · нынѣ ми сребро трѣбѹєть сѧ · тѣмь къ тебѣ прихождꙫ ·",
     "originalText": "Ὁπότε μὲν σοφίας ἐδεόμην, ἧκον παρὰ Σωκράτην· νῦν δὲ χρημάτων δεόμενος παρὰ σὲ ἥκω.",
     "author": "Aristippus",
     "year": -370,
@@ -921,7 +921,7 @@
   {
     "id": "mm-000314",
     "type": "anecdote",
-    "sr": "Artafern je u Aziji zarobio Aristipa. Kada su ga pitali može li i tada biti vedar, odgovorio je da nema boljeg časa za vedrinu od onoga u kojem će razgovarati sa Artafernom.",
+    "sr": "Artafern je u Aziji zarobio Aristipa. Kada ga neko upita: „Zar si i ovde hrabar?“, on odgovori: „Kada bih, budalo, mogao biti hrabriji nego sada, kad ću razgovarati s Artafernom?“",
     "stsl": "Артафернъ въ Асии Аристипа плѣни · Єгда єго вопросиша · можеть ли и тогда бодръ быти · Отъвѣща · ꙗко нѣсть лѹчьша часа за бодрость отъ того · въ немьже съ Артаферномъ бесѣдовати имать ·",
     "originalText": "Διατρίβων ἐν Ἀσίᾳ καὶ ληφθεὶς ὑπὸ Ἀρταφέρνου τοῦ σατράπου πρὸς τὸν εἰπόντα, « Καὶ ὧδε θαρρεῖς; », « Πότε γάρ, » εἶπεν, « ὦ μάταιε, θαρρήσαιμι ἂν μᾶλλον ἢ νῦν, ὅτε μέλλω Ἀρταφέρνῃ διαλέξεσθαι; »",
     "author": "Aristippus",
@@ -936,8 +936,8 @@
   {
     "id": "mm-000315",
     "type": "anecdote",
-    "sr": "Posle svađe sa Eshinom, Aristip je prvi predložio pomirenje, iako je bio stariji. Eshin je priznao da je Aristip bolji od njega: on sam započeo je neprijateljstvo, a Aristip prijateljstvo.",
-    "stsl": "По прѣни съ Есхиномъ Аристипъ пьрвыи примиреніє прѣдложи · аште и старѣи бѣ · Есхинъ исповѣда · ꙗко Аристипъ лѹчьши єго єсть · самъ враждꙫ нача · Аристипъ же дрѹжьство ·",
+    "sr": "Kada posle svađe s Eshinom opet sretne protivnika, Aristip reče: Zar se nećemo pomiriti i prestati s budalaštinama? Čekaš li da nas neko izmiri uz vino? Pošto ovaj pristade, Aristip doda: Pamti da sam ti prvi prišao, premda sam stariji. Eshin reče: Pravo govoriš; bolji si od mene — ja sam započeo neprijateljstvo, a ti prijateljstvo.",
+    "stsl": "По прѣни съ Есхиномъ пакꙑ съ нимь срѣть сѧ · Аристипъ рече · Не примиримъ ли сѧ и не прѣстанемъ ли празднословити · или ждеши да ни при питию кто примири · Онъ же съгласи сѧ · Аристипъ рече · Помьни · ꙗко азъ · старѣи сꙑи · пьрвыи къ тебѣ приидохъ · Есхинъ же рече · Правѣ глаголєши · лѹчьши бо мене єси · азъ враждѫ начѧ · ты же дрѹжьство ·",
     "originalText": "Ἐπὶ Αἰσχίνην διαφορᾶς γενομένης πρός τινα ὕστερον συντυχών, « Οὐ διαλλαχθησόμεθα, » εἶπεν, « οὐ παυσόμεθα ληροῦντες; Ἢ περιμενεῖς ἕως ἡμᾶς καταλλάξῃ τις ἐπὶ τοῦ πότου; » Τοῦ δ' εἰπόντος, « Ἀλλά μοι δοκεῖς, » « Mνημόνευε τοίνυν, » ἔφη, « Ὅτι σοι πρότερος πρεσβύτης ὢν προσῆλθον. » Κἀκεῖνος, « Νὴ τοὺς θεούς, » εἶπε, « καλῶς λέγεις· καὶ γὰρ πολὺ ἐμοῦ κρείττων εἶ· ἐγὼ μὲν γὰρ τῆς ἔχθρας ἦρξα, σὺ δὲ τῆς φιλίας. »",
     "author": "Aristippus",
     "year": -360,

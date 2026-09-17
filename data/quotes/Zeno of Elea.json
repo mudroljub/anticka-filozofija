@@ -45,9 +45,9 @@
   {
     "id": "mm-002041",
     "type": "anecdote",
-    "sr": "Prema Antistenu, pošto je prokazao prijatelje, tiranin ga upita ima li još koga. Zenon odgovori: Ti, pošasti ovoga grada. Okupljenima reče: Čudim se vašem kukavičluku: ako zbog onoga što sada trpim robujete tiraninu. Na kraju odgrize jezik i ispljunu ga na njega; građani ga tada, podstaknuti, odmah kamenovaše.",
+    "sr": "Prema Antistenu, pošto je prokazao prijatelje, tiranin ga upita ima li još koga. Zenon odgovori: Ti, pošasti ovoga grada. Okupljenima reče: Čudim se vašem kukavičluku: zbog onoga što sada trpim robujete tiraninu. Na kraju odgrize jezik i ispljunu ga na tiranina; građani, podstaknuti, odmah kamenovaše tiranina.",
     "originalText": "Ἀντισθένης δὲ ἐν ταῖς Διαδοχαῖς φησι μετὰ τὸ μηνῦσαι τοὺς φίλους ἐρωτηθῆναι πρὸς τοῦ τυράννου εἴ τις ἄλλος εἴη· τὸν δ’ εἰπεῖν, ‘σὺ ὁ τῆς πόλεως ἀλιτήριος.’ πρός τε τοὺς παρεστῶτας φάναι· ‘θαυμάζω ὑμῶν τὴν δειλίαν, εἰ τούτων ἕνεκεν ὧν νῦν ἐγὼ ὑπομένω, δουλεύετε τῷ τυράννῳ·’ καὶ τέλος ἀποτραγόντα τὴν γλῶτταν προσπτύσαι αὐτῷ· τοὺς δὲ πολίτας παρορμηθέντας αὐτίκα τὸν τύραννον καταλεῦσαι.",
-    "stsl": "По Антисфенѹ · єгда дрѹгы обличи · мѫчитель въпроси єго · аще инъ кто єсть · Зенонъ рече · Тꙑ · пагѹба града сего · Предъстоѩштимъ же рече · Дивлѭ сѧ вашемѹ малодѹшию · аще сихъ ради · ꙗже азъ нꙑнѣ тьрплѭ · мѫчителю рабьствѹєте · Таже коньчьно свои ѩзꙑкъ отъгрꙑзе и на нь изплева · Граждане же подвигнѫвъше сѧ абиє мѫчителꙗ каменіємъ побишѧ ·",
+    "stsl": "По Антисфенѹ · єгда дрѹгы обличи · мѫчитель въпроси єго · аще инъ кто єсть · Зенонъ рече · Тꙑ · пагѹба града сего · Предъстоѩштимъ же рече · Дивлѭ сѧ вашемѹ малодѹшию · сихъ ради · ꙗже азъ нꙑнѣ тьрплѭ · мѫчителю рабьствѹєте · Таже свои ѩзꙑкъ отъгрꙑзе и на мѫчителѧ изплева · Граждане же подвигнѫвъше сѧ абиє мѫчителꙗ каменіємъ побишѧ ·",
     "author": "Zeno of Elea",
     "sources": [
       {
@@ -258,8 +258,8 @@
   {
     "id": "mm-002056",
     "type": "reported",
-    "sr": "Zenon pogrešno zaključuje da strela u letu miruje: u svakom sada zauzima prostor jednak sebi, a ono što zauzima prostor jednak sebi miruje.",
-    "stsl": "Зенонъ въ доводѣ погрѣшаєть · ꙗко летѧштаꙗ стрѣла покоить сѧ · въ вьсакомь нꙑнѣ мѣсто себѣ равно имать · єже же мѣсто себѣ равно имать · покоить сѧ ·",
+    "sr": "Zenon pogrešno zaključuje: sve uvek miruje dok je u prostoru jednakom sebi; a leteća strela u svakome sada jeste u takvom prostoru, te miruje.",
+    "stsl": "Зенонъ ложно доводить · вьсако бо покоить сѧ · єгда въ мѣстѣ равно себѣ єсть · летѧштаꙗ же стрѣла въ вьсакомь нꙑнѣ тако єсть · сего ради покоить сѧ ·",
     "originalText": "Ζήνων δὲ παραλογίζεται· εἰ γὰρ αἰεί, φησίν, ἠρεμεῖ πᾶν ὅταν ᾖ κατὰ τὸ ἴσον, ἔστιν δ᾽ αἰεὶ τὸ φερόμενον ἐν τῷ νῦν, ἀκίνητον τὴν φερομένην εἶναι ὀϊστόν. τρίτος δ᾽ ὁ νῦν ῥηθείς, ὅτι ἡ ὀϊστὸς φερομένη ἕστηκεν.",
     "author": "Zeno of Elea",
     "sources": [
@@ -272,8 +272,8 @@
   {
     "id": "mm-002058",
     "type": "quote",
-    "sr": "Ako je sve što jeste u mestu, jasno je da će i mestu biti mesto, i tako u beskraj.",
-    "stsl": "Аще бо вьсако сѫштеє въ мѣстѣ · ꙗвѣ ꙗко и мѣстѹ мѣсто бѫдеть · и се въ бескраи ·",
+    "sr": "Ako je sve što jeste u mestu, onda je i mesto u mestu, i tako u beskraj.",
+    "stsl": "Аще бо вьсако сѫщее въ мѣстѣ · и мѣсто въ мѣстѣ бѫдеть · и се въ бескраи ·",
     "originalText": "εἰ γὰρ πᾶν τὸ ὂν ἐν τόπῳ, δῆλον ὅτι καὶ τοῦ τόπου τόπος ἔσται, καὶ τοῦτο εἰς ἄπειρον.",
     "author": "Zeno of Elea",
     "sources": [
@@ -286,8 +286,8 @@
   {
     "id": "mm-002059",
     "type": "reported",
-    "sr": "Zenoovo rasuđivanje nije tačno: nije tačno da pri padu bilo koji deo prosa daje zvuk.",
-    "stsl": "Зеноновъ доводъ не истиньнъ · не вьсака бо чѧсть проса падаѭшти гласъ творить ·",
+    "sr": "Zato Zenonovo rasuđivanje nije istinito: da svaki deo prosa stvara zvuk.",
+    "stsl": "Сего ради Зеноновъ доводъ не истиньнъ · ꙗко вьсака чѧсть проса гласъ творить ·",
     "author": "Zeno of Elea",
     "sources": [
       {
@@ -318,8 +318,8 @@
   {
     "id": "mm-002062",
     "type": "mention",
-    "sr": "Diogen Zenonu pripisuje da je prvi izložio dokaz zvani Ahilej; Favorin ga pripisuje Parmenidu.",
-    "stsl": "Діогенъ Зенонѹ приписѹєть · ꙗко пръвъ доводъ Ахиллеи нарицаємꙑи изложи · Фаворинъ же Парменидѹ приписѹєть ·",
+    "sr": "Zenon je prvi izneo dokaz Ahileja; Favorin kaže da je to bio Parmenid.",
+    "stsl": "Зенонъ пръвъ доводъ Ахиллеи изложи · Фаворинъ же глаголєть · ꙗко Парменидъ бѣ ·",
     "author": "Zeno of Elea",
     "originalText": "Ζήνωνα πρῶτον τὸν Ἀχιλλέα λόγον ἠρώτησε· Φαβωρῖνος δέ φησι Παρμενίδην.",
     "sources": [
@@ -332,8 +332,8 @@
   {
     "id": "mm-002063",
     "type": "mention",
-    "sr": "Po jednom predanju, Zenon je prvi pisao dijaloge; Aristotel je, međutim, prvenstvo pripisivao Aleksamenu iz Stire ili Teosa.",
-    "stsl": "По єдиномѹ прѣданиѭ · Зенонъ пръвъ бесѣдꙑ писа · Аристотель же пръвьство Алексаменѹ отъ Стиры или Теоса приписа ·",
+    "sr": "Neki kažu da je Zenon prvi pisao dijaloge; Aristotel pak kaže da je to bio Aleksamen iz Stire ili Teosa.",
+    "stsl": "Нѣции глаголѭтъ · ꙗко Зенонъ пръвъ бесѣдꙑ писа · Аристотель же глаголєть · ꙗко Алексаменъ отъ Стиры или Теоса бѣ ·",
     "author": "Zeno of Elea",
     "originalText": "Διαλόγων πρῶτος γράψαι, ὡς ἔνιοί φασιν. Ἀριστοτέλης δέ φησιν Ἀλεξαμενὸν τὸν Στυρίτην ἢ Τήϊον.",
     "sources": [

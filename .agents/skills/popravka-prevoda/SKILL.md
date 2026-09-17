@@ -111,6 +111,16 @@ Ne menjaj već ispravnu reč samo zato što postoji lepši, kraći ili jednako d
 - teška dvosmislenost, nejasnoća ili nespretna sintaksa zbog koje razuman čitalac ne može pouzdano razumeti iskaz;
 - stvarna gramatička, grafijska ili sidrena greška koja menja čitanje ili upotrebljivost teksta.
 
+Pre nego što postojeći filozofski termin označiš kao pogrešan ili ga zameniš,
+proveri njegovu grčku porodicu i odgovarajući unos u `docs/RECNIK.md`.
+Rečnički prevod je uspostavljena projektna terminologija i ne menja se bez
+teškog, ozbiljno obrazloženog razloga iz konkretnog grčkog odlomka: stvarnog
+gubitka smisla, ključne pojmovne razlike, gramatike ili neotklonjive
+neprirodnosti. Opšte savremeno značenje, stilska nijansa, lična prednost ili
+jednako dobar sinonim nisu dovoljan razlog. Zato utvrđeno rešenje — na primer
+`γνώμη → познаніє → poznanje` — ne proglašavaj greškom niti zamenjuj bez
+takvog dokaza.
+
 Razlika u nijansi, redosledu reči, stepenu arhaičnosti ili ličnom stilskom ukusu nije dovoljan razlog za zamenu sinonima. Ako se nedostatak ne može kratko i konkretno objasniti uz grčki izvornik, ne menjaj tu reč i ne predlaži varijante.
 
 To ne sprečava pravo klesanje prevoda. Kada je smisao potpun, prvenstvo imaju lepota, sažetost i ritam: ukloni stvarni višak, raskini tešku grčku konstrukciju, sabij dve slabe reči u jednu snažnu i uredi udar rečenice — ali samo dok ne gubiš nijansu, terminološku vezu ili deo misli. Prednost daj oduzimanju i preuređenju postojećeg iskaza, ne zameni već valjane reči drugima.
@@ -212,6 +222,20 @@ Tek pošto je potpuna procedura za zadati obim završena, odmah ponovo oceni
 popravljeni korpus po postupku veštine `ocena-prevoda`. Uzorak meri ocenu, a
 ne obim izvršene redakture; ne ocenjuj ponovo ceo direktorijum zbog jednog
 fajla ili dela.
+
+**Nužan dokaz popravke:** prethodna ocena je početna mera, a nova ocena mora
+pokazati najmanje jedno strogo poboljšanje u nekom pojedinačnom kriterijumu:
+vernost, prirodnost ili sažetost, za srpski ili staroslovenski. Poredi pune,
+nezaokružene vrednosti ocene i isti reprezentativni obim kad god je to
+moguće. Sama izmena teksta, isti zbirni prosek, ili samo lepše obrazloženje
+nisu dokaz da je prevod popravljen.
+
+Ako nijedan kriterijum nije podignut, ne proglašavaj prevod popravljenim i ne
+zatvaraj zadati obim. Vrati se grčkom izvorniku i doradi stvarni preostali
+nedostatak, potom ponovi ocenu. Kada je svaki merljivi kriterijum već na
+najvišoj oceni, to jasno saopšti kao ograničenje: tekst se može proveriti ili
+preoblikovati, ali se ne sme nazvati popravljenim po ovoj proceduri bez
+merljivog podizanja barem jednog kriterijuma.
 
 - Za `data/quotes` ažuriraj samo autorov red u `docs/OCENA_PREVODA.md`.
 - Za `data/works` ažuriraj samo red dela u `docs/OCENA_PREVODA_CELIH_DELA.md`.

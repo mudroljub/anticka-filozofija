@@ -487,8 +487,8 @@
   {
     "id": "mm-900120",
     "type": "quote",
-    "sr": "Priznajem da sam sofist i da vaspitavam ljude.",
-    "stsl": "Исповѣдѹѭ · ꙗко софистъ есмь и чловѣкꙑ възпитаѭ ·",
+    "sr": "Ja sam, dakle, pošao sasvim suprotnim putem: priznajem da sam sofist i da vaspitavam ljude.",
+    "stsl": "Азъ же вьсе противьнꙑмь пѫтемь идохъ · исповѣдѹѭ · ꙗко софистъ єсмь и чловѣкꙑ възпитаѭ ·",
     "originalText": "ἐγὼ οὖν τούτων τὴν ἐναντίαν ἅπασαν ὁδὸν ἐλήλυθα, καὶ ὁμολογῶ τε σοφιστὴς εἶναι καὶ παιδεύειν ἀνθρώπους.",
     "author": "Protagoras",
     "sources": [
@@ -658,8 +658,8 @@
   {
     "id": "mm-900132",
     "type": "reported",
-    "sr": "Kao što ista hrana bolesnome jeste i izgleda gorka, a zdravome suprotna, tako nijedno mnenje nije istinitije, ali jedno stanje može biti bolje. Lekar ga menja lekovima, a sofist rečima.",
-    "stsl": "Ꙗкоже тоежде брашьно болѧштемѹ горько єсть и ꙗвлꙗєть сѧ · здравомѹ же противьно · тако ниєдино мьнѣниє истиньнѣишєє нѣсть · нъ єдинъ строи лѹчьши быти можеть · Врачь и лѣкꙑ прѣмѣнꙗєть · софистъ же словесꙑ ·",
+    "sr": "Kao što bolesniku hrana koju jede zaista i izgleda gorka, a zdravome je suprotna, tako i u vaspitanju valja čoveka prevoditi iz jednoga stanja u bolje. Nijedno mnenje nije istinitije, ali jedno stanje može biti bolje. Lekar to postiže lekovima, a sofist rečima.",
+    "stsl": "Ꙗкоже болѧштемѹ брашьно єже ꙗсть горько єсть и ꙗвлꙗєть сѧ · здравомѹ же противьно · тако и въ възпитаніи чловѣка отъ єдинаго строꙗ въ лѹчьши прѣводити подобаѥть · ниєдино мьнѣниє истиньнѣишєє нѣсть · нъ єдинъ строи лѹчьши быти можеть · Врачь то лѣкꙑ творить · софистъ же словесꙑ ·",
     "originalText": "τῷ μὲν ἀσθενοῦντι πικρὰ φαίνεται ἃ ἐσθίει καὶ ἔστι, τῷ δὲ ὑγιαίνοντι τἀναντία ἔστι καὶ φαίνεται ... μεταβλητέον δʼ ἐπὶ θάτερα· ἀμείνων γὰρ ἡ ἑτέρα ἕξις. οὕτω δὲ καὶ ἐν τῇ παιδείᾳ ἀπὸ ἑτέρας ἕξεως ἐπὶ τὴν ἀμείνω μεταβλητέον· ἀλλʼ ὁ μὲν ἰατρὸς φαρμάκοις μεταβάλλει, ὁ δὲ σοφιστὴς λόγοις ... ἐγὼ δὲ βελτίω μὲν τὰ ἕτερα τῶν ἑτέρων, ἀληθέστερα δὲ οὐδέν.",
     "author": "Protagoras",
     "sources": [
