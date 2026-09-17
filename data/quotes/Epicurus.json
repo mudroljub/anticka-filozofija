@@ -33,8 +33,8 @@
     "id": "mm-001109",
     "type": "anecdote",
     "year": -327,
-    "sr": "Dotakao se filozofije sam rekavši da je imao četrnaest godina. Apoliodor Epikurejac u prvoj knjizi o Epikurovom životu kaže da je došao do filozofije osudivši gramatičare jer nisu mogli da mu objasne ono o haosu kod Hesioda.",
-    "stsl": "Прікоснѹ сѧ любомѫдриꙗ самъ рєкъ ꙗко імꙗашє чєтꙑринадєсѧть лѣтъ · Аполліодоръ Епікѹрєацъ въ пръвѣи книꙁѣ о житіи Епікѹровѣ глаголєть ꙗко пріідє до любомѫдриꙗ осѹдивъ пісмовъꙁдѣлатєлꙗ ꙗко нє можахѫ ємѹ іꙁъꙗснити оно о хаосѣ ѹ Хесіода.",
+    "sr": "Sam kaže da se filozofije latio u četrnaestoj godini. Apoliodor Epikurejac u prvoj knjizi o Epikurovom životu kaže da je do filozofije došao pošto je osudio gramatičare jer mu nisu mogli objasniti Hesiodov haos.",
+    "stsl": "Самъ рече · ꙗко на чєтꙑринадєсѧтѣ лѣтѣ любомѫдриѥ приѧ · Аполлодоръ Епикѹреѥць въ пръвѣи книꙁѣ о житіи Епикѹровѣ глаголєть · ꙗко къ любомѫдрию пріиде · книжникы осѫдивъ · понеже не могѫше емѹ Хесиодовъ хаосъ изъꙗснити ·",
     "originalText": "ἐφάψασθαι δὲ φιλοσοφίας αὐτός φησιν ἔτη γεγονὼς τεσσαρεσκαίδεκα. Ἀπολλόδωρος δ' ὁ Ἐπικούρειος ἐν τῷ πρώτῳ περὶ τοῦ Ἐπικούρου βίου φησὶν ἐλθεῖν αὐτὸν ἐπὶ φιλοσοφίαν καταγνόντα τῶν γραμματιστῶν ἐπειδὴ μὴ ἐδυνήθησαν ἑρμηνεῦσαι αὐτῷ τὰ περὶ τοῦ παρ' Ἡσιόδῳ χάους.",
     "author": "Epicurus",
     "sources": [
@@ -90,8 +90,8 @@
   {
     "id": "mm-001113",
     "type": "reported",
-    "sr": "Epikur nije smatrao umesnim da se imovina polaže u zajednicu, kao što je Pitagora govorio da je prijateljima sve zajedničko: takvo je uređenje za one koji ne veruju jedni drugima, a bez poverenja nema ni prijateljstva.",
-    "stsl": "Епікѹръ не мнѣаше имѣниѩ въ обьште полагати · акы Пиѳагоръ глаголааше · ꙗко дрѹгомъ вьсѧ обьшта · таково бо не вѣрѫштиимъ єсть · аще ли не вѣрѫть · ни дрѹзи сѫть ·",
+    "sr": "Epikur nije smatrao umesnim da se imovina polaže u zajednicu, kao što je Pitagora govorio da je prijateljima sve zajedničko: takvo je za nepoverljive, a gde nema poverenja, nema ni prijateljstva.",
+    "stsl": "Епикѹръ не мнѣаше имѣниѥ въ обьште полагати · акы Пиѳагоръ глаголааше · ꙗко дрѹгомъ вьсѧ обьшта · таково бо невѣрьнꙑимъ єсть · аще ли вѣрꙑ нѣсть · ни дрѹжьбꙑ нѣсть ·",
     "originalText": "τόν τ' Ἐπίκουρον μὴ ἀξιοῦν εἰς τὸ κοινὸν κατατίθεσθαι τὰς οὐσίας, καθάπερ τὸν Πυθαγόραν κοινὰ τὰ φίλων λέγοντα· ἀπιστούντων γὰρ εἶναι τὸ τοιοῦτον· εἰ δ' ἀπίστων οὐδὲ φίλων.",
     "author": "Epicurus",
     "sources": [
@@ -119,8 +119,8 @@
     "id": "mm-001115",
     "type": "anecdote",
     "year": -270,
-    "sr": "Umro je kamenom mokraćnih kanala zadržanim, kako kaže i Hermah u pismima, bolujući četrnaest dana. Tada, kako kaže Hermip, ušao je u bronzanu kadu napunjenu toplom vodom i zatražio da se naruči čistog vina; to je popio, prijateljima nalazeći da se pamte dogme, tako je umro.",
-    "stsl": "Ѹмрѣ камєнємь мокрачьнꙑхъ каналъ ꙁадрьжанꙑмъ · ꙗкоже глаголєть і Єрмархъ въ пісаніихъ · володꙋꙗ чєтꙑринадєсѧть дьніи · Тогда · ꙗкоже глаголєть Єрмипъ · въшєдъ єсть въ вронꙁанѫ кадѫ напльнєнѫ топлоѭ водоѭ і ꙁатражи да сѧ нарѹчи чістаго віна · то испі · дрѹгомъ налазꙗꙗ да сѧ памѧтѫть догмꙑ · тако ѹмрѣ.",
+    "sr": "Umro je od mokraćnog kamena, pošto je bolovao četrnaest dana, kako kaže Hermah u pismima. Hermip kaže da je ušao u bronzanu kadu s toplom vodom, zatražio nerazblaženo vino, popio ga i prijateljima naložio da pamte njegova učenja; tako je umro.",
+    "stsl": "Ѹмрѣ отъ камене въ мочии · чєтꙑринадєсѧть дьніи болѣвъ · ꙗкоже Єрмархъ въ пісаніихъ глаголєть · Єрмипъ же глаголєть · въ мѣдѣнѫ кадѫ съ топлоѭ водоѭ въшєдъ · чістаго віна въпросивъ и испивъ · дрѹгомъ повелѣ ѹчєниꙗ єго памѧтати · тако ѹмрѣ ·",
     "originalText": "τελευτῆσαι δ' αὐτὸν λίθῳ τῶν οὔρων ἐπισχεθέντων, ὥς φησι καὶ Ἕρμαρχος ἐν ἐπιστολαῖς, ἡμέρας νοσήσαντα τετταρεσκαίδεκα. ὅτε καί φησιν Ἕρμιππος ἐμβάντα αὐτὸν εἰς πύελον χαλκῆν κεκραμένην ὕδατι θερμῷ καὶ αἰτήσαντα ἄκρατον ῥοφῆσαι· τοῖς τε φίλοις παραγγείλαντα τῶν δογμάτων μεμνῆσθαι οὕτω τελευτῆσαι.",
     "author": "Epicurus",
     "sources": [
@@ -133,8 +133,8 @@
   {
     "id": "mm-001116",
     "type": "works",
-    "sr": "Blaženi provodimo i zajedno poslednji dan života pisali smo vam ovo. Pratila su me obolenja mokraćnih kanala i crevna, ništa ne ostavljivajući od veličine u sebi. Ali svemu tome se suprotstavljalo duševno radovanje pri uspomeni razgovora što su nam bili. Ti pak, dostojno stava koji si od mladića imao prema meni i filozofiji, brini se za decu Metrodorovu.",
-    "stsl": "Вльжєни проводимо і ꙁаєдно послѣдьніи дьнь житіꙗ пісаахомъ вамъ сє · Прачаахѫ мꙗ оболѣніꙗ мокрачьнꙑхъ каналъ і чрѣвьна · ничтоже нє оставлꙗѭща отъ вєличинꙑ въ сєбѣ · Нъ всємѹ томѹ сѧ супротъивлꙗашє дѹшєвьно радованіє прі ѹспомєни раꙁговоръ іжє бꙑшѧ намъ · Тꙑ жє · достоино стоꙗніꙗ єжє імꙗашє отъ младєньца къ мьнѣ і къ любомѫдрию · пєчалісѧ о чєдѣхъ Мєтродоровꙑхъ.",
+    "sr": "Na blaženom i ujedno poslednjem danu života pišemo vam ovo. Pratila su me mokraćna i crevna obolenja, ne zaostajući nimalo u svojoj žestini. Svemu tome opiralo se radovanje duše pri sećanju na naše nekadašnje razgovore. Ti pak, dostojan stava koji od mladosti imaš prema meni i filozofiji, brini se za decu Metrodorovu.",
+    "stsl": "Вльжєни и въкѹпѣ послѣдьнии дьнь житіꙗ пішємъ вамъ сє · Прачаахѫ мѧ мочныѧ и чрѣвьныѧ болѣꙁни · ничтоже отъ своєѩ силы оставлꙗѭште · Всємѹ же томѹ супротивлꙗаше сѧ радованиє дѹшѧ · ѹспомєнѥмь нашихъ раꙁговоръ · Тꙑ же · достоѥнъ стоꙗниꙗ єжє отъ младости къ мьнѣ и любомѫдрию имаши · о чєдѣхъ Мєтродоровꙑхъ попєчи сѧ ·",
     "originalText": "Τὴν μακαρίαν ἄγοντες καὶ ἅμα τελευταίαν ἡμέραν τοῦ βίου ἐγράφομεν ὑμῖν ταυτί. στραγγουρικά τε παρηκολούθει καὶ δυσεντερικὰ πάθη ὑπερβολὴν οὐκ ἀπολείποντα τοῦ ἐν ἑαυτοῖς μεγέθους. ἀντιπαρετάττετο δὲ πᾶσι τούτοις τὸ κατὰ ψυχὴν χαῖρον ἐπὶ τῇ τῶν γεγονότων ἡμῖν διαλογισμῶν μνήμῃ. σὺ δ' ἀξίως τῆς ἐκ μειρακίου παραστάσεως πρὸς ἐμὲ καὶ φιλοσοφίαν ἐπιμελοῦ τῶν παίδων Μητροδώρου.",
     "author": "Epicurus",
     "sources": [
@@ -147,8 +147,8 @@
   {
     "id": "mm-001117",
     "type": "quote",
-    "sr": "Osuđuje svaku muku i bol: malu smatra prezrivom, a veliku nedugotrajnom.",
-    "stsl": "Осѫждаєть всѧкѫ мѫкѫ и боль · малѫ прєзривѫ глаголѧ · велику же не дълготраинѫ ·",
+    "sr": "Odbacuje svaku muku i bol: malu naziva prezrivom, a veliku nedugotrajnom.",
+    "stsl": "Отъврьгаєть всѧкѫ мѫкѫ и боль · малѫ прѣзрьнѫ глаголѧ · великѫ же недълготраинѫ ·",
     "originalText": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
     "la": "omnem cruciatum doloremque dampnat, modicum quidem contempibilem pronunciando, magnum vero non diuturnum",
     "author": "Epicurus",
@@ -162,8 +162,8 @@
   {
     "id": "mm-001118",
     "type": "quote",
-    "sr": "Treba retko uživati u bračnim radostima jer mnoge neprijatnosti su pomešane sa brakom.",
-    "stsl": "Подоваитъ рѣдко наслаждатисѧ врачьнꙑми радостьми · ꙗко мноꙃи нєприꙗтьности сѫть помѣшанꙑ съ вракомъ.",
+    "sr": "Bračne radosti treba retko uživati, jer je s brakom pomešano mnogo neprijatnosti.",
+    "stsl": "Подобаєть рѣдко брачьнꙑми радостьми наслаждати сѧ · ꙗко съ бракомь много непріꙗтьностии помѣшано єсть ·",
     "originalText": "utendi raro incunda coniugia quia multa incommoda admixta sunt nupciis",
     "la": "utendi raro incunda coniugia quia multa incommoda admixta sunt nupciis",
     "author": "Epicurus",
@@ -177,8 +177,8 @@
   {
     "id": "mm-001119",
     "type": "quote",
-    "sr": "Bogatstva i počasti i telesno zdravlje i ostalo što donosi razlike nisu ni dobra ni zla, nego kao postavljeni u sredini, upotrebom i ishodom postaju ili dobri ili zli.",
-    "stsl": "Вогатьства і почьсти і тѣлєсьно ꙁдравиє і прочєє єжє приноситъ раꙁличиꙗ нє сѫть ни вльга ни ꙁьла · нъ ꙗко поставлєни въ срѣдинѣ · ѹпотърєвлєниємь і ісходомь постаѭть ли вльꙃи ли ꙁьли.",
+    "sr": "Bogatstvo, počasti, telesno zdravlje i sve što stvara razlike nisu ni dobra ni zla; stoje u sredini i prema upotrebi i ishodu postaju dobri ili zli.",
+    "stsl": "Богатьство · почьсти · тѣлєсьно ꙁдравиѥ и вьсѧ єже раꙁличиꙗ творить · ни добра ни ꙁъла сѫть · нъ въ срѣдинѣ стоѧть · ѹпотрѣблєниємь и исходомь добра или ꙁъла бꙑваѭть ·",
     "originalText": "divicie et honores et corporum sanitates et cetera que differencias parant namus nec bona nec mala aunt, sed velut in meditullo posita, usi et eventu vel bona vel mala aunt",
     "la": "divicie et honores et corporum sanitates et cetera que differencias parant namus nec bona nec mala aunt, sed velut in meditullo posita, usi et eventu vel bona vel mala aunt",
     "author": "Epicurus",
@@ -192,8 +192,8 @@
   {
     "id": "mm-001120",
     "type": "quote",
-    "sr": "Žene su smeštene na granici između dobrih i loših stvari. Teško je pak uzdahnuvši doći u sumnju da li će dobru ili lošu uzeti.",
-    "stsl": "Жєнꙑ сѫть помѣщєнꙑ на граници мєждѹ вльгꙑми і лошими вєщьми · Тѧжько єсть жє въꙁдохънѫвъ пріити въ сѫмънѣниє ли добрѫѭ ли лошѫѭ поꙗти.",
+    "sr": "Žene stoje na granici dobra i zla. Teško je uzdahnuti kada se pojavi sumnja hoće li se uzeti dobra ili zla.",
+    "stsl": "Жєнꙑ на граници добра и ꙁла стоѧть · Тѧжько єсть въздохнѫти · єгда съмънѣниѥ пріидеть · добрѫѭ ли или ꙁлѫѭ поѧти ·",
     "originalText": "uxores [sitae] in bonorum maliorumque confinio. Grave est autem suspirati venire in dubium utrum bonam vel malam ducturus sit.",
     "la": "uxores [sitae] in bonorum maliorumque confinio. Grave est autem suspirati venire in dubium utrum bonam vel malam ducturus sit.",
     "author": "Epicurus",
